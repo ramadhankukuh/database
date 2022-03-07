@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-03-22 00:23:49 WIB",
+    "lintang": "-6.00",
+    "bujur": "130.65",
+    "magnitudo": "5.0",
+    "kedalaman": "147 Km",
+    "wilayah": "230 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "06-03-22 05:40:28 WIB",
     "lintang": "3.55",
     "bujur": "126.10",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "445 km Tenggara KAB-MALANG-JATIM"
-  },
-  {
-    "waktu": "28-01-22 13:53:56 WIB",
-    "lintang": "-0.22",
-    "bujur": "124.49",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "86 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
   }
 ]
