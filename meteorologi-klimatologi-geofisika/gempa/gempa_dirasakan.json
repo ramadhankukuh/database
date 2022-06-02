@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/06/2022 14:04:47 WIB",
+    "lintang": "8.62 LS",
+    "bujur": "120.44 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km BaratDaya RUTENG-MANGGARAI",
+    "warning": [
+      "II - III Ruteng"
+    ]
+  },
+  {
     "waktu": "02/06/2022 07:26:40 WIB",
     "lintang": "1.66 LU",
     "bujur": "99.18 BT",
@@ -249,17 +260,6 @@
       "III Manado",
       "III Tondano",
       "III Bitung"
-    ]
-  },
-  {
-    "waktu": "19/05/2022 04:12:08 WIB",
-    "lintang": "3.63 LS",
-    "bujur": "128.17 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Utara Ambon",
-    "warning": [
-      "III Ambon"
     ]
   }
 ]
