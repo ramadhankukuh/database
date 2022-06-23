@@ -1,5 +1,49 @@
 [
   {
+    "waktu": "23/06/2022 18:26:47 WIB",
+    "lintang": "3.63 LS",
+    "bujur": "135.56 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km BaratDaya Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
+    "waktu": "23/06/2022 17:59:39 WIB",
+    "lintang": "2.31 LS",
+    "bujur": "140.3 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 32 km BaratLaut Kab-Jayapura",
+    "warning": [
+      "II - III Genyem"
+    ]
+  },
+  {
+    "waktu": "23/06/2022 17:57:09 WIB",
+    "lintang": "3.43 LS",
+    "bujur": "135.49 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 30 km BaratLaut Nabire",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
+    "waktu": "23/06/2022 17:56:40 WIB",
+    "lintang": "3.46 LS",
+    "bujur": "135.45 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km BaratLaut Nabire",
+    "warning": [
+      "III-IV Nabire"
+    ]
+  },
+  {
     "waktu": "23/06/2022 11:03:47 WIB",
     "lintang": "3.33 LS",
     "bujur": "135.64 BT",
@@ -203,53 +247,6 @@
       "II Lumajang",
       "II Madiun",
       "II Kepanjen"
-    ]
-  },
-  {
-    "waktu": "12/06/2022 05:18:27 WIB",
-    "lintang": "2.39 LS",
-    "bujur": "121.35 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 15 Km Utara Soroako Kabupaten Luwu Timur",
-    "warning": [
-      "II - III Malili"
-    ]
-  },
-  {
-    "waktu": "11/06/2022 22:03:16 WIB",
-    "lintang": "6.97 LS",
-    "bujur": "107.16 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km tenggara Kab-Cianjur",
-    "warning": [
-      "I-II Cianjur"
-    ]
-  },
-  {
-    "waktu": "10/06/2022 19:08:02 WIB",
-    "lintang": "0.21 LS",
-    "bujur": "122.95 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "64 Km",
-    "wilayah": "Pusat gempa berada di laut 85 km barat daya Bonebolango",
-    "warning": [
-      "II Kab. Pohuwato",
-      "II Kab. Gorontalo",
-      "II Kab. Gorontalo Utara",
-      "II Kota Gorontalo"
-    ]
-  },
-  {
-    "waktu": "09/06/2022 18:33:37 WIB",
-    "lintang": "9.19 LS",
-    "bujur": "125.03 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km tenggara Belu",
-    "warning": [
-      "II - III Malaka"
     ]
   }
 ]
