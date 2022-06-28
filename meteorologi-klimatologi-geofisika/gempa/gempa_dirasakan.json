@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "28/06/2022 22:52:12 WIB",
+    "lintang": "9.41 LS",
+    "bujur": "123.67 BT",
+    "magnitudo": "5",
+    "kedalaman": "78 Km",
+    "wilayah": "Pusat gempa berada di laut 68 km Baratlaut Kupang",
+    "warning": [
+      "II - III Maumere",
+      "II - III Lembata"
+    ]
+  },
+  {
     "waktu": "28/06/2022 22:16:29 WIB",
     "lintang": "2.65 LS",
     "bujur": "129.5 BT",
@@ -223,17 +235,6 @@
       "II Sekincau",
       "II Pesisir Barat",
       "II Limau"
-    ]
-  },
-  {
-    "waktu": "13/06/2022 19:25:36 WIB",
-    "lintang": "4.68 LS",
-    "bujur": "123.32 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 12.5 km Timur laut Kulisusu Utara Buton",
-    "warning": [
-      "II - III Kulisusu"
     ]
   }
 ]
