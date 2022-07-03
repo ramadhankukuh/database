@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/07/2022 07:28:44 WIB",
+    "lintang": "4.42 LU",
+    "bujur": "96.59 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km Baratdaya Takengon-Aceh Tengah",
+    "warning": [
+      "II Aceh Tengah"
+    ]
+  },
+  {
     "waktu": "03/07/2022 07:10:37 WIB",
     "lintang": "4.46 LU",
     "bujur": "96.55 BT",
@@ -215,17 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 34 km BaratLaut Nabire",
     "warning": [
       "III-IV Nabire"
-    ]
-  },
-  {
-    "waktu": "23/06/2022 11:03:47 WIB",
-    "lintang": "3.33 LS",
-    "bujur": "135.64 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km BaratLaut Nabire",
-    "warning": [
-      "I-II Nabire"
     ]
   }
 ]
