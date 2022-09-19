@@ -1,13 +1,15 @@
 [
   {
-    "waktu": "19/09/2023 10:44:49 WIB",
+    "waktu": "19/09/2022 10:44:49 WIB",
     "lintang": "4.42 LU",
     "bujur": "96.6 BT",
     "magnitudo": "4.5",
     "kedalaman": "3 Km",
     "wilayah": "Pusat gempa berada di darat 35 km BaratDaya Takengon-Aceh Tengah",
     "warning": [
-      "II - III Nagan Raya"
+      "II - III Nagan Raya",
+      "II - III Bener Meriah",
+      "II - III Aceh Tengah"
     ]
   },
   {
