@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/09/2022 10:05:35 WIB",
+    "lintang": "8.6 LS",
+    "bujur": "119.3 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "109 Km",
+    "wilayah": "Pusat gempa berada di laut 63 km Tenggara Kota Bima",
+    "warning": [
+      "II - III Bima"
+    ]
+  },
+  {
     "waktu": "23/09/2022 02:36:22 WIB",
     "lintang": "4.44 LU",
     "bujur": "96.6 BT",
@@ -226,17 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 46km Timurlaut Kasonaweja",
     "warning": [
       "III Mamberamo Raya"
-    ]
-  },
-  {
-    "waktu": "11/09/2022 17:52:34 WIB",
-    "lintang": "2.01 LS",
-    "bujur": "138.21 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di darat 38Km Timurlaut Kasonaweja",
-    "warning": [
-      "II - III Mamberamo Raya"
     ]
   }
 ]
