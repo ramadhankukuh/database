@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/10/2022 19:11:59 WIB",
+    "lintang": "5.35 LS",
+    "bujur": "102.57 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km tenggara Enggano",
+    "warning": [
+      "II Enggano"
+    ]
+  },
+  {
     "waktu": "03/10/2022 18:10:00 WIB",
     "lintang": "2.04 LU",
     "bujur": "98.95 BT",
@@ -223,17 +234,6 @@
       "III Sentani",
       "III Genyem",
       "II - III Jayapura"
-    ]
-  },
-  {
-    "waktu": "28/09/2022 12:44:25 WIB",
-    "lintang": "5.25 LS",
-    "bujur": "122.03 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Barat Laut Kabaena Timur",
-    "warning": [
-      "II - III Kabaena Timur"
     ]
   }
 ]
