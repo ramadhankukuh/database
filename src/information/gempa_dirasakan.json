@@ -1,0 +1,239 @@
+[
+  {
+    "waktu": "17/10/2022 20:12:48 WIB",
+    "lintang": "0.02 LS",
+    "bujur": "123.5 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "122 Km",
+    "wilayah": "Pusat gempa berada di laut 69 km BaratDaya Bolaanguki-BOLSEL",
+    "warning": [
+      "II - III Kab. Gorontalo",
+      "II Kota Gorontalo",
+      "II Kab. Gorontalo Utara",
+      "II Taliabu"
+    ]
+  },
+  {
+    "waktu": "16/10/2022 08:13:24 WIB",
+    "lintang": "8.73 LS",
+    "bujur": "116.62 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km Tenggara Lombok Timur",
+    "warning": [
+      "III-IV Lombok Timur",
+      "III Lombok Barat",
+      "III Mataram",
+      "III Lombok Tengah",
+      "III Sumbawa Barat"
+    ]
+  },
+  {
+    "waktu": "16/10/2022 04:22:49 WIB",
+    "lintang": "8.65 LS",
+    "bujur": "118.92 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "123 Km",
+    "wilayah": "Pusat gempa berada di laut 28 km tenggara Bima",
+    "warning": [
+      "III Bima",
+      "III Dompu"
+    ]
+  },
+  {
+    "waktu": "15/10/2022 15:35:57 WIB",
+    "lintang": "1.98 LU",
+    "bujur": "99.01 BT",
+    "magnitudo": "3",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Tenggara Tapanuli Utara",
+    "warning": [
+      "III Tarutung",
+      "III Sipoholon"
+    ]
+  },
+  {
+    "waktu": "15/10/2022 14:00:09 WIB",
+    "lintang": "4.87 LS",
+    "bujur": "122.39 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km Timur Laut Muna Barat",
+    "warning": [
+      "III Muna Barat"
+    ]
+  },
+  {
+    "waktu": "15/10/2022 13:50:11 WIB",
+    "lintang": "4.9 LS",
+    "bujur": "122.38 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km Barat Daya Muna Barat",
+    "warning": [
+      "III-IV Muna Barat"
+    ]
+  },
+  {
+    "waktu": "15/10/2022 00:40:44 WIB",
+    "lintang": "3.83 LS",
+    "bujur": "103.68 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km tenggara Lahat",
+    "warning": [
+      "III-IV Lahat",
+      "III-IV Muara Enim"
+    ]
+  },
+  {
+    "waktu": "14/10/2022 08:22:02 WIB",
+    "lintang": "3.81 LS",
+    "bujur": "103.75 BT",
+    "magnitudo": "4",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km BaratDaya Muara Enim",
+    "warning": [
+      "III Muara Enim"
+    ]
+  },
+  {
+    "waktu": "14/10/2022 03:03:46 WIB",
+    "lintang": "4.88 LS",
+    "bujur": "122.43 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4.8 km Tenggara Kab. Muna Barat",
+    "warning": [
+      "II - III Muna Barat"
+    ]
+  },
+  {
+    "waktu": "13/10/2022 12:45:29 WIB",
+    "lintang": "0.58 LS",
+    "bujur": "127.51 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km TimurLaut Labuha",
+    "warning": [
+      "II - III Labuha"
+    ]
+  },
+  {
+    "waktu": "13/10/2022 10:51:47 WIB",
+    "lintang": "8.55 LS",
+    "bujur": "116.07 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km BaratLaut Lombok Barat",
+    "warning": [
+      "III Mataram",
+      "II Lombok Tengah",
+      "III Lombok Barat"
+    ]
+  },
+  {
+    "waktu": "13/10/2022 08:55:52 WIB",
+    "lintang": "2.42 LU",
+    "bujur": "95.95 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km barat daya Sinabang",
+    "warning": [
+      "II - III Kec. Simeulue Timur"
+    ]
+  },
+  {
+    "waktu": "13/10/2022 05:12:18 WIB",
+    "lintang": "4.11 LS",
+    "bujur": "138.98 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km Tenggara Wamena",
+    "warning": [
+      "III Wamena"
+    ]
+  },
+  {
+    "waktu": "12/10/2022 16:55:55 WIB",
+    "lintang": "2.07 LU",
+    "bujur": "98.97 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Tapanuli Utara",
+    "warning": [
+      "III Tarutung",
+      "III Parmonangan",
+      "II Silangit"
+    ]
+  },
+  {
+    "waktu": "12/10/2022 15:50:04 WIB",
+    "lintang": "2.87 LS",
+    "bujur": "136.98 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "62 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km Tenggara Waropen",
+    "warning": [
+      "III Waropen"
+    ]
+  },
+  {
+    "waktu": "11/10/2022 20:22:39 WIB",
+    "lintang": "2.57 LS",
+    "bujur": "140.28 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km BaratLaut Kab. Jayapura",
+    "warning": [
+      "III Kab. Jayapura"
+    ]
+  },
+  {
+    "waktu": "11/10/2022 11:56:24 WIB",
+    "lintang": "1.42 LU",
+    "bujur": "118.85 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 26.5 km TimurLaut Biduk-Biduk",
+    "warning": [
+      "II Batuputih",
+      "II Biduk-Biduk"
+    ]
+  },
+  {
+    "waktu": "10/10/2022 20:30:28 WIB",
+    "lintang": "7.56 LS",
+    "bujur": "106.01 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 74 km barat daya Bayah",
+    "warning": [
+      "II Bayah"
+    ]
+  },
+  {
+    "waktu": "10/10/2022 19:42:52 WIB",
+    "lintang": "3.38 LU",
+    "bujur": "96.65 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 61 km baratdaya Blang Pidie-Aceh Baratdaya",
+    "warning": [
+      "II Aceh Selatan"
+    ]
+  },
+  {
+    "waktu": "10/10/2022 17:18:39 WIB",
+    "lintang": "1.94 LU",
+    "bujur": "97.93 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km Tenggara Kab. Aceh Singkil",
+    "warning": [
+      "III - IV Pakpak Bharat",
+      "III - IV Aceh Singkil",
+      "II - III Gunung Sitoli"
+    ]
+  }
+]
