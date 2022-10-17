@@ -23,7 +23,7 @@ const fs = require('fs')
       wilayah
     })
   }
-  await fs.writeFileSync('./meteorologi-klimatologi-geofisika/gempa/gempa_terkini.json', JSON.stringify(result, null, 2))
+  await fs.writeFileSync('./src/information/gempa_terkini.json', JSON.stringify(result, null, 2))
 })()
 
 ; (async () => {
@@ -51,5 +51,5 @@ const fs = require('fs')
       warning: warning.slice(0, warning.indexOf(''))
     })
   }
-  await fs.writeFileSync('./meteorologi-klimatologi-geofisika/gempa/gempa_dirasakan.json', JSON.stringify(result, null, 2))
+  await fs.writeFileSync('./src/information/gempa_dirasakan.json', JSON.stringify(result, null, 2))
 })()
