@@ -25,5 +25,5 @@ const fs = require('fs')
     })
   }
 
-  await fs.writeFileSync('./ekonomi/kurs.json', JSON.stringify(result, null, 2))
+  await fs.writeFileSync('./src/information/kurs.json', JSON.stringify(result, null, 2))
 })()
