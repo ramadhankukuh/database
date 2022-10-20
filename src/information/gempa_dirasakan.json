@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/10/2022 21:13:21 WIB",
+    "lintang": "2 LU",
+    "bujur": "98.96 BT",
+    "magnitudo": "2",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km barat daya Tapanuli Utara",
+    "warning": [
+      "II-III Tarutung"
+    ]
+  },
+  {
     "waktu": "20/10/2022 20:34:25 WIB",
     "lintang": "3.71 LS",
     "bujur": "135.62 BT",
@@ -230,19 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km TimurLaut Labuha",
     "warning": [
       "II - III Labuha"
-    ]
-  },
-  {
-    "waktu": "13/10/2022 10:51:47 WIB",
-    "lintang": "8.55 LS",
-    "bujur": "116.07 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km BaratLaut Lombok Barat",
-    "warning": [
-      "III Mataram",
-      "II Lombok Tengah",
-      "III Lombok Barat"
     ]
   }
 ]
