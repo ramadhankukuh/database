@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/11/2022 12:46:59 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "121.8 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di Darat 19 Km Barat Bungku",
+    "warning": [
+      "II - III Morowali"
+    ]
+  },
+  {
     "waktu": "21/11/2022 07:35:50 WIB",
     "lintang": "0.93 LU",
     "bujur": "122.89 BT",
@@ -243,21 +254,6 @@
       "III Tasikmalaya",
       "II Ciamis",
       "II Cianjur"
-    ]
-  },
-  {
-    "waktu": "12/11/2022 19:29:33 WIB",
-    "lintang": "8.14 LS",
-    "bujur": "107.35 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 119 km Barat Daya Kab. Garut",
-    "warning": [
-      "II Tasikmalaya",
-      "II Sukabumi",
-      "II Cianjur",
-      "II Garut",
-      "I-II Kab. Bandung"
     ]
   }
 ]
