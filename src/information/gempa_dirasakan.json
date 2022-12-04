@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "04/12/2022 05:01:02 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.06 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab-Cianjur",
+    "warning": [
+      "III Cianjur",
+      "III Sukabumi",
+      "II - III Pamoyanan"
+    ]
+  },
+  {
     "waktu": "04/12/2022 04:39:54 WIB",
     "lintang": "7.38 LS",
     "bujur": "108.23 BT",
@@ -262,17 +275,6 @@
     "wilayah": "Pusat gempa berada di laut 22 km barat daya Kep. Yapen",
     "warning": [
       "II - III Serui"
-    ]
-  },
-  {
-    "waktu": "29/11/2022 10:18:09 WIB",
-    "lintang": "4 LS",
-    "bujur": "121.79 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km timur laut Lalolae",
-    "warning": [
-      "II - III Kolaka Timur"
     ]
   }
 ]
