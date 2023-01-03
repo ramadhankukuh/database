@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-01-23 19:55:21 WIB",
+    "lintang": "-2.27",
+    "bujur": "140.65",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "33 km TimurLaut KOTA-JAYAPURA-PAPUA"
+  },
+  {
     "waktu": "03-01-23 16:32:26 WIB",
     "lintang": "-3.67",
     "bujur": "133.46",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "89 Km",
     "wilayah": "134 km TimurLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "21-11-22 21:16:26 WIB",
-    "lintang": "-1.68",
-    "bujur": "135.95",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "25 km BaratLaut KEP-YAPEN-PAPUA"
   }
 ]
