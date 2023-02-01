@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "01/02/2023 22:01:25 WIB",
+    "lintang": "8.82 LS",
+    "bujur": "116.13 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km Baratdaya Lombok Barat",
+    "warning": [
+      "III Lombok Barat",
+      "III Lombok Tengah"
+    ]
+  },
+  {
     "waktu": "01/02/2023 16:33:47 WIB",
     "lintang": "5.3 LS",
     "bujur": "103.35 BT",
@@ -221,17 +233,6 @@
     "warning": [
       "II Kretek",
       "II Panggang"
-    ]
-  },
-  {
-    "waktu": "26/01/2023 19:20:12 WIB",
-    "lintang": "2.19 LU",
-    "bujur": "97.86 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km Tenggara Kabupaten Aceh Singkil",
-    "warning": [
-      "II - III Singkil"
     ]
   }
 ]
