@@ -1,5 +1,26 @@
 [
   {
+    "waktu": "01/02/2023 22:57:21 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "107.73 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km Baratdaya Kab. Garut",
+    "warning": [
+      "IV Garut",
+      "II Bandung",
+      "II Lembang",
+      "II Pangalengan",
+      "II Pacet",
+      "II Cileunyi",
+      "II Sumedang",
+      "IV Pasirwangi",
+      "IV Cisurupan",
+      "IV Bayongbong",
+      "IV Samarang"
+    ]
+  },
+  {
     "waktu": "01/02/2023 22:01:25 WIB",
     "lintang": "8.82 LS",
     "bujur": "116.13 BT",
@@ -221,18 +242,6 @@
     "warning": [
       "II - III Soreang",
       "II - III Bandung"
-    ]
-  },
-  {
-    "waktu": "26/01/2023 19:56:33 WIB",
-    "lintang": "8 LS",
-    "bujur": "110.48 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km BaratDaya Gunungkidul",
-    "warning": [
-      "II Kretek",
-      "II Panggang"
     ]
   }
 ]
