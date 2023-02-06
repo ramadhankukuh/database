@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-02-23 14:11:33 WIB",
+    "lintang": "-7.81",
+    "bujur": "117.21",
+    "magnitudo": "5.4",
+    "kedalaman": "318 Km",
+    "wilayah": "70 km TimurLaut PULAUSARINGI-NTB"
+  },
+  {
     "waktu": "03-02-23 06:05:05 WIB",
     "lintang": "2.61",
     "bujur": "128.18",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "33 km TimurLaut KOTA-JAYAPURA-PAPUA"
-  },
-  {
-    "waktu": "03-01-23 16:32:26 WIB",
-    "lintang": "-3.67",
-    "bujur": "133.46",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "68 km BaratDaya KAIMANA-PAPUABRT"
   }
 ]
