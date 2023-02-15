@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/02/2023 08:01:27 WIB",
+    "lintang": "2.51 LS",
+    "bujur": "140.65 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada didarat 8 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II - III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "15/02/2023 07:36:00 WIB",
     "lintang": "2.52 LS",
     "bujur": "140.67 BT",
@@ -220,17 +231,6 @@
       "II Cilaku",
       "II Ciseupan",
       "II Nagrak"
-    ]
-  },
-  {
-    "waktu": "12/02/2023 19:45:57 WIB",
-    "lintang": "8.1 LS",
-    "bujur": "115.22 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km TimurLaut Buleleng",
-    "warning": [
-      "II Kubutambahan"
     ]
   }
 ]
