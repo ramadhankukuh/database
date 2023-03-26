@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/03/2023 07:48:26 WIB",
+    "lintang": "0.45 LS",
+    "bujur": "100.16 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km Tenggara Agam",
+    "warning": [
+      "III Kab. Agam"
+    ]
+  },
+  {
     "waktu": "26/03/2023 05:53:17 WIB",
     "lintang": "1.17 LU",
     "bujur": "128.37 BT",
@@ -220,17 +231,6 @@
     "wilayah": "Pusat gempa berada di laut 76 km TimurLaut Daruba",
     "warning": [
       "III - IV Morotai Utara"
-    ]
-  },
-  {
-    "waktu": "18/03/2023 14:14:50 WIB",
-    "lintang": "2.37 LU",
-    "bujur": "128.49 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di darat 42 km Timurlaut Daruba",
-    "warning": [
-      "II - III Morotai Utara"
     ]
   }
 ]
