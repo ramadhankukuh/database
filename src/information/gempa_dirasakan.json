@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/04/2023 11:39:43 WIB",
+    "lintang": "1.17 LU",
+    "bujur": "99.41 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km Tenggara Padang Sidempuan",
+    "warning": [
+      "III - IV Padang Sidempuan"
+    ]
+  },
+  {
     "waktu": "15/04/2023 04:11:31 WIB",
     "lintang": "2.5 LS",
     "bujur": "140.67 BT",
@@ -258,19 +269,6 @@
       "III Kota Bukittinggi",
       "III Kabupaten Agam",
       "II Kota Padang Panjang"
-    ]
-  },
-  {
-    "waktu": "06/04/2023 20:28:34 WIB",
-    "lintang": "5.87 LS",
-    "bujur": "104.02 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "47 Km",
-    "wilayah": "Pusat gempa berada di laut 76 km tenggara Pesisir Barat",
-    "warning": [
-      "III Pesisir Barat",
-      "II - III Liwa",
-      "II Tanggamus"
     ]
   }
 ]
