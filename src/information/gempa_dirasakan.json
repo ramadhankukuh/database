@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/05/2023 20:52:17 WIB",
+    "lintang": "4.25 LS",
+    "bujur": "103.59 BT",
+    "magnitudo": "4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 46 km Tenggara Pagar Alam",
+    "warning": [
+      "II Semendo Darat Ulu"
+    ]
+  },
+  {
     "waktu": "19/05/2023 19:14:05 WIB",
     "lintang": "1.42 LU",
     "bujur": "126.42 BT",
@@ -228,17 +239,6 @@
     "warning": [
       "II-III Kendari",
       "II Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "04/05/2023 21:22:03 WIB",
-    "lintang": "10.5 LS",
-    "bujur": "121.7 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 15 km BaratLaut Sabu Raijua",
-    "warning": [
-      "IV Sabu Raijua"
     ]
   }
 ]
