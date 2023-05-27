@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-05-23 02:36:36 WIB",
+    "lintang": "-6.08",
+    "bujur": "130.53",
+    "magnitudo": "5.5",
+    "kedalaman": "157 Km",
+    "wilayah": "227 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "25-05-23 02:57:22 WIB",
     "lintang": "-9.63",
     "bujur": "114.92",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "22 Km",
     "wilayah": "58 km BaratDaya BENGKULUSELATAN"
-  },
-  {
-    "waktu": "15-04-23 22:07:07 WIB",
-    "lintang": "-4.93",
-    "bujur": "102.85",
-    "magnitudo": "6.2",
-    "kedalaman": "23 Km",
-    "wilayah": "53 km BaratDaya BENGKULUSELATAN"
   }
 ]
