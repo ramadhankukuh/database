@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-06-23 21:55:28 WIB",
+    "lintang": "1.60",
+    "bujur": "125.73",
+    "magnitudo": "5.1",
+    "kedalaman": "111 Km",
+    "wilayah": "69 km TimurLaut BITUNG-SULUT"
+  },
+  {
     "waktu": "04-06-23 12:52:04 WIB",
     "lintang": "-2.87",
     "bujur": "137.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.9",
     "kedalaman": "28 Km",
     "wilayah": "170 km Tenggara NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "22-04-23 17:15:18 WIB",
-    "lintang": "-2.05",
-    "bujur": "125.85",
-    "magnitudo": "5.0",
-    "kedalaman": "17 Km",
-    "wilayah": "13 km BaratDaya SANANA-MALUT"
   }
 ]
