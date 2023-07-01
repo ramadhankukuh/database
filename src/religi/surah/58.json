@@ -1,0 +1,931 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 58,
+        "sequence": 105,
+        "numberOfVerses": 22,
+        "name": {
+            "short": "المجادلة",
+            "long": "سورة المجادلة",
+            "transliteration": {
+                "en": "Al-Mujaadila",
+                "id": "Al-Mujadalah"
+            },
+            "translation": {
+                "en": "The Pleading Woman",
+                "id": "Gugatan"
+            }
+        },
+        "revelation": {
+            "arab": "مدينة",
+            "en": "Medinan",
+            "id": "Madaniyyah"
+        },
+        "tafsir": {
+            "id": "Surat Al Mujaadilah terdiri atas 22 ayat, termasuk golongan surat Madaniyyah, diturunkan sesudah surat Al Munaafiquun. Surat ini dinamai dengan Al Mujaadilah (wanita yang mengajukan gugatan) karena pada awal surat ini disebutkan bantahan seorang perempuan, menurut riwayat bernama Khaulah binti Tsa'labah terhadap sikap suaminya yang telah menzhiharnya. Hal ini diadukan kepada Rasulullah s.a.w. dan ia menuntut supaya beliau memberikan putusan yang adil dalam persoalan itu. Dinamai juga Al Mujaadalah yang berarti perbantahan."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5105,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 542,
+                    "manzil": 7,
+                    "ruku": 476,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+                    "transliteration": {
+                        "en": "Qad sami'al laahu qawlal latee tujaadiluka fee zawjihaa wa tashtakeee ilal laahi wallaahu yasma'u tahaawurakumaa; innal laaha samee'um baseer"
+                    }
+                },
+                "translation": {
+                    "en": "Certainly has Allah heard the speech of the one who argues with you, [O Muhammad], concerning her husband and directs her complaint to Allah. And Allah hears your dialogue; indeed, Allah is Hearing and Seeing.",
+                    "id": "Sungguh, Allah telah mendengar ucapan perempuan yang mengajukan gugatan kepadamu (Muhammad) tentang suaminya, dan mengadukan (halnya) kepada Allah, dan Allah mendengar percakapan antara kamu berdua. Sesungguhnya Allah Maha Mendengar, Maha Melihat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5105",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5105.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5105.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada akhir Surah al-Hadìd Allah menyeru orang-orang beriman agar taat kepada Rasul-Nya, niscaya Allah akan memberikan cahaya dan mengampuni mereka. Pada ayat ini dijelaskan, sungguh, Allah telah mendengar ucapan perempuan yang mengajukan gugatan kepadamu tentang suaminya, yang telah menzihar dirinya, yaitu menganggap dirinya sama dengan ibu kandungnya sehingga haram digauli, dan dia pun mengadukan keadaan itu kepada Allah agar Allah memberikan kepastian hukum tentang kasus zihar tersebut dan Allah mendengar percakapan di antara kamu berdua bersama perempuan yang bernama Khaulah binti Ša‘labah yang dizihar suaminya tersebut. Sesungguhnya Allah Maha Mendengar semua jenis percakapan yang terbuka maupun tertutup, Maha Melihat yang tampak maupun yang tersembunyi.",
+                        "long": "Ayat ini menerangkan bahwa Allah telah menerima gugatan seorang perempuan yang diajukan kepada Rasulullah saw tentang tindakan suaminya. Ia merasa dirugikan oleh suaminya itu, karena dizihar yang berakibat hidupnya akan terkatung-katung. Allah telah mendengar pula tanya jawab yang terjadi antara istri yang menggugat dengan Rasulullah saw. Oleh karena itu, Allah menurunkan hukum yang dapat menghilangkan kekhawatiran istri itu.\n\nZihar adalah ucapan suami kepada istrinya, \"Anti 'alayya ka dhahri ummi (Engkau menurutku haram aku campuri, seperti aku haram mencampuri ibuku).\" Zihar termasuk hukum Arab Jahiliah yang kemudian dinyatakan berlaku di kalangan umat Islam dengan turunnya ayat ini. Akan tetapi, hukumnya telah berubah sedemikian rupa sehingga telah hilang unsur-unsur yang dapat merugikan pihak istri.\n\nMenurut hukum Arab Jahiliah, bila seorang suami menzihar istrinya maka sejak itu istrinya haram dicampurinya. Maka sejak itu pula istrinya hidup dalam keadaan terkatung-katung. Setelah zihar, perkawinannya dengan suaminya belum putus, tetapi ia tidak boleh dicampuri lagi oleh suaminya. Biasanya istri yang dizihar tidak lagi diberi nafkah oleh suaminya, dan untuk kawin dengan orang lain terhalang oleh masih adanya ikatan perkawinan dengan suaminya.\n\nZihar dilakukan suami kepada istri di zaman Arab Jahiliah biasanya karena suami tidak mencintai istrinya lagi atau karena marah kepada istrinya, tetapi ia bermaksud mengikat istrinya. Perbuatan yang demikian biasa di zaman Arab Jahiliah karena memandang rendah derajat perempuan. Sedangkan agama Islam menyamakan derajat perempuan dengan pria."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5106,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 542,
+                    "manzil": 7,
+                    "ruku": 476,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِينَ يُظَاهِرُونَ مِنكُم مِّن نِّسَائِهِم مَّا هُنَّ أُمَّهَاتِهِمْ ۖ إِنْ أُمَّهَاتُهُمْ إِلَّا اللَّائِي وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ الْقَوْلِ وَزُورًا ۚ وَإِنَّ اللَّهَ لَعَفُوٌّ غَفُورٌ",
+                    "transliteration": {
+                        "en": "Allazeena yuzaahiroona minkum min nisaaa'ihim maa hunnaa ummahaatihim in ummahaatuhum illal laaa'ee waladnahum; wa innaahum la yaqooloona munkaram minal qawli wa zooraa; wa innal laaha la'afuwwun ghafoor"
+                    }
+                },
+                "translation": {
+                    "en": "Those who pronounce thihar among you [to separate] from their wives - they are not [consequently] their mothers. Their mothers are none but those who gave birth to them. And indeed, they are saying an objectionable statement and a falsehood. But indeed, Allah is Pardoning and Forgiving.",
+                    "id": "Orang-orang di antara kamu yang menzihar istrinya, (menganggap istrinya sebagai ibunya, padahal) istri mereka itu bukanlah ibunya. Ibu-ibu mereka hanyalah perempuan yang melahirkannya. Dan sesungguhnya mereka benar-benar telah mengucapkan suatu perkataan yang mungkar dan dusta. Dan sesungguhnya Allah Maha Pemaaf, Maha Pengampun."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5106",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5106.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5106.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Orang-orang, yakni para suami, di antara kamu yang menzihar istrinya, yaitu menyamakan status hukum istrinya dengan ibunya, yaitu memandang keduanya sama-sama haram digauli, karena tidak lagi menyukainya. Suami yang memperlakukan istrinya demikian telah berbuat kesalahan yang berat, karena istri mereka itu bukanlah ibunya sehingga tidak haram digauli. Mereka tidak menyadari bahwa ibu-ibu mereka adalah perempuan yang telah melahirkannya. Dan sesungguhnya mereka, para suami yang menzihar istrinya, benar-benar telah mengucapkan suatu perkataan yang mungkar karena ucapan itu hanya alasan bahwa ia tidak lagi menyukai istrinya dan merupakan ucapan dusta, karena tidak sesuai dengan fakta bahwa istri itu berbeda dengan ibu kandungnya. Dan sesungguhnya Allah Maha Pemaaf kepada siapa saja yang menyadari kesalahannya bahwa ia telah menzihar istrinya; Maha Pengampun kepada yang bertobat dengan tulus.",
+                        "long": "Ayat ini mencela suami-suami yang telah menzihar istrinya dengan mengatakan bahwa orang-orang yang telah menzihar istrinya adalah perkataan yang tidak benar yang dikatakan oleh orang-orang yang tidak menggunakan akal sehatnya. Apakah mungkin istri itu sama dengan ibu? Istri adalah teman hidup yang dihubungkan oleh akad nikah, sedang ibu adalah orang yang melahirkannya sehingga ada hubungan darah.\n\nOleh karena itu, orang yang demikian adalah orang yang mengatakan perkataan yang tidak etis dan tidak dibenarkan oleh agama, akal, maupun adat kebiasaan. Perkataan itu adalah perkataan yang tidak etis, tidak mempunyai alasan sedikit pun. Sekalipun demikian, Allah akan mengampuni dosa orang yang telah menzihar istrinya, jika ia mengikuti ketentuan-ketentuan-Nya.\n\nAda suatu prinsip dalam agama Islam yang harus ditegakkan, yaitu \"mengakui kenyataan-kenyataan yang ada sesuai dengan sunatullah.\" Dalam menetapkan hukum-hukum yang berlaku di alam ini, Allah mengetahui hikmah dan akibatnya secara benar dan pasti. Oleh karena itu, sangat tercela orang-orang yang mau mengubah-ubah sunatullah itu, seperti memandang istri sebagai mahramnya, padahal Allah telah menetapkan orang-orang yang haram dinikahi oleh seorang pria (lihat Surah an-Nisa'/4: 22-24, dan beberapa ayat lainnya). \n\nPada ayat 4 Surah al-Ahzab/33, perkataan zihar digandengkan dengan perkataan anak angkat. Karena mengakui anak orang lain sebagai anak kandung sendiri sama hukumnya dengan anak sendiri, termasuk mengatakan sesuatu yang tidak sesuai dengan sunatullah, dan tidak sesuai dengan kebenaran. Kemudian Allah menegaskan bahwa anak angkat itu adalah anak ayah dan ibunya, bukan sekali-kali anak orang yang mengangkatnya. Allah berfirman:\n\nPanggillah mereka (anak angkat itu) dengan (memakai) nama bapak-bapak mereka; itulah yang adil di sisi Allah, dan jika kamu tidak mengetahui bapak mereka, maka (panggillah mereka sebagai) saudara-saudaramu seagama dan maula-maulamu. Dan tidak ada dosa atasmu jika kamu khilaf tentang itu, tetapi (yang ada dosanya) apa yang disengaja oleh hatimu. Allah Maha Pengampun, Maha Penyayang. (al-Ahzab/33: 5)\n\nDari ayat ketiga surah ini dapat dipahami bahwa suami yang menzihar istrinya memperoleh hukuman ukhrawi dan hukuman duniawi. Hukuman ukhrawi ialah mereka berdosa karena mengatakan yang bukan-bukan, yaitu mengatakan bahwa istrinya haram dicampurinya seperti ia haram mencampuri ibunya. Dalam agama termasuk perbuatan terlarang apabila seseorang menghalalkan yang haram atau mengharamkan yang halal, karena yang menentukan halal dan haram itu hanyalah Allah saja. Hukuman duniawi ialah ia wajib membayar kafarat jika ia hendak mencampuri istrinya kembali, dan kafarat itu cukup besar jumlahnya, seperti yang akan diterangkan nanti.\n\nPara ulama sepakat bahwa menyamakan istri dengan ibu dengan maksud untuk menyatakan kasih sayang kepadanya atau untuk menyatakan penghormatan dan terima kasih kepadanya, tidaklah termasuk zihar. Karena zihar itu hanyalah ucapan suami yang menyatakan bahwa istrinya itu haram dicampurinya.\n\nPerkataan anti 'alaiyya ka dhahri ummi merupakan suatu ungkapan (idiom) yang mempunyai arti yang khusus dalam bahasa Arab. Hanyalah orang yang mendalam rasa bahasanya yang dapat merasakan arti ungkapan itu. Oleh karena itu, jika suami yang hanya mengerti bahasa Indonesia, mengucapkan sigat dhihar itu dengan ungkapan yang dipahami oleh orang Indonesia maka hukum di atas berlaku pula baginya.\n\nMenurut Hanifah, Auza'i, ats-tsauri dan salah satu qaul Imam Syafi'i boleh disebut dalam sigat dhihar perempuan selain ibu, asal saja perempuan yang disebut namanya itu termasuk muhrim laki-laki yang menzihar, seperti suami mengatakan, \"Engkau haram aku campuri, seperti aku haram mencampuri adik kandungku yang perempuan.\"\n\nJika seorang suami telah menzihar istrinya, tidak berarti telah terjadi perceraian antara kedua suami-istri itu. Masing-masing masih terikat oleh hak dan kewajiban sebagai suami dan istri. Mereka hanya terlarang melakukan persetubuhan. Demikian pula untuk menghindarkan diri dari perbuatan haram, maka haram pula kedua suami-istri itu berkhalwat (berduaan di tempat sunyi) sebelum suami membayar kafarat.\n\nAgar istri tidak terkatung-katung hidupnya dan menderita karena zihar itu, sebaiknya ditetapkan waktu menunggu bagi istri. Waktu menunggu itu dapat dikiaskan kepada waktu menunggu dalam ila'ï€ª), yaitu empat bulan. Apabila telah lewat waktu empat bulan sejak suami mengucapkan ziharnya, sedang suami belum lagi menetapkan keputusan, bercerai atau melanjutkan perkawinan dengan membayar kafarat, maka istri berhak mengajukan gugatan kepada pengadilan. Hakim tentu akan mengabulkan gugatan istri bila gugatan itu terbukti.\n\nJika zihar berakibat perceraian, maka jatuhlah talak ba'in kubra, dimana perkawinan kembali antara bekas suami-istri itu haruslah dengan syarat membayar kafarat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5107,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 542,
+                    "manzil": 7,
+                    "ruku": 476,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالَّذِينَ يُظَاهِرُونَ مِن نِّسَائِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا فَتَحْرِيرُ رَقَبَةٍ مِّن قَبْلِ أَن يَتَمَاسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+                    "transliteration": {
+                        "en": "Wallazeena yuzaahiroona min nisaaa'ihim summa ya'oodoona limaa qaaloo fatabreeru raqabatim min qabli any-yatamaaassaa; zaalikum too'azoona bih; wallaahu bimaa ta'maloona khabeer"
+                    }
+                },
+                "translation": {
+                    "en": "And those who pronounce thihar from their wives and then [wish to] go back on what they said - then [there must be] the freeing of a slave before they touch one another. That is what you are admonished thereby; and Allah is Acquainted with what you do.",
+                    "id": "Dan mereka yang menzihar istrinya, kemudian menarik kembali apa yang telah mereka ucapkan, maka (mereka diwajibkan) memerdekakan seorang budak sebelum kedua suami istri itu bercampur. Demikianlah yang diajarkan kepadamu, dan Allah Mahateliti terhadap apa yang kamu kerjakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5107",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5107.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5107.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan mereka yang menzihar istrinya, lalu menyesali perbuatannya, kemudian segera menarik kembali apa yang telah mereka ucapkan kepada istrinya itu, maka mereka para suami yang telah menzihar istrinya itu diwajibkan membayar kafarat, yakni tebusan dengan memerdekakan seorang budak sebelum suami istri itu bercampur kembali seperti sebelum menziharnya. Demikianlah yang diajarkan Allah kepadamu, kaum muslim tentang hukum zihar dan panduan membayar tebusannya, dan Allah Mahateliti terhadap apa yang kamu kerjakan agar orang-orang beriman menyadari kemahatelitian Allah sehingga tidak berbuat curang dalam hidupnya.",
+                        "long": "Pada ayat-ayat ini diterangkan syarat-syarat bagi suami-istri agar dapat bercampur atau melaksanakan perkawinan kembali jika mereka telah bercerai, yaitu pihak suami wajib membayar kafarat. Kewajiban membayar kafarat itu disebabkan telah terjadinya zihar dan adanya kehendak suami mencampuri istrinya ('aud).\n\nDalam ayat ini diterangkan tiga tahap kafarat zihar. Tahap pertama harus diupayakan melaksanakannya. Kalau tahap pertama tidak sanggup dilaksanakan, boleh menjalankan tahap kedua. Bila tahap kedua juga tidak sanggup melaksanakannya, wajib dijalankan tahap ketiga. Tahap-tahap itu ialah:\n\n1.Memerdekakan seorang budak sebelum melaksanakan persetubuhan kembali. Ini adalah ketetapan Allah yang ditetapkan bagi seluruh orang yang beriman, agar mereka berhati-hati terhadap perbuatan mungkar dan membayar kafarat itu sebagai penghapus dosa perbuatan mungkar. Allah memperhatikan dan mengetahui semua perbuatan hamba-Nya, dan akan mengampuni semua hamba-Nya yang mau menghentikan perbuatan mungkar dan melaksanakan hukum-hukum Allah. Pada saat ini perbudakan telah hapus dari permukaan bumi, karena itu kafarat tingkat pertama ini tidak mungkin dilaksanakan lagi. Memerdekakan budak sebagai kafarat, termasuk salah satu cara dalam agama Islam untuk menghilangkan perbudakan, yang pernah membudaya di kalangan bangsa-bangsa di dunia, seperti yang terjadi di Amerika, Eropa, dan lain-lain. Oleh karena itu, agama Islam adalah agama yang berusaha menghapus perbudakan dan menetapkan cara-cara untuk melenyapkannya dengan segera.\n\n2.Jika yang pertama tidak dapat dilakukan, hendaklah puasa dua bulan berturut-turut. Berturut-turut merupakan salah satu syarat dari puasa yang akan dilakukan itu. Hal ini berarti jika ada hari-hari puasa yang tidak terlaksana seperti puasa sehari atau lebih kemudian tidak puasa pada hari yang lain dalam masa dua bulan itu, maka puasa itu tidak dapat dijadikan kafarat, walaupun tidak berpuasa itu disebabkan perjalanan jauh (safar) atau sakit. Puasa itu harus dilakukan sebelum melakukan persetubuhan suami istri.\n\n3.Jika yang kedua tidak juga dapat dilaksanakan, maka dilakukan tahap ketiga, yaitu memberi makan enam puluh orang miskin.\n\nZihar adalah semacam sumpah, yaitu sumpah suami yang menyatakan bahwa istrinya haram dicampuri seperti haramnya mencampuri ibunya. Oleh karena itu, yang wajib membayar kafarat ialah suami yang melakukan zihar saja, karena dialah yang bersumpah, sedang istri yang tidak pernah melakukan zihar tidak wajib membayar kafarat.\n\nJumlah atau bentuk kafarat zihar yang ditetapkan itu adalah jumlah atau bentuk yang sangat tinggi, apalagi jika diingat bahwa hukum itu berlaku bagi seluruh kaum Muslimin, baik yang kaya atau yang miskin. Bagi seorang yang kaya tidak ada kesulitan membayar kafarat itu, tetapi merupakan hal yang sulit dan berat membayarnya bagi orang-orang miskin.\n\nMenghadapi masalah yang seperti ini, syariat Islam mempunyai prinsip-prinsip yang dapat meringankan suatu beban yang dipikulkan Allah kepada kaum Muslimin, yaitu prinsip, \"Kesukaran itu menimbulkan kemudahan,\" asal saja kesukaran itu benar-benar suatu kesukaran yang tidak dapat diatasi, disertai dengan keinginan di dalam hati untuk mencari keridaan Allah.\n\nSehubungan dengan ini, pada kelanjutan hadis Khuwailah binti Malik yang diriwayatkan oleh Abu Dawud, dikatakan:\n\nMaka Rasulullah saw berkata, \"Hendaklah ia memerdekakan seorang budak.\" Khaulah berkata, \"Ia tidak sanggup mengusahakannya.\" Nabi berkata, \"(Kalau demikian) maka ia berpuasa dua bulan berturut-turut.\" Khaulah berkata, \"Ya Rasulullah, sesungguhnya ia (suamiku) adalah seorang yang telah tua bangka, tidak sanggup lagi berpuasa.\" Nabi berkata, \"Maka hendaklah ia memberi makan enam puluh orang miskin.\" Khaulah berkata, \"Ia tidak mempunyai sesuatu pun yang akan disedekahkannya.\" Rasulullah saw Berkata, \"(Kalau demikian) maka sesungguhnya aku akan membantunya dengan segantang tamar.\" Khaulah berkata, \"Dan aku akan membantunya pula dengan segantang tamar.\" Berkata Rasulullah saw, \"Engkau benar-benar baik, pergilah, maka beritahukanlah atas namanya, beri makanlah dengan tamar ini enam puluh orang fakir-miskin.\" (Riwayat Abu Dawud)\n\nPada riwayat yang lain diterangkan bahwa Khaulah mengatakan kepada Rasulullah saw bahwa orang yang paling miskin di negeri ini adalah keluarganya. Maka Rasulullah saw menyuruh Khaulah membawa kurma sebagai kafarat itu pulang ke rumahnya untuk dimakan keluarganya sendiri.\n\nPada dasarnya agama Islam tidak menyetujui adanya zihar itu, bahkan memandangnya sebagai perbuatan mungkar dan dosa, karena perbuatan zihar itu adalah perbuatan yang tidak mempunyai dasar, mengatakan sesuatu yang bukan-bukan. Akan tetapi, karena zihar itu adalah suatu kebiasaan bangsa Arab Jahiliah, sedang untuk menghapus kebiasaan itu dalam waktu yang singkat akan menimbulkan kegoncangan pada masyarakat Islam yang baru tumbuh, sedang masyarakat itu berasal dari orang-orang Arab masa Jahiliah, maka agama Islam tidak langsung menghapuskan kebiasaan tersebut. Agama Islam menghilangkan semua akibat yang ditimbulkan oleh perbuatan zihar itu dengan menetapkan waktu menunggu empat bulan. Dalam masa itu, suami boleh menceraikan istrinya atau membayar kafarat bagi yang ingin mencampuri istrinya kembali, yakni mencabut kembali ucapan zihar yang telah diucapkannya. Jadi zihar itu berasal dari hukum Arab masa Jahiliah yang telah dihapuskan oleh Islam. Oleh karena itu, bagi negara-negara atau umat Islam yang tidak mengenal zihar tersebut, tidak perlu mencantumkan hukum itu apabila mereka membuat suatu undang-undang perkawinan.\n\nPada akhir ayat ini diterangkan bahwa Allah menerangkan kewajiban membayar kafarat itu bagi suami yang telah menzihar istrinya adalah untuk memperdalam jiwa tauhid, mempercayai Nabi Muhammad saw sebagai rasul Allah, dan agar berhati-hati mengucapkan suatu perkataan, sehingga tidak mengadakan kedustaan dan mengatakan yang bukan-bukan. Dengan demikian, tertanamlah dalam hati setiap orang yang beriman keinginan melaksanakan semua hukum-hukum Allah dengan sebaik-baiknya. Tertanam juga dalam hati mereka bahwa mengingkari hukum-hukum Allah itu akan menimbulkan kesengsaraan di dunia maupun di akhirat nanti."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5108,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 542,
+                    "manzil": 7,
+                    "ruku": 476,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَاسَّا ۖ فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ۚ ذَٰلِكَ لِتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ",
+                    "transliteration": {
+                        "en": "Famal lam yajid fa siyaamu shahraini mutataabi'ayni min qabli any-yatamaaassaa famal lam yastati' fa-it'aamu sitteena miskeena; zaalika litu'minoo billaahi wa rasoolih'wa tilka hudoodul laah; wa lilkaafireena 'azaabun aleem"
+                    }
+                },
+                "translation": {
+                    "en": "And he who does not find [a slave] - then a fast for two months consecutively before they touch one another; and he who is unable - then the feeding of sixty poor persons. That is for you to believe [completely] in Allah and His Messenger; and those are the limits [set by] Allah. And for the disbelievers is a painful punishment.",
+                    "id": "Maka barangsiapa tidak dapat (memerdekakan hamba sahaya), maka (dia wajib) berpuasa dua bulan berturut-turut sebelum keduanya bercampur. Tetapi barangsiapa tidak mampu, maka (wajib) memberi makan enam puluh orang miskin. Demikianlah agar kamu beriman kepada Allah dan Rasul-Nya. Itulah hukum-hukum Allah, dan bagi orang-orang yang mengingkarinya akan mendapat azab yang sangat pedih."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5108",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5108.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5108.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka barang siapa yang tidak menemukan, tidak memiliki uang untuk memerdekakan hamba sahaya karena harganya mahal, maka dia wajib membayar kafarat zihar dengan berpuasa dua bulan berturut-turut sebelum keduanya bercampur kembali. Barang siapa tidak mampu, membayar kafarat zihar dengan berpuasa dua bulan berturut-turut, maka ia wajib membayar kafarat zihar dengan memberi makan enam puluh orang miskin. Demikianlah, Allah menjelaskan hukum zihar dan kafarat-nya agar kamu beriman kepada Allah dan Rasul-Nya dengan benar-benar berpegang kepada Al-Qur’an dan Sunah-Nya dan itulah hukum-hukum Allah tentang zihar dan kafarat-kafaratnya; dan Allah memperingatkan bahwa bagi orang-orang yang mengingkarinya, yakni hukum zihar, akan mendapat azab yang sangat pedih di akhirat, karena mengatakan yang bukan-bukan, mengharamkan menggauli istri yang dihalalkan Allah.",
+                        "long": "Pada ayat-ayat ini diterangkan syarat-syarat bagi suami-istri agar dapat bercampur atau melaksanakan perkawinan kembali jika mereka telah bercerai, yaitu pihak suami wajib membayar kafarat. Kewajiban membayar kafarat itu disebabkan telah terjadinya zihar dan adanya kehendak suami mencampuri istrinya ('aud).\n\nDalam ayat ini diterangkan tiga tahap kafarat zihar. Tahap pertama harus diupayakan melaksanakannya. Kalau tahap pertama tidak sanggup dilaksanakan, boleh menjalankan tahap kedua. Bila tahap kedua juga tidak sanggup melaksanakannya, wajib dijalankan tahap ketiga. Tahap-tahap itu ialah:\n\n1.Memerdekakan seorang budak sebelum melaksanakan persetubuhan kembali. Ini adalah ketetapan Allah yang ditetapkan bagi seluruh orang yang beriman, agar mereka berhati-hati terhadap perbuatan mungkar dan membayar kafarat itu sebagai penghapus dosa perbuatan mungkar. Allah memperhatikan dan mengetahui semua perbuatan hamba-Nya, dan akan mengampuni semua hamba-Nya yang mau menghentikan perbuatan mungkar dan melaksanakan hukum-hukum Allah. Pada saat ini perbudakan telah hapus dari permukaan bumi, karena itu kafarat tingkat pertama ini tidak mungkin dilaksanakan lagi. Memerdekakan budak sebagai kafarat, termasuk salah satu cara dalam agama Islam untuk menghilangkan perbudakan, yang pernah membudaya di kalangan bangsa-bangsa di dunia, seperti yang terjadi di Amerika, Eropa, dan lain-lain. Oleh karena itu, agama Islam adalah agama yang berusaha menghapus perbudakan dan menetapkan cara-cara untuk melenyapkannya dengan segera.\n\n2.Jika yang pertama tidak dapat dilakukan, hendaklah puasa dua bulan berturut-turut. Berturut-turut merupakan salah satu syarat dari puasa yang akan dilakukan itu. Hal ini berarti jika ada hari-hari puasa yang tidak terlaksana seperti puasa sehari atau lebih kemudian tidak puasa pada hari yang lain dalam masa dua bulan itu, maka puasa itu tidak dapat dijadikan kafarat, walaupun tidak berpuasa itu disebabkan perjalanan jauh (safar) atau sakit. Puasa itu harus dilakukan sebelum melakukan persetubuhan suami istri.\n\n3.Jika yang kedua tidak juga dapat dilaksanakan, maka dilakukan tahap ketiga, yaitu memberi makan enam puluh orang miskin.\n\nZihar adalah semacam sumpah, yaitu sumpah suami yang menyatakan bahwa istrinya haram dicampuri seperti haramnya mencampuri ibunya. Oleh karena itu, yang wajib membayar kafarat ialah suami yang melakukan zihar saja, karena dialah yang bersumpah, sedang istri yang tidak pernah melakukan zihar tidak wajib membayar kafarat.\n\nJumlah atau bentuk kafarat zihar yang ditetapkan itu adalah jumlah atau bentuk yang sangat tinggi, apalagi jika diingat bahwa hukum itu berlaku bagi seluruh kaum Muslimin, baik yang kaya atau yang miskin. Bagi seorang yang kaya tidak ada kesulitan membayar kafarat itu, tetapi merupakan hal yang sulit dan berat membayarnya bagi orang-orang miskin.\n\nMenghadapi masalah yang seperti ini, syariat Islam mempunyai prinsip-prinsip yang dapat meringankan suatu beban yang dipikulkan Allah kepada kaum Muslimin, yaitu prinsip, \"Kesukaran itu menimbulkan kemudahan,\" asal saja kesukaran itu benar-benar suatu kesukaran yang tidak dapat diatasi, disertai dengan keinginan di dalam hati untuk mencari keridaan Allah.\n\nSehubungan dengan ini, pada kelanjutan hadis Khuwailah binti Malik yang diriwayatkan oleh Abu Dawud, dikatakan:\n\nMaka Rasulullah saw berkata, \"Hendaklah ia memerdekakan seorang budak.\" Khaulah berkata, \"Ia tidak sanggup mengusahakannya.\" Nabi berkata, \"(Kalau demikian) maka ia berpuasa dua bulan berturut-turut.\" Khaulah berkata, \"Ya Rasulullah, sesungguhnya ia (suamiku) adalah seorang yang telah tua bangka, tidak sanggup lagi berpuasa.\" Nabi berkata, \"Maka hendaklah ia memberi makan enam puluh orang miskin.\" Khaulah berkata, \"Ia tidak mempunyai sesuatu pun yang akan disedekahkannya.\" Rasulullah saw Berkata, \"(Kalau demikian) maka sesungguhnya aku akan membantunya dengan segantang tamar.\" Khaulah berkata, \"Dan aku akan membantunya pula dengan segantang tamar.\" Berkata Rasulullah saw, \"Engkau benar-benar baik, pergilah, maka beritahukanlah atas namanya, beri makanlah dengan tamar ini enam puluh orang fakir-miskin.\" (Riwayat Abu Dawud)\n\nPada riwayat yang lain diterangkan bahwa Khaulah mengatakan kepada Rasulullah saw bahwa orang yang paling miskin di negeri ini adalah keluarganya. Maka Rasulullah saw menyuruh Khaulah membawa kurma sebagai kafarat itu pulang ke rumahnya untuk dimakan keluarganya sendiri.\n\nPada dasarnya agama Islam tidak menyetujui adanya zihar itu, bahkan memandangnya sebagai perbuatan mungkar dan dosa, karena perbuatan zihar itu adalah perbuatan yang tidak mempunyai dasar, mengatakan sesuatu yang bukan-bukan. Akan tetapi, karena zihar itu adalah suatu kebiasaan bangsa Arab Jahiliah, sedang untuk menghapus kebiasaan itu dalam waktu yang singkat akan menimbulkan kegoncangan pada masyarakat Islam yang baru tumbuh, sedang masyarakat itu berasal dari orang-orang Arab masa Jahiliah, maka agama Islam tidak langsung menghapuskan kebiasaan tersebut. Agama Islam menghilangkan semua akibat yang ditimbulkan oleh perbuatan zihar itu dengan menetapkan waktu menunggu empat bulan. Dalam masa itu, suami boleh menceraikan istrinya atau membayar kafarat bagi yang ingin mencampuri istrinya kembali, yakni mencabut kembali ucapan zihar yang telah diucapkannya. Jadi zihar itu berasal dari hukum Arab masa Jahiliah yang telah dihapuskan oleh Islam. Oleh karena itu, bagi negara-negara atau umat Islam yang tidak mengenal zihar tersebut, tidak perlu mencantumkan hukum itu apabila mereka membuat suatu undang-undang perkawinan.\n\nPada akhir ayat ini diterangkan bahwa Allah menerangkan kewajiban membayar kafarat itu bagi suami yang telah menzihar istrinya adalah untuk memperdalam jiwa tauhid, mempercayai Nabi Muhammad saw sebagai rasul Allah, dan agar berhati-hati mengucapkan suatu perkataan, sehingga tidak mengadakan kedustaan dan mengatakan yang bukan-bukan. Dengan demikian, tertanamlah dalam hati setiap orang yang beriman keinginan melaksanakan semua hukum-hukum Allah dengan sebaik-baiknya. Tertanam juga dalam hati mereka bahwa mengingkari hukum-hukum Allah itu akan menimbulkan kesengsaraan di dunia maupun di akhirat nanti."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5109,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 542,
+                    "manzil": 7,
+                    "ruku": 476,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِن قَبْلِهِمْ ۚ وَقَدْ أَنزَلْنَا آيَاتٍ بَيِّنَاتٍ ۚ وَلِلْكَافِرِينَ عَذَابٌ مُّهِينٌ",
+                    "transliteration": {
+                        "en": "Innal lazeena yuhaaaddoonal laaha wa Rasoolahoo kubitoo kamaa kubital lazeena min qablihim; wa qad anzalnaaa aayaatim baiyinaat; wa lilkaa fireena 'azaabum muheen"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, those who oppose Allah and His Messenger are abased as those before them were abased. And We have certainly sent down verses of clear evidence. And for the disbelievers is a humiliating punishment.",
+                    "id": "Sesungguhnya orang-orang yang menentang Allah dan Rasul-Nya pasti mendapat kehinaan sebagaimana kehinaan yang telah didapat oleh orang-orang sebelum mereka. Dan sungguh, Kami telah menurunkan bukti-bukti yang nyata. Dan bagi orang-orang yang mengingkarinya akan mendapat azab yang menghinakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5109",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5109.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5109.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada ayat di atas Allah menerangkan hukum zihar dan kafarat-kafaratnya. Pada ayat ini dijelaskan bahwa orang yang menentang hukum Allah dan Rasul-Nya akan mendapat kehinaan dunia akhirat. Sesungguhnya orang-orang yang menentang Allah dan Rasul-Nya dengan menolak dan mengingkari ajaran yang disampaikan Rasulullah pasti mendapat kehinaan sebagaimana kehinaan yang telah didapat oleh orang-orang sebelum mereka seperti kaum Yahudi yang durhaka kepada Nabi Musa yang diubah menjadi kera. Dan sungguh, Kami telah menurunkan bukti-bukti yang nyata tentang kebenaran agama Allah dan hukum-hukum-Nya dengan mengutus para nabi dan rasul. Dan bagi orang-orang yang mengingkarinya dengan kufur dan merintangi pelaksanaannya akan mendapat azab yang menghinakan di dunia dan di akhirat.",
+                        "long": "Ayat ini memperingatkan manusia yang menentang Allah dan rasul-Nya, dengan memilih hukum yang berlaku pada dirinya, bukan hukum yang telah ditetapkan Allah dan rasul-Nya, dan memeluk agama yang bukan agama yang disyariatkan-Nya. Mereka akan ditimpa azab berupa kehinaan selama hidup di dunia, sebagaimana telah ditimpakan kepada orang-orang dahulu yang mengingkari para rasul yang diutus Allah kepada mereka.\n\nAyat ini merupakan kabar gembira dan menambah semangat kaum Muslimin yang sedang mengalami tekanan dari orang-orang yang bersekutu dalam Perang Ahzab. Pada waktu itu, orang-orang Yahudi, orang-orang musyrik Mekah, dan orang-orang munafik bersatu dan bersekutu menghadapi kaum Muslimin, sehingga jumlah mereka jauh lebih besar dibandingkan dengan jumlah kaum Muslimin. Karena semangat kaum Muslimin yang tinggi dan keyakinan mereka akan pertolongan Allah yang akan diberikan kepada mereka, maka mereka dapat mengalahkan tentara yang bersekutu itu.\n\nAyat ini merupakan peringatan kepada para pemimpin bahwa mereka akan dimintai pertanggungjawaban oleh Allah di akhirat, apakah mereka telah menjalankan hukum-hukum Allah dalam pemerintahan mereka. Sebab, Allah telah menegaskan bahwa hukum dan agama yang boleh dianut manusia hanyalah agama Islam. Selain dari itu, manusia dilarang mengikuti dan menganutnya. Allah berfirman:\n\nPada hari ini telah Aku sempurnakan agamamu untukmu, dan telah Aku cukupkan nikmat-Ku bagimu, dan telah Aku ridai Islam sebagai agamamu. Tetapi barang siapa terpaksa karena lapar, bukan karena ingin berbuat dosa, maka sungguh, Allah Maha Pengampun, Maha Penyayang. (Al-Ma'idah/5: 3)\n\nAgama Islam yang dimaksud ialah agama yang didakwahkan Nabi Muhammad yang diterima dari Allah.\n\nSementara itu mengenai hal-hal yang telah ditentukan, para penguasa atau orang-orang yang mewakili rakyatnya dibolehkan menetapkan hukum-hukum lain yang mengatur kehidupan masyarakatnya, selama hukum itu tidak bertentangan dengan hukum yang telah ditetapkan Allah.\n\nDiterangkan bahwa Allah telah menurunkan ayat-ayat-Nya kepada Nabi Muhammad, yang mengemukakan dalil-dalil dan bukti-bukti yang kuat akan kebenaran agama beserta hukum-hukum-Nya. Tidak seorang pun yang dapat mematahkan dalil-dalil dan bukti-bukti, sekalipun mereka masih tetap ingkar dan melanggar hukum-hukum itu.\n\nDari ayat-ayat ini dapat dipahami bahwa Allah memerintahkan kepada manusia terutama kepada cerdik-pandai agar mempelajari dan membahas hukum-hukum Allah, menggunakan akal, pikiran, dan pengalaman mereka, bahkan dengan seluruh kemampuan yang ada pada mereka. Kemudian memberikan penilaian yang tepat dan objektif.\n\nDalam ayat ke-4 yang lalu dikatakan, \"Wa lil-kafirina 'adhabun alim\" (dan bagi orang-orang kafir azab yang pedih), sedangkan pada ayat kelima ini dikatakan, \"Wa lil kafirina 'adhabun muhin\" (dan bagi orang-orang kafir azab yang menghinakan). Yang dimaksud dengan orang-orang kafir pada ayat ke-4 ialah orang-orang mukmin yang melanggar ketentuan-ketentuan. Mereka memperoleh azab yang pedih sebagai pelajaran bagi mereka agar segera bertobat dan menyadari kesalahan mereka. Sedangkan yang dimaksud dengan orang kafir pada ayat kelima ini ialah orang yang benar-benar kafir, tidak beriman. Bagi mereka azab yang menimbulkan kehinaan selama kehidupan dunia, seperti hilangnya rasa malu pada diri mereka, merasa biasa melakukan perbuatan terlarang, merasa biasa berbuat curang dan melakukan perbuatan keji. Orang yang seperti itu biasanya adalah orang yang berkuasa yang dapat melakukan semua yang dikehendakinya, tetapi orang lain tidak lagi mempunyai penghargaan dalam arti yang sebenarnya pada mereka. Banyak lagi bentuk penghinaan yang lebih berat yang mereka terima."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5110,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 542,
+                    "manzil": 7,
+                    "ruku": 476,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَ يَبْعَثُهُمُ اللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوا ۚ أَحْصَاهُ اللَّهُ وَنَسُوهُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+                    "transliteration": {
+                        "en": "Yawma yab'asuhumul laahu jamee'an fayunabbi'uhum bimaa 'amiloo; ahsaahul laahu wa nasooh; wallaahu 'alaa kulli shai'in shaheed"
+                    }
+                },
+                "translation": {
+                    "en": "On the Day when Allah will resurrect them all and inform them of what they did. Allah had enumerated it, while they forgot it; and Allah is, over all things, Witness.",
+                    "id": "Pada hari itu mereka semuanya dibangkitkan Allah, lalu diberitakan-Nya kepada mereka apa yang telah mereka kerjakan. Allah menghitungnya (semua amal perbuatan itu), meskipun mereka telah melupakannya. Dan Allah Maha Menyaksikan segala sesuatu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5110",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5110.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5110.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kehinaan bagi yang mengingkari hukum Allah yang disebutkan pada ayat di atas akan diberikan pada hari Kiamat, yaitu: pada hari itu mereka semuanya dibangkitkan Allah menuju padang mahsyar, tempat berkumpul manusia sejak Nabi Adam hingga manusia terakhir, lalu diberitakan kepada mereka semua apa yang telah mereka kerjakan dengan lengkap, menyeluruh, dan terinci; Allah menghitungnya dengan akurat semua amal perbuatan mereka itu, meskipun mereka telah melupakannya karena sudah berlangsung lama, tetapi Allah mengetahuinya, ada catatan dua malaikat, ada dokumentasi pada diri manusia (Lihat: Surah al-Isrà’/17: 13—14) dan ada kesaksian kedua tangan dan kaki (Lihat: Surah Yàsìn/36: 65). Dan Allah Maha Menyaksikan segala sesuatu yang dilakukan manusia.",
+                        "long": "Dalam ayat ini diterangkan keadaan orang-orang yang menentang dan melanggar hukum Allah di akhirat nanti. Allah mengumpulkan mereka semua sejak manusia pertama yaitu Adam, sampai saat terakhir kehidupan manusia, pada hari Kiamat. Kemudian Allah memberitahukan kepada mereka yang telah mereka kerjakan selama hidup di dunia. Semuanya itu tercatat dalam kitab catatan mereka masing-masing, tidak ada satu pun yang dilupakan, walaupun mereka sendiri telah melupakannya karena tidak sesuatu pun yang luput dari pengetahuan Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5111,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 543,
+                    "manzil": 7,
+                    "ruku": 477,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَلَمْ تَرَ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَا أَدْنَىٰ مِن ذَٰلِكَ وَلَا أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُوا يَوْمَ الْقِيَامَةِ ۚ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+                    "transliteration": {
+                        "en": "Alam tara annal laaha ya'lamu maa fis samaawaati wa maa fil ardi maa yakoonu min najwaa salaasatin illaa Huwa raabi'uhum wa laa khamsatin illaa huwa saadisuhum wa laaa adnaa min zaalika wa laaa aksara illaa huwa ma'ahum ayna, maa kaanoo summa yunabbi'uhum bimaa 'amiloo yawmal qiyaamah; innal laaha bikulli shai'in aleem"
+                    }
+                },
+                "translation": {
+                    "en": "Have you not considered that Allah knows what is in the heavens and what is on the earth? There is in no private conversation three but that He is the fourth of them, nor are there five but that He is the sixth of them - and no less than that and no more except that He is with them [in knowledge] wherever they are. Then He will inform them of what they did, on the Day of Resurrection. Indeed Allah is, of all things, Knowing.",
+                    "id": "Tidakkah engkau perhatikan, bahwa Allah mengetahui apa yang ada di langit dan apa yang ada di bumi? Tidak ada pembicaraan rahasia antara tiga orang, melainkan Dialah yang keempatnya. Dan tidak ada lima orang, melainkan Dialah yang keenamnya. Dan tidak ada yang kurang dari itu atau lebih banyak, melainkan Dia pasti ada bersama mereka di mana pun mereka berada. Kemudian Dia akan memberitakan kepada mereka pada hari Kiamat apa yang telah mereka kerjakan. Sesungguhnya Allah Maha Mengetahui segala sesuatu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5111",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5111.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5111.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Selain menyaksikan segala sesuatu, Allah juga mengetahui semua pembicaraan rahasia. Tidakkah engkau perhatikan, bahwa Allah mengetahui apa yang ada di langit dan apa yang ada di bumi, karena penglihatan Allah menembus batas-batas ruang dan waktu? Oleh sebab itu, bagi Allah, tidak ada pembicaraan rahasia antara tiga orang, melainkan Dialah yang keempatnya, karena Allah ada, hadir dan terlibat dalam keseharian hamba-hamba-Nya. Dan tidak ada lima orang yang terlibat dalam pembicaraan rahasia, melainkan Dialah yang keenamnya, karena Allah dekat dan terlibat dalam aktivitas manusia. Dan tidak ada yang kurang dari itu atau lebih banyak yang terlibat dalam pembicaraan rahasia, melainkan Dia, pasti ada bersama mereka di mana pun mereka berada, meskipun manusia sering tidak merasakan kehadiran Allah bersama mereka, karena kalbunya yang terhijab. Kemudian Dia akan memberitakan kepada mereka pada hari Kiamat apa yang telah mereka kerjakan dengan menghadirkan catatan yang merekam seluruh jejak hidupnya. Sesungguhnya Allah Maha Mengetahui segala sesuatu yang dilakukan manusia termasuk pembicaraan rahasia di antara mereka.",
+                        "long": "Ayat ini menerangkan bagaimana luas, dalam, dan lengkapnya pengetahuan Allah tentang makhluk yang diciptakan-Nya, sejak dari yang kecil sampai kepada yang sebesar-besarnya. Diterangkan bahwa ilmu Allah mencakup segala yang ada di langit dan di bumi, betapa pun kecil dan halusnya. Jika ada tiga orang di langit dan di bumi berbisik-bisik, maka Allah yang keempatnya. Jika yang berbisik dan mengadakan perundingan rahasia itu empat orang, maka Allah yang kelimanya, dan jika yang berbisik dan mengadakan perundingan rahasia itu lima orang maka Allah yang keenamnya. Bahkan berapa orang saja berbisik dan mengadakan perundingan rahasia dan di mana saja mereka melakukannya, pasti Allah mengetahuinya.\n\nPenyebutan bilangan tiga, empat, dan lima orang dalam ayat hanyalah untuk menyatakan bahwa biasanya perundingan itu dilakukan oleh beberapa orang seperti tiga, empat, lima, dan seterusnya, dan tiap-tiap perundingan itu pasti Allah menyaksikannya. Allah berfirman:\n\nTidakkah mereka mengetahui bahwa Allah mengetahui rahasia dan bisikan mereka, dan bahwa Allah mengetahui segala yang gaib? (at-Taubah/9: 78)\n\nDan berfirman:\n\nAtaukah mereka mengira, bahwa Kami tidak mendengar rahasia dan bisikan-bisikan mereka? Sebenarnya (Kami mendengar), dan utusan-utusan Kami (malaikat) selalu mencatat di sisi mereka. (az-Zukhruf/43: 80)\n\nPada akhir ayat ini, Allah menegaskan bahwa kebenaran tentang Allah Maha Mengetahui segala sesuatu itu, barulah mereka ketahui di hari Kiamat nanti, yaitu ketika dikemukakan catatan amal mereka yang di dalamnya tercatat seluruh perbuatan yang pernah mereka kerjakan selama hidup di dunia, yaitu berupa perbuatan baik maupun perbuatan buruk, tidak ada satu pun yang dilupakan untuk dicatat. Pada saat itu, orang-orang kafir barulah menyesali perbuatan mereka, tetapi penyesalan di kemudian hari itu tidak ada gunanya sedikit pun."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5112,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 543,
+                    "manzil": 7,
+                    "ruku": 477,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَلَمْ تَرَ إِلَى الَّذِينَ نُهُوا عَنِ النَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا عَنْهُ وَيَتَنَاجَوْنَ بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِ وَإِذَا جَاءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ اللَّهُ وَيَقُولُونَ فِي أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا اللَّهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا ۖ فَبِئْسَ الْمَصِيرُ",
+                    "transliteration": {
+                        "en": "Alam tara ilal lazeena nuhoo 'anin najwaa summa ya'oodoona limaa nuhoo 'anhu wa yatanaajawna bil ismi wal'udwaani wa ma'siyatir rasooli wa izaa jaaa'ooka haiyawka bimaa lam yuhai yika bihil laahu wa yaqooloona fee anfusihim law laa yu'azzibunal laahu bimaa naqool; hasbuhum jahannnamu yaslawnahaa fabi'sal maseer"
+                    }
+                },
+                "translation": {
+                    "en": "Have you not considered those who were forbidden from private conversation, then they return to that which they were forbidden and converse among themselves about sin and aggression and disobedience to the Messenger? And when they come to you, they greet you with that [word] by which Allah does not greet you and say among themselves, \"Why does Allah not punish us for what we say?\" Sufficient for them is Hell, which they will [enter to] burn, and wretched is the destination.",
+                    "id": "Tidakkah engkau perhatikan orang-orang yang telah dilarang mengadakan pembicaraan rahasia, kemudian mereka kembali (mengerjakan) larangan itu dan mereka mengadakan pembicaraan rahasia untuk berbuat dosa, permusuhan dan durhaka kepada Rasul. Dan apabila mereka datang kepadamu (Muhammad), mereka mengucapkan salam dengan cara yang bukan seperti yang ditentukan Allah untukmu. Dan mereka mengatakan pada diri mereka sendiri, “Mengapa Allah tidak menyiksa kita atas apa yang kita katakan itu?” Cukuplah bagi mereka neraka Jahanam yang akan mereka masuki. Maka neraka itu seburuk-buruk tempat kembali."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5112",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5112.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5112.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada ayat yang lalu disebutkan bahwa tidak satu pun yang tersembunyi bagi Allah, dari bisikan sampai yang diucapkan dengan terang-terangan. Pada ayat ini dijelaskan perjanjian rahasia yang dilakukan orang-orang Yahudi di Madinah untuk menghancurkan Islam, karena mereka tidak menyadari bahwa Allah mengetahui rahasia jahat mereka. Tidakkah engkau, Muhammad, memperhatikan orang-orang, yakni kaum Yahudi di Madinah, yang telah dilarang mengadakan pembicaraan rahasia untuk memusuhi Islam, mencelakakan, dan berusaha membunuh Rasulullah, karena mereka telah mengikat perjanjian damai dengan kaum muslim dalam Piagam Madinah; kemudian mereka kembali mengerjakan larangan itu dengan mengabaikan kesepakatan damai tersebut; dan mereka mengadakan pembicaraan rahasia untuk berbuat dosa, permusuhan, dan durhaka kepada Rasul. Mencoba memecah belah persatuan dan kesatuan kaum Ansar yang dahulunya Bani Aus dan Khazraj yang suka berperang di antara mereka. Mereka pun memancing-mancing permusuhan dengan cara berbisik-bisik sesama mereka, jika ada seorang muslim yang lewat di hadapan mereka sehingga kaum muslim merasa tidak aman jika berada di perkampungan Yahudi. Dan apabila mereka datang kepadamu Muhammad, mereka mengucapkan salam dengan cara yang bukan seperti yang ditentukan Allah untukmu, yaitu dengan ucapan, “Mudah-mudahan kematian menimpamu wahai Abul Qasim.”Rasulullah menjawab, “Dan atas kamu juga.” Dan, setelah orang-orang Yahudi mengucapkan salam penghinaan kepada Rasulullah tersebut, mereka mengatakan pada diri mereka sendiri dengan nada menantang, “Mengapa Allah tidak menyiksa kita atas apa yang kita katakan itu?” Kalau benar Muhammad seorang rasul, tentu Allah akan mengabulkan jawaban Muhammad, “Dan atas kamu juga,” bencana atau kematian. Benar Allah akan mengazab setiap orang yang durhaka kepada-Nya, tetapi kapan datangnya azab itu adalah kewenangan Allah. Dia akan menimpakan azab itu bila dikehendaki-Nya, namun yang pasti adalah cukuplah bagi mereka neraka Jahanam yang akan mereka masuki dengan kehinaan dan penderitaan abadi. Maka neraka itu seburuk-buruk tempat kembali di akhirat yang kekal selama-lamanya bagi orang-orang kafir.",
+                        "long": "Ayat ini mencela perbuatan yang dilakukan orang Yahudi yang melakukan tindakan yang memancing perselisihan dan permusuhan antara mereka dan kaum Muslimin, padahal telah diadakan perjanjian damai antara mereka dan kaum Muslimin. Rasulullah saw memperingatkan sikap mereka itu, tetapi mereka tidak mengindahkannya.\n\nPembicaraan mereka dengan berbisik-bisik itu sebenarnya dapat memperbesar dosa mereka kepada Allah. Dosa itu karena mereka telah melanggar perjanjian damai yang mereka adakan dengan Rasulullah, bahwa mereka dengan kaum Muslimin akan memelihara ketenteraman dan berusaha menciptakan suasana damai di kota Medinah. Mereka bersalah karena setiap saat mencari-cari kesempatan untuk menghancurkan kaum Muslimin dan menggagalkan dakwah Nabi Muhammad.\n\nOrang-orang Yahudi itu jika mereka bertemu atau datang kepada Rasulullah saw mereka mengucapkan salam, tetapi isinya menghina Rasulullah saw. 'Aisyah menjawab dengan jawaban yang lebih kasar, karena sikap dan tindakan orang-orang Yahudi itu melampaui batas, baik ditinjau dari segi rasa kesopanan dalam pergaulan maupun ditinjau dari segi adat kebiasaan yang berlaku waktu itu.\n\nDitinjau dari segi agama Islam, maka tindakan orang-orang Yahudi itu benar-benar telah melampaui batas, karena Muhammad saw adalah seorang nabi dan rasul Allah, di mana setiap kaum Muslimin mendoakan keselamatan dan kebaikan untuknya. Allah swt berfirman:\n\nSesungguhnya Allah dan para malaikat-Nya bersalawat untuk Nabi. Wahai orang-orang yang beriman! Bersalawatlah kamu untuk Nabi dan ucapkanlah salam dengan penuh penghormatan kepadanya. (al-Ahzab/33: 56)\n\nDari ayat di atas dan sebab-sebab turunnya dapat diambil pengertian bahwa hendaklah kita berlaku sabar terhadap ucapan-ucapan keji yang dilontarkan kepada kita. Jangan langsung membalas seperti yang mereka lakukan, karena di sanalah letak perbedaan antara orang Muslim dan orang kafir. Dengan bersabar mereka akan sadar dan insaf bahwa mereka telah melakukan kesalahan.\n\nSetelah orang-orang Yahudi itu mengucapkan salam penghinaan kepada Rasulullah sebagaimana tersebut di atas, mereka berkata kepada sesamanya, \"Kenapa Allah tidak menimpakan azab kepada kita sebagai akibat jawaban Muhammad. Seandainya Muhammad benar-benar seorang nabi dan rasul yang diutus Allah, tentulah kita telah ditimpa azab.\" Sangkaan mereka yang demikian terhadap Allah, yaitu Allah akan langsung mengazab setiap orang yang durhaka kepada-Nya, adalah sangkaan yang salah. Benar Dia akan mengazab setiap orang yang durhaka kepada-Nya, tetapi kapan datangnya azab itu, adalah urusan-Nya. Dia akan menimpakan azab itu bila dikehendaki-Nya. Tetapi jika azab itu telah datang, maka tidak seorang pun yang dapat menghindarkan diri daripadanya.\n\nDalam hal menjawab salam terhadap non muslim, para ulama berbeda pendapat. Ibnu 'Abbas, asy-Sya'bi, dan Qatadah menyatakan bahwa menjawab salam terhadap non muslim hukumnya wajib, sama halnya dengan menjawab salam terhadap sesama muslim. Sedangkan Imam Malik dan Syafi'i menyatakan bahwa hal tersebut tidak wajib, dalam arti hanya boleh saja. Bila mereka mengucapkan salam, maka bagi kita cukup menjawabnya dengan \"'alaika.\" \n\nPada akhir ayat ini, Allah membantah anggapan mereka dengan tegas bahwa mereka pasti akan dimasukkan ke dalam neraka Jahanam. Mereka akan terbakar hangus di dalamnya. Jahanam itu adalah seburuk-buruknya tempat kembali yang disediakan bagi orang-orang kafir."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5113,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 543,
+                    "manzil": 7,
+                    "ruku": 477,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَنَاجَيْتُمْ فَلَا تَتَنَاجَوْا بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِ وَتَنَاجَوْا بِالْبِرِّ وَالتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ الَّذِي إِلَيْهِ تُحْشَرُونَ",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhal lazeena aamanoo izaa tanaajaytum falaa tatanaajaw bil ismi wal 'udwaani wa ma'siyatir rasooli wa tanaajaw bil birri wattaqwaa wattaqul laahal lazeee ilaihi tuhsharoon"
+                    }
+                },
+                "translation": {
+                    "en": "O you who have believed, when you converse privately, do not converse about sin and aggression and disobedience to the Messenger but converse about righteousness and piety. And fear Allah, to whom you will be gathered.",
+                    "id": "Wahai orang-orang yang beriman! Apabila kamu mengadakan pembicaraan rahasia, janganlah kamu membicarakan perbuatan dosa, permusuhan dan durhaka kepada Rasul. Tetapi bicarakanlah tentang perbuatan kebajikan dan takwa. Dan bertakwalah kepada Allah yang kepada-Nya kamu akan dikumpulkan kembali."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5113",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5113.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5113.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah lalu mengingatkan orang-orang beriman agar tidak mengikuti kebiasaan Yahudi mengadakan pembicaraan rahasia kecuali untuk kebaikan. Wahai orang-orang yang beriman! Apabila kamu terpaksa mengadakan atau terlibat dalam pembicaraan rahasia, maka perhatikanlah, janganlah kamu membicarakan perbuatan dosa, perencanaan, cara maupun strategi; dan jangan pula membahas permusuhan, kebencian, dan fitnah; dan jangan pula membicarakan perbuatan yang tergolong durhaka kepada Rasul, namun, jika terpaksa mengadakan atau terlibat dalam pembicaraan rahasia, maka bicarakanlah tentang perbuatan kebajikan meliputi perdamaian, dan kerukunan hidup beragama, dan penguatan takwa kepada Allah. Dan bertakwalah kepada Allah, wahai seluruh umat dengan menjaga kesinambungan iman dan ibadah, serta amal saleh, yang kepada-Nya kamu akan dikumpulkan kembali pada hari Kiamat untuk mempertanggung jawabkan hidup di hadapan Allah.",
+                        "long": "Kemudian Allah menghadapkan perintahnya kepada orang-orang yang beriman agar jangan sekali-kali mengadakan perundingan rahasia di antara mereka dengan tujuan berbuat dosa, mengadakan permusuhan, dan mendurhakai Allah dan rasul.\n\nJika mereka mengadakan perundingan rahasia juga, hal itu diperbolehkan, tetapi yang dibicarakan di dalam perundingan itu hanyalah kebajikan, membahas cara-cara yang baik, mengerjakan perbuatan-perbuatan takwa, dan menghindarkan diri dari perbuatan mungkar. Perlu diketahui bahwa Allah mengetahui segala sesuatu, tidak ada sesuatu pun yang luput dari pengetahuan-Nya. Oleh karena itu, betapa pun rahasianya perundingan yang dilakukan, pasti diketahui-Nya.\n\nDan barang siapa mendurhakai Allah dan Rasul-Nya dan melanggar batas-batas hukum-Nya, niscaya Allah memasukkannya ke dalam api neraka, dia kekal di dalamnya dan dia akan mendapat azab yang menghinakan. (an-Nisa'/4: 14)\n\nDalam satu hadis diterangkan sebagai berikut:\n\nApabila kamu bertiga, maka janganlah dua orang di antara kamu itu berbisik-bisik tanpa mengajak yang ketiga sehingga kamu bergabung dengan orang lain, karena sikap itu menyedihkan perasaannya. (Riwayat al-Bukhari dan Muslim)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5114,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 543,
+                    "manzil": 7,
+                    "ruku": 477,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّمَا النَّجْوَىٰ مِنَ الشَّيْطَانِ لِيَحْزُنَ الَّذِينَ آمَنُوا وَلَيْسَ بِضَارِّهِمْ شَيْئًا إِلَّا بِإِذْنِ اللَّهِ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+                    "transliteration": {
+                        "en": "Innaman najwaa minash shaitaani liyahzunal lazeena aamanoo wa laisa bidaaarrihim shai'an illaa bi-iznil laah; wa 'alal laahi falyatawakkalil mu'minoon"
+                    }
+                },
+                "translation": {
+                    "en": "Private conversation is only from Satan that he may grieve those who have believed, but he will not harm them at all except by permission of Allah. And upon Allah let the believers rely.",
+                    "id": "Sesungguhnya pembicaraan rahasia itu termasuk (perbuatan) setan, agar orang-orang yang beriman itu bersedih hati, sedang (pembicaraan) itu tidaklah memberi bencana sedikit pun kepada mereka, kecuali dengan izin Allah. Dan kepada Allah hendaknya orang-orang yang beriman bertawakal."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5114",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5114.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5114.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Orang beriman dilarang mengadakan pembicaraan rahasia karena pembicaraan rahasia itu karakter setan dalam menghasut manusia membangkitkan permusuhan dan kebencian. Sesungguhnya pembicaraan rahasia itu termasuk perbuatan setan dalam membujuk manusia mengikuti strateginya: berpaling dari Allah, mengikuti dorongan rendah dan membawa manusia kepada jurang kemaksiatan agar orang-orang beriman itu setelah tertipu strategi setan menyesal dan bersedih hati, sedang pembicaraan rahasia itu tidaklah memberi bencana sedikit pun kepada mereka, orang-orang beriman, kecuali dengan izin Allah. Dan hanya kepada Allah hendaknya orang-orang yang beriman bertawakal, menyerahkan hidup dan kehidupannya lahir batin setelah merencanakan secara optimal dan berusaha secara maksimal.",
+                        "long": "Dalam ayat ini diterangkan bahwa berbisik-bisik dan mengadakan perundingan rahasia untuk menimbulkan permusuhan dan pertentangan itu adalah usaha dan perbuatan setan. Ia mendorong manusia melakukannya, agar mereka mendurhakai Allah dan Rasul-Nya. Itulah tujuan hidup setan. Ia mempengaruhi manusia sejak dari nenek moyang mereka, yaitu Nabi Adam. Semakin banyak manusia yang dapat digodanya, semakin banyak temannya di neraka.\n\nDiterangkan pula bahwa usaha setan adalah untuk menimbulkan kesedihan dalam hati orang-orang yang beriman. Bisik-bisik dan perundingan rahasia yang dilakukan orang-orang Yahudi dan orang-orang munafik, menimbulkan rasa tidak aman dalam hati orang-orang yang beriman. Sebenarnya kecelakaan manusia yang diusahakan oleh setan tidak akan terwujud dan terlaksana, tanpa izin dari Allah yang Mahakuasa lagi Maha Menentukan segala sesuatu.\n\nPada akhir ayat ini, Allah menegaskan bahwa kaum Muslimin tidak boleh terpancing dan merasa tidak aman karena bisik-bisik dan perjanjian rahasia yang diadakan orang-orang kafir. Semuanya tidak akan terlaksana, kecuali jika Allah mengizinkannya. Oleh karena itu, setiap Muslim mesti bertawakal kepada Allah dan tidak percaya kepada siapa pun, kecuali kepada-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5115,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 543,
+                    "manzil": 7,
+                    "ruku": 477,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ انشُزُوا فَانشُزُوا يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhal lazeena aamanoo izaa qeela lakum tafassahoo fil majaalisi fafsahoo yafsahil laahu lakum wa izaa qeelan shuzoo fanshuzoo yarfa'il laahul lazeena aamanoo minkum wallazeena ootul 'ilma darajaat; wallaahu bimaa ta'maloona khabeer"
+                    }
+                },
+                "translation": {
+                    "en": "O you who have believed, when you are told, \"Space yourselves\" in assemblies, then make space; Allah will make space for you. And when you are told, \"Arise,\" then arise; Allah will raise those who have believed among you and those who were given knowledge, by degrees. And Allah is Acquainted with what you do.",
+                    "id": "Wahai orang-orang yang beriman! Apabila dikatakan kepadamu, “Berilah kelapangan di dalam majelis-majelis,” maka lapangkanlah, niscaya Allah akan memberi kelapangan untukmu. Dan apabila dikatakan, “Berdirilah kamu,” maka berdirilah, niscaya Allah akan mengangkat (derajat) orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu beberapa derajat. Dan Allah Mahateliti apa yang kamu kerjakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5115",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5115.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5115.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada ayat yang lalu Allah memerintahkan kaum muslim agar menghindarkan diri dari perbuatan berbisik-bisik dan pembicaraan rahasia, karena akan menimbulkan rasa tidak enak bagi muslim lainnya. Pada ayat ini, Allah memerintahkan kaum muslim untuk melakukan perbuatan yang menimbulkan rasa persaudaraan dalam semua pertemuan. Wahai orang-orang yang beriman apabila dikatakan kepadamu, dalam berbagai forum atau kesempatan, “Berilah kelapangan di dalam majelis-majelis, agar orang-orang bisa masuk ke dalam ruangan itu,” maka lapangkanlah jalan menuju majelis tersebut, niscaya Allah akan memberi kelapangan untukmu dalam berbagai kesempatan, forum, atau majelis. Dan apabila dikatakan kepada kamu dalam berbagai tempat, “Berdirilah kamu untuk memberi penghormatan,” maka berdirilah sebagai tanda kerendahan hati, niscaya Allah akan mengangkat derajat orang-orang yang beriman di antaramu karena keyakinannya yang benar, dan Allah pun akan mengangkat orang-orang yang diberi ilmu, karena ilmunya menjadi hujah yang menerangi umat, beberapa derajat dibandingkan orang-orang yang tidak berilmu. Dan Allah Mahateliti terhadap niat, cara, dan tujuan dari apa yang kamu kerjakan, baik persoalan dunia maupun akhirat.",
+                        "long": "Ayat ini memberikan penjelasan bahwa jika di antara kaum Muslimin ada yang diperintahkan Rasulullah saw berdiri untuk memberikan kesempatan kepada orang tertentu untuk duduk, atau mereka diperintahkan pergi dahulu, hendaklah mereka berdiri atau pergi, karena beliau ingin memberikan penghormatan kepada orang-orang itu, ingin menyendiri untuk memikirkan urusan-urusan agama, atau melaksanakan tugas-tugas yang perlu diselesaikan dengan segera.\n\nDari ayat ini dapat dipahami hal-hal sebagai berikut:\n\n1.Para sahabat berlomba-lomba mencari tempat dekat Rasulullah saw agar mudah mendengar perkataan yang beliau sampaikan kepada mereka.\n\n2.Perintah memberikan tempat kepada orang yang baru datang merupakan anjuran, jika memungkinkan dilakukan, untuk menimbulkan rasa persahabatan antara sesama yang hadir.\n\n3.Sesungguhnya tiap-tiap orang yang memberikan kelapangan kepada hamba Allah dalam melakukan perbuatan-perbuatan baik, maka Allah akan memberi kelapangan pula kepadanya di dunia dan di akhirat.\n\nMemberi kelapangan kepada sesama Muslim dalam pergaulan dan usaha mencari kebajikan dan kebaikan, berusaha menyenangkan hati saudara-saudaranya, memberi pertolongan, dan sebagainya termasuk yang dianjurkan Rasulullah saw. Beliau bersabda:\n\nAllah selalu menolong hamba selama hamba itu menolong saudaranya. (Riwayat Muslim dari Abu Hurairah)\n\nBerdasarkan ayat ini para ulama berpendapat bahwa orang-orang yang hadir dalam suatu majelis hendaklah mematuhi ketentuan-ketentuan yang berlaku dalam majelis itu atau mematuhi perintah orang-orang yang mengatur majelis itu.\n\nJika dipelajari maksud ayat di atas, ada suatu ketetapan yang ditentukan ayat ini, yaitu agar orang-orang menghadiri suatu majelis baik yang datang pada waktunya atau yang terlambat, selalu menjaga suasana yang baik, penuh persaudaraan dan saling bertenggang rasa. Bagi yang lebih dahulu datang, hendaklah memenuhi tempat di muka, sehingga orang yang datang kemudian tidak perlu melangkahi atau mengganggu orang yang telah lebih dahulu hadir. Bagi orang yang terlambat datang, hendaklah rela dengan keadaan yang ditemuinya, seperti tidak mendapat tempat duduk. Inilah yang dimaksud dengan sabda Nabi saw:\n\nJanganlah seseorang menyuruh temannya berdiri dari tempat duduknya, lalu ia duduk di tempat tersebut, tetapi hendaklah mereka bergeser dan berlapang-lapang.\" (Riwayat Muslim dari Ibnu 'Umar)\n\nAkhir ayat ini menerangkan bahwa Allah akan mengangkat derajat orang yang beriman, taat dan patuh kepada-Nya, melaksanakan perintah-Nya, menjauhi larangan-Nya, berusaha menciptakan suasana damai, aman, dan tenteram dalam masyarakat, demikian pula orang-orang berilmu yang menggunakan ilmunya untuk menegakkan kalimat Allah. Dari ayat ini dipahami bahwa orang-orang yang mempunyai derajat yang paling tinggi di sisi Allah ialah orang yang beriman dan berilmu. Ilmunya itu diamalkan sesuai dengan yang diperintahkan Allah dan rasul-Nya.\n\nKemudian Allah menegaskan bahwa Dia Maha Mengetahui semua yang dilakukan manusia, tidak ada yang tersembunyi bagi-Nya. Dia akan memberi balasan yang adil sesuai dengan perbuatan yang telah dilakukannya. Perbuatan baik akan dibalas dengan surga dan perbuatan jahat dan terlarang akan dibalas dengan azab neraka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5116,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 544,
+                    "manzil": 7,
+                    "ruku": 477,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَاجَيْتُمُ الرَّسُولَ فَقَدِّمُوا بَيْنَ يَدَيْ نَجْوَاكُمْ صَدَقَةً ۚ ذَٰلِكَ خَيْرٌ لَّكُمْ وَأَطْهَرُ ۚ فَإِن لَّمْ تَجِدُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhal lazeena aamanooo izaa naajitumur Rasoola faqaddimoo baina yadai najwaakum sadaqah; zaalika khairul lakum wa athar; fa il lam tajidoo fa innal laaha ghafoorur Raheem"
+                    }
+                },
+                "translation": {
+                    "en": "O you who have believed, when you [wish to] privately consult the Messenger, present before your consultation a charity. That is better for you and purer. But if you find not [the means] - then indeed, Allah is Forgiving and Merciful.",
+                    "id": "Wahai orang-orang yang beriman! Apabila kamu mengadakan pembicaraan khusus dengan Rasul, hendaklah kamu mengeluarkan sedekah (kepada orang miskin) sebelum (melakukan) pembicaraan itu. Yang demikian itu lebih baik bagimu dan lebih bersih. Tetapi jika kamu tidak memperoleh (yang akan disedekahkan) maka sungguh, Allah Maha Pengampun, Maha Penyayang."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5116",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5116.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5116.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada ayat sebelumnya Allah memerintahkan agar orang-orang beriman mengembangkan adab yang baik, yaitu saling memberikan tempat dalam pertemuan tanda saling menghormati dan menumbuhkan persaudaraan. Allah pun meninggikan derajat orang yang beriman, berilmu, dan beramal dengan ilmunya itu. Pada ayat ini, Allah menerangkan bahwa para sahabat yang ingin menghadap Nabi diperintahkan mengembangkan adab yang baik, yaitu bersedekah terlebih dahulu guna menyucikan dirinya. Wahai orang-orang yang beriman! Apabila kamu mengadakan pembicaraan khusus dengan Rasul untuk berkonsultasi tentang masalah yang sangat pribadi, hendaklah kamu mengeluarkan sedekah (kepada orang miskin) agar diri kamu menjadi bersih dari penyakit kikir, juga untuk mengurangi beban beliau menerima orang-orang yang tidak berkepentingan, sebelum (melakukan) pembicaraan itu. Yang demikian itu, bersedekah kepada fakir miskin sebelum berkonsultasi dengan Nabi, lebih baik bagimu, karena kamu berbagi dan peduli dengan orang-orang kecil dan lebih bersih, karena kamu membuang sifat kikir dan cinta harta yang berlebihan. Tetapi jika kamu tidak memperoleh harta atau uang (yang akan disedekahkan) sebelum bertemu Nabi karena kemiskinan, maka sungguh, Allah Maha Pengampun kepada orang yang hendak bersedekah, tetapi tidak sanggup, Maha Penyayang kepada hamba yang baik hati.",
+                        "long": "Menurut riwayat Ibnu Abi hatim dari Ibnu 'Abbas, diterangkan bahwa para sahabat banyak yang ingin bertanya kepada Rasulullah saw, sehingga membebaninya. Untuk meringankan bebannya, Allah menurunkan ayat ini, dengan memerintahkan bersedekah sebelum menghadap Rasulullah.\n\nAyat ini memerintahkan kepada orang-orang yang beriman apabila mereka ingin berbicara secara rahasia dengan Rasulullah saw tentang sesuatu hal yang penting, hendaklah bersedekah sebelum melakukan pembicaraan itu. Perintah itu untuk membuktikan kebesaran Rasulullah dengan mengagungkannya, dan mendatangkan manfaat kepada fakir-miskin. Hal ini juga untuk membedakan antara orang yang benar-benar cinta kepada Rasulullah dan mengharapkan pelajaran darinya, dengan orang munafik yang berbeda perkataan dan perbuatannya. Di sisi lain, perintah ini mencegah orang yang datang beramai-ramai kepada Rasulullah tanpa keperluan yang sangat penting sehingga menyibukkan beliau.\n\nMenurut Abu Muslim, Allah memerintahkan demikian karena orang-orang munafik yang mulutnya menyatakan iman, sedang hatinya tetap kafir. Menyatakan bahwa mereka masuk Islam dengan sebenar-benarnya. Untuk menguji pernyataan itu, maka turun perintah untuk bersedekah lebih dahulu sebelum menghadap Rasulullah.\n\nFaedah memberi sedekah ialah mendapat pahala yang berlipat-ganda dari Allah, membersihkan dan menyucikan harta yang dimiliki, serta membersihkan jiwa dari keinginan mengumpulkan harta dan menjadikannya sebagai tujuan hidup. Suka bersedekah dapat mengurangi kesengsaraan orang-orang fakir dan dapat pula meninggikan kalimat Allah. Harta yang disedekahkan itu langsung diberikan kepada orang-orang yang berhak menerimanya, tidak diberikan kepada Nabi saw, karena di antara tujuan sedekah itu ialah mengagungkan Rasulullah saw dan meringankan beban hidup fakir-miskin.\n\nPada akhir ayat ini diterangkan bahwa jika orang yang akan menghadap Rasulullah saw itu tidak mempunyai sesuatu yang akan disedekahkan, sedangkan ia memerlukan sekali bertemu dengan beliau, maka Allah memberikan keringanan kepadanya dengan tidak mengharuskannya bersedekah.\n\nSedekah yang dimaksud di sini adalah sedekah sunah, bukan sedekah wajib, dan jumlahnya pun tidak ditentukan, hanya menurut keikhlasan dan kesanggupan yang memberi. Yang ditekankan ayat ini ialah agar kaum Muslimin suka bersedekah, tidak kikir, dan sadar bahwa harta yang mereka peroleh itu semata-mata sebagai alat untuk mencari keridaan Allah. Keharusan memberi sedekah dalam ayat ini untuk menguji kemauan orang-orang munafik yang baru masuk Islam."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5117,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 544,
+                    "manzil": 7,
+                    "ruku": 477,
+                    "hizbQuarter": 217,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَأَشْفَقْتُمْ أَن تُقَدِّمُوا بَيْنَ يَدَيْ نَجْوَاكُمْ صَدَقَاتٍ ۚ فَإِذْ لَمْ تَفْعَلُوا وَتَابَ اللَّهُ عَلَيْكُمْ فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا اللَّهَ وَرَسُولَهُ ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+                    "transliteration": {
+                        "en": "'A-ashfaqtum an tuqaddimoo baina yadai najwaakum sadaqaat; fa-iz lam taf'aloo wa taabal laahu 'alaikum fa aqeemus Salaata wa aatuz Zakaata wa atee'ul laaha wa rasoolah; wallaahu khabeerum bimaa ta'maloon"
+                    }
+                },
+                "translation": {
+                    "en": "Have you feared to present before your consultation charities? Then when you do not and Allah has forgiven you, then [at least] establish prayer and give zakah and obey Allah and His Messenger. And Allah is Acquainted with what you do.",
+                    "id": "Apakah kamu takut akan (menjadi miskin) karena kamu memberikan sedekah sebelum (melakukan) pembicaraan dengan Rasul? Tetapi jika kamu tidak melakukannya dan Allah telah memberi ampun kepadamu, maka laksanakanlah salat, dan tunaikanlah zakat serta taatlah kepada Allah dan Rasul-Nya! Dan Allah Mahateliti terhadap apa yang kamu kerjakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5117",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5117.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5117.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Melalui ayat ini Allah memberi dispensasi kebolehan menghadap Rasulullah tanpa bersedekah terlebih dahulu. Allah berfirman, “Apakah kamu takut menjadi miskin karena kamu memberikan sedekah sebelum melakukan pembicaraan khusus dengan Rasul? Jika kamu tidak mampu melakukannya, yakni bersedekah kepada fakir miskin sebelum berjumpa dengan Nabi dan Allah telah memberi ampun kepadamu karena kamu beristigfar dan benar-benar tidak mampu bersedekah, kamu diberikan dispensasi untuk berjumpa dengan beliau tanpa bersedekah terlebih dahulu kepada fakir miskin, maka sebagai kompensasinya, laksanakanlah salat, dan tunaikanlah zakat serta taatlah kepada Allah dan Rasul-Nya! Karena salat menyempurnakan ketaatan kepada Allah dan menjauhkan kamu dari perbuatan keji dan mungkar, sedangkan zakat menyucikan jiwa dan harta kamu. Dan Allah Mahateliti terhadap niat, cara dan tujuan dari apa yang kamu kerjakan, baik persoalan dunia maupun akhirat.”",
+                        "long": "Menurut riwayat Ibnu Abi hatim dari thalhah dari Ibnu 'Abbas dikatakan bahwa setelah turun ayat ke 12 di atas, maka kebanyakan orang menahan dirinya bertanya kepada Rasulullah karena keharusan membayar sedekah. Oleh karena itu, turunlah ayat ini sebagai teguran kepada orang-orang yang tidak mau bertanya kepada Rasulullah saw karena adanya keharusan membayar sedekah.\n\nAyat ini menegur orang-orang yang menahan dirinya untuk tidak menemui Rasulullah karena adanya keharusan membayar sedekah lebih dahulu. Dalam ayat ini dinyatakan, \"Apakah kamu tidak datang menghadap Rasulullah saw karena takut miskin lantaran keharusan membayar sedekah lebih dahulu, padahal kamu sangat memerlukan penjelasan dan keterangannya?\"\n\nAllah lalu memberikan keringanan kepada orang-orang itu dengan me-nasakh ayat 12 dengan ayat 13, terutama dengan menyatakan, \"Seandainya kamu sekalian benar-benar tidak sanggup melaksanakan anjuran untuk bersedekah sebelum menghadap Rasulullah saw, maka kamu sekalian boleh menghadap untuk menanyakan sesuatu yang diperlukan penjelasannya, tanpa memberi sedekah lebih dahulu. Laksanakanlah apa yang telah diterangkan ini dengan sebaik-baiknya.\"\n\nKemudian Allah mengingatkan kewajiban lainnya bagi kaum Muslimin yang harus dilaksanakan, yaitu agar mereka mendirikan salat terus-menerus menurut waktu yang telah ditentukan, jangan sekali-kali meninggalkannya walau dalam keadaan bagaimanapun. Salat sangat besar faedahnya bagi manusia, yaitu untuk menyempurnakan penghambaan diri kepada Allah, dan memurnikan ketaatan dan ketundukan hanya kepada-Nya, tidak kepada yang lain. Salat itu dapat menghilangkan dan mengikis keinginan-keinginan untuk mengerjakan perbuatan keji dan mungkar. \n\nKaum Muslimin juga diperintahkan untuk mengeluarkan zakat jika telah memenuhi syarat-syaratnya. Zakat itu bertujuan untuk menyucikan jiwa, menghilangkan sifat-sifat kikir yang ada dalam hati, dan membantu penderitaan orang miskin. Kemudian ditegaskan agar kaum Muslimin menaati perintah-perintah Allah dan rasul-Nya dan menghentikan segala yang dilarang-Nya.\n\nPada akhir ayat ini, Allah memperingatkan manusia agar selalu berhati-hati terhadap semua perbuatan dan keinginan hatinya. Sebab, Allah mengetahui semuanya, tidak ada yang luput dari pengetahuan-Nya. Berdasarkan pengetahuan-Nya itu, Dia memberi balasan yang setimpal kepada setiap manusia. Allah berfirman:\n\nMaka barang siapa mengerjakan kebaikan seberat zarah, niscaya dia akan melihat (balasan)nya, dan barang siapa mengerjakan kejahatan seberat zarah, niscaya dia akan melihat (balasan)nya. (az-Zalzalah/99: 7-8)\n\nDan Firman Allah:\n\n(Yaitu) bahwa seseorang yang berdosa tidak akan memikul dosa orang lain, dan bahwa manusia hanya memperoleh apa yang telah diusahakannya, dan sesungguhnya usahanya itu kelak akan diperlihatkan (kepadanya), kemudian akan diberi balasan kepadanya dengan balasan yang paling sempurna. (an-Najm/53: 38-41)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5118,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 544,
+                    "manzil": 7,
+                    "ruku": 478,
+                    "hizbQuarter": 218,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "۞ أَلَمْ تَرَ إِلَى الَّذِينَ تَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِم مَّا هُم مِّنكُمْ وَلَا مِنْهُمْ وَيَحْلِفُونَ عَلَى الْكَذِبِ وَهُمْ يَعْلَمُونَ",
+                    "transliteration": {
+                        "en": "Alam tara ilal lazeena tawallaw qawman ghadibal laahu 'alaihim maa hum minkum wa laa minhum wa yahlifoona 'alal kazibi wa hum ya'lamoon"
+                    }
+                },
+                "translation": {
+                    "en": "Have you not considered those who make allies of a people with whom Allah has become angry? They are neither of you nor of them, and they swear to untruth while they know [they are lying].",
+                    "id": "Tidakkah engkau perhatikan orang-orang (munafik) yang menjadikan suatu kaum yang telah dimurkai Allah sebagai sahabat? Orang-orang itu bukan dari (kaum) kamu dan bukan dari (kaum) mereka. Dan mereka bersumpah atas kebohongan, sedang mereka mengetahuinya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5118",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5118.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5118.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada ayat sebelumnya diterangkan kebiasaan orang-orang beriman yang akan menghadap Rasulullah, yaitu bersedekah kepada kaum duafa sebelum menghadap Nabi. Pada ayat ini diterangkan kebiasaan orang-orang munafik yang menyembunyikan kekafiran dalam memperlakukan Nabi dan larangan berteman akrab dengan orang-orang yang memusuhi Islam. Apakah engkau Muhammad, tidak memperhatikan orang-orang munafik di Madinah yang secara lisan menyatakan beriman kepada engkau, tetapi faktanya mereka adalah orang-orang yang menjadikan suatu kaum yang telah dimurkai Allah, yaitu kaum Yahudi di Madinah, sebagai sahabat? Orang-orang munafik itu bukan dari kaum kamu, yakni orang-orang beriman yang benar sebagaimana pengakuan mereka. Orang-orang munafik mengaku beriman untuk mengambil hati orang-orang beriman saja; dan bukan dari kaum mereka, golongan Yahudi yang benar. Mereka mengaku Yahudi untuk memperoleh perlindungan dari Yahudi. Dan mereka, orang-orang munafik itu tidak segan-segan bersumpah dengan menyebut nama Allah bahwa mereka beriman kepada Allah dan Rasul-Nya, padahal sumpah mereka itu atas kebohongan, yakni bersumpah beriman, padahal tidak beriman; sedangkan mereka, orang-orang munafik itu, mengetahui kebohongan-nya.",
+                        "long": "Allah memerintahkan kaum Muslimin agar memperhatikan dengan seksama orang-orang munafik yang menjadikan orang-orang Yahudi sebagai teman setia mereka, dan mereka menyampaikan kepada orang-orang Yahudi rahasia-rahasia yang sering mereka dengarkan dari Nabi saw dan kaum Muslimin. Bila bertemu dengan orang-orang yang beriman, mereka menyatakan keimanan mereka, serta berjanji akan ikut berdakwah dan berjuang menegakkan kalimat Allah. Akan tetapi, bila mereka bertemu dengan orang-orang Yahudi, mereka menggambarkan kejelekan kaum Muslimin dan berjanji bersama-sama akan menghancurkan Islam dan kaum Muslimin. Firman Allah:\n\nDan di antara manusia ada yang berkata, \"Kami beriman kepada Allah dan hari akhir,\" padahal sesungguhnya mereka itu bukanlah orang-orang yang beriman. Mereka menipu Allah dan orang-orang yang beriman, padahal mereka hanyalah menipu diri sendiri tanpa mereka sadari. Dalam hati mereka ada penyakit, lalu Allah menambah penyakitnya itu; dan mereka mendapat azab yang pedih, karena mereka berdusta. (al-Baqarah/2: 8-10)\n\nMenurut riwayat Ahmad dan al-hakim yang diterima dari as-Suddi dari Ibnu 'Abbas, bahwa ayat ini diturunkan berhubungan dengan 'Abdullah bin Nabtal, seorang munafik yang sering menyampaikan rahasia-rahasia kaum Muslimin kepada orang-orang Yahudi. Pada suatu hari, Rasulullah sedang duduk di rumahnya, kemudian beliau menyampaikan kepada para sahabat yang duduk di sekitar beliau, \"Akan datang ke tempatmu ini seorang yang pandangannya seperti pandangan setan. Jika ia datang nanti, janganlah kalian berbicara dengannya.\" Tidak berapa lama kemudian, datanglah seseorang, yaitu 'Abdullah bin Nabtal, dan Rasulullah berkata kepadanya, \"Mengapa kamu beserta teman-teman kamu itu mencaci-makiku dan sahabat-sahabatku?\" Orang itu menjawab, \"Akan aku panggil sahabat-sahabatku untuk membuktikan ketidakbenaran tuduhan itu.\" Setelah ia dan teman-temannya sampai di hadapan Rasulullah saw, mereka bersumpah dengan menyebut nama Allah, bahwa mereka semua tidak pernah melakukan seperti apa yang dituduhkan itu. \n\nAllah menegaskan bahwa orang-orang munafik bukanlah orang mukmin yang benar, sebagaimana pengakuan mereka. Mereka mengaku beriman semata-mata untuk mengambil hati orang-orang yang beriman saja, dan menjaga hubungan baik dengan mereka. Orang-orang munafik itu juga tidak termasuk golongan Yahudi yang benar. Mereka mengaku Yahudi semata-mata untuk mengambil hati orang-orang Yahudi, sehingga memperoleh perlindungan dari mereka. Dengan cara bermuka dua itu, mereka menduga akan dapat menghindarkan diri dari peperangan yang terjadi antara kaum Muslimin dan orang-orang kafir, termasuk di dalamnya orang Yahudi. Allah berfirman:\n\nMereka dalam keadaan ragu antara yang demikian (iman atau kafir), tidak termasuk kepada golongan ini (orang beriman) dan tidak (pula) kepada golongan itu (orang kafir). Barang siapa dibiarkan sesat oleh Allah, maka kamu tidak akan mendapatkan jalan (untuk memberi petunjuk) baginya. (an-Nisa'/4: 143)\n\nDiterangkan bahwa orang-orang munafik itu tidak segan-segan bersumpah dengan menyebut nama Allah untuk meyakinkan orang-orang yang beriman dan menyatakan bahwa mereka benar-benar beriman kepada Allah dan Rasul-Nya. Demikian pula bila mereka bertemu dengan orang-orang Yahudi, mereka bersumpah pula bahwa mereka adalah teman setia dan berjanji akan saling membantu dalam menghadapi orang-orang Islam. Orang-orang munafik itu mengetahui benar bahwa perbuatan mereka itu adalah tidak baik dan terlarang"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5119,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 544,
+                    "manzil": 7,
+                    "ruku": 478,
+                    "hizbQuarter": 218,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
+                    "transliteration": {
+                        "en": "A'addal laahu lahum 'azaaban shadeedan innahum saaa'a maa kaanoo ya'maloon"
+                    }
+                },
+                "translation": {
+                    "en": "Allah has prepared for them a severe punishment. Indeed, it was evil that they were doing.",
+                    "id": "Allah telah menyediakan azab yang sangat keras bagi mereka. Sungguh, betapa buruknya apa yang telah mereka kerjakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5119",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5119.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5119.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah telah menyediakan azab yang sangat keras bagi mereka, orang-orang munafik, yaitu berada di dalam kerak neraka. Sungguh, betapa buruknya apa yang telah mereka kerjakan di dunia, yaitu menipu Allah, Rasulullah, dan orang-orang beriman, padahal hakikatnya mereka menipu diri mereka sendiri.",
+                        "long": "Pada ayat ini diterangkan bahwa karena kemunafikan itu, Allah menyediakan bagi mereka azab yang sangat berat. Dari ayat ini dapat dipahami bahwa kemunafikan itu termasuk perbuatan buruk, membahayakan masyarakat, dan dosa besar. Orang-orang munafik itu menipu dan membeberkan rahasia-rahasia kaum Muslimin kepada musuh-musuh mereka, yaitu orang-orang Yahudi dan orang-orang musyrik Mekah. Tindakan itu dapat mengakibatkan kehancuran agama Islam dan kaum Muslimin. Allah menyediakan bagi mereka di akhirat nanti azab neraka sebagai hukuman atas perbuatan mereka di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5120,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 544,
+                    "manzil": 7,
+                    "ruku": 478,
+                    "hizbQuarter": 218,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَن سَبِيلِ اللَّهِ فَلَهُمْ عَذَابٌ مُّهِينٌ",
+                    "transliteration": {
+                        "en": "Ittakhazooo aymaanahum junnatan fasaddoo 'an sabeelil laahi falahum 'azaabum muheen"
+                    }
+                },
+                "translation": {
+                    "en": "They took their [false] oaths as a cover, so they averted [people] from the way of Allah, and for them is a humiliating punishment.",
+                    "id": "Mereka menjadikan sumpah-sumpah mereka sebagai perisai, lalu mereka menghalang-halangi (manusia) dari jalan Allah; maka bagi mereka azab yang menghinakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5120",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5120.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5120.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menjelaskan salah satu karakter busuk orang-orang munafik, yaitu: Mereka menjadikan sumpah-sumpah mereka, yakni bersumpah dengan nama Allah bahwa mereka beriman kepada Allah dan Rasul-Nya dan bersedia berjihad mengharumkan Islam, padahal sumpah itu hanyalah sebagai perisai untuk menutupi kekafiran mereka, bahkan untuk menutupi kebencian mereka terhadap Islam dan kaum muslim; lalu mereka menghalang-halangi manusia dari jalan Allah, bekerja sama dengan kaum Yahudi agar kabilah-kabilah Arab itu tidak masuk Islam; maka bagi mereka azab yang menghinakan mereka di dalam kerak neraka.",
+                        "long": "Dalam ayat ini diterangkan tujuan mereka melakukan kemunafikan itu. Dengan berdusta yang dikuatkan dengan sumpah, banyak kaum Muslimin yang mempercayai mereka. Karena disangka orang yang benar-benar beriman, sehingga terhindar dari pembalasan atau pengusiran oleh kaum Muslimin.\n\nDengan tindakan itu, mereka mendapat keuntungan dari kaum Muslimin, yang mempercayai perkataan mereka, sehingga membela mereka. Dengan jalan demikian, mereka dapat menghalang-halangi orang lain memeluk agama Islam dengan cara menjelek-jelekkan Islam dan kaum Muslimin. Bahkan mereka dapat menimbulkan ketakutan dan keengganan pada hati kaum Muslimin untuk ikut berperang bersama Rasulullah. Dalam salah satu firman-Nya, Allah menjelaskan sikap dari orang-orang munafik:\n\nOrang-orang yang ditinggalkan (tidak ikut berperang), merasa gembira dengan duduk-duduk diam sepeninggal Rasulullah. Mereka tidak suka berjihad dengan harta dan jiwa mereka di jalan Allah dan mereka berkata, \"Janganlah kamu berangkat (pergi berperang) dalam panas terik ini.\" Katakanlah (Muhammad), \"Api neraka Jahanam lebih panas,\" jika mereka mengetahui. (at-Taubah/9: 81)\n\nKarena dosa besar yang telah mereka lakukan, maka sudah sepantasnya orang-orang munafik menerima siksa yang menghinakan di dunia dan di akhirat, sebagai balasan perbuatan mereka itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5121,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 544,
+                    "manzil": 7,
+                    "ruku": 478,
+                    "hizbQuarter": 218,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَّن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا ۚ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+                    "transliteration": {
+                        "en": "Lan tughniya 'anhum amwaaluhum wa laaa awladuhum minal laahi shai'aa; ulaaa 'ika As haabun Naari hum feehaa khaalidoon"
+                    }
+                },
+                "translation": {
+                    "en": "Never will their wealth or their children avail them against Allah at all. Those are the companions of the Fire; they will abide therein eternally",
+                    "id": "Harta benda dan anak-anak mereka tidak berguna sedikit pun (untuk menolong) mereka dari azab Allah. Mereka itulah penghuni neraka, mereka kekal di dalamnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5121",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5121.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5121.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menjelaskan bahwa harta dan anak-anak tidak dapat menyelamatkan mereka dari azab yang menghinakan itu. Harta benda yang diperoleh dengan menghalalkan segala cara dan anak-anak mereka yang mendorong mereka mencari harta dengan cara seperti itu, ketika menghadap Allah tidak berguna sedikit pun untuk menolong mereka dari azab Allah, karena yang akan menyelamatkan itu iman dan amal saleh, sedangkan harta dan anak hanya penopang. Mereka itulah penghuni neraka, karena keputusan mereka waktu hidup memilih tidak beriman, mereka kekal di dalamnya tanpa ada harapan keluar dari neraka.",
+                        "long": "Dalam ayat ini ditegaskan bahwa harta dan anak-anak orang munafik tidak dapat membantu menyelamatkan dan menghindarkan diri mereka dari azab Allah. Ayat ini menggambarkan bahwa watak dan sifat orang-orang munafik adalah merasa bangga mempunyai anak-anak dan harta yang banyak, seakan-akan apa yang mereka miliki itu dapat membela dan melepaskan mereka dari malapetaka yang mengancam mereka. Allah berfirman:\n\nDan mereka berkata, \"Kami memiliki lebih banyak harta dan anak-anak (daripada kamu) dan kami tidak akan diazab.\" (Saba'/34: 35)\n\nKarena mendapat nikmat yang besar di dunia, maka orang-orang munafik itu merasa bahwa mereka adalah orang yang dikasihi Allah dan tidak akan diazab di akhirat. Menurut mereka, gambaran kehidupan akhirat bagi seseorang adalah kehidupan dunianya. Jika seseorang berbahagia dalam kehidupan dunia, tentu mereka berbahagia pula dalam kehidupan akhirat. Sebaliknya jika mereka sengsara dalam kehidupan dunia, tentu akan sengsara pula dalam kehidupan akhirat. Dugaan mereka itu keliru, karena tujuan hidup yang utama ialah mencari keridaan Allah. Selama seorang mencari keridaan Allah dalam kehidupannya, selama itu pula ia dilindungi-Nya, baik ia terlihat hidup berkecukupan atau tidak.\n\nPada akhir ayat ini ditegaskan bahwa orang-orang yang menyatakan harta dan anak-anak mereka dapat digunakan untuk menghindarkan diri dari azab Allah akan menjadi penghuni neraka di akhirat. Mereka kelak hidup di dalamnya dengan penuh penderitaan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5122,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 544,
+                    "manzil": 7,
+                    "ruku": 478,
+                    "hizbQuarter": 218,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَ يَبْعَثُهُمُ اللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُ كَمَا يَحْلِفُونَ لَكُمْ ۖ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَيْءٍ ۚ أَلَا إِنَّهُمْ هُمُ الْكَاذِبُونَ",
+                    "transliteration": {
+                        "en": "Yawma yab'asuhumul laahujamee'an fa yahlifoona lahoo kamaa yahlifoona lakum wa yahsaboona annahum 'alaa shai'; alaaa innahum humul kaaziboon"
+                    }
+                },
+                "translation": {
+                    "en": "On the Day Allah will resurrect them all, and they will swear to Him as they swear to you and think that they are [standing] on something. Unquestionably, it is they who are the liars.",
+                    "id": "(Ingatlah) pada hari (ketika) mereka semua dibangkitkan Allah, lalu mereka bersumpah kepada-Nya (bahwa mereka bukan orang musyrik) sebagaimana mereka bersumpah kepadamu; dan mereka menyangka bahwa mereka akan memperoleh sesuatu (manfaat). Ketahuilah, bahwa mereka orang-orang pendusta."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5122",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5122.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5122.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada hari Kiamat nanti, ketika mereka semua, orang-orang munafik, dibangkitkan Allah dari alam kubur menuju mahsyar, lalu mereka bersumpah kepada-Nya bahwa mereka orang-orang yang benar-benar beriman kepada Allah dan Rasul-Nya, bukan orang-orang kafir, sebagaimana mereka bersumpah kepadamu di dunia bahwa mereka orang-orang yang benar-benar beriman kepada Allah dan Rasul-Nya, padahal sumpah mereka itu atas kebohongan, yakni bersumpah beriman, padahal sejatinya tidak beriman; dan mereka menyangka bahwa mereka dengan bersumpah palsu itu akan memperoleh sesuatu manfaat, dikeluarkan dari neraka.Ketahuilah, bahwa mereka orang-orang pendusta baik di dunia di hadapan Rasulullah maupun di akhirat di hadapan Allah.",
+                        "long": "Orang-orang yang menyatakan bahwa harta dan anak-anak mereka dapat dipergunakan untuk menghindarkan diri dari azab Allah di akhirat, mereka juga berdusta di hadapan Allah ketika hari perhitungan nanti. Mereka bersumpah bahwa mereka benar-benar termasuk orang-orang beriman, sebagaimana mereka telah bersumpah sewaktu mereka hidup di dunia, seakan-akan mereka dapat mengelabui Allah dengan pengakuan tersebut. Mereka mengira bahwa dengan berdusta seperti itu, mereka akan dapat menghindarkan diri dari azab yang akan ditimpakan kepada mereka.\n\nAyat ini mengisyaratkan bahwa watak dan sifat seorang manusia selama hidup di dunia akan diperlihatkan Allah di akhirat. Jika watak, sifat, dan tabiat mereka baik selama hidup di dunia, maka hal itu akan tampak baik di akhirat. Sebaliknya jika watak, sifat, dan tabiat mereka jelek selama hidup di dunia, hal itu akan tampak jelek di akhirat. Di dunia mereka masih dapat mengelabui mata manusia, sedangkan di akhirat, mereka langsung berhadapan dengan Allah yang Maha Mengetahui lagi Mahakuasa.\n\nDalam ayat-ayat yang lain, Allah menerangkan sikap orang-orang munafik di akhirat, yaitu:\n\nDan apabila dikatakan kepada mereka, \"Janganlah berbuat kerusakan di bumi!\" Mereka menjawab, \"Sesungguhnya kami justru orang-orang yang melakukan perbaikan.\" Ingatlah, sesungguhnya merekalah yang berbuat kerusakan, tetapi mereka tidak menyadari. (al-Baqarah/2: 11-12)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5123,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 544,
+                    "manzil": 7,
+                    "ruku": 478,
+                    "hizbQuarter": 218,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَأَنسَاهُمْ ذِكْرَ اللَّهِ ۚ أُولَٰئِكَ حِزْبُ الشَّيْطَانِ ۚ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ",
+                    "transliteration": {
+                        "en": "Istahwaza 'alaihimush shaitaanu fa ansaahum zikral laah; ulaaa'ika hizbush shaitaaan; alaaa innaa hizbash shaitaani humul khaasiroon"
+                    }
+                },
+                "translation": {
+                    "en": "Satan has overcome them and made them forget the remembrance of Allah. Those are the party of Satan. Unquestionably, the party of Satan - they will be the losers.",
+                    "id": "Setan telah menguasai mereka, lalu menjadikan mereka lupa mengingat Allah; mereka itulah golongan setan. Ketahuilah, bahwa golongan setan itulah golongan yang rugi."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5123",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5123.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5123.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Orang-orang munafik itu menjadi pendusta karena diri mereka sepenuhnya dikendalikan Iblis. Setan telah menguasai diri, pikiran, perasaan, dan ruhani mereka, sehingga cahaya Allah terhalang masuk ke dalam pikiran, perasaan, dan ruhani mereka itu. Lalu setan dengan cerdik menghadang dari depan, belakang, kanan, dan kiri, serta menjadikan mereka lupa mengingat Allah; mereka itulah golongan setan, yaitu manusia yang akal dan nuraninya dikuasai setan. Ketahuilah dengan perenungan yang mendalam bahwa golongan setan itulah golongan yang rugi, karena akal sehat dan nuraninya yang jernih tidak digunakan untuk berpikir secara mendalam, masuk akal dan sistematis dalam menyikapi ajaran Allah sehingga akal dan hati mereka tertutup dari iman.",
+                        "long": "Allah menerangkan sebab-sebab orang-orang munafik di atas dimasukkan ke dalam api neraka adalah karena hati dan pikiran mereka telah dipengaruhi oleh bisikan-bisikan setan, sehingga mereka tidak dapat lagi mengingat Allah, mengikuti perintah dan menjauhi larangan-Nya. Yang baik menurut pikiran mereka ialah apa yang menurut nafsu dan keinginan mereka baik. Oleh karena itu, mereka bersumpah untuk menarik simpati orang lain, seakan-akan yang mereka ucapkan itu adalah suatu kebenaran. Firman Allah:\n\nDan demikianlah untuk setiap nabi Kami menjadikan musuh yang terdiri dari setan-setan manusia dan jin, sebagian mereka membisikkan kepada sebagian yang lain perkataan yang indah sebagai tipuan. Dan kalau Tuhanmu menghendaki, niscaya mereka tidak akan melakukannya, maka biarkanlah mereka bersama apa (kebohongan) yang mereka ada-adakan. (al-An'am/6: 112)\n\nPada akhir ayat ini ditegaskan bahwa orang-orang munafik yang diterangkan di atas adalah tentara dan pesuruh setan. Mereka berkumpul dan mengadakan perundingan rahasia untuk mengerjakan perbuatan dosa dan menimbulkan permusuhan di kalangan kaum Muslimin. Tujuan mereka melakukan usaha yang demikian adalah untuk menuruti hawa nafsu mereka. Tentara dan pesuruh setan itu adalah orang-orang yang durhaka kepada Allah. Orang-orang yang durhaka kepada Allah pasti akan binasa dan hancur, serta di akhirat akan dimasukkan ke dalam neraka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5124,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 544,
+                    "manzil": 7,
+                    "ruku": 478,
+                    "hizbQuarter": 218,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ أُولَٰئِكَ فِي الْأَذَلِّينَ",
+                    "transliteration": {
+                        "en": "Innal lazeena yuhaaaddoonal laaha wa Rasoolahooo ulaaa'ika fil azalleen"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, the ones who oppose Allah and His Messenger - those will be among the most humbled.",
+                    "id": "Sesungguhnya orang-orang yang menentang Allah dan Rasul-Nya, mereka termasuk orang-orang yang sangat hina."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5124",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5124.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5124.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada ayat sebelumnya disebutkan bahwa orang-orang munafik itu membohongi Allah dan Rasul-Nya karena dirinya dikuasai setan sehingga termasuk golongan setan. Sementara itu pada ayat ini disebutkan bahwa sesungguhnya orang-orang yang menentang Allah dan Rasul-Nya dengan tidak beriman atau bersumpah beriman padahal hatinya penuh dengan kekafiran dan menghalangi orang untuk beriman, mereka termasuk orang-orang yang sangat hina, karena karakternya busuk, hipokrit, tidak sportif, bermuka dua dan berpura-pura.",
+                        "long": "Ayat ini menerangkan tentang orang-orang yang menentang Allah, mereka tidak mengindahkan perintah-perintah-Nya, tidak mematuhi larangan-larangan-Nya, dan enggan mengerjakan kewajiban-kewajiban yang telah ditetapkan Allah bagi mereka. Mereka termasuk orang-orang yang hina karena kaum Muslimin akan mengalahkan mereka dengan memerangi dan menawan mereka. Bahkan ada di antara mereka yang diusir dari negeri mereka.\n\nAyat ini mengingatkan kaum Muslimin akan azab Allah yang ditimpakan kepada orang-orang musyrik Mekah berupa kekalahan pada fath Makkah. Akibat Perang Ahzab orang-orang Yahudi diusir dari kota Medinah karena melanggar perjanjian damai dengan Rasulullah saw. Orang-orang yang telah dinyatakan Allah sebagai orang yang hina, tidak dapat dimuliakan oleh siapa pun, sebagaimana tersebut dalam firman-Nya:\n\nYa Tuhan kami, sesungguhnya orang yang Engkau masukkan ke dalam neraka, maka sungguh, Engkau telah menghinakannya, dan tidak ada seorang penolong pun bagi orang yang zalim. (Â'li 'Imran/3: 192)\n\nAyat ke-20 ini merupakan kabar gembira bagi orang-orang yang beriman yang sedang menerima cobaan-cobaan yang sangat berat bahwa mereka akan dapat mengalahkan musuh-musuh mereka dan agama Islam akan berkembang di mana-mana dalam waktu dekat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5125,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 544,
+                    "manzil": 7,
+                    "ruku": 478,
+                    "hizbQuarter": 218,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ",
+                    "transliteration": {
+                        "en": "Katabal laahu la aghlibanna ana wa Rusulee; innal laaha qawiyyun 'Azeez"
+                    }
+                },
+                "translation": {
+                    "en": "Allah has written, \"I will surely overcome, I and My messengers.\" Indeed, Allah is Powerful and Exalted in Might.",
+                    "id": "Allah telah menetapkan, “Aku dan rasul-rasul-Ku pasti menang.” Sungguh, Allah Mahakuat, Mahaperkasa."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5125",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5125.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5125.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah mengingatkan manusia tentang sunah-Nya bahwa Dia telah menetapkan pada kitab induk di Loh Mahfuz bahwa “Aku dan rasul-rasul-Ku pasti menang” dalam melawan kebatilan. Sungguh, Allah Mahakuat, Mahaperkasa menghadapi musuh-musuh-Nya.",
+                        "long": "Allah mengingatkan manusia tentang sunah-Nya yang telah ditetapkan di Lauh Mahfudh dan berlaku di sepanjang masa dan di semua tempat. Sunah-Nya itu ialah mengenai ketetapan Allah dan rasul-Nya yang pasti akan mengalahkan setiap orang yang ingkar kepada-Nya. Di antaranya Allah telah menghancurkan kaum Nuh, kaum Lut, kaum Saleh, Fir'aun serta pengikutnya dengan bermacam-macam cara. Kemenangan seperti itu akan diperoleh pula oleh Nabi Muhammad dan pengikut-pengikutnya, dan juga setiap orang yang benar-benar melaksanakan agama Islam dengan sebaik-baiknya. Ini adalah sunatullah yang berlaku bagi hamba-Nya. Allah berfirman:\n\nDan sungguh, janji Kami telah tetap bagi hamba-hamba Kami yang menjadi rasul, (yaitu) mereka itu pasti akan mendapat pertolongan. Dan sesungguhnya bala tentara Kami itulah yang pasti menang. (as-saffat/37: 171-173)\n\nPada akhir ayat ini ditegaskan lagi bahwa Allah mempunyai kekuasaan yang mutlak, kuasa menolong rasul-Nya dan orang-orang yang beriman, dan mengalahkan orang-orang kafir. Tidak seorang pun di langit maupun di bumi yang sanggup melawan kehendak-Nya. Dia sangat mudah melaksanakan kehendak-Nya. Allah berfirman:\n\nSesungguhnya urusan-Nya apabila Dia menghendaki sesuatu Dia hanya berkata kepadanya, \"Jadilah!\" Maka jadilah sesuatu itu. (Yasin/36: 82)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5126,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 545,
+                    "manzil": 7,
+                    "ruku": 478,
+                    "hizbQuarter": 218,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ ۚ أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ ۖ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ أُولَٰئِكَ حِزْبُ اللَّهِ ۚ أَلَا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ",
+                    "transliteration": {
+                        "en": "Laa tajidu qawmany yu'minoona billaahi wal yawmil aakhiri yuwaaaddoona man haaaddal laaha wa Rasoolahoo wa law kaanooo aabaaa'ahum aw abnaaa'ahum aw ikhwaa nahum aw 'asheeratahum; ulaaa'ika kataba fee quloobihi mul eemaana wa ayyadahum biroohimminhu wa yudkhilu hum jannatin tajree min tahtihal anhaaru khaalideena feehaa; radiyal laahu 'anhum wa radoo 'anh; ulaaa 'ika hizbul laah; alaaa inna hizbal laahi humul muflihoon"
+                    }
+                },
+                "translation": {
+                    "en": "You will not find a people who believe in Allah and the Last Day having affection for those who oppose Allah and His Messenger, even if they were their fathers or their sons or their brothers or their kindred. Those - He has decreed within their hearts faith and supported them with spirit from Him. And We will admit them to gardens beneath which rivers flow, wherein they abide eternally. Allah is pleased with them, and they are pleased with Him - those are the party of Allah. Unquestionably, the party of Allah - they are the successful.",
+                    "id": "Engkau (Muhammad) tidak akan mendapatkan suatu kaum yang beriman kepada Allah dan hari akhirat saling berkasih sayang dengan orang-orang yang menentang Allah dan Rasul-Nya, sekalipun orang-orang itu bapaknya, anaknya, saudaranya atau keluarganya. Mereka itulah orang-orang yang dalam hatinya telah ditanamkan Allah keimanan dan Allah telah menguatkan mereka dengan pertolongan yang datang dari Dia. Lalu dimasukkan-Nya mereka ke dalam surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. Allah rida terhadap mereka dan mereka pun merasa puas terhadap (limpahan rahmat)-Nya. Merekalah golongan Allah. Ingatlah, sesungguhnya golongan Allah itulah yang beruntung."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5126",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5126.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5126.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah lalu menyatakan, “Engkau, Muhammad, tidak akan mendapatkan suatu kaum yang beriman kepada Allah dan hari akhirat saling berkasih sayang dengan orang-orang yang menentang Allah dan Rasul-Nya, sekalipun orang-orang itu bapaknya, anaknya, saudaranya, atau keluarganya.” Mereka itulah orang-orang yang dalam hatinya telah ditanamkan Allah keimanan dan Allah telah menguatkan mereka dengan pertolongan yang datang dari Dia berupa kemauan dan kekuatan batin, kebersihan hati, kemenangan terhadap musuh dan lain-lain. Lalu dimasukkan-Nya mereka ke dalam surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. Allah rida terhadap mereka dan mereka pun merasa puas terhadap (limpahan rahmat)-Nya. Merekalah golongan Allah. Ingatlah, sesungguhnya golongan Allah itulah yang beruntung.",
+                        "long": "Diriwayatkan oleh Ibnu Abi hatim, ath-thabrani, Abu Nu'aim, dan al-Baihaqi dari Ibnu 'Abbas bahwa ia berkata, \"Ayat ini turun berhubungan dengan Abu Ubaidah bin 'Abdillah al-Jarrah, yang mana dalam Perang Badar, selalu ditantang berperang tanding oleh ayahnya, 'Abdullah al-Jarrah. Akan tetapi, ia selalu berusaha menghindarkan diri dari perang tanding itu. Karena terus-menerus dicari dan diburu oleh ayahnya, ia terpaksa melayaninya, sehingga Abu Ubaidah membunuh ayahnya. Maka turunlah ayat ini.\n\nAyat ini menerangkan bahwa sebenarnya orang munafik itu benar-benar kafir, bahkan lebih berbahaya dari orang yang terang-terangan menyatakan kekafirannya. Orang-orang munafik yang dimaksud dalam ayat ini ialah orang-orang yang selalu berusaha dan mengadakan tipu daya dalam mencapai tujuan mereka untuk menghancurkan agama Islam dan kaum Muslimin. Orang-orang kafir yang tidak memusuhi kaum Muslimin atau orang yang tidak berusaha menghancurkan agama Islam dan kaum Muslimin tidak termasuk dalam ayat ini.\n\nKaum Muslimin dilarang berteman dengan orang-orang kafir yang menjadi musuh Islam karena hal itu berarti ikut berusaha menghancurkan Islam dan kaum Muslimin. Sedangkan terhadap orang-orang kafir yang tidak memusuhi kaum Muslimin dan tidak berusaha menghancurkan agama Islam, kaum Muslimin dibolehkan berteman dan bergaul dengan mereka, seperti yang dilakukan oleh Rasulullah saw sendiri dan para sahabat. Sesuai dengan firman Allah:\n\nAllah tidak melarang kamu berbuat baik dan berlaku adil terhadap orang-orang yang tidak memerangimu dalam urusan agama dan tidak mengusir kamu dari kampung halamanmu. Sesungguhnya Allah mencintai orang-orang yang berlaku adil. (al-Mumtahanah/60: 8)\n\nKemudian ditegaskan, seandainya ada kaum Muslimin yang berteman erat dengan orang kafir yang memusuhi Islam maka hal itu adalah sikap yang tidak wajar. Sebab, tidak mungkin ada orang-orang mukmin yang benar-benar beriman kepada Allah berteman dengan orang kafir yang ingin menghancurkan Islam.\n\nDengan demikian, kaum Muslimin diminta agar selalu waspada setiap terjadi permusuhan dan pertempuran dengan orang-orang kafir. Sekali-kali tidak boleh berteman erat dengan mereka, karena akan membahayakan kaum Muslimin. \n\nAllah menerangkan bahwa orang-orang yang telah diterangkan kekuatan iman dan keikhlasan hati mereka, seperti Abu Ubaidah, adalah orang yang telah tertanam keimanan dalam hatinya. Sehingga mereka tidak tahan mendengar Allah dan Rasul-Nya dicaci-maki orang, atau agama Islam direndahkan.\n\nDi samping mempunyai keimanan yang kuat, Allah juga telah menguatkan hati dan jiwa mereka sehingga menimbulkan ketenangan jiwa dan ketetapan hati dalam menegakkan agama Allah. Oleh karena itu, mereka tidak dapat melakukan kerja sama dengan orang-orang yang memusuhi Islam dan kaum Muslimin.\n\nPada akhir ayat ini diterangkan balasan yang akan mereka peroleh dari Allah, yaitu:\n\n1.Di akhirat mereka akan ditempatkan di dalam surga yang penuh kenikmatan, dan di bawahnya mengalir sungai-sungai. Mereka kekal di dalamnya.\n\n2.Allah rida dan menyukai perbuatan-perbuatan yang telah mereka lakukan selama hidup di dunia dan keadaan mereka di akhirat. Mereka pun rida dan senang terhadap balasan yang dianugerahkan Allah kepada mereka cepat atau lambat.\n\n3.Mereka termasuk orang-orang yang dimuliakan Allah karena telah bersedia menjadi tentara Allah dan mengorbankan segala yang ada pada mereka untuk meninggikan kalimat-Nya.\n\n4.Mereka termasuk orang-orang yang beruntung, karena dirinya telah berhasil melaksanakan tugas hidupnya sebagai hamba Allah di dunia dan di akhirat."
+                    }
+                }
+            }
+        ]
+    }
+}

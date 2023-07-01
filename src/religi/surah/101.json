@@ -1,0 +1,491 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 101,
+        "sequence": 30,
+        "numberOfVerses": 11,
+        "name": {
+            "short": "القارعة",
+            "long": "سورة القارعة",
+            "transliteration": {
+                "en": "Al-Qaari'a",
+                "id": "Al-Qari'ah"
+            },
+            "translation": {
+                "en": "The Calamity",
+                "id": "Hari Kiamat"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Quraisy. Nama Al Qaari'ah diambil dari kata Al Qaari'ah yang terdapat pada ayat pertama, artinya mengetok dengan keras, kemudian kata ini dipakai untuk nama hari kiamat."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 6158,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 600,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الْقَارِعَةُ",
+                    "transliteration": {
+                        "en": "Al qaari'ah"
+                    }
+                },
+                "translation": {
+                    "en": "The Striking Calamity -",
+                    "id": "Hari Kiamat,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6158",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6158.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6158.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Hari kiamat yang mengerikan;",
+                        "long": "Dalam ayat ini, Allah menyebutkan kata al-qari'ah, yaitu salah satu nama hari Kiamat, seperti al-haqqah, as-sakhkhah, ath-thammah, dan al-Gasyiyah. Hari Kiamat itu juga disebut al-qari'ah karena ia menggetarkan hati setiap orang akibat kedahsyatannya. Kata al-qari'ah juga digunakan untuk menyebut suatu bencana hebat. Allah berfirman:\n\nDan orang-orang kafir senantiasa ditimpa bencana disebabkan perbuatan mereka sendiri. (ar-Ra'd/13: 31)\n\nMaksudnya mereka ditimpa malapetaka hebat yang mengetuk hati mereka dan menyakiti tubuh mereka, sehingga mereka mengeluh karenanya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6159,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 600,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مَا الْقَارِعَةُ",
+                    "transliteration": {
+                        "en": "Mal qaariah"
+                    }
+                },
+                "translation": {
+                    "en": "What is the Striking Calamity?",
+                    "id": "Apakah hari Kiamat itu?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6159",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6159.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6159.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "apakah hari kiamat itu? Allah mengulang penyebutan kata “al-Qàri‘ah” untuk menggugah perhatian manusia tentang kengeriannya dan peristiwa-peristiwa dahsyat yang terjadi pada hari itu.",
+                        "long": "Dalam ayat ini Allah mengulang kata al-qari'ah dalam bentuk pertanyaan untuk meminta perhatian agar manusia memahami karena dahsyatnya kejadian hari Kiamat dan huru-hara yang membuat hati kecut, sehingga sulit menggambarkannya dengan tepat dan sulit mengetahui dengan sebenarnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6160,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 600,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+                    "transliteration": {
+                        "en": "Wa maa adraaka mal qaari'ah"
+                    }
+                },
+                "translation": {
+                    "en": "And what can make you know what is the Striking Calamity?",
+                    "id": "Dan tahukah kamu apakah hari Kiamat itu?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6160",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6160.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6160.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah mengulangi sekali lagi pertanyaan itu agar manusia semakin tergugah, “Dan tahukah kamu apakah hari kiamat itu?”",
+                        "long": "Allah mengulangi kata al-qari'ah itu adalah untuk menggambarkan kedahsyatan hari Kiamat itu, seakan-akan tidak ada sesuatu pun yang dapat dijadikan contoh untuk al-qari'ah itu. Bagaimana pun mengkhayalkannya, al-qari'ah lebih hebat dari itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6161,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 600,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+                    "transliteration": {
+                        "en": "Yauma ya koonun naasu kal farashil mabthooth"
+                    }
+                },
+                "translation": {
+                    "en": "It is the Day when people will be like moths, dispersed,",
+                    "id": "Pada hari itu manusia seperti laron yang beterbangan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6161",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6161.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6161.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menggambarkan dahsyatnya hari kiamat melalui dua hal, yaitu keadaan manusia dan gunung-gunung. Pada hari kiamat itu manusia seperti laron yang beterbangan. Mereka berlarian tidak tentu arah, kacau balau, dan tidak lagi menghiraukan sekelilingnya.",
+                        "long": "Karena sangat sulit mengetahui hakikat al-qari'ah, maka dalam ayat ini Allah menjelaskan waktu kedatangannya. Ketika itu, keadaan manusia bagaikan laron yang beterbangan di sekeliling lampu pada malam hari. Penyerupaan ini adalah untuk menggambarkan keadaan manusia yang kebingungan dan tidak menentu arah tujuannya.\n\nManusia pada hari yang dahsyat itu bertebaran di mana-mana, bingung, dan tidak tahu ke mana akan dituju, apa yang akan dikerjakan, dan untuk apa mereka dikumpulkan di sana. Kondisi ini tidak ubahnya seperti anai-anai yang tidak berketentuan arahnya. Dalam ayat lain, Allah berfirman:\n\nSeakan-akan mereka belalang yang beterbangan. (al-Qamar/54 : 7)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6162,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 600,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ",
+                    "transliteration": {
+                        "en": "Wa ta koonul jibalu kal 'ihnil manfoosh"
+                    }
+                },
+                "translation": {
+                    "en": "And the mountains will be like wool, fluffed up.",
+                    "id": "dan gunung-gunung seperti bulu yang dihambur-hamburkan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6162",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6162.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6162.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan pada hari kiamat itu pula gunung-gunung seperti bulu yang dihambur-hamburkan. Gunung yang demikian kekar diempaskan sehingga menjadi abu, kemudian disapu oleh angin dahsyat hingga beterbangan, menjadikan bumi terhampar rata.",
+                        "long": "Dalam ayat ini, Allah mengungkapkan bahwa gunung-gunung yang telah hancur itu beterbangan dari tempatnya seperti bulu halus yang diterbangkan angin. Lalu bagaimanakah keadaan manusia yang mempunyai tubuh yang lemah itu bila mengalami al-qari'ah itu.\n\nBanyak terdapat dalam Al-Qur'an ayat-ayat tentang keadaan gunung-gunung pada hari Kiamat, di antaranya Allah berfirman:\n\nDan engkau akan melihat gunung-gunung, yang engkau kira tetap di tempatnya, padahal ia berjalan (seperti) awan berjalan. (an-Naml/27 : 88)\n\nDan menjadilah gunung-gunung itu seperti onggokan pasir yang dicurahkan. (al-Muzzammil/73: 14)\n\nDan gunung-gunung pun dijalankan sehingga menjadi fatamorgana. (an- Naba'/78: 20)\n\nSemua keterangan tersebut untuk menjelaskan bahwa gunung-gunung yang besar dan kuat seharusnya tetap tidak dapat digerakkan, tetapi al-Qari'ah dapat menghancurkannya, apalagi manusia makhluk yang lemah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6163,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 600,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ",
+                    "transliteration": {
+                        "en": "Fa-amma man thaqulat mawa zeenuh"
+                    }
+                },
+                "translation": {
+                    "en": "Then as for one whose scales are heavy [with good deeds],",
+                    "id": "Maka adapun orang yang berat timbangan (kebaikan)nya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6163",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6163.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6163.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka adapun orang yang berat timbangan kebaikan-nya, baik berupa ibadah ritual maupun sosial yang dikerjakan dengan ikhlas,",
+                        "long": "Dalam ayat-ayat ini, Allah menjelaskan tentang ganjaran bagi orang-orang yang banyak melakukan amal kebajikan, yaitu ketika amal mereka ditimbang dan timbangannya berat karena banyak mengerjakan amal-amal saleh. Ganjaran bagi orang-orang ini adalah kesenangan abadi di surga. Mereka hidup di dalamnya penuh dengan kebahagiaan, kenikmatan, dan kepuasan. Kita wajib mempercayai adanya mizan (neraca/timbangan) yang tersebut pada ayat ini dan dalam firman-Nya:\n\nDan Kami akan memasang timbangan yang tepat pada hari Kiamat. (al-Anbiya'/21: 47)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6164,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 600,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ",
+                    "transliteration": {
+                        "en": "Fahuwa fee 'ishatir raadiyah"
+                    }
+                },
+                "translation": {
+                    "en": "He will be in a pleasant life.",
+                    "id": "maka dia berada dalam kehidupan yang memuaskan (senang)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6164",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6164.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6164.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "maka dia berada dalam kehidupan yang memuaskan dan membahagiakan. Itulah surga yang penuh nikmat.",
+                        "long": "Dalam ayat-ayat ini, Allah menjelaskan tentang ganjaran bagi orang-orang yang banyak melakukan amal kebajikan, yaitu ketika amal mereka ditimbang dan timbangannya berat karena banyak mengerjakan amal-amal saleh. Ganjaran bagi orang-orang ini adalah kesenangan abadi di surga. Mereka hidup di dalamnya penuh dengan kebahagiaan, kenikmatan, dan kepuasan. Kita wajib mempercayai adanya mizan (neraca/timbangan) yang tersebut pada ayat ini dan dalam firman-Nya:\n\nDan Kami akan memasang timbangan yang tepat pada hari Kiamat. (al-Anbiya'/21: 47)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6165,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 600,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+                    "transliteration": {
+                        "en": "Wa amma man khaffat mawa zeenuh"
+                    }
+                },
+                "translation": {
+                    "en": "But as for one whose scales are light,",
+                    "id": "Dan adapun orang yang ringan timbangan (kebaikan)nya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6165",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6165.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6165.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan adapun orang yang ringan timbangan kebaikan-nya dan kalah berat dibanding timbangan keburukannya karena lebih banyak berbuat maksiat dan kebatilan daripada taat dan kebajikan,",
+                        "long": "Allah juga menjelaskan nasib orang-orang jahat yaitu bila amal orang-orang jahat itu ditimbang dan timbangannya itu ringan karena banyak mengerjakan kejahatan dan sedikit mengerjakan kebajikan di dunia maka mereka akan ditempatkan dalam neraka Hawiyah tempat penyiksaan orang-orang jahat, tempat hidup sengsara; suatu tempat yang mereka dijerumuskan ke dalamnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6166,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 600,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأُمُّهُ هَاوِيَةٌ",
+                    "transliteration": {
+                        "en": "Fa-ummuhu haawiyah"
+                    }
+                },
+                "translation": {
+                    "en": "His refuge will be an abyss.",
+                    "id": "maka tempat kembalinya adalah neraka Hawiyah."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6166",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6166.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6166.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "maka tempat kembalinya adalah neraka Hawiyah.",
+                        "long": "Allah juga menjelaskan nasib orang-orang jahat yaitu bila amal orang-orang jahat itu ditimbang dan timbangannya itu ringan karena banyak mengerjakan kejahatan dan sedikit mengerjakan kebajikan di dunia maka mereka akan ditempatkan dalam neraka Hawiyah tempat penyiksaan orang-orang jahat, tempat hidup sengsara; suatu tempat yang mereka dijerumuskan ke dalamnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6167,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 600,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا أَدْرَاكَ مَا هِيَهْ",
+                    "transliteration": {
+                        "en": "Wa maa adraaka maa hiyah"
+                    }
+                },
+                "translation": {
+                    "en": "And what can make you know what that is?",
+                    "id": "Dan tahukah kamu apakah neraka Hawiyah itu?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6167",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6167.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6167.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Menggugah perhatian manusia tentang neraka Hawiyah itu, Allah berfirman, “Dan tahukah kamu apakah neraka Hawiyah itu?”",
+                        "long": "Dalam ayat ini, Allah menjelaskan arti kata hawiyah dalam bentuk pertanyaan, yaitu: apakah neraka Hawiyah itu dan dari apa ia dijadikan? Neraka Hawiyah adalah api yang menyala-nyala yang sangat panas di mana orang-orang yang berdosa dijerumuskan ke dalamnya untuk menerima balasan atas kejahatan dan kemungkaran yang mereka lakukan. Ayat ini menggambarkan jika semua api di seluruh dunia dikumpulkan dan dipersatukan, tidak akan dapat menyamai panasnya api neraka Hawiyah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6168,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 600,
+                    "manzil": 7,
+                    "ruku": 543,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "نَارٌ حَامِيَةٌ",
+                    "transliteration": {
+                        "en": "Naarun hamiyah"
+                    }
+                },
+                "translation": {
+                    "en": "It is a Fire, intensely hot.",
+                    "id": "(Yaitu) api yang sangat panas."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6168",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6168.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6168.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Neraka Hawiyah itu adalah api yang sangat panas dan menjadikan apa saja yang masuk ke dalamnya hancur lebur dan leleh.",
+                        "long": "Dalam ayat ini, Allah menjelaskan arti kata hawiyah dalam bentuk pertanyaan, yaitu: apakah neraka Hawiyah itu dan dari apa ia dijadikan? Neraka Hawiyah adalah api yang menyala-nyala yang sangat panas di mana orang-orang yang berdosa dijerumuskan ke dalamnya untuk menerima balasan atas kejahatan dan kemungkaran yang mereka lakukan. Ayat ini menggambarkan jika semua api di seluruh dunia dikumpulkan dan dipersatukan, tidak akan dapat menyamai panasnya api neraka Hawiyah."
+                    }
+                }
+            }
+        ]
+    }
+}

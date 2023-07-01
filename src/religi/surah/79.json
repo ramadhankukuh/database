@@ -1,0 +1,1891 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 79,
+        "sequence": 81,
+        "numberOfVerses": 46,
+        "name": {
+            "short": "النازعات",
+            "long": "سورة النازعات",
+            "transliteration": {
+                "en": "An-Naazi'aat",
+                "id": "An-Nazi'at"
+            },
+            "translation": {
+                "en": "Those who drag forth",
+                "id": "Malaikat Yang Mencabut"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat An Naazi´aat terdiri atas 46 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Naba´. Dinamai An Naazi´aat diambil dari perkataan An Naazi´aat yang terdapat pada ayat pertama surat ini. Dinamai pula as Saahirah yang diambil dari ayat 14, dinamai juga Ath Thaammah diambil dari ayat 34."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5713,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالنَّازِعَاتِ غَرْقًا",
+                    "transliteration": {
+                        "en": "Wan naazi 'aati gharqa"
+                    }
+                },
+                "translation": {
+                    "en": "By those [angels] who extract with violence",
+                    "id": "Demi (malaikat) yang mencabut (nyawa) dengan keras."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5713",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5713.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5713.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah memulai surah ini dengan sumpah demi malaikat yang diberiNya tugas berat. Di antara tujuannya adalah agar manusia menghayati peran-peran tersebut dalam kehidupan. Demi malaikat yang mencabut nyawa kaum kafir dengan keras dan kasar sebagai tanda kegeraman para malaikat itu terhadap mereka.",
+                        "long": "Pada ayat-ayat ini, Allah berfirman dalam bentuk sumpah terhadap beberapa malaikat yang mencabut nyawa manusia dengan keras dan juga kepada para malaikat yang mencabut nyawa manusia dengan lemah-lembut. Hal ini dalam rangka menegaskan adanya hari kebangkitan yang diingkari orang-orang musyrik. Ayat-ayat selanjutnya yang juga dalam bentuk kalimat-kalimat sumpah kepada para malaikat yang turun dari langit dengan cepat sambil membawa perintah Allah. Bahkan Allah bersumpah kepada para malaikat yang mendahului malaikat yang lain dengan kencang, serta para malaikat yang mengatur dunia.\n\nFirman-firman dalam bentuk sumpah ini banyak terdapat pada surah-surah Makkiyyah karena banyak orang-orang musyrik menolak dan mengingkari hari kebangkitan, seperti pada Surah as-saffat/37: 1-4:\n\nDemi (rombongan malaikat) yang berbaris bersaf-saf, demi (rombongan) yang mencegah dengan sungguh-sungguh, demi (rombongan) yang membacakan peringatan, sungguh, Tuhanmu benar-benar Esa. (as-saffat/37: 1-4)\n\nAdapun jawab qasam (isi dari sumpah) pada awal Surah an-Nazi'at ini terdapat dalam ayat 6, yaitu sungguh pada saat alam berguncang ketika tiupan sangkakala pertama, semuanya rusak dan hancur.\n\nTiupan sangkakala yang pertama itu kemudian diikuti oleh tiupan kedua yang membangkitkan manusia dari kuburnya. Inilah hari Kiamat dalam arti yang sebenarnya.\n\nAyat-ayat permulaan pada Surah an-Nazi'at ini oleh jumhur mufasir dipahami sebagai sumpah-sumpah kepada para malaikat. Akan tetapi, ada mufasir lain, seperti Ahmad Musthafa al-Maragi, yang memahami sumpah ini bukan kepada para malaikat, tetapi kepada bintang-bintang yang beredar menurut aturan tertentu, seperti matahari, bulan, dan planet-planet yang lain. Dalam tafsir al-MarAgi, ayat-ayat ini dipahami sebagai bintang-bintang yang sigap dan cepat jalannya, cahaya-cahaya yang keluar dari bintang ke bintang, dan bintang-bintang yang jalannya cepat dari bintang-bintang yang lain.\n\nAdapun tentang pemahaman jawab qasam-nya sama dengan pendapat jumhur mufasir."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5714,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالنَّاشِطَاتِ نَشْطًا",
+                    "transliteration": {
+                        "en": "Wan naa shi taati nashta"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] those who remove with ease",
+                    "id": "Demi (malaikat) yang mencabut (nyawa) dengan lemah lembut."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5714",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5714.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5714.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi malaikat yang mencabut nyawa orang mukmin dengan halus dan lemah lembut sebagai tanda simpati para malaikat itu kepada mereka. Malaikat mencabut nyawa mereka sambil berkata, “Wahai jiwa yang tenang, kembalilah ke Tuhanmu dengan hati yang rida dan diridai-Nya.”",
+                        "long": "Pada ayat-ayat ini, Allah berfirman dalam bentuk sumpah terhadap beberapa malaikat yang mencabut nyawa manusia dengan keras dan juga kepada para malaikat yang mencabut nyawa manusia dengan lemah-lembut. Hal ini dalam rangka menegaskan adanya hari kebangkitan yang diingkari orang-orang musyrik. Ayat-ayat selanjutnya yang juga dalam bentuk kalimat-kalimat sumpah kepada para malaikat yang turun dari langit dengan cepat sambil membawa perintah Allah. Bahkan Allah bersumpah kepada para malaikat yang mendahului malaikat yang lain dengan kencang, serta para malaikat yang mengatur dunia.\n\nFirman-firman dalam bentuk sumpah ini banyak terdapat pada surah-surah Makkiyyah karena banyak orang-orang musyrik menolak dan mengingkari hari kebangkitan, seperti pada Surah as-saffat/37: 1-4:\n\nDemi (rombongan malaikat) yang berbaris bersaf-saf, demi (rombongan) yang mencegah dengan sungguh-sungguh, demi (rombongan) yang membacakan peringatan, sungguh, Tuhanmu benar-benar Esa. (as-saffat/37: 1-4)\n\nAdapun jawab qasam (isi dari sumpah) pada awal Surah an-Nazi'at ini terdapat dalam ayat 6, yaitu sungguh pada saat alam berguncang ketika tiupan sangkakala pertama, semuanya rusak dan hancur.\n\nTiupan sangkakala yang pertama itu kemudian diikuti oleh tiupan kedua yang membangkitkan manusia dari kuburnya. Inilah hari Kiamat dalam arti yang sebenarnya.\n\nAyat-ayat permulaan pada Surah an-Nazi'at ini oleh jumhur mufasir dipahami sebagai sumpah-sumpah kepada para malaikat. Akan tetapi, ada mufasir lain, seperti Ahmad Musthafa al-Maragi, yang memahami sumpah ini bukan kepada para malaikat, tetapi kepada bintang-bintang yang beredar menurut aturan tertentu, seperti matahari, bulan, dan planet-planet yang lain. Dalam tafsir al-MarAgi, ayat-ayat ini dipahami sebagai bintang-bintang yang sigap dan cepat jalannya, cahaya-cahaya yang keluar dari bintang ke bintang, dan bintang-bintang yang jalannya cepat dari bintang-bintang yang lain.\n\nAdapun tentang pemahaman jawab qasam-nya sama dengan pendapat jumhur mufasir."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5715,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالسَّابِحَاتِ سَبْحًا",
+                    "transliteration": {
+                        "en": "Wass saabi-haati sabha"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] those who glide [as if] swimming",
+                    "id": "Demi (malaikat) yang turun dari langit dengan cepat,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5715",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5715.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5715.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi malaikat yang turun dari langit dengan cepat untuk melaksanakan tugas dari Allah sembari selalu bertasbih menyucikan Allah dan mengagungkanNya sepanjang waktu,",
+                        "long": "Pada ayat-ayat ini, Allah berfirman dalam bentuk sumpah terhadap beberapa malaikat yang mencabut nyawa manusia dengan keras dan juga kepada para malaikat yang mencabut nyawa manusia dengan lemah-lembut. Hal ini dalam rangka menegaskan adanya hari kebangkitan yang diingkari orang-orang musyrik. Ayat-ayat selanjutnya yang juga dalam bentuk kalimat-kalimat sumpah kepada para malaikat yang turun dari langit dengan cepat sambil membawa perintah Allah. Bahkan Allah bersumpah kepada para malaikat yang mendahului malaikat yang lain dengan kencang, serta para malaikat yang mengatur dunia.\n\nFirman-firman dalam bentuk sumpah ini banyak terdapat pada surah-surah Makkiyyah karena banyak orang-orang musyrik menolak dan mengingkari hari kebangkitan, seperti pada Surah as-saffat/37: 1-4:\n\nDemi (rombongan malaikat) yang berbaris bersaf-saf, demi (rombongan) yang mencegah dengan sungguh-sungguh, demi (rombongan) yang membacakan peringatan, sungguh, Tuhanmu benar-benar Esa. (as-saffat/37: 1-4)\n\nAdapun jawab qasam (isi dari sumpah) pada awal Surah an-Nazi'at ini terdapat dalam ayat 6, yaitu sungguh pada saat alam berguncang ketika tiupan sangkakala pertama, semuanya rusak dan hancur.\n\nTiupan sangkakala yang pertama itu kemudian diikuti oleh tiupan kedua yang membangkitkan manusia dari kuburnya. Inilah hari Kiamat dalam arti yang sebenarnya.\n\nAyat-ayat permulaan pada Surah an-Nazi'at ini oleh jumhur mufasir dipahami sebagai sumpah-sumpah kepada para malaikat. Akan tetapi, ada mufasir lain, seperti Ahmad Musthafa al-Maragi, yang memahami sumpah ini bukan kepada para malaikat, tetapi kepada bintang-bintang yang beredar menurut aturan tertentu, seperti matahari, bulan, dan planet-planet yang lain. Dalam tafsir al-MarAgi, ayat-ayat ini dipahami sebagai bintang-bintang yang sigap dan cepat jalannya, cahaya-cahaya yang keluar dari bintang ke bintang, dan bintang-bintang yang jalannya cepat dari bintang-bintang yang lain.\n\nAdapun tentang pemahaman jawab qasam-nya sama dengan pendapat jumhur mufasir."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5716,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَالسَّابِقَاتِ سَبْقًا",
+                    "transliteration": {
+                        "en": "Fass saabi qaati sabqa"
+                    }
+                },
+                "translation": {
+                    "en": "And those who race each other in a race",
+                    "id": "dan (malaikat) yang mendahului dengan kencang,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5716",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5716.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5716.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan demi malaikat yang mendahului yang lain dengan kencang, cepat, dan cekatan untuk melakukan tugas-tugasnya tanpa mengulur waktu,",
+                        "long": "Pada ayat-ayat ini, Allah berfirman dalam bentuk sumpah terhadap beberapa malaikat yang mencabut nyawa manusia dengan keras dan juga kepada para malaikat yang mencabut nyawa manusia dengan lemah-lembut. Hal ini dalam rangka menegaskan adanya hari kebangkitan yang diingkari orang-orang musyrik. Ayat-ayat selanjutnya yang juga dalam bentuk kalimat-kalimat sumpah kepada para malaikat yang turun dari langit dengan cepat sambil membawa perintah Allah. Bahkan Allah bersumpah kepada para malaikat yang mendahului malaikat yang lain dengan kencang, serta para malaikat yang mengatur dunia.\n\nFirman-firman dalam bentuk sumpah ini banyak terdapat pada surah-surah Makkiyyah karena banyak orang-orang musyrik menolak dan mengingkari hari kebangkitan, seperti pada Surah as-saffat/37: 1-4:\n\nDemi (rombongan malaikat) yang berbaris bersaf-saf, demi (rombongan) yang mencegah dengan sungguh-sungguh, demi (rombongan) yang membacakan peringatan, sungguh, Tuhanmu benar-benar Esa. (as-saffat/37: 1-4)\n\nAdapun jawab qasam (isi dari sumpah) pada awal Surah an-Nazi'at ini terdapat dalam ayat 6, yaitu sungguh pada saat alam berguncang ketika tiupan sangkakala pertama, semuanya rusak dan hancur.\n\nTiupan sangkakala yang pertama itu kemudian diikuti oleh tiupan kedua yang membangkitkan manusia dari kuburnya. Inilah hari Kiamat dalam arti yang sebenarnya.\n\nAyat-ayat permulaan pada Surah an-Nazi'at ini oleh jumhur mufasir dipahami sebagai sumpah-sumpah kepada para malaikat. Akan tetapi, ada mufasir lain, seperti Ahmad Musthafa al-Maragi, yang memahami sumpah ini bukan kepada para malaikat, tetapi kepada bintang-bintang yang beredar menurut aturan tertentu, seperti matahari, bulan, dan planet-planet yang lain. Dalam tafsir al-MarAgi, ayat-ayat ini dipahami sebagai bintang-bintang yang sigap dan cepat jalannya, cahaya-cahaya yang keluar dari bintang ke bintang, dan bintang-bintang yang jalannya cepat dari bintang-bintang yang lain.\n\nAdapun tentang pemahaman jawab qasam-nya sama dengan pendapat jumhur mufasir."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5717,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَالْمُدَبِّرَاتِ أَمْرًا",
+                    "transliteration": {
+                        "en": "Fal mu dab-bi raati amra"
+                    }
+                },
+                "translation": {
+                    "en": "And those who arrange [each] matter,",
+                    "id": "dan (malaikat) yang mengatur urusan (dunia)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5717",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5717.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5717.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan demi malaikat yang mengatur urusan dunia, seperti pengisaran angin, turunnya hujan, dan sebagainya sesuai perintah Allah.",
+                        "long": "Pada ayat-ayat ini, Allah berfirman dalam bentuk sumpah terhadap beberapa malaikat yang mencabut nyawa manusia dengan keras dan juga kepada para malaikat yang mencabut nyawa manusia dengan lemah-lembut. Hal ini dalam rangka menegaskan adanya hari kebangkitan yang diingkari orang-orang musyrik. Ayat-ayat selanjutnya yang juga dalam bentuk kalimat-kalimat sumpah kepada para malaikat yang turun dari langit dengan cepat sambil membawa perintah Allah. Bahkan Allah bersumpah kepada para malaikat yang mendahului malaikat yang lain dengan kencang, serta para malaikat yang mengatur dunia.\n\nFirman-firman dalam bentuk sumpah ini banyak terdapat pada surah-surah Makkiyyah karena banyak orang-orang musyrik menolak dan mengingkari hari kebangkitan, seperti pada Surah as-saffat/37: 1-4:\n\nDemi (rombongan malaikat) yang berbaris bersaf-saf, demi (rombongan) yang mencegah dengan sungguh-sungguh, demi (rombongan) yang membacakan peringatan, sungguh, Tuhanmu benar-benar Esa. (as-saffat/37: 1-4)\n\nAdapun jawab qasam (isi dari sumpah) pada awal Surah an-Nazi'at ini terdapat dalam ayat 6, yaitu sungguh pada saat alam berguncang ketika tiupan sangkakala pertama, semuanya rusak dan hancur.\n\nTiupan sangkakala yang pertama itu kemudian diikuti oleh tiupan kedua yang membangkitkan manusia dari kuburnya. Inilah hari Kiamat dalam arti yang sebenarnya.\n\nAyat-ayat permulaan pada Surah an-Nazi'at ini oleh jumhur mufasir dipahami sebagai sumpah-sumpah kepada para malaikat. Akan tetapi, ada mufasir lain, seperti Ahmad Musthafa al-Maragi, yang memahami sumpah ini bukan kepada para malaikat, tetapi kepada bintang-bintang yang beredar menurut aturan tertentu, seperti matahari, bulan, dan planet-planet yang lain. Dalam tafsir al-MarAgi, ayat-ayat ini dipahami sebagai bintang-bintang yang sigap dan cepat jalannya, cahaya-cahaya yang keluar dari bintang ke bintang, dan bintang-bintang yang jalannya cepat dari bintang-bintang yang lain.\n\nAdapun tentang pemahaman jawab qasam-nya sama dengan pendapat jumhur mufasir."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5718,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَ تَرْجُفُ الرَّاجِفَةُ",
+                    "transliteration": {
+                        "en": "Yawma tarjufur raajifa"
+                    }
+                },
+                "translation": {
+                    "en": "On the Day the blast [of the Horn] will convulse [creation],",
+                    "id": "(Sungguh, kamu akan dibangkitkan) pada hari ketika tiupan pertama mengguncangkan alam,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5718",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5718.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5718.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, demi lima macam malaikat itu, kiamat pasti akan terjadi pada hari ketika tiupan pertama mengguncangkan alam, menghancurkan gunung, mengubah lautan menjadi api, dan sebagainya. Setelah tiupan pertama ini semua makhluk hidup akan mati.",
+                        "long": "Pada ayat-ayat ini, Allah berfirman dalam bentuk sumpah terhadap beberapa malaikat yang mencabut nyawa manusia dengan keras dan juga kepada para malaikat yang mencabut nyawa manusia dengan lemah-lembut. Hal ini dalam rangka menegaskan adanya hari kebangkitan yang diingkari orang-orang musyrik. Ayat-ayat selanjutnya yang juga dalam bentuk kalimat-kalimat sumpah kepada para malaikat yang turun dari langit dengan cepat sambil membawa perintah Allah. Bahkan Allah bersumpah kepada para malaikat yang mendahului malaikat yang lain dengan kencang, serta para malaikat yang mengatur dunia.\n\nFirman-firman dalam bentuk sumpah ini banyak terdapat pada surah-surah Makkiyyah karena banyak orang-orang musyrik menolak dan mengingkari hari kebangkitan, seperti pada Surah as-saffat/37: 1-4:\n\nDemi (rombongan malaikat) yang berbaris bersaf-saf, demi (rombongan) yang mencegah dengan sungguh-sungguh, demi (rombongan) yang membacakan peringatan, sungguh, Tuhanmu benar-benar Esa. (as-saffat/37: 1-4)\n\nAdapun jawab qasam (isi dari sumpah) pada awal Surah an-Nazi'at ini terdapat dalam ayat 6, yaitu sungguh pada saat alam berguncang ketika tiupan sangkakala pertama, semuanya rusak dan hancur.\n\nTiupan sangkakala yang pertama itu kemudian diikuti oleh tiupan kedua yang membangkitkan manusia dari kuburnya. Inilah hari Kiamat dalam arti yang sebenarnya.\n\nAyat-ayat permulaan pada Surah an-Nazi'at ini oleh jumhur mufasir dipahami sebagai sumpah-sumpah kepada para malaikat. Akan tetapi, ada mufasir lain, seperti Ahmad Musthafa al-Maragi, yang memahami sumpah ini bukan kepada para malaikat, tetapi kepada bintang-bintang yang beredar menurut aturan tertentu, seperti matahari, bulan, dan planet-planet yang lain. Dalam tafsir al-MarAgi, ayat-ayat ini dipahami sebagai bintang-bintang yang sigap dan cepat jalannya, cahaya-cahaya yang keluar dari bintang ke bintang, dan bintang-bintang yang jalannya cepat dari bintang-bintang yang lain.\n\nAdapun tentang pemahaman jawab qasam-nya sama dengan pendapat jumhur mufasir."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5719,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "تَتْبَعُهَا الرَّادِفَةُ",
+                    "transliteration": {
+                        "en": "Tatba'u har raadifa"
+                    }
+                },
+                "translation": {
+                    "en": "There will follow it the subsequent [one].",
+                    "id": "(tiupan pertama) itu diiringi oleh tiupan kedua."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5719",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5719.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5719.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tiupan pertama itu diiringi oleh tiupan kedua, di mana manusia bangkit dari kubur untuk mempertanggungjawabkan perbuatan mereka di dunia.",
+                        "long": "Pada ayat-ayat ini, Allah berfirman dalam bentuk sumpah terhadap beberapa malaikat yang mencabut nyawa manusia dengan keras dan juga kepada para malaikat yang mencabut nyawa manusia dengan lemah-lembut. Hal ini dalam rangka menegaskan adanya hari kebangkitan yang diingkari orang-orang musyrik. Ayat-ayat selanjutnya yang juga dalam bentuk kalimat-kalimat sumpah kepada para malaikat yang turun dari langit dengan cepat sambil membawa perintah Allah. Bahkan Allah bersumpah kepada para malaikat yang mendahului malaikat yang lain dengan kencang, serta para malaikat yang mengatur dunia.\n\nFirman-firman dalam bentuk sumpah ini banyak terdapat pada surah-surah Makkiyyah karena banyak orang-orang musyrik menolak dan mengingkari hari kebangkitan, seperti pada Surah as-saffat/37: 1-4:\n\nDemi (rombongan malaikat) yang berbaris bersaf-saf, demi (rombongan) yang mencegah dengan sungguh-sungguh, demi (rombongan) yang membacakan peringatan, sungguh, Tuhanmu benar-benar Esa. (as-saffat/37: 1-4)\n\nAdapun jawab qasam (isi dari sumpah) pada awal Surah an-Nazi'at ini terdapat dalam ayat 6, yaitu sungguh pada saat alam berguncang ketika tiupan sangkakala pertama, semuanya rusak dan hancur.\n\nTiupan sangkakala yang pertama itu kemudian diikuti oleh tiupan kedua yang membangkitkan manusia dari kuburnya. Inilah hari Kiamat dalam arti yang sebenarnya.\n\nAyat-ayat permulaan pada Surah an-Nazi'at ini oleh jumhur mufasir dipahami sebagai sumpah-sumpah kepada para malaikat. Akan tetapi, ada mufasir lain, seperti Ahmad Musthafa al-Maragi, yang memahami sumpah ini bukan kepada para malaikat, tetapi kepada bintang-bintang yang beredar menurut aturan tertentu, seperti matahari, bulan, dan planet-planet yang lain. Dalam tafsir al-MarAgi, ayat-ayat ini dipahami sebagai bintang-bintang yang sigap dan cepat jalannya, cahaya-cahaya yang keluar dari bintang ke bintang, dan bintang-bintang yang jalannya cepat dari bintang-bintang yang lain.\n\nAdapun tentang pemahaman jawab qasam-nya sama dengan pendapat jumhur mufasir."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5720,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ",
+                    "transliteration": {
+                        "en": "Quloobuny-yau maaiziw-waaji-fa"
+                    }
+                },
+                "translation": {
+                    "en": "Hearts, that Day, will tremble,",
+                    "id": "Hati manusia pada waktu itu merasa sangat takut,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5720",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5720.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5720.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Suasana pada hari itu sangat mencekam. Hati manusia pada waktu itu merasa sangat takut, jantung mereka berdegup kencang karena mereka akan dihadapkan ke pengadilan Allah untuk menunggu putusan Allah kepada mereka.",
+                        "long": "Pada ayat-ayat ini dijelaskan bahwa hati orang-orang kafir pada waktu itu sangat takut setelah mereka menyaksikan sendiri apa yang telah diberitahukan kepada mereka dahulu di dunia. Orang-orang kafir Mekah ketika di dunia bahkan telah diberitahu langsung oleh Nabi Muhammad. Pandangan mereka tertunduk lemas, selalu melihat ke bawah karena rasa takut dan gelisah yang sangat tinggi.\n\nPada ayat lain digambarkan keadaan orang-orang kafir pada hari Kiamat itu sebagai berikut:\n\nMereka datang tergesa-gesa (memenuhi panggilan) dengan mengangkat kepalanya, sedang mata mereka tidak berkedip-kedip dan hati mereka kosong. (Ibrahim/14: 43)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5721,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَبْصَارُهَا خَاشِعَةٌ",
+                    "transliteration": {
+                        "en": "Absaa ruhaa khashi'ah"
+                    }
+                },
+                "translation": {
+                    "en": "Their eyes humbled.",
+                    "id": "pandangannya tunduk."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5721",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5721.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5721.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pandangannya tunduk karena merasa hina dina di hadapan Allah.",
+                        "long": "Pada ayat-ayat ini dijelaskan bahwa hati orang-orang kafir pada waktu itu sangat takut setelah mereka menyaksikan sendiri apa yang telah diberitahukan kepada mereka dahulu di dunia. Orang-orang kafir Mekah ketika di dunia bahkan telah diberitahu langsung oleh Nabi Muhammad. Pandangan mereka tertunduk lemas, selalu melihat ke bawah karena rasa takut dan gelisah yang sangat tinggi.\n\nPada ayat lain digambarkan keadaan orang-orang kafir pada hari Kiamat itu sebagai berikut:\n\nMereka datang tergesa-gesa (memenuhi panggilan) dengan mengangkat kepalanya, sedang mata mereka tidak berkedip-kedip dan hati mereka kosong. (Ibrahim/14: 43)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5722,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ",
+                    "transliteration": {
+                        "en": "Ya qoo loona a-inna lamar doo doona fil haafirah"
+                    }
+                },
+                "translation": {
+                    "en": "They are [presently] saying, \"Will we indeed be returned to [our] former state [of life]?",
+                    "id": "(Orang-orang kafir) berkata, “Apakah kita benar-benar akan dikembalikan kepada kehidupan yang semula?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5722",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5722.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5722.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Orang-orang kafir yang mengingkari hari kebangkitan berkata dengan penuh pengingkaran, “Setelah kematian, apakah kita benar-benar akan dikembalikan kepada kehidupan yang semula?”",
+                        "long": "Pada ayat ini kemudian dijelaskan bahwa orang-orang kafir yang mengingkari hari kebangkitan bertanya dengan nada penyesalan, \"Apakah kami betul-betul dikembalikan seperti kehidupan semula?\" Hal ini juga pernah mereka tanyakan, sebagaimana terdapat dalam firman Allah:\n\nMereka berkata, \"Apakah betul, apabila kami telah mati dan telah menjadi tanah dan tulang belulang, kami benar-benar akan dibangkitkan kembali? (al-Mu'minun/23: 82)\n\nPada hari Kiamat pun mereka masih bertanya, \"Apakah kami akan dibangkitkan juga apabila telah menjadi tulang-belulang yang hancur dan bersatu dengan tanah?\" padahal ketika di dunia sudah dijelaskan dalam firman Allah:\n\nDia berkata, \"Siapakah yang dapat menghidupkan tulang-belulang yang telah hancur luluh?\" Katakanlah (Muhammad), \"Yang akan menghidupkannya ialah (Allah) yang menciptakannya pertama kali. Dan Dia Maha Mengetahui tentang segala makhluk. (Yasin/36: 78-79)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5723,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَإِذَا كُنَّا عِظَامًا نَّخِرَةً",
+                    "transliteration": {
+                        "en": "Aizaa kunna 'izaa man-nakhirah"
+                    }
+                },
+                "translation": {
+                    "en": "Even if we should be decayed bones?",
+                    "id": "Apakah (akan dibangkitkan juga) apabila kita telah menjadi tulang belulang yang hancur?”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5723",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5723.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5723.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "“Apakah kita akan dibangkitkan juga apabila kita telah menjadi tulang belulang yang hancur?” Mereka memandang persoalan hari kebangkitan hanya dengan pendekatan logika, padahal persoalan ini harus didekati dengan keimanan. Al-Qur’an banyak menyajikan dalil meyakinkan tentang keniscayaan hari kebangkitan.”",
+                        "long": "Pada ayat ini kemudian dijelaskan bahwa orang-orang kafir yang mengingkari hari kebangkitan bertanya dengan nada penyesalan, \"Apakah kami betul-betul dikembalikan seperti kehidupan semula?\" Hal ini juga pernah mereka tanyakan, sebagaimana terdapat dalam firman Allah:\n\nMereka berkata, \"Apakah betul, apabila kami telah mati dan telah menjadi tanah dan tulang belulang, kami benar-benar akan dibangkitkan kembali? (al-Mu'minun/23: 82)\n\nPada hari Kiamat pun mereka masih bertanya, \"Apakah kami akan dibangkitkan juga apabila telah menjadi tulang-belulang yang hancur dan bersatu dengan tanah?\" padahal ketika di dunia sudah dijelaskan dalam firman Allah:\n\nDia berkata, \"Siapakah yang dapat menghidupkan tulang-belulang yang telah hancur luluh?\" Katakanlah (Muhammad), \"Yang akan menghidupkannya ialah (Allah) yang menciptakannya pertama kali. Dan Dia Maha Mengetahui tentang segala makhluk. (Yasin/36: 78-79)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5724,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ",
+                    "transliteration": {
+                        "en": "Qaalu tilka izan karratun khaasirah."
+                    }
+                },
+                "translation": {
+                    "en": "They say, \"That, then, would be a losing return.\"",
+                    "id": "Mereka berkata, “Kalau demikian, itu adalah suatu pengembalian yang merugikan.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5724",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5724.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5724.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka yang ingkar itu berkata dengan nada mengejek, “Kalau hal yang demikian itu benar-benar terjadi, itu adalah suatu pengembalian yang merugikan bagi kami. Hal itu tidak akan terjadi kepada kami.”",
+                        "long": "Dalam ayat ini akhirnya mereka berkata juga, \"Kalau demikian, sungguh kami akan mengalami pengembalian yang sangat merugikan.\" Allah menjawab ejekan dan penyesalan mereka itu dengan menjelaskan bahwa pengembalian itu cukup sederhana saja, yaitu dapat terjadi hanya dengan satu kali tiupan saja oleh Malaikat Israfil.\n\nAkhirnya mereka menyadari bahwa manusia tidak dapat memandang peristiwa hari kebangkitan itu sebagai mustahil. Sebab, dengan itu mereka dapat serta merta akan hidup kembali di permukaan bumi sebagai permulaan hari akhirat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5725,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ",
+                    "transliteration": {
+                        "en": "Fa inna ma hiya zajratuw-waahida"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, it will be but one shout,",
+                    "id": "Maka pengembalian itu hanyalah dengan sekali tiupan saja."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5725",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5725.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5725.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pengembalian dan pembangkitan itu bukanlah hal yang sulit bagi Allah. Maka pengembalian itu hanyalah dengan sekali tiupan saja oleh Malaikat Israfil melalui tiupan yang kedua.",
+                        "long": "Dalam ayat ini akhirnya mereka berkata juga, \"Kalau demikian, sungguh kami akan mengalami pengembalian yang sangat merugikan.\" Allah menjawab ejekan dan penyesalan mereka itu dengan menjelaskan bahwa pengembalian itu cukup sederhana saja, yaitu dapat terjadi hanya dengan satu kali tiupan saja oleh Malaikat Israfil.\n\nAkhirnya mereka menyadari bahwa manusia tidak dapat memandang peristiwa hari kebangkitan itu sebagai mustahil. Sebab, dengan itu mereka dapat serta merta akan hidup kembali di permukaan bumi sebagai permulaan hari akhirat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5726,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِذَا هُم بِالسَّاهِرَةِ",
+                    "transliteration": {
+                        "en": "Faizaa hum biss saahirah"
+                    }
+                },
+                "translation": {
+                    "en": "And suddenly they will be [alert] upon the earth's surface.",
+                    "id": "Maka seketika itu mereka hidup kembali di bumi (yang baru)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5726",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5726.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5726.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka seketika itu mereka hidup kembali di bumi yang baru. Dengan tiupan sangkakala kedua itu saja semua manusia akan bangkit dari kubur dan digiring ke Padang Mahsyar.",
+                        "long": "Dalam ayat ini akhirnya mereka berkata juga, \"Kalau demikian, sungguh kami akan mengalami pengembalian yang sangat merugikan.\" Allah menjawab ejekan dan penyesalan mereka itu dengan menjelaskan bahwa pengembalian itu cukup sederhana saja, yaitu dapat terjadi hanya dengan satu kali tiupan saja oleh Malaikat Israfil.\n\nAkhirnya mereka menyadari bahwa manusia tidak dapat memandang peristiwa hari kebangkitan itu sebagai mustahil. Sebab, dengan itu mereka dapat serta merta akan hidup kembali di permukaan bumi sebagai permulaan hari akhirat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5727,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 583,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ",
+                    "transliteration": {
+                        "en": "Hal ataaka hadeethu Musaa"
+                    }
+                },
+                "translation": {
+                    "en": "Has there reached you the story of Moses? -",
+                    "id": "Sudahkah sampai kepadamu (Muhammad) kisah Musa?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5727",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5727.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5727.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi Muhammad, bersabarlah atas pengingkaran kaummu sebagaimana kesabaran nabi-nabi terdahulu. Sudahkah sampai kepadamu kisah Nabi Musa yang berdakwah kepada Fir‘aun yang zalim?",
+                        "long": "Dalam ayat ini, Allah mengingatkan Nabi Muhammad tentang kisah Musa dalam bentuk pertanyaan, yaitu apakah belum diketahui olehnya tentang kisah Musa yang diutus Allah kepada Fir'aun untuk menyampaikan risalahnya dengan cara yang halus dan lemah lembut seperti tercantum dalam firman Allah:\n\nMaka berbicaralah kamu berdua kepadanya (Fir'aun) dengan kata-kata yang lemah lembut, mudah-mudahan dia sadar atau takut. (thaha/20: 44)\n\nKisah Nabi Musa terutama tatkala Tuhan memanggil Musa di lembah suci yaitu di Lembah thuwa di dekat Gunung Sinai. Pada saat itu, Nabi Musa bermunajat kepada Allah sebagaimana dijelaskan dalam ayat berikut ini."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5728,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِذْ نَادَاهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًى",
+                    "transliteration": {
+                        "en": "Iz nadaahu rabbuhu bil waadil-muqad dasi tuwa"
+                    }
+                },
+                "translation": {
+                    "en": "When his Lord called to him in the sacred valley of Tuwa,",
+                    "id": "Ketika Tuhan memanggilnya (Musa) di lembah suci yaitu Lembah Tuwa;"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5728",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5728.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5728.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ingatlah kisah ketika Tuhan memanggilnya di lembah suci, yaitu Lembah Tuwa;",
+                        "long": "Dalam ayat ini, Allah mengingatkan Nabi Muhammad tentang kisah Musa dalam bentuk pertanyaan, yaitu apakah belum diketahui olehnya tentang kisah Musa yang diutus Allah kepada Fir'aun untuk menyampaikan risalahnya dengan cara yang halus dan lemah lembut seperti tercantum dalam firman Allah:\n\nMaka berbicaralah kamu berdua kepadanya (Fir'aun) dengan kata-kata yang lemah lembut, mudah-mudahan dia sadar atau takut. (thaha/20: 44)\n\nKisah Nabi Musa terutama tatkala Tuhan memanggil Musa di lembah suci yaitu di Lembah thuwa di dekat Gunung Sinai. Pada saat itu, Nabi Musa bermunajat kepada Allah sebagaimana dijelaskan dalam ayat berikut ini."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5729,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ",
+                    "transliteration": {
+                        "en": "Izhab ilaa fir'auna innahu taghaa."
+                    }
+                },
+                "translation": {
+                    "en": "\"Go to Pharaoh. Indeed, he has transgressed.",
+                    "id": "pergilah engkau kepada Fir‘aun! Sesungguhnya dia telah melampaui batas,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5729",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5729.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5729.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di lembah itu Allah menurunkan wahyu kepada Nabi Musa dan membekalinya dengan dua mukjizat: tongkat yang berubah menjadi ular dan telapak tangan yang bercahaya. Wahai Nabi Musa, pergilah engkau kepada Fir‘aun! Sesungguhnya dia telah melampaui batas, memperbudak bangsa Israel, membunuhi anak lelaki mereka, dan membiarkan hidup anak perempuan mereka.",
+                        "long": "Tugas Nabi Musa ialah supaya pergi kepada Fir'aun dan menasihatinya karena Fir'aun sudah melampaui batas, berlaku sombong terhadap Bani Israil dan memperbudak mereka dengan kekejaman yang luar biasa dan di luar peri kemanusiaan. Di antaranya adalah perintah untuk membunuh bayi-bayi laki-laki dan membiarkan bayi perempuan hidup. Kemudian Allah menyuruh Nabi Musa supaya melaksanakan dakwah dengan halus dan lemah lembut.\n\nNabi Musa diperintahkan untuk berdialog secara baik-baik dengan Fir'aun dan mengemukakan pertanyaan apakah Fir'aun mau membersihkan diri dari kesesatan. Fir'aun telah bergelimang dalam kesesatan, sehingga sebaiknya mau menerima petunjuk dari Allah yang dibawa Nabi Musa. Fir'aun perlu menempuh jalan kebajikan yaitu menjauhkan diri dari perbuatan-perbuatan jahat.\n\nKemudian Nabi Musa diperintahkan untuk menjelaskan secara terbuka dengan mengajak Fir'aun untuk mengikuti risalahnya menuju ke jalan Allah dengan bertakwa kepada-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5730,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَقُلْ هَل لَّكَ إِلَىٰ أَن تَزَكَّىٰ",
+                    "transliteration": {
+                        "en": "Faqul hal laka ilaa-an tazakka."
+                    }
+                },
+                "translation": {
+                    "en": "And say to him, 'Would you [be willing to] purify yourself",
+                    "id": "Maka katakanlah (kepada Fir‘aun), “Adakah keinginanmu untuk membersihkan diri (dari kesesatan),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5730",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5730.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5730.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka nasihati dan katakanlah kepada Fir‘aun dengan sopan dan lemah lembut, “Adakah keinginanmu untuk membersihkan diri dari kesesatan dan dosa?",
+                        "long": "Tugas Nabi Musa ialah supaya pergi kepada Fir'aun dan menasihatinya karena Fir'aun sudah melampaui batas, berlaku sombong terhadap Bani Israil dan memperbudak mereka dengan kekejaman yang luar biasa dan di luar peri kemanusiaan. Di antaranya adalah perintah untuk membunuh bayi-bayi laki-laki dan membiarkan bayi perempuan hidup. Kemudian Allah menyuruh Nabi Musa supaya melaksanakan dakwah dengan halus dan lemah lembut.\n\nNabi Musa diperintahkan untuk berdialog secara baik-baik dengan Fir'aun dan mengemukakan pertanyaan apakah Fir'aun mau membersihkan diri dari kesesatan. Fir'aun telah bergelimang dalam kesesatan, sehingga sebaiknya mau menerima petunjuk dari Allah yang dibawa Nabi Musa. Fir'aun perlu menempuh jalan kebajikan yaitu menjauhkan diri dari perbuatan-perbuatan jahat.\n\nKemudian Nabi Musa diperintahkan untuk menjelaskan secara terbuka dengan mengajak Fir'aun untuk mengikuti risalahnya menuju ke jalan Allah dengan bertakwa kepada-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5731,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ",
+                    "transliteration": {
+                        "en": "Wa ahdi yaka ila rabbika fatakh sha"
+                    }
+                },
+                "translation": {
+                    "en": "And let me guide you to your Lord so you would fear [Him]?'\"",
+                    "id": "dan engkau akan kupimpin ke jalan Tuhanmu agar engkau takut kepada-Nya?”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5731",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5731.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5731.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan engkau akan kupimpin dan kubimbing ke jalan Tuhanmu yang benar dan lurus agar engkau takut kepada-Nya dengan menyembah-Nya dan berbuat baik?”",
+                        "long": "Tugas Nabi Musa ialah supaya pergi kepada Fir'aun dan menasihatinya karena Fir'aun sudah melampaui batas, berlaku sombong terhadap Bani Israil dan memperbudak mereka dengan kekejaman yang luar biasa dan di luar peri kemanusiaan. Di antaranya adalah perintah untuk membunuh bayi-bayi laki-laki dan membiarkan bayi perempuan hidup. Kemudian Allah menyuruh Nabi Musa supaya melaksanakan dakwah dengan halus dan lemah lembut.\n\nNabi Musa diperintahkan untuk berdialog secara baik-baik dengan Fir'aun dan mengemukakan pertanyaan apakah Fir'aun mau membersihkan diri dari kesesatan. Fir'aun telah bergelimang dalam kesesatan, sehingga sebaiknya mau menerima petunjuk dari Allah yang dibawa Nabi Musa. Fir'aun perlu menempuh jalan kebajikan yaitu menjauhkan diri dari perbuatan-perbuatan jahat.\n\nKemudian Nabi Musa diperintahkan untuk menjelaskan secara terbuka dengan mengajak Fir'aun untuk mengikuti risalahnya menuju ke jalan Allah dengan bertakwa kepada-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5732,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ",
+                    "transliteration": {
+                        "en": "Fa araahul-aayatal kubra."
+                    }
+                },
+                "translation": {
+                    "en": "And he showed him the greatest sign,",
+                    "id": "Lalu (Musa) memperlihatkan kepadanya mukjizat yang besar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5732",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5732.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5732.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Fir‘aun marah mendengar ajakan Nabi Musa dan memintanya memperlihatkan bukti kerasulannya. Nabi Musa lalu memperlihatkan kepadanya mukjizat yang besar, yaitu tongkat yang berubah menjadi ular dan tangan yang bercahaya.",
+                        "long": "Kemudian Allah menerangkan bahwa Fir'aun tetap membangkang dan tidak mau mengikuti ajakan Nabi Musa sehingga Musa terpaksa memperlihatkan mukjizat-mukjizatnya. Lalu Musa memperlihatkan kepada Fir'aun mukjizat yang besar yaitu tongkat menjadi ular dan telapak tangan yang bersinar terang. Meskipun begitu, Fir'aun masih mengingkari kenabian Musa dan tetap bersikap durhaka dan menentang Allah. Kemudian Fir'aun berpaling dan berusaha untuk mengadakan perlawanan kepada Musa."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5733,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَكَذَّبَ وَعَصَىٰ",
+                    "transliteration": {
+                        "en": "Fa kazzaba wa asaa."
+                    }
+                },
+                "translation": {
+                    "en": "But Pharaoh denied and disobeyed.",
+                    "id": "Tetapi dia (Fir‘aun) mendustakan dan mendurhakai."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5733",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5733.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5733.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Fir‘aun semakin marah karena merasa terhina dan harga dirinya terusik oleh kedatangan Nabi Musa. Bukan beriman, tetapi dia justru mendustakan Nabi Musa dan mendurhakai-nya dan menuduh beliau sebagai pesihir ulung.",
+                        "long": "Kemudian Allah menerangkan bahwa Fir'aun tetap membangkang dan tidak mau mengikuti ajakan Nabi Musa sehingga Musa terpaksa memperlihatkan mukjizat-mukjizatnya. Lalu Musa memperlihatkan kepada Fir'aun mukjizat yang besar yaitu tongkat menjadi ular dan telapak tangan yang bersinar terang. Meskipun begitu, Fir'aun masih mengingkari kenabian Musa dan tetap bersikap durhaka dan menentang Allah. Kemudian Fir'aun berpaling dan berusaha untuk mengadakan perlawanan kepada Musa."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5734,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ أَدْبَرَ يَسْعَىٰ",
+                    "transliteration": {
+                        "en": "Thumma adbara yas'aa."
+                    }
+                },
+                "translation": {
+                    "en": "Then he turned his back, striving.",
+                    "id": "Kemudian dia berpaling seraya berusaha menantang (Musa)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5734",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5734.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5734.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kemudian dia berpaling dari kebenaran seraya berusaha menantang Nabi Musa untuk bertanding melawan para pesihir yang didatangkannya dari seluruh pelosok Mesir.",
+                        "long": "Kemudian Allah menerangkan bahwa Fir'aun tetap membangkang dan tidak mau mengikuti ajakan Nabi Musa sehingga Musa terpaksa memperlihatkan mukjizat-mukjizatnya. Lalu Musa memperlihatkan kepada Fir'aun mukjizat yang besar yaitu tongkat menjadi ular dan telapak tangan yang bersinar terang. Meskipun begitu, Fir'aun masih mengingkari kenabian Musa dan tetap bersikap durhaka dan menentang Allah. Kemudian Fir'aun berpaling dan berusaha untuk mengadakan perlawanan kepada Musa."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5735,
+                    "inSurah": 23
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَحَشَرَ فَنَادَىٰ",
+                    "transliteration": {
+                        "en": "Fa hashara fanada."
+                    }
+                },
+                "translation": {
+                    "en": "And he gathered [his people] and called out",
+                    "id": "Kemudian dia mengumpulkan (pembesar-pembesarnya) lalu berseru (memanggil kaumnya)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5735",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5735.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5735.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kemudian dia mengumpulkan pembesar-pembesarnya yang setia lalu berseru memanggil kaumnya melalui petugas dan bala tentaranya.",
+                        "long": "Pada ayat-ayat ini, Allah menerangkan bahwa Fir'aun mengumpulkan pembesar-pembesarnya dan berseru memanggil kaumnya yang sebagiannya terdiri dari para tukang sihir. Dengan penuh kesombongan, Fir'aun berkata, \"Akulah tuhan kamu yang paling tinggi. Jangan ikuti ajakan Musa.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5736,
+                    "inSurah": 24
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ",
+                    "transliteration": {
+                        "en": "Faqala ana rabbu kumul-a'laa."
+                    }
+                },
+                "translation": {
+                    "en": "And said, \"I am your most exalted lord.\"",
+                    "id": "(Seraya) berkata, “Akulah tuhanmu yang paling tinggi.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5736",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5736.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5736.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Fir‘aun berkata dengan sombong dan angkuh, “Akulah tuhanmu yang paling tinggi. Hanya aku yang berhak kamu taati, bukan Tuhan Nabi Musa. Akulah yang paling berkuasa di negeri Mesir ini.”",
+                        "long": "Pada ayat-ayat ini, Allah menerangkan bahwa Fir'aun mengumpulkan pembesar-pembesarnya dan berseru memanggil kaumnya yang sebagiannya terdiri dari para tukang sihir. Dengan penuh kesombongan, Fir'aun berkata, \"Akulah tuhan kamu yang paling tinggi. Jangan ikuti ajakan Musa.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5737,
+                    "inSurah": 25
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ",
+                    "transliteration": {
+                        "en": "Fa-akha zahul laahu nakalal aakhirati wal-oola."
+                    }
+                },
+                "translation": {
+                    "en": "So Allah seized him in exemplary punishment for the last and the first [transgression].",
+                    "id": "Maka Allah menghukumnya dengan azab di akhirat dan siksaan di dunia."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5737",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5737.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5737.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pertandingan melawan para pesihir akhirnya dihelat dan memunculkan Nabi Musa sebagai pemenang. Mereka lantas beriman kepada Nabi Musa. Merasa terancam, Fir‘aun mengejar Nabi Musa dan pengikutnya hingga pinggir Laut Merah. Maka Allah menghukumnya dengan azab di akhirat dengan siksaan yang pedih dan siksaan di dunia dengan menenggelamkannya di Laut Merah bersama para prajuritnya.",
+                        "long": "Maka Allah menurunkan siksa kepadanya, bukan di dunia saja bahkan juga di akhirat. Siksaan di dunia ialah dengan ditenggelamkan bersama kaumnya di Laut Merah, dan siksaan di akhirat dengan dijerumuskan ke dalam neraka Jahanam, yang merupakan tempat kembali yang sangat buruk."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5738,
+                    "inSurah": 26
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 520,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ",
+                    "transliteration": {
+                        "en": "Inna fee zaalika la'ibratal limaiy-yaksha"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed in that is a warning for whoever would fear [Allah].",
+                    "id": "Sungguh, pada yang demikian itu terdapat pelajaran bagi orang yang takut (kepada Allah)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5738",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5738.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5738.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demikianlah kisah dakwah dan ketabahan Nabi Musa menghadapi Fir‘aun. Sungguh, pada yang demikian itu terdapat pelajaran yang sangat berharga bagi orang yang takut kepada Allah. Kisah itu mengajarkan bahwa kebenaran pasti akan mengalahkan kebatilan dan jabatan yang tinggi seringkali menjerumuskan seseorang untuk melanggar baik terhadap aturan agama maupun etika.",
+                        "long": "Pada ayat ini dijelaskan sesungguhnya pada kejadian yang demikian itu terdapat pelajaran bagi orang-orang yang mempunyai akal dan dapat memperhitungkan tiap-tiap kejadian dengan akibatnya, terutama bagi orang yang takut kepada Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5739,
+                    "inSurah": 27
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَأَنتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا",
+                    "transliteration": {
+                        "en": "A-antum a shaddu khalqan amis samaa-u banaaha."
+                    }
+                },
+                "translation": {
+                    "en": "Are you a more difficult creation or is the heaven? Allah constructed it.",
+                    "id": "Apakah penciptaan kamu yang lebih hebat ataukah langit yang telah dibangun-Nya?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5739",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5739.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5739.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Menjelaskan keperkasaan Allah dan kelemahan manusia, Allah berfrman, “Apakah penciptaan kamu yang lebih hebat ataukah langit yang telah dibangun-Nya? Secara logika, penciptaan langit yang demikian luas tentu lebih sulit daripada penciptaan manusia.",
+                        "long": "Ayat ini menghimbau manusia untuk menggunakan akalnya untuk membandingkan penciptaan dirinya yang kecil dan lemah dengan penciptaan alam semesta yang demikian luas dan kokoh. Hal itu menunjukkan kekuasaan Allah. Ibnu Khaldun menggambarkan keadaan manusia yang terlalu mengagungkan kemampuan logika tanpa mengasah kalbunya dengan mengatakan, \"Bagaimana manusia dengan otaknya yang hanya sebesar timbangan emas mau digunakan untuk menimbang alam semesta?\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5740,
+                    "inSurah": 28
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "رَفَعَ سَمْكَهَا فَسَوَّاهَا",
+                    "transliteration": {
+                        "en": "Raf'a sam kaha fasaw waaha"
+                    }
+                },
+                "translation": {
+                    "en": "He raised its ceiling and proportioned it.",
+                    "id": "Dia telah meninggikan bangunannya lalu menyempurnakannya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5740",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5740.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5740.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah telah menciptakan langit. Dia telah meninggikan bangunannya sedemikian tinggi dan kukuh lalu Dia menyempurnakannya sehingga tidak kamu jumpai di sana keretakan atau bentuk-bentuk cacat lainnya.",
+                        "long": "Pada ayat ini dijelaskan bahwa Allah meninggikan langit, meluaskan, dan melengkapinya dengan benda-benda angkasa, seperti planet dan lainnya. Allah lalu menetapkan ketentuan-ketentuan yang mengatur benda-benda angkasa itu, sehingga tetap di tempatnya dan tidak berjatuhan, seakan-akan menjadi perhiasan seluruh jagatnya. Menciptakan dan mengatur alam raya (makrokosmos) ini jauh lebih rumit dan kompleks daripada menciptakan manusia yang hanya disebut mikrokosmos.\n\nKajian saintifik modern saat ini menyatakan bahwa jagad-raya seisinya ini diawali pembentukannya dari adanya singularity. Singularity adalah sesuatu dimana calon/bakal ruang, energi, materi dan waktu masih terkumpul menjadi satu (manunggal). Dentuman Besar (Big Bang) meledakkan singularity ini dan berkembanglah bak seperti spiral-kerucut yang terus menerus berekspansi melebar dan melebar terus. Sejak Big Bang itulah, waktu mulai memisahkan diri dari ruang, begitu pula energi, materi dan gaya-gaya memisahkan diri, dan selama bermiliar-miliar tahun terbentuklah seluruh jagad-raya yang berisi miliaran galaksi. Ruang dan waktu terus mengalami ekspansi meluas. Inilah yang disebut dengan \"meninggikan bangunannya (langitnya)\". Bahiruddin S. Mahmud menjelaskan bahwa ekspansi jagad raya bukannya tak terbatas, bukannya terus menerus. Laju ekspansi atau perkembangan ini berangsur-angsur menurun, karena gaya gravitasi antar galaksi (yang mereka sesamanya terus saling menjauh) mulai mengendur, sehingga suatu saat akan berhentilah ekspansi jagad raya itu, maka sempurnalah bangunan itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5741,
+                    "inSurah": 29
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا",
+                    "transliteration": {
+                        "en": "Wa aghtasha lailaha wa akhraja duhaaha."
+                    }
+                },
+                "translation": {
+                    "en": "And He darkened its night and extracted its brightness.",
+                    "id": "dan Dia menjadikan malamnya (gelap gulita), dan menjadikan siangnya (terang benderang)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5741",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5741.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5741.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Dia menjadikan malamnya gelap gulita, dan menjadikan siangnya terang benderang. Dia menyediakan malam sebagai waktu beristirahat dan siang sebagai waktu bekerja. Penciptaan siang dan malam bukan perkara mudah, melainkan melalui mekanisme yang amat rumit dalam pandangan manusia.",
+                        "long": "Pada ayat ini dijelaskan bahwa Allah telah menjadikan malam gelap gulita dan siang terang benderang, dan pergantian siang dan malam, serta perbedaan musim-musim sebagai akibat dari peredaran planet-planet di sekitar orbitnya. Mengatur dan memelihara peredaran planet-planet ini sungguh pekerjaan yang luar biasa hebatnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5742,
+                    "inSurah": 30
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا",
+                    "transliteration": {
+                        "en": "Wal arda b'ada zaalika dahaaha."
+                    }
+                },
+                "translation": {
+                    "en": "And after that He spread the earth.",
+                    "id": "Dan setelah itu bumi Dia hamparkan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5742",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5742.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5742.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan setelah penciptaan langit itu bumi Dia hamparkan sebagai tempat tinggal yang nyaman bagi manusia dan makhluk lainnya.",
+                        "long": "Juga diterangkan bahwa Allah menjadikan bumi terhampar, sehingga makhluk Allah mudah melaksanakan kehidupan di sana. Ayat ini menunjukkan bahwa Allah menciptakan bumi lebih dahulu, kemudian menciptakan langit, kemudian kembali lagi ke bumi dan menghamparkannya untuk kediaman manusia. Setelah menyiapkan tempat-tempat tinggal, maka Allah menyediakan segala sesuatu yang diperlukan manusia yaitu tentang makanan dan minuman, sebagaimana dijelaskan dalam ayat berikutnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5743,
+                    "inSurah": 31
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا",
+                    "transliteration": {
+                        "en": "Akhraja minha maa-aha wa mar 'aaha."
+                    }
+                },
+                "translation": {
+                    "en": "He extracted from it its water and its pasture,",
+                    "id": "Darinya Dia pancarkan mata air, dan (ditumbuhkan) tumbuh-tumbuhannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5743",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5743.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5743.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dia hamparkan bumi dan darinya Dia pancarkan mata air dan Dia tumbuhkan tumbuh-tumbuhannya untuk memenuhi kebutuhan konsumsi makhluk hidup di sana.",
+                        "long": "Pada ayat ini dijelaskan bahwa Allah memancarkan dari perut bumi sumber-sumber mata air dan sungai-sungai dan menumbuhkan tumbuh-tumbuhannya, baik untuk dimakan manusia maupun binatang ternak."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5744,
+                    "inSurah": 32
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْجِبَالَ أَرْسَاهَا",
+                    "transliteration": {
+                        "en": "Wal jibala arsaaha."
+                    }
+                },
+                "translation": {
+                    "en": "And the mountains He set firmly",
+                    "id": "Dan gunung-gunung Dia pancangkan dengan teguh."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5744",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5744.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5744.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan di bumi itu gunung-gunung Dia pancangkan dengan teguh agar bumi tidak bergoncang sehingga bisa ditempati dengan nyaman.",
+                        "long": "Pada ayat ini juga dijelaskan bahwa Allah memancangkan gunung-gunung dengan cara yang teguh sekali laksana tonggak sehingga menjadikan bumi stabil tidak goyah. Allah menerangkan hikmahnya pada ayat berikut ini."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5745,
+                    "inSurah": 33
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مَتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ",
+                    "transliteration": {
+                        "en": "Mataa'al lakum wali an 'aamikum."
+                    }
+                },
+                "translation": {
+                    "en": "As provision for you and your grazing livestock.",
+                    "id": "(Semua itu) untuk kesenanganmu dan untuk hewan-hewan ternakmu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5745",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5745.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5745.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menciptakan itu semua untuk kesenanganmu dan untuk hewan-hewan ternakmu. Kamu bisa hidup di bumi dengan memanfaatkan apa yang ada, sebagai bukti kasih sayang Allah yang tak terhingga.",
+                        "long": "Semuanya itu untuk kesenangan manusia dan hewan-hewan ternaknya. Dengan demikian, manusia dan hewan-hewan itu dapat hidup dengan tenang dan mencari rezeki dengan melakukan berbagai kegiatan.\n\nHal ini juga dijelaskan dalam firman Allah yang lain:\n\nDialah yang telah menurunkan air (hujan) dari langit untuk kamu, sebagiannya menjadi minuman dan sebagiannya (menyuburkan) tumbuhan, padanya kamu menggembalakan ternakmu. (an-Nahl/16: 10)\n\nSetelah mempelajari kandungan ayat-ayat tersebut yang ditujukan untuk meyakinkan tentang adanya hari kebangkitan, maka sepatutnya menjadi bahan renungan bahwa Tuhan yang telah menciptakan manusia dan menciptakan apa-apa yang diperlukan untuk kehidupannya, yang telah mengangkat langit di atas dan menghamparkan bumi di bawah, tidakkah berkuasa untuk membangkitkan manusia kembali pada hari Kiamat? Pantaskah Allah membiarkan manusia melakukan perbuatan yang sia-sia setelah menyiapkan sarana bagi mereka dan menghimpun kebaikan-kebaikan yang melimpah ruah itu untuk mereka?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5746,
+                    "inSurah": 34
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَىٰ",
+                    "transliteration": {
+                        "en": "Fa-izaa jaaa'atit taaam matul kubraa."
+                    }
+                },
+                "translation": {
+                    "en": "But when there comes the greatest Overwhelming Calamity -",
+                    "id": "Maka apabila malapetaka besar (hari Kiamat) telah datang,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5746",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5746.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5746.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka apabila malapetaka besar hari kiamat telah datang dengan hancurnya alam semesta.",
+                        "long": "Dalam ayat ini dijelaskan bahwa apabila malapetaka yang sangat besar yaitu hari Kiamat telah datang yang menyebabkan rambut pemuda bisa beruban dan neraka dapat dilihat, maka setiap orang akan melupakan malapetaka-malapetaka lain yang pernah dialaminya. Allah akan memisahkan antara orang-orang yang taat serta bertakwa, yang mana akan dimasukkan ke dalam surga, dengan orang-orang yang membangkang dan durhaka, yang mana akan dimasukkan ke dalam neraka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5747,
+                    "inSurah": 35
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَ يَتَذَكَّرُ الْإِنسَانُ مَا سَعَىٰ",
+                    "transliteration": {
+                        "en": "Yauma Yata zakkarul insaanu ma sa'aa."
+                    }
+                },
+                "translation": {
+                    "en": "The Day when man will remember that for which he strove,",
+                    "id": "yaitu pada hari (ketika) manusia teringat akan apa yang telah dikerjakannya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5747",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5747.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5747.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "yaitu pada hari ketika manusia teringat akan apa yang telah dikerjakannya, yang selama ini mereka lupakan, baik berupa amal baik maupun buruk.",
+                        "long": "Pada hari Kiamat, manusia akan teringat kepada apa yang telah dikerjakannya ketika hidup di dunia, karena amal-amalnya tercatat dalam sebuah kitab yang lengkap berisi rekaman-rekaman dari ucapan dan perbuatannya sejak mulai balig sampai mati."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5748,
+                    "inSurah": 36
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَبُرِّزَتِ الْجَحِيمُ لِمَن يَرَىٰ",
+                    "transliteration": {
+                        "en": "Wa burrizatil-jaheemu limany-yaraa."
+                    }
+                },
+                "translation": {
+                    "en": "And Hellfire will be exposed for [all] those who see -",
+                    "id": "dan neraka diperlihatkan dengan jelas kepada setiap orang yang melihat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5748",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5748.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5748.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan nanti di akhirat, neraka dengan segala siksaan yang sangat mengerikan di dalamnya akan diperlihatkan dengan jelas kepada setiap orang yang melihat.",
+                        "long": "Pada hari Kiamat, manusia akan teringat kepada apa yang telah dikerjakannya ketika hidup di dunia, karena amal-amalnya tercatat dalam sebuah kitab yang lengkap berisi rekaman-rekaman dari ucapan dan perbuatannya sejak mulai balig sampai mati."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5749,
+                    "inSurah": 37
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَمَّا مَن طَغَىٰ",
+                    "transliteration": {
+                        "en": "Fa ammaa man taghaa."
+                    }
+                },
+                "translation": {
+                    "en": "So as for he who transgressed",
+                    "id": "Maka adapun orang yang melampaui batas,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5749",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5749.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5749.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di akhirat Allah akan memberi putusan kepada manusia, memisahkan mereka menjadi dua kelompok besar. Maka adapun orang yang melampaui batas dengan berlaku musyrik, kafir, dan maksiat,",
+                        "long": "Adapun orang-orang yang sombong dan melampaui batas, lebih mengutamakan kelezatan kehidupan dunia dari pahala di akhirat. Maka sesungguhnya neraka Jahimlah tempat kediamannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5750,
+                    "inSurah": 38
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَآثَرَ الْحَيَاةَ الدُّنْيَا",
+                    "transliteration": {
+                        "en": "Wa aasaral hayaatad dunyaa"
+                    }
+                },
+                "translation": {
+                    "en": "And preferred the life of the world,",
+                    "id": "dan lebih mengutamakan kehidupan dunia,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5750",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5750.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5750.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan lebih mengutamakan kehidupan dunia daripada akhirat,",
+                        "long": "Adapun orang-orang yang sombong dan melampaui batas, lebih mengutamakan kelezatan kehidupan dunia dari pahala di akhirat. Maka sesungguhnya neraka Jahimlah tempat kediamannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5751,
+                    "inSurah": 39
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَىٰ",
+                    "transliteration": {
+                        "en": "Fa innal jaheema hiyal maawaa."
+                    }
+                },
+                "translation": {
+                    "en": "Then indeed, Hellfire will be [his] refuge.",
+                    "id": "maka sungguh, nerakalah tempat tinggalnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5751",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5751.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5751.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "maka sungguh, nerakalah tempat tinggalnya untuk waktu yang sangat lama. Inilah bukti keadilan Allah.",
+                        "long": "Adapun orang-orang yang sombong dan melampaui batas, lebih mengutamakan kelezatan kehidupan dunia dari pahala di akhirat. Maka sesungguhnya neraka Jahimlah tempat kediamannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5752,
+                    "inSurah": 40
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَىٰ",
+                    "transliteration": {
+                        "en": "Wa ammaa man khaafa maqaama Rabbihee wa nahan nafsa 'anil hawaa"
+                    }
+                },
+                "translation": {
+                    "en": "But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination,",
+                    "id": "Dan adapun orang-orang yang takut kepada kebesaran Tuhannya dan menahan diri dari (keinginan) hawa nafsunya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5752",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5752.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5752.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan adapun orang-orang yang takut kepada kebesaran Tuhannya dengan melakukan amal saleh dan menahan diri dari keinginan hawa nafsunya dengan menaati ajaran agama,",
+                        "long": "Sebaliknya ditegaskan pula bahwa orang-orang yang takut dan mengadakan persiapan karena memandang kebesaran Tuhannya serta menahan diri dari ajakan hawa nafsunya, maka sesungguhnya surgalah tempat kediamannya yang kekal dan abadi. Alangkah beruntung mereka memperoleh bagian seperti itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5753,
+                    "inSurah": 41
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَىٰ",
+                    "transliteration": {
+                        "en": "Fa innal jannata hiyal maawaa"
+                    }
+                },
+                "translation": {
+                    "en": "Then indeed, Paradise will be [his] refuge.",
+                    "id": "maka sungguh, surgalah tempat tinggal(nya)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5753",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5753.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5753.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "maka sungguh, surgalah tempat tinggal-nya untuk selama-lamanya dengan segala kenikmatan di dalamnya. Itulah anugerah agung Tuhan Yang Maha Pemurah.",
+                        "long": "Sebaliknya ditegaskan pula bahwa orang-orang yang takut dan mengadakan persiapan karena memandang kebesaran Tuhannya serta menahan diri dari ajakan hawa nafsunya, maka sesungguhnya surgalah tempat kediamannya yang kekal dan abadi. Alangkah beruntung mereka memperoleh bagian seperti itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5754,
+                    "inSurah": 42
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا",
+                    "transliteration": {
+                        "en": "Yas'aloonaka 'anis saa'ati ayyaana mursaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "They ask you, [O Muhammad], about the Hour: when is its arrival?",
+                    "id": "Mereka (orang-orang kafir) bertanya kepadamu (Muhammad) tentang hari Kiamat, “Kapankah terjadinya?”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5754",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5754.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5754.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi Muhammad, orang-orang kafir akan mengingkari hari kiamat. Mereka bertanya kepadamu tentang hari Kiamat dengan penuh keingkaran, “Kapankah terjadinya?”",
+                        "long": "Orang-orang musyrik bertanya kepada Nabi tentang kapan waktunya hari Kiamat itu datang. Mereka menanyakan hal itu dengan nada mengejek dan mencemooh. Nabi sendiri ingin sekali menjawab pertanyaan mereka dengan tepat, akan tetapi Allah melarangnya karena hanya Dia sendirilah yang mengetahui kapan hari Kiamat itu akan terjadi."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5755,
+                    "inSurah": 43
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِيمَ أَنتَ مِن ذِكْرَاهَا",
+                    "transliteration": {
+                        "en": "Feema anta min zikraahaa"
+                    }
+                },
+                "translation": {
+                    "en": "In what [position] are you that you should mention it?",
+                    "id": "Untuk apa engkau perlu menyebutkannya (waktunya)?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5755",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5755.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5755.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Untuk apa engkau perlu menyebutkan waktu-nya kepada mereka, sedang engkau sendiri tidak mengetahui hal itu?",
+                        "long": "Dalam ayat ini, Allah menanyakan apakah Nabi Muhammad akan menyebutkan waktu Kiamat itu? Padahal tugasnya hanya sekadar memberi peringatan sehingga tidak ada kewenangan untuk menyebutkan tentang kedatangan hari kebangkitan. Waktu datangnya hari Kiamat tetap merupakan rahasia Allah. Nabi sendiri tidak mengetahui tentang waktu kedatangannya, sebagaimana difirmankan Allah dalam Al-Qur'an:\n\nKewajibanmu tidak lain hanyalah menyampaikan (risalah). (asy-Syura/42: 48)\n\nDalam sebuah hadis yang diriwayatkan oleh 'Umar bin al-Khaththab, ketika Nabi ditanya tentang kapan datangnya hari Kiamat, beliau menjawab:\n\nOrang yang ditanya tidaklah lebih mengetahui daripada orang yang bertanya. (Riwayat Muslim dari 'Umar bin al-Khaththab)\n\nAllah tetap merahasiakan waktu datangnya hari Kiamat mempunyai hikmah yang besar, yaitu supaya manusia selalu mempersiapkan diri setiap saat dengan banyak-banyak berbuat kebaikan dan selalu menghindari perbuatan jahat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5756,
+                    "inSurah": 44
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِلَىٰ رَبِّكَ مُنتَهَاهَا",
+                    "transliteration": {
+                        "en": "Ilaa Rabbika muntahaa haa"
+                    }
+                },
+                "translation": {
+                    "en": "To your Lord is its finality.",
+                    "id": "Kepada Tuhanmulah (dikembalikan) kesudahannya (ketentuan waktunya)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5756",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5756.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5756.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Hanya kepada Tuhanmulah dikembalikan kesudahannya, yakni ketentuan waktunya.",
+                        "long": "Dalam ayat ini diterangkan bahwa hanya Allah saja yang mengetahui kapan ketentuan waktunya. Tidak ada yang mengetahui kapan ketentuan waktunya, dan kapan akan terjadinya kiamat kecuali Allah sendiri. Firman Allah:\n\nMereka menanyakan kepadamu (Muhammad) tentang Kiamat, \"Kapan terjadi?\" Katakanlah, \"Sesungguhnya pengetahuan tentang Kiamat itu ada pada Tuhanku; tidak ada (seorang pun) yang dapat menjelaskan waktu terjadinya selain Dia. (Kiamat) itu sangat berat (huru-haranya bagi makhluk) yang di langit dan di bumi, tidak akan datang kepadamu kecuali secara tiba-tiba.\" Mereka bertanya kepadamu seakan-akan engkau mengetahuinya. Katakanlah (Muhammad), \"Sesungguhnya pengetahuan tentang (hari Kiamat) ada pada Allah, tetapi kebanyakan manusia tidak mengetahui.\" (al-A'raf/7: 187)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5757,
+                    "inSurah": 45
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّمَا أَنتَ مُنذِرُ مَن يَخْشَاهَا",
+                    "transliteration": {
+                        "en": "Innamaaa anta munziru maiy yakshaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "You are only a warner for those who fear it.",
+                    "id": "Engkau (Muhammad) hanyalah pemberi peringatan bagi siapa yang takut kepadanya (hari Kiamat)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5757",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5757.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5757.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi, engkau tidak tahu kapan kiamat akan terjadi. Engkau kami utus hanyalah sebagai pemberi peringatan bagi siapa yang takut kepadanya, lalu beriman dan berbuat baik untuk menghindari azab di akhirat.",
+                        "long": "Dalam ayat ini diterangkan bahwa Nabi Muhammad hanya ditugaskan untuk memberi peringatan kepada orang yang takut kepada hari kebangkitan. Mereka diminta untuk mempersiapkan diri dengan beramal kebaikan dan menghindari kejahatan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5758,
+                    "inSurah": 46
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 584,
+                    "manzil": 7,
+                    "ruku": 521,
+                    "hizbQuarter": 233,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَاهَا",
+                    "transliteration": {
+                        "en": "Ka annahum Yawma yarawnahaa lam yalbasooo illaa 'ashiyyatan aw duhaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "It will be, on the Day they see it, as though they had not remained [in the world] except for an afternoon or a morning thereof.",
+                    "id": "Pada hari ketika mereka melihat hari Kiamat itu (karena suasananya hebat), mereka merasa seakan-akan hanya (sebentar saja) tinggal (di dunia) pada waktu sore atau pagi hari."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5758",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5758.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5758.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Hari kiamat itu penuh dengan huru-hara yang membuat manusia sangat tercengang. Pada hari ketika mereka melihat hari Kiamat itu, mereka merasa seakan-akan hanya sebentar saja tinggal di dunia, hidup di dunia seakan hanya pada waktu sore atau pagi hari.",
+                        "long": "Pada hari menyaksikan hari kebangkitan dan merasakan huru-haranya, mereka merasa seolah-olah tinggal di dunia hanya sementara saja, seperti sepenggal pagi atau sepenggal sore pada masa-masa yang lalu itu. Kehidupan manusia di dunia ini memang hanya sebentar saja, sebagaimana firman Allah:\n\nPada hari mereka melihat azab yang dijanjikan, mereka merasa seolah-olah mereka tinggal (di dunia) hanya sesaat saja pada siang hari. (al-Ahqaf/46: 35)"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,651 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 91,
+        "sequence": 26,
+        "numberOfVerses": 15,
+        "name": {
+            "short": "الشمس",
+            "long": "سورة الشمس",
+            "transliteration": {
+                "en": "Ash-Shams",
+                "id": "Asy-Syams"
+            },
+            "translation": {
+                "en": "The Sun",
+                "id": "Matahari"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat Asy Syams terdiri atas 15 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qadar.  Dinamai Asy Syams (matahari) diambil dari perkataan Asy Syams yang terdapat pada ayat permulaan surat ini."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 6044,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالشَّمْسِ وَضُحَاهَا",
+                    "transliteration": {
+                        "en": "Wash shamsi wa duhaa haa"
+                    }
+                },
+                "translation": {
+                    "en": "By the sun and its brightness",
+                    "id": "Demi matahari dan sinarnya pada pagi hari,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6044",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6044.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6044.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi matahari dan semburat sinarnya pada pagi hari. Penciptaan matahari, peredarannya pada poros dan orbitnya membuktikan kuasa Allah. Sinarnya yang terang dan panas sangat berman­faat bagi kehidupan manusia di bumi.",
+                        "long": "Allah bersumpah dengan matahari dan cahayanya pada waktu duha yang sangat terang dan kontras dengan sesaat sebelumnya di mana kegelapan menutup alam ini. Kemudian Allah bersumpah dengan bulan yang bertolak belakang dengan matahari, sebab ia bukan sumber cahaya tetapi hanya menerima cahaya dari matahari.\n\nMenurut kajian ilmiah, cahaya di pagi hari adalah yang paling lengkap kekayaan panjang gelombangnya. Oleh karena itu, cahaya matahari pagi paling baik khasiatnya bagi manusia. Matahari adalah sumber energi utama bagi manusia, sedang cahayanya terdiri dari cahaya tampak, inframerah, dan ultraviolet. Cahaya tampak memiliki tujuh spektrum yang berbeda dan masing-masing memiliki kegunaan yang berbeda bagi tubuh manusia. Adapun inframerah bermanfaat untuk mengurangi rasa sakit pada otot-otot, dan ultraviolet berfungsi sebagai fitokatalis yang mempercepat perubahan pro-vitamin D yang ada pada kulit manusia menjadi vitamin D."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6045,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْقَمَرِ إِذَا تَلَاهَا",
+                    "transliteration": {
+                        "en": "Wal qamari izaa talaa haa"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the moon when it follows it",
+                    "id": "demi bulan apabila mengiringinya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6045",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6045.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6045.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi bulan apabila mengiringinya dan menggantikan tugasnya menerangi bumi setelah matahari itu terbenam. Bulan muncul dalam bentuk bulan sabit, kemudian seiring pergantian hari berubah menjadi purnama, dan kembali ke bulan sabit lagi pada akhir bulan.",
+                        "long": "Allah bersumpah dengan matahari dan cahayanya pada waktu duha yang sangat terang dan kontras dengan sesaat sebelumnya di mana kegelapan menutup alam ini. Kemudian Allah bersumpah dengan bulan yang bertolak belakang dengan matahari, sebab ia bukan sumber cahaya tetapi hanya menerima cahaya dari matahari.\n\nMenurut kajian ilmiah, cahaya di pagi hari adalah yang paling lengkap kekayaan panjang gelombangnya. Oleh karena itu, cahaya matahari pagi paling baik khasiatnya bagi manusia. Matahari adalah sumber energi utama bagi manusia, sedang cahayanya terdiri dari cahaya tampak, inframerah, dan ultraviolet. Cahaya tampak memiliki tujuh spektrum yang berbeda dan masing-masing memiliki kegunaan yang berbeda bagi tubuh manusia. Adapun inframerah bermanfaat untuk mengurangi rasa sakit pada otot-otot, dan ultraviolet berfungsi sebagai fitokatalis yang mempercepat perubahan pro-vitamin D yang ada pada kulit manusia menjadi vitamin D."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6046,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالنَّهَارِ إِذَا جَلَّاهَا",
+                    "transliteration": {
+                        "en": "Wannahaari izaa jallaa haa"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the day when it displays it",
+                    "id": "demi siang apabila menampakkannya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6046",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6046.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6046.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi siang apabila menampakkannya, yakni menampakkan matahari. Siang yang terang menjadi waktu bagi manusia untuk beraktivitas.",
+                        "long": "Selanjutnya Allah bersumpah dengan siang dan malam. Siang menampakkan matahari, sedangkan malam menyembunyikan matahari. Dengan ini, Allah memberikan isyarat tentang sistem perputaran bulan dan bumi terhadap matahari sebagai penanda waktu bagi manusia. Perputaran bumi terhadap matahari menimbulkan sistem penanda waktu syamsiah sedang perputaran bulan terhadap bumi menimbulkan penanda waktu qomariyah. Pergerakan ketiga benda langit ini yang begitu terstruktur tersebut menunjukkan betapa kuasa Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6047,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَاللَّيْلِ إِذَا يَغْشَاهَا",
+                    "transliteration": {
+                        "en": "Wallaili izaa yaghshaa haa"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the night when it covers it",
+                    "id": "demi malam apabila menutupinya (gelap gulita),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6047",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6047.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6047.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi malam apabila menutupinya sehingga suasana menjadi gelap gulita. Malam menjadi waktu istirahat bagi manusia guna mengembalikan kekuatan untuk kembali beraktivitas esok hari.",
+                        "long": "Selanjutnya Allah bersumpah dengan siang dan malam. Siang menampakkan matahari, sedangkan malam menyembunyikan matahari. Dengan ini, Allah memberikan isyarat tentang sistem perputaran bulan dan bumi terhadap matahari sebagai penanda waktu bagi manusia. Perputaran bumi terhadap matahari menimbulkan sistem penanda waktu syamsiah sedang perputaran bulan terhadap bumi menimbulkan penanda waktu qomariyah. Pergerakan ketiga benda langit ini yang begitu terstruktur tersebut menunjukkan betapa kuasa Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6048,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالسَّمَاءِ وَمَا بَنَاهَا",
+                    "transliteration": {
+                        "en": "Wassamaaa'i wa maa banaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the sky and He who constructed it",
+                    "id": "demi langit serta pembinaannya (yang menakjubkan),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6048",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6048.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6048.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi langit serta pembinaannya yang menakjubkan. Langit yang kukuh laksana atap yang melindungi manusia di bawahnya. Langit menjadi tempat bagi miliaran benda langit yang beredar pada orbit masing-masing. Tidak ada benturan antara satu benda langit dengan lainnya. Semuanya mencerminkan kekuasaan Zat Yang Mahakuasa dan Mahaperkasa.",
+                        "long": "Selanjutnya lagi, Allah bersumpah dengan langit dan bumi. Langit, yaitu kosmos beserta segala isinya, menyangga langit itu sehingga tetap berfungsi sebagai atap bumi. Dan bumi itu terhampar sehingga menyediakan potensi-potensi yang dapat dimanfaatkan manusia untuk hidup di atasnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6049,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْأَرْضِ وَمَا طَحَاهَا",
+                    "transliteration": {
+                        "en": "Wal ardi wa maa tahaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the earth and He who spread it",
+                    "id": "demi bumi serta penghamparannya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6049",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6049.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6049.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi bumi serta penghamparannya sehingga menjadi tempat makhluk hidup berpijak. Karena bumi terhampar luas, manusia dapat dengan mudah berpindah dari satu ke tempat lain.",
+                        "long": "Selanjutnya lagi, Allah bersumpah dengan langit dan bumi. Langit, yaitu kosmos beserta segala isinya, menyangga langit itu sehingga tetap berfungsi sebagai atap bumi. Dan bumi itu terhampar sehingga menyediakan potensi-potensi yang dapat dimanfaatkan manusia untuk hidup di atasnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6050,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَنَفْسٍ وَمَا سَوَّاهَا",
+                    "transliteration": {
+                        "en": "Wa nafsinw wa maa sawwaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the soul and He who proportioned it",
+                    "id": "demi jiwa serta penyempurnaan (ciptaan)nya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6050",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6050.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6050.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi jiwa serta penyempurnaan ciptaannya. Jiwa bukan materi sebagaimana benda-benda yang disebut sebelumnya, tetapi jiwa mempunyai peran yang sangat sentral dalam memben­tuk perilaku manusia.",
+                        "long": "Terakhir, Allah bersumpah dengan diri manusia yang telah Ia ciptakan dengan kondisi fisik dan psikis yang sempurna. Setelah menciptakannya secara sempurna, Allah memasukkan ke dalam diri manusia potensi jahat dan baik."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6051,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+                    "transliteration": {
+                        "en": "Fa-alhamahaa fujoorahaa wa taqwaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "And inspired it [with discernment of] its wickedness and its righteousness,",
+                    "id": "maka Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6051",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6051.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6051.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah menyempurnakan ciptaan jwia itu maka Dia mengilhamkan kepadanya jalan kejahatan dan ketakwaannya. Jiwa manusia laksana wadah bagi nilai-nilai yang diembannya. Jiwa bisa menjadi baik atau buruk tergantung nilai mana yang manusia pilih dan aktualisasikan.",
+                        "long": "Terakhir, Allah bersumpah dengan diri manusia yang telah Ia ciptakan dengan kondisi fisik dan psikis yang sempurna. Setelah menciptakannya secara sempurna, Allah memasukkan ke dalam diri manusia potensi jahat dan baik."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6052,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قَدْ أَفْلَحَ مَن زَكَّاهَا",
+                    "transliteration": {
+                        "en": "Qad aflaha man zakkaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "He has succeeded who purifies it,",
+                    "id": "sungguh beruntung orang yang menyucikannya (jiwa itu),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6052",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6052.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6052.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh beruntung orang yang membersihkan jiwa itu dan menyucikannya dari segala keko­toran seperti syirik, kufur, takabur, iri, dengki, kikir, tamak, dan sebagainya, lalu menghiasinya dengan sifat-sifat baik seperti iman, ikhlas, sabar, syukur, dan sebagainya.",
+                        "long": "Dalam ayat-ayat ini, Allah menegaskan pesan yang begitu pentingnya sehingga untuk itu Ia perlu bersumpah. Pesan itu adalah bahwa orang yang membersihkan dirinya, yaitu mengendalikan dirinya sehingga hanya mengerjakan perbuatan-perbuatan baik, akan beruntung, yaitu bahagia di dunia dan terutama di akhirat. Sedangkan orang yang mengotori dirinya, yaitu mengikuti hawa nafsunya sehingga melakukan perbuatan-perbuatan dosa, akan celaka, yaitu tidak bahagia di dunia dan di akhirat masuk neraka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6053,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَقَدْ خَابَ مَن دَسَّاهَا",
+                    "transliteration": {
+                        "en": "Wa qad khaaba man dassaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "And he has failed who instills it [with corruption].",
+                    "id": "dan sungguh rugi orang yang mengotorinya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6053",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6053.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6053.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sungguh rugi orang yang menutupi kemuliaan jiwa itu, mengotorinya dengan sifat-sifat buruk, dan mematikan potensinya untuk berbuat baik. Dengan melakukan hal itu, manusia tidak malu lagi berperilaku buruk, berbuat dosa, dan merugikan orang lain.",
+                        "long": "Dalam ayat-ayat ini, Allah menegaskan pesan yang begitu pentingnya sehingga untuk itu Ia perlu bersumpah. Pesan itu adalah bahwa orang yang membersihkan dirinya, yaitu mengendalikan dirinya sehingga hanya mengerjakan perbuatan-perbuatan baik, akan beruntung, yaitu bahagia di dunia dan terutama di akhirat. Sedangkan orang yang mengotori dirinya, yaitu mengikuti hawa nafsunya sehingga melakukan perbuatan-perbuatan dosa, akan celaka, yaitu tidak bahagia di dunia dan di akhirat masuk neraka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6054,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+                    "transliteration": {
+                        "en": "Kazzabat Samoodu bi taghwaahaaa"
+                    }
+                },
+                "translation": {
+                    "en": "Thamud denied [their prophet] by reason of their transgression,",
+                    "id": "(Kaum) samud telah mendustakan (rasulnya) karena mereka melampaui batas (zalim),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6054",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6054.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6054.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kaum Samud, yang dahulu tinggal di sebelah selatan Madinah, adalah contoh manusia yang mengotori jiwa dengan kekafiran dan maksiat. Kaum Šamud telah mendustakan rasulnya, yaitu Nabi Saleh, karena mereka melampaui batas dalam keingkaran terhadap ajakan nabi mereka dan melakukan tindakan yang penuh dosa.",
+                        "long": "Kaum Samud adalah umat Nabi Saleh. Mereka telah mendustakan dan mengingkari kenabian dan ajaran-ajaran yang dibawa Nabi Saleh dari Allah. Nabi Saleh diberi mukjizat oleh Allah sebagai ujian bagi kaumnya, yaitu seekor unta betina yang dijelmakan dari sebuah batu besar, untuk menandingi keahlian kaum itu yang sangat piawai dalam seni patung dari batu. Bila mereka piawai dalam seni patung sehingga patung itu terlihat bagaikan hidup, maka mukjizat Nabi Saleh adalah menjelmakan seekor unta betina yang benar-benar hidup dari sebuah batu. Akan tetapi, mereka tidak mengakuinya, dan berusaha membunuh unta itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6055,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِذِ انبَعَثَ أَشْقَاهَا",
+                    "transliteration": {
+                        "en": "Izim ba'asa ashqaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "When the most wretched of them was sent forth.",
+                    "id": "ketika bangkit orang yang paling celaka di antara mereka,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6055",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6055.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6055.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Puncak perilaku buruk mereka tampak ketika bangkit orang yang paling celaka di antara mereka untuk melakukan tindakan yang sangat buruk akibatnya bagi mereka semua, yaitu membantai unta mukjizat Nabi Saleh.",
+                        "long": "Awal kecelakaan bagi kaum Samud adalah ketika tampil seorang yang paling jahat dari mereka, yaitu Qudar bin Salif. Ia adalah seorang yang sangat berani, perkasa, dan bengis. Ia datang memprovokasi kaumnya untuk membunuh unta betina mukjizat Nabi Saleh."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6056,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+                    "transliteration": {
+                        "en": "Faqaala lahum Rasoolul laahi naaqatal laahi wa suqiyaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "And the messenger of Allah [Salih] said to them, \"[Do not harm] the she-camel of Allah or [prevent her from] her drink.\"",
+                    "id": "lalu Rasul Allah (Saleh) berkata kepada mereka, “(Biarkanlah) unta betina dari Allah ini dengan minumannya.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6056",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6056.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6056.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Melihat gelagat buruk itu lalu Rasul Allah, Nabi Saleh, berkata kepada mereka, “Biarkanlah unta betina dari Allah ini dengan minumannya.” Janganlah kamu mengusik apalagi membunuh­nya. Jangan pula kamu larang unta itu mengambil jatah air minumnya sesuai kesepakatan kita satu hari untuk unta dan hari berikutnya untuk kaum Šamud.",
+                        "long": "Nabi Saleh memperingatkan kaumnya agar tidak mengganggu unta itu. Ia memperingatkan bahwa unta itu adalah mukjizat dari Allah, dan haknya untuk memperoleh minum berselang hari dengan mereka, harus dihormati. Ia memperingatkan pula bahwa bila mereka mengganggunya, mereka akan mendapat bahaya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6057,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا",
+                    "transliteration": {
+                        "en": "Fakazzaboohu fa'aqaroohaa fadamdama 'alaihim Rabbuhum bizambihim fasaw waahaa"
+                    }
+                },
+                "translation": {
+                    "en": "But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them].",
+                    "id": "Namun mereka mendustakannya dan menyembelihnya, karena itu Tuhan membinasakan mereka karena dosanya, lalu diratakan-Nya (dengan tanah),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6057",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6057.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6057.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kaum Samud tidak rela dengan pembagian jatah air itu. Nabi Saleh telah menasihati mereka, namun mereka mengabaikan serta mendustakannya, dan dengan beringas pria paling celaka itu menyembelih­ unta tersebut dan membantainya atas perintah kaum Samud. Karena itu Tuhan membinasakan mereka karena dosanya, lalu diratakan-Nya mereka dengan tanah. Hanya Nabi Saleh dan orang beriman yang selamat dari azab itu. Kejadian ini memberi pesan kepada generasi setelahnya bahwa aturan agama Allah harus diindahkan. Mereka yang menentang dan melakukan dosa akan mendapatkan sanksi yang keras dari Allah di dunia sebelum sanksi yang lebih keras lagi di akhirat.",
+                        "long": "Akan tetapi, kaumnya memandang Nabi Saleh bohong, begitu juga unta itu sebagai mukjizat, dan menganggap sepi peringatan Nabi Saleh tersebut. Unta itu mereka tangkap beramai-ramai, lalu Qudar bin Salif membunuhnya dengan cara memotong-motongnya. Akhirnya Allah meratakan negeri mereka dengan tanah, dengan mengirim petir yang menggelegar yang diiringi gempa yang dahsyat, sebagai balasan pembangkangan dan dosa-dosa mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6058,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 533,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَا يَخَافُ عُقْبَاهَا",
+                    "transliteration": {
+                        "en": "Wa laa yakhaafu'uqbaahaa"
+                    }
+                },
+                "translation": {
+                    "en": "And He does not fear the consequence thereof.",
+                    "id": "dan Dia tidak takut terhadap akibatnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6058",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6058.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6058.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah membinasakan mereka dan Dia tidak takut terhadap akibatnya. Allah tidak diminta pertanggungjawaban atas tindakan-Nya oleh siapa pun. Tindakan Allah, apa pun bentuknya, adalah keadilan sejati. Makhluk harus menaati aturan-Nya dan mempertanggungjawabkan amal perbuatannya di hadapan Allah di akhirat nanti.",
+                        "long": "Allah tidak peduli bencana yang Ia timpakan kepada mereka dengan korban yang begitu besar. Hal itu karena pembangkangan mereka yang sudah sangat keterlaluan, yaitu membunuh unta betina (mukjizat) yang diturunkan-Nya kepada nabi-Nya."
+                    }
+                }
+            }
+        ]
+    }
+}

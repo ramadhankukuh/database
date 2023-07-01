@@ -1,0 +1,891 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 92,
+        "sequence": 9,
+        "numberOfVerses": 21,
+        "name": {
+            "short": "الليل",
+            "long": "سورة الليل",
+            "transliteration": {
+                "en": "Al-Lail",
+                "id": "Al-Lail"
+            },
+            "translation": {
+                "en": "The Night",
+                "id": "Malam"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 21 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al A'laa. Surat ini dinamai Al Lail (malam), diambil dari perkataan Al Lail yang terdapat pada ayat pertama surat ini"
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 6059,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَاللَّيْلِ إِذَا يَغْشَىٰ",
+                    "transliteration": {
+                        "en": "Wallaili izaa yaghshaa"
+                    }
+                },
+                "translation": {
+                    "en": "By the night when it covers",
+                    "id": "Demi malam apabila menutupi (cahaya siang),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6059",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6059.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6059.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi malam apabila menutupi cahaya siang. Malam yang gelap gulita dan hening menjadi waktu bagi manusia untuk beristirahat dari kepenatan kerja di siang hari.",
+                        "long": "Allah bersumpah dengan malam apabila menutupi, yaitu ketika malam sudah merata menutupi alam ini. Ini adalah waktu isya yaitu ketika cahaya merah sudah hilang di ufuk barat. Waktu itu manusia pada umumnya sudah mengakhiri aktivitasnya, dan ingin istirahat dan pergi tidur. Kemudian Allah bersumpah dengan aktivitas alam sebaliknya, yaitu siang ketika terang benderang. Waktu itu adalah waktu duha ketika cahaya matahari sudah merata menyinari alam ini, yang kontras dengan malam yang baru saja berakhir, dan manusia mulai bekerja."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6060,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالنَّهَارِ إِذَا تَجَلَّىٰ",
+                    "transliteration": {
+                        "en": "Wannahaari izaa tajalla"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the day when it appears",
+                    "id": "demi siang apabila terang benderang,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6060",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6060.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6060.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi waktu siang apabila terang benderang oleh cahaya matahari sehingga manusia dapat beraktivitas dengan leluasa.",
+                        "long": "Allah bersumpah dengan malam apabila menutupi, yaitu ketika malam sudah merata menutupi alam ini. Ini adalah waktu isya yaitu ketika cahaya merah sudah hilang di ufuk barat. Waktu itu manusia pada umumnya sudah mengakhiri aktivitasnya, dan ingin istirahat dan pergi tidur. Kemudian Allah bersumpah dengan aktivitas alam sebaliknya, yaitu siang ketika terang benderang. Waktu itu adalah waktu duha ketika cahaya matahari sudah merata menyinari alam ini, yang kontras dengan malam yang baru saja berakhir, dan manusia mulai bekerja."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6061,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا خَلَقَ الذَّكَرَ وَالْأُنثَىٰ",
+                    "transliteration": {
+                        "en": "Wa maa khalaqaz zakara wal unthaa"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] He who created the male and female,",
+                    "id": "demi penciptaan laki-laki dan perempuan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6061",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6061.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6061.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi penciptaan laki-laki dan perempuan dari setetes mani. Manusia tidak mempunyai rekayasa apa pun dalam penciptaan kedua jenis ini. Semua diatur oleh Allah sesuai kebijaksana­an-Nya terhadap makhluk.",
+                        "long": "Selanjutnya, Allah bersumpah dengan laki-laki dan perempuan yang telah diciptakan-Nya. Ini adalah juga dua makhluk yang berlawanan jenis dan kodratnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6062,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+                    "transliteration": {
+                        "en": "Inna sa'yakum lashattaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, your efforts are diverse.",
+                    "id": "sungguh, usahamu memang beraneka macam."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6062",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6062.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6062.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi ketiga hal itu, sungguh usahamu memang beraneka macam. Sebagian dari kamu memilih jalan ketaatan kepada Allah dan sebagian yang lain memilih durhaka.",
+                        "long": "Setelah bersumpah dengan dua-dua makhluk-Nya yang berlawanan jenis dan sifatnya, Allah menegaskan bahwa perbuatan atau tingkah laku manusia itu memang bermacam-macam. Perbedaan itu terjadi karena perbedaan kemauannya, apakah mengikuti potensi positifnya ataukah mengikuti potensi negatifnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6063,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ",
+                    "transliteration": {
+                        "en": "Fa ammaa man a'taa wattaqaa"
+                    }
+                },
+                "translation": {
+                    "en": "As for he who gives and fears Allah",
+                    "id": "Maka barangsiapa memberikan (hartanya di jalan Allah) dan bertakwa,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6063",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6063.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6063.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka barang siapa memberikan hartanya di jalan Allah, seperti ke-pada fakir miskin, anak yatim, dan kebajikan lainnya, dan bertakwa kepada Allah dengan melaksanakan perintah-Nya dan menghindari larangan-Nya,",
+                        "long": "Dalam ayat ini, Allah menerangkan adanya tiga tingkah laku manusia. Pertama, suka memberi, yaitu menolong antara sesama manusia. Ia tidak hanya mengeluarkan zakat kekayaannya, yang merupakan kewajiban, tetapi juga berinfak, bersedekah, dan sebagainya yang bukan wajib. Kedua, bertakwa, yaitu takut mengabaikan perintah-Nya atau melanggar larangan-Nya. \n\nKetiga, membenarkan kebaikan Allah, yaitu mengakui nikmat-nikmat yang telah diberikan kepadanya lalu mensyukurinya. Nikmat terbesar Allah yang ia akui adalah surga. Oleh karena itu, ia tidak segan-segan beramal di dunia untuk memperolehnya, di antaranya membantu antara sesama manusia.\n\nKepada mereka yang melakukan tiga aspek perbuatan baik di atas, Allah akan memberikan kemudahan bagi mereka, yaitu kemudahan untuk memperoleh keberuntungan di dunia maupun di akhirat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6064,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَصَدَّقَ بِالْحُسْنَىٰ",
+                    "transliteration": {
+                        "en": "Wa saddaqa bil husnaa"
+                    }
+                },
+                "translation": {
+                    "en": "And believes in the best [reward],",
+                    "id": "dan membenarkan (adanya pahala) yang terbaik (surga),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6064",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6064.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6064.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan membenarkan adanya pahala yang terbaik, yaitu surga di akhirat, atau membenarkan kalimat tauhid dengan beriman kepada Allah dengan kukuh,",
+                        "long": "Dalam ayat ini, Allah menerangkan adanya tiga tingkah laku manusia. Pertama, suka memberi, yaitu menolong antara sesama manusia. Ia tidak hanya mengeluarkan zakat kekayaannya, yang merupakan kewajiban, tetapi juga berinfak, bersedekah, dan sebagainya yang bukan wajib. Kedua, bertakwa, yaitu takut mengabaikan perintah-Nya atau melanggar larangan-Nya. \n\nKetiga, membenarkan kebaikan Allah, yaitu mengakui nikmat-nikmat yang telah diberikan kepadanya lalu mensyukurinya. Nikmat terbesar Allah yang ia akui adalah surga. Oleh karena itu, ia tidak segan-segan beramal di dunia untuk memperolehnya, di antaranya membantu antara sesama manusia.\n\nKepada mereka yang melakukan tiga aspek perbuatan baik di atas, Allah akan memberikan kemudahan bagi mereka, yaitu kemudahan untuk memperoleh keberuntungan di dunia maupun di akhirat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6065,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ",
+                    "transliteration": {
+                        "en": "Fasanu yassiruhoo lilyusraa"
+                    }
+                },
+                "translation": {
+                    "en": "We will ease him toward ease.",
+                    "id": "maka akan Kami mudahkan baginya jalan menuju kemudahan (kebahagiaan),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6065",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6065.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6065.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "maka akan Kami mudahkan baginya jalan menuju kemudahan dan kebahagiaan; menuju surga. Kami juga akan memudahkan jalannya untuk senantiasa beramal saleh dan taat kepada Kami.",
+                        "long": "Dalam ayat ini, Allah menerangkan adanya tiga tingkah laku manusia. Pertama, suka memberi, yaitu menolong antara sesama manusia. Ia tidak hanya mengeluarkan zakat kekayaannya, yang merupakan kewajiban, tetapi juga berinfak, bersedekah, dan sebagainya yang bukan wajib. Kedua, bertakwa, yaitu takut mengabaikan perintah-Nya atau melanggar larangan-Nya. \n\nKetiga, membenarkan kebaikan Allah, yaitu mengakui nikmat-nikmat yang telah diberikan kepadanya lalu mensyukurinya. Nikmat terbesar Allah yang ia akui adalah surga. Oleh karena itu, ia tidak segan-segan beramal di dunia untuk memperolehnya, di antaranya membantu antara sesama manusia.\n\nKepada mereka yang melakukan tiga aspek perbuatan baik di atas, Allah akan memberikan kemudahan bagi mereka, yaitu kemudahan untuk memperoleh keberuntungan di dunia maupun di akhirat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6066,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَمَّا مَن بَخِلَ وَاسْتَغْنَىٰ",
+                    "transliteration": {
+                        "en": "Wa ammaa mam bakhila wastaghnaa"
+                    }
+                },
+                "translation": {
+                    "en": "But as for he who withholds and considers himself free of need",
+                    "id": "dan adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6066",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6066.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6066.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan adapun orang yang kikir terhadap hartanya dengan tidak memenuhi hak Allah dalam harta itu dan merasa dirinya cukup dengan apa yang dia punya sehingga tidak lagi memerlukan pahala dari Allah tidak mau beramal untuk kehidupan akhiratnya",
+                        "long": "Sebaliknya, ada manusia yang bertingkah laku sebaliknya. Ia bakhil, pelit, tidak mau menolong antar sesama, apalagi mengeluarkan kewajibannya yaitu zakat. Di samping itu, ia sudah merasa cukup segala-galanya. Oleh karena itu, ia merasa tidak memerlukan orang lain bahkan Allah. Akibatnya, ia sombong dan tidak mengakui nikmat-nikmat Allah yang telah ia terima dan tidak mengharapkan nikmat-nikmat itu. Akibatnya ia tidak mengindahkan aturan-aturan Allah. Orang itu akan dimudahkan Allah menuju kesulitan, baik kesulitan di dunia maupun di akhirat. Kesulitan di dunia misalnya kejatuhan, penyakit, kecelakaan, musibah, dan sebagainya. Kesulitan di akhirat adalah ketersiksaan yang puncaknya adalah neraka.\n\nManusia, bila sudah mati tanpa memiliki amal dan kemudian masuk neraka di akhirat, maka harta benda dan kekayaan mereka tidak berguna apa pun. Hal itu karena harta itu tidak akan bisa digunakan untuk menebus dosa-dosa mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6067,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَكَذَّبَ بِالْحُسْنَىٰ",
+                    "transliteration": {
+                        "en": "Wa kazzaba bil husnaa"
+                    }
+                },
+                "translation": {
+                    "en": "And denies the best [reward],",
+                    "id": "serta mendustakan (pahala) yang terbaik,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6067",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6067.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6067.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "serta mendustakan pahala yang terbaik, yaitu surga di akhirat; atau ingkar kepada Allah, hari akhir, dan apa yang Allah janjikan kepada mereka yang beramal saleh sehingga dia senantiasa melakukan maksiat,",
+                        "long": "Sebaliknya, ada manusia yang bertingkah laku sebaliknya. Ia bakhil, pelit, tidak mau menolong antar sesama, apalagi mengeluarkan kewajibannya yaitu zakat. Di samping itu, ia sudah merasa cukup segala-galanya. Oleh karena itu, ia merasa tidak memerlukan orang lain bahkan Allah. Akibatnya, ia sombong dan tidak mengakui nikmat-nikmat Allah yang telah ia terima dan tidak mengharapkan nikmat-nikmat itu. Akibatnya ia tidak mengindahkan aturan-aturan Allah. Orang itu akan dimudahkan Allah menuju kesulitan, baik kesulitan di dunia maupun di akhirat. Kesulitan di dunia misalnya kejatuhan, penyakit, kecelakaan, musibah, dan sebagainya. Kesulitan di akhirat adalah ketersiksaan yang puncaknya adalah neraka.\n\nManusia, bila sudah mati tanpa memiliki amal dan kemudian masuk neraka di akhirat, maka harta benda dan kekayaan mereka tidak berguna apa pun. Hal itu karena harta itu tidak akan bisa digunakan untuk menebus dosa-dosa mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6068,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ",
+                    "transliteration": {
+                        "en": "Fasanu yassiruhoo lil'usraa"
+                    }
+                },
+                "translation": {
+                    "en": "We will ease him toward difficulty.",
+                    "id": "maka akan Kami mudahkan baginya jalan menuju kesukaran (kesengsaraan),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6068",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6068.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6068.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "maka akan Kami mudahkan baginya jalan menuju kesukaran dan kesengsaraan. Kami tutup hatinya dari keinginan untuk berbuat kebajikan dan Kami tahan langkahnya untuk taat kepada Kami.",
+                        "long": "Sebaliknya, ada manusia yang bertingkah laku sebaliknya. Ia bakhil, pelit, tidak mau menolong antar sesama, apalagi mengeluarkan kewajibannya yaitu zakat. Di samping itu, ia sudah merasa cukup segala-galanya. Oleh karena itu, ia merasa tidak memerlukan orang lain bahkan Allah. Akibatnya, ia sombong dan tidak mengakui nikmat-nikmat Allah yang telah ia terima dan tidak mengharapkan nikmat-nikmat itu. Akibatnya ia tidak mengindahkan aturan-aturan Allah. Orang itu akan dimudahkan Allah menuju kesulitan, baik kesulitan di dunia maupun di akhirat. Kesulitan di dunia misalnya kejatuhan, penyakit, kecelakaan, musibah, dan sebagainya. Kesulitan di akhirat adalah ketersiksaan yang puncaknya adalah neraka.\n\nManusia, bila sudah mati tanpa memiliki amal dan kemudian masuk neraka di akhirat, maka harta benda dan kekayaan mereka tidak berguna apa pun. Hal itu karena harta itu tidak akan bisa digunakan untuk menebus dosa-dosa mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6069,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ",
+                    "transliteration": {
+                        "en": "Wa maa yughnee 'anhu maaluhooo izaa taraddaa"
+                    }
+                },
+                "translation": {
+                    "en": "And what will his wealth avail him when he falls?",
+                    "id": "dan hartanya tidak bermanfaat baginya apabila dia telah binasa."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6069",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6069.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6069.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan hartanya tidak bermanfaat baginya apabila dia telah binasa dalam kemurkaan Allah. Allah tidak membutuhkan harta sebanyak apa pun. Hanya iman dan ketaatan, bukan harta, yang menyelamatkan seseorang dari azab Allah.",
+                        "long": "Sebaliknya, ada manusia yang bertingkah laku sebaliknya. Ia bakhil, pelit, tidak mau menolong antar sesama, apalagi mengeluarkan kewajibannya yaitu zakat. Di samping itu, ia sudah merasa cukup segala-galanya. Oleh karena itu, ia merasa tidak memerlukan orang lain bahkan Allah. Akibatnya, ia sombong dan tidak mengakui nikmat-nikmat Allah yang telah ia terima dan tidak mengharapkan nikmat-nikmat itu. Akibatnya ia tidak mengindahkan aturan-aturan Allah. Orang itu akan dimudahkan Allah menuju kesulitan, baik kesulitan di dunia maupun di akhirat. Kesulitan di dunia misalnya kejatuhan, penyakit, kecelakaan, musibah, dan sebagainya. Kesulitan di akhirat adalah ketersiksaan yang puncaknya adalah neraka.\n\nManusia, bila sudah mati tanpa memiliki amal dan kemudian masuk neraka di akhirat, maka harta benda dan kekayaan mereka tidak berguna apa pun. Hal itu karena harta itu tidak akan bisa digunakan untuk menebus dosa-dosa mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6070,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+                    "transliteration": {
+                        "en": "Inna 'alainaa lal hudaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, [incumbent] upon Us is guidance.",
+                    "id": "Sesungguhnya Kamilah yang memberi petunjuk,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6070",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6070.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6070.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sesungguhnya Kamilah yang memberi petunjuk kepada manusia sesuai dengan kebijaksanaan Kami agar mereka berjalan pada jalan yang benar demi kebaikan mereka di dunia dan akhirat,",
+                        "long": "Allah menegaskan bahwa Ia berkewajiban menunjuki manusia mana jalan yang benar dan mana jalan yang salah, mana yang baik dan mana yang buruk, sebagaimana dinyatakan-Nya dalam ayat lain:\n\nDan apabila orang-orang yang beriman kepada ayat-ayat Kami datang kepadamu, maka katakanlah, \"Salamun 'alaikum (selamat sejahtera untuk kamu).\" Tuhanmu telah menetapkan sifat kasih sayang pada diri-Nya, (yaitu) barang siapa berbuat kejahatan di antara kamu karena kebodohan, kemudian dia bertobat setelah itu dan memperbaiki diri, maka Dia Maha Pengampun, Maha Penyayang. (al-An'am/6: 54)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6071,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ",
+                    "transliteration": {
+                        "en": "Wa inna lanaa lal Aakhirata wal oolaa"
+                    }
+                },
+                "translation": {
+                    "en": "And indeed, to Us belongs the Hereafter and the first [life].",
+                    "id": "dan sesungguhnya milik Kamilah akhirat dan dunia itu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6071",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6071.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6071.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan sesungguhnya milik Kamilah kerajaan akhirat dan dunia. Kami yang mengatur urusan keduanya, sedangkan manusia tinggal menjalankan apa yang wajib baginya dan meninggalkan apa yang dilarang darinya.",
+                        "long": "Allah juga pemilik alam ini, baik alam akhirat maupun alam dunia. Bila Allah pemilik segala-galanya, maka tiada jalan bagi manusia selain meminta semuanya itu kepada-Nya dengan jalan mengimani dan bertakwa kepada-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6072,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 595,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+                    "transliteration": {
+                        "en": "Fa anzartukum naaran talazzaa"
+                    }
+                },
+                "translation": {
+                    "en": "So I have warned you of a Fire which is blazing.",
+                    "id": "Maka Aku memperingatkan kamu dengan neraka yang menyala-nyala,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6072",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6072.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6072.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, Aku memperingatkan kamu, wahai manusia, dengan neraka yang menyala-nyala dan panas tiada tara; itulah neraka Jahanam. Demikianlah cara Allah mendidik manusia, dengan memberi sanksi kepada pelanggar dan penghargaan kepada penaat.",
+                        "long": "Di samping Allah telah menunjuki manusia jalan yang benar, Ia juga memperingatkan manusia tentang adanya neraka yang senantiasa menyala-nyala. Penghuni neraka itu adalah mereka yang paling durhaka, yaitu orang-orang yang senantiasa memandang dusta wahyu-wahyu yang disampaikan kepadanya, dan karena itu tidak mau mengimaninya dan menjalankannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6073,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَا يَصْلَاهَا إِلَّا الْأَشْقَى",
+                    "transliteration": {
+                        "en": "Laa yaslaahaaa illal ashqaa"
+                    }
+                },
+                "translation": {
+                    "en": "None will [enter to] burn therein except the most wretched one.",
+                    "id": "yang hanya dimasuki oleh orang yang paling celaka,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6073",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6073.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6073.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Itulah neraka yang hanya dimasuki dan dirasakan panasnya oleh orang yang paling celaka.",
+                        "long": "Di samping Allah telah menunjuki manusia jalan yang benar, Ia juga memperingatkan manusia tentang adanya neraka yang senantiasa menyala-nyala. Penghuni neraka itu adalah mereka yang paling durhaka, yaitu orang-orang yang senantiasa memandang dusta wahyu-wahyu yang disampaikan kepadanya, dan karena itu tidak mau mengimaninya dan menjalankannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6074,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِي كَذَّبَ وَتَوَلَّىٰ",
+                    "transliteration": {
+                        "en": "Allazee kazzaba wa tawallaa"
+                    }
+                },
+                "translation": {
+                    "en": "Who had denied and turned away.",
+                    "id": "yang mendustakan (kebenaran) dan berpaling (dari iman)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6074",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6074.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6074.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka itulah orang yang mendustakan kebenaran yang datang dari Allah dan berpaling dari iman kepada-Nya.",
+                        "long": "Di samping Allah telah menunjuki manusia jalan yang benar, Ia juga memperingatkan manusia tentang adanya neraka yang senantiasa menyala-nyala. Penghuni neraka itu adalah mereka yang paling durhaka, yaitu orang-orang yang senantiasa memandang dusta wahyu-wahyu yang disampaikan kepadanya, dan karena itu tidak mau mengimaninya dan menjalankannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6075,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَسَيُجَنَّبُهَا الْأَتْقَى",
+                    "transliteration": {
+                        "en": "Wa sa yujannnabuhal atqaa"
+                    }
+                },
+                "translation": {
+                    "en": "But the righteous one will avoid it -",
+                    "id": "Dan akan dijauhkan darinya (neraka) orang yang paling bertakwa,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6075",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6075.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6075.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sebaliknya, akan selamat dari neraka itu dijauhkan darinya orang yang paling bertakwa sebagai penghargaan iman dan amal salehnya.",
+                        "long": "Sebaliknya adalah orang yang takwa, yaitu orang yang memberikan kekayaannya untuk membantu orang lain untuk menyucikan dirinya. Orang yang takwa itu akan terjauh dari neraka. Contoh orang yang paling takwa adalah Abu Bakar as-siddiq yang telah menggunakan seluruh kekayaannya untuk memerdekakan orang-orang lemah dan perempuan-perempuan yang masuk Islam dan membantu mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6076,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ",
+                    "transliteration": {
+                        "en": "Allazee yu'tee maalahoo yatazakkaa"
+                    }
+                },
+                "translation": {
+                    "en": "[He] who gives [from] his wealth to purify himself",
+                    "id": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6076",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6076.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6076.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dia itulah orang yang menginfakkan hartanya di jalan Allah untuk membersihkan dirinya dari kekikiran, ketamakan, dan sifat buruk lainnya.",
+                        "long": "Sebaliknya adalah orang yang takwa, yaitu orang yang memberikan kekayaannya untuk membantu orang lain untuk menyucikan dirinya. Orang yang takwa itu akan terjauh dari neraka. Contoh orang yang paling takwa adalah Abu Bakar as-siddiq yang telah menggunakan seluruh kekayaannya untuk memerdekakan orang-orang lemah dan perempuan-perempuan yang masuk Islam dan membantu mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6077,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَىٰ",
+                    "transliteration": {
+                        "en": "Wa maa li ahadin 'indahoo min ni'matin tujzaaa"
+                    }
+                },
+                "translation": {
+                    "en": "And not [giving] for anyone who has [done him] a favor to be rewarded",
+                    "id": "dan tidak ada seorang pun memberikan suatu nikmat padanya yang harus dibalasnya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6077",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6077.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6077.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan tidak ada seorang pun memberikan suatu nikmat atau jasa padanya yang harus dibalasnya. Dia tidak berinfak hanya karena hendak membalas budi baik orang lain kepadanya, melainkan berinfak dengan tulus dan ikhlas.",
+                        "long": "Orang-orang yang bertakwa membantu orang lain bukan karena orang itu berjasa kepadanya yang karena itu ia perlu membalasnya. Ia membantu orang itu semata-mata karena mengharapkan rida dan surga Allah di akhirat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6078,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ",
+                    "transliteration": {
+                        "en": "Illab tighaaa'a wajhi rabbihil a 'laa"
+                    }
+                },
+                "translation": {
+                    "en": "But only seeking the countenance of his Lord, Most High.",
+                    "id": "tetapi (dia memberikan itu semata-mata) karena mencari keridaan Tuhannya Yang Mahatinggi."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6078",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6078.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6078.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dia tidak berinfak demi manusia, tetapi berinfak semata karena mencari keridaan Tuhannya yang Mahatinggi. Allah sangat senang kepada orang yang tulus dan ikhlas dalam berinfak maupun ibadah lainnya.",
+                        "long": "Orang-orang yang bertakwa membantu orang lain bukan karena orang itu berjasa kepadanya yang karena itu ia perlu membalasnya. Ia membantu orang itu semata-mata karena mengharapkan rida dan surga Allah di akhirat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6079,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 534,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَسَوْفَ يَرْضَىٰ",
+                    "transliteration": {
+                        "en": "Wa lasawfa yardaa"
+                    }
+                },
+                "translation": {
+                    "en": "And he is going to be satisfied.",
+                    "id": "Dan niscaya kelak dia akan mendapat kesenangan (yang sempurna)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6079",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6079.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6079.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan niscaya kelak dia akan mendapat kesenangan yang sempurna dari Allah sebagai balasan atas ketulusannya. Allah memperlakukannya dengan baik, memasukkanya ke surga yang penuh nikmat, dan mempersilakannya bertemu dan melihat Allah.",
+                        "long": "Orang takwa yang membantu orang lain untuk mencari rida Allah itu akhirnya akan memperolehnya. Orang itu terjauh dari neraka, dan pasti masuk surga."
+                    }
+                }
+            }
+        ]
+    }
+}

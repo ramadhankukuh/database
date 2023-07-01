@@ -1,0 +1,251 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 113,
+        "sequence": 20,
+        "numberOfVerses": 5,
+        "name": {
+            "short": "الفلق",
+            "long": "سورة الفلق",
+            "transliteration": {
+                "en": "Al-Falaq",
+                "id": "Al-Falaq"
+            },
+            "translation": {
+                "en": "The Dawn",
+                "id": "Subuh"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Fiil. Nama Al Falaq diambil dari kata Al Falaq yang terdapat pada ayat pertama surat ini yang artinya waktu subuh. Diriwayatkan oleh Abu Daud, At Tirmizi dan An Nasa-i dari 'Uqbah bin 'Aamir bahwa Rasulullah s.a.w. bersembahyang dengan membaca surat Al Falaq  dan surat An Naas dalam perjalanan."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 6226,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 604,
+                    "manzil": 7,
+                    "ruku": 555,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+                    "transliteration": {
+                        "en": "Qul a'uzoo bi rabbil-falaq"
+                    }
+                },
+                "translation": {
+                    "en": "Say, \"I seek refuge in the Lord of daybreak",
+                    "id": "Katakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6226",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6226.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6226.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi Muhammad, katakanlah kepada umatmu, “Aku berlindung kepada Tuhan yang menguasai subuh, waktu yang membelah kegelapan malam. Allah Mahakuasa menyingkirkan segala kejahatan dari hamba-Nya karena semua makhluk berada dalam genggaman-Nya.",
+                        "long": "Dalam ayat-ayat berikut ini, Allah memerintahkan kepada Nabi Muhammad dan seluruh kaum Muslimin supaya selalu berlindung kepada Tuhan Pencipta semua makhluk agar terpelihara dari segala macam kejahatan atau akibat kejahatan yang ditimbulkan oleh makhluk-makhluk yang telah diciptakan-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6227,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 604,
+                    "manzil": 7,
+                    "ruku": 555,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مِن شَرِّ مَا خَلَقَ",
+                    "transliteration": {
+                        "en": "Min sharri ma khalaq"
+                    }
+                },
+                "translation": {
+                    "en": "From the evil of that which He created",
+                    "id": "dari kejahatan (makhluk yang) Dia ciptakan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6227",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6227.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6227.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Aku berlindung kepada Allah dari kejahatan semua makhluk yang Dia ciptakan, baik yang tampak maupun tidak, yang tidak dapat menolak kejahatannya selain Sang Pencipta.",
+                        "long": "Dalam ayat-ayat berikut ini, Allah memerintahkan kepada Nabi Muhammad dan seluruh kaum Muslimin supaya selalu berlindung kepada Tuhan Pencipta semua makhluk agar terpelihara dari segala macam kejahatan atau akibat kejahatan yang ditimbulkan oleh makhluk-makhluk yang telah diciptakan-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6228,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 604,
+                    "manzil": 7,
+                    "ruku": 555,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+                    "transliteration": {
+                        "en": "Wa min sharri ghasiqin iza waqab"
+                    }
+                },
+                "translation": {
+                    "en": "And from the evil of darkness when it settles",
+                    "id": "dan dari kejahatan malam apabila telah gelap gulita,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6228",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6228.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6228.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan aku berlindung pula dari kejahatan malam apabila telah gelap gulita pada waktu malam muncul hewan-hewan yang membahayakan dan pada waktu itu pula rencana jahat biasa disusun.",
+                        "long": "Kemudian Allah menerangkan bahwa sebagian makhluk-Nya sering menimbulkan kejahatan pada waktu malam bila segala sesuatu telah diliputi oleh kegelapan. Sementara itu, keadaan malam yang gelap gulita menimbulkan rasa takut dan gelisah, seakan-akan ada sesuatu yang tersembunyi dalam kegelapan malam itu yang akan menyakiti manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6229,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 604,
+                    "manzil": 7,
+                    "ruku": 555,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+                    "transliteration": {
+                        "en": "Wa min sharrin-naffaa-thaati fil 'uqad"
+                    }
+                },
+                "translation": {
+                    "en": "And from the evil of the blowers in knots",
+                    "id": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6229",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6229.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6229.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan aku berlindung pula dari kejahatan perempuan-perempuan penyihir yang meniup pada buhul-buhul dengan rapalan-rapalan yang dilafalkannya. Mereka bekerja sama dengan setan untuk menimpakan keburukan kepada orang yang di sihir melalui cara cara tertentu, di antaranya dengan meniup buhul-buhul.",
+                        "long": "Dalam ayat ini, Allah memerintahkan agar manusia berlindung kepada-Nya dari kejahatan tukang sihir yang meniupkan mantra-mantra dengan maksud memutuskan tali kasih sayang dan mengoyak-ngoyak ikatan persaudaraan, seperti ikatan nikah dan lain-lain.\n\nPerbuatan sihir itu dapat mengubah kasih sayang antara dua teman yang akrab menjadi permusuhan. Penghasut membawa berita yang tampaknya benar dan sulit dibantah, sebagaimana dilakukan oleh tukang sihir dalam usahanya memisahkan suami istri. Jumhur ulama berdasarkan hadis sahih yang menerangkan bahwa Rasulullah saw disihir oleh Labid al-A'sam. Hal ini tidak mempengaruhi wahyu yang diturunkan Allah kepadanya, namun hanya jasmani dan perasaan yang tidak berhubungan dengan syariat. \n\nSyekh Muhammad 'Abduh berkata, \"Berkenaan dengan keterangan tersebut di atas, telah diriwayatkan hadis tentang Nabi saw yang disihir oleh Labid bin al-A'sam, yang sangat mengesankan pada pribadi Nabi, sehingga seakan-akan beliau mengerjakan sesuatu padahal beliau tidak mengerjakannya, atau mengambil sesuatu padahal beliau tidak mengambilnya. Lalu Allah memberitahukan kepadanya tentang tukang sihir itu. Kemudian dikeluarkan sihir itu dalam hatinya, lalu Nabi saw menjadi sehat kembali, dan turunlah surah ini.\n\nNabi saw kena sihir sehingga menyentuh akal yang berhubungan langsung dengan jiwa beliau, karena itu orang-orang musyrik berkata, sebagaimana firman Allah:\n\nKamu hanyalah mengikuti seorang laki-laki yang kena sihir. (al-Isra'/17: 47)\n\nDi sisi lain, yang wajib kita yakini bahwa Al-Qur'an adalah mutawatir dan menyangkal bahwa Nabi saw kena sihir, karena yang menyatakan demikian itu adalah orang-orang musyrik. Al-Qur'an mencela ucapan mereka itu.\n\nHadis tersebut seandainya termasuk di antara hadis-hadis sahih, tetapi tergolong hadis Ahad yang tidak cukup untuk dijadikan dasar dalam akidah. Sedangkan kemaksuman nabi-nabi adalah merupakan akidah yang telah dipegangi dengan yakin. Terhindarnya Nabi saw dari sihir bukanlah berarti mematikan sihir secara keseluruhan. Mungkin seseorang yang kena sihir menjadi gila akan tetapi mustahil terjadi pada Nabi saw karena Allah menjaga dan melindunginya.\n\nMenurut 'Atha', Al-hasan, dan Jabir, Surah al-Falaq ini adalah surah Makkiyyah yang diturunkan sebelum hijrah, sedangkan yang mereka tuduhkan bahwa Nabi saw kena sihir di Medinah. Oleh karena itu, sangat lemah untuk berpegang pada hadis tersebut dan untuk menyatakannya sebagai hadis sahih. Umat Islam harus berpegang pada nas Al-Qur'an, tidak perlu berpegang kepada hadis ahad tersebut."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6230,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 604,
+                    "manzil": 7,
+                    "ruku": 555,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+                    "transliteration": {
+                        "en": "Wa min shar ri haasidin iza hasad"
+                    }
+                },
+                "translation": {
+                    "en": "And from the evil of an envier when he envies.\"",
+                    "id": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6230",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6230.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6230.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan aku berlindung pula dari kejahatan orang yang dengki apabila dia dengki, yang selalu menginginkan hilangnya kenikmatan dari orang lain.”",
+                        "long": "Dalam ayat ini, Allah memerintahkan kaum Muslimin untuk berlindung kepada-Nya dari kejahatan orang-orang yang dengki bila ia melaksanakan kedengkiannya dengan usaha yang sungguh-sungguh dan berbagai cara untuk menghilangkan nikmat orang yang dijadikan objek kedengkiannya dan dengan mengadakan jebakan untuk menjerumuskan orang yang didengkinya jatuh ke dalam kemudaratan. Tipu muslihat yang dijalankannya itu sangat licik sehingga sulit diketahui. Tidak ada jalan untuk menghindarinya kecuali dengan memohon bantuan kepada Allah Maha Pencipta karena Dia-lah yang dapat menolak tipu dayanya, menghindari kejahatannya, atau menggagalkan usahanya. Hasad haram hukumnya, dan merupakan dosa yang pertama kali ketika iblis dengki kepada Nabi Adam, dan Qabil dengki kepada Habil."
+                    }
+                }
+            }
+        ]
+    }
+}

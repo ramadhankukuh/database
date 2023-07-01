@@ -1,0 +1,931 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 85,
+        "sequence": 27,
+        "numberOfVerses": 22,
+        "name": {
+            "short": "البروج",
+            "long": "سورة البروج",
+            "transliteration": {
+                "en": "Al-Burooj",
+                "id": "Al-Buruj"
+            },
+            "translation": {
+                "en": "The Constellations",
+                "id": "Gugusan Bintang"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat Al Buruuj terdiri atas 22 ayat, termasuk golongan surat-surat Makkiyyah diturunkan sesudah surat Asy-Syams.Dinamai Al Buruuj (gugusan bintang) diambil dari perkataan Al Buruuj yang terdapat pada ayat 1 surat ini."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5910,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالسَّمَاءِ ذَاتِ الْبُرُوجِ",
+                    "transliteration": {
+                        "en": "Wassamaaa'i zaatil burooj"
+                    }
+                },
+                "translation": {
+                    "en": "By the sky containing great stars",
+                    "id": "Demi langit yang mempunyai gugusan bintang,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5910",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5910.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5910.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah bersumpah demi tiga hal yang luar biasa, baik kejadian maupun prosesnya. Demi langit luas yang mempunyai gugusan bintang atau orbit-orbit bintang ketika beredar di angkasa, yang menjadi penanda kekuasaan Allah yang tidak terbatas.",
+                        "long": "Dalam ayat ini, Allah bersumpah dengan langit yang mempunyai gugusan bintang-bintang yang luar biasa besarnya dan tak terhitung jumlah bintang di dalamnya. Sebagian sangat jauh jaraknya dari bumi sehingga cahayanya dalam perhitungan biasa baru sampai kepada kita setelah ribuan tahun lamanya, bahkan ada pula yang setelah miliaran tahun.\n\nAllah bersumpah dengan gugusan bintang karena mempunyai keajaiban yang luar biasa dan mengandung hikmah yang besar dan banyak serta sangat berguna bagi manusia dalam kehidupannya.\n\nBerbagai keajaiban dan hikmah itu menunjukkan kepada kita tentang kebesaran penciptanya yang Mahakuasa dan Mahatinggi ilmu-Nya serta Mahabijaksana."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5911,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْيَوْمِ الْمَوْعُودِ",
+                    "transliteration": {
+                        "en": "Wal yawmil maw'ood"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the promised Day",
+                    "id": "dan demi hari yang dijanjikan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5911",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5911.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5911.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan demi hari yang dijanjikan. Itulah hari kiamat, kebangkitan, dan perhitungan yang pasti datang dengan segala kejadian dan kerepotan yang luar biasa di dalamnya.",
+                        "long": "Dalam ayat kedua, Allah bersumpah dengan hari yang dijanjikan-Nya, yaitu hari Kiamat, serta hari kepastian dan pembalasan. Ketika itu, hanya kekuasaan dan hukum Allah-lah yang berlaku."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5912,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَشَاهِدٍ وَمَشْهُودٍ",
+                    "transliteration": {
+                        "en": "Wa shaahidinw wa mashhood"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the witness and what is witnessed,",
+                    "id": "Demi yang menyaksikan dan yang disaksikan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5912",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5912.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5912.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi orang yang menyaksikan hari yang dijanjikan itu dan kejadiankejadian mengerikan dan mencengangkan yang disaksikan oleh mereka pada hari itu.",
+                        "long": "Dalam ayat yang ketiga, Allah bersumpah dengan alam semesta ini yang dapat memalingkan perhatian. Ringkasnya, Allah bersumpah dengan alam semesta agar dapat memalingkan manusia memikirkan kebesaran dan keagungan-Nya, agar mereka dapat mengambil manfaat dari apa yang dapat mereka lihat itu dan agar mereka mencurahkan perhatiannya untuk dapat memperoleh hakikat dan rahasia alam yang masih tersembunyi."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5913,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُتِلَ أَصْحَابُ الْأُخْدُودِ",
+                    "transliteration": {
+                        "en": "Qutila as haabul ukhdood"
+                    }
+                },
+                "translation": {
+                    "en": "Cursed were the companions of the trench",
+                    "id": "Binasalah orang-orang yang membuat parit (yaitu para pembesar Najran di Yaman),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5913",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5913.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5913.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah melaknat penguasa kafir dari Najràn, sebuah wilayah di Yaman saat ini, yang berbuat keji terhadap kaum beriman. Terlaknat dan binasalah orang-orang yang membuat parit untuk dijadikan ladang pembantaian terhadap kaum beriman yang tidak mau murtad. Merekalah para pembesar Najran di Yaman.",
+                        "long": "Dalam ayat-ayat ini diterangkan bahwa Allah telah membinasakan Najran, sebuah kota di Yaman, karena penduduknya telah menyiksa dan membunuh para pengikut Nabi Isa (orang-orang Nasrani) yang meninggalkan agama pembesar-pembesar negeri itu, yaitu agama Yahudi dan memeluk agama yang dibawa oleh Nabi Isa dengan memasukkan mereka ke dalam parit-parit yang telah mereka gali dan diberi api yang menyala-nyala. Orang-orang kafir negeri itu duduk di sekitar parit-parit itu menyaksikan siksaan yang tidak berperikemanusia-an itu.\n\nSiksaan itu sebenarnya tidak patut mereka lakukan sebab orang-orang itu tidak mempunyai kesalahan yang besar. Mereka menyiksa hanya karena orang-orang mukmin itu beriman kepada Allah Yang Mahaperkasa lagi Maha Terpuji, yang mempunyai kerajaan langit dan bumi serta berkuasa atas semua yang ada pada keduanya. Sungguh tidak ada jalan bagi orang yang zalim itu untuk lari dari kekuasaan-Nya.\n\nBagi orang-orang mukmin siksaan dan pembunuhan ini hanyalah merupakan cobaan dan ujian yang akan membawa mereka kepada kebahagiaan abadi apabila mereka tetap sabar dengan tetap beriman kepada Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5914,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "النَّارِ ذَاتِ الْوَقُودِ",
+                    "transliteration": {
+                        "en": "Annaari zaatil waqood"
+                    }
+                },
+                "translation": {
+                    "en": "[Containing] the fire full of fuel,",
+                    "id": "yang berapi (yang mempunyai) kayu bakar,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5914",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5914.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5914.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka membuat parit yang berapi dan dinyalakan dengan kayu bakar hingga membara untuk membakar kaum beriman.",
+                        "long": "Dalam ayat-ayat ini diterangkan bahwa Allah telah membinasakan Najran, sebuah kota di Yaman, karena penduduknya telah menyiksa dan membunuh para pengikut Nabi Isa (orang-orang Nasrani) yang meninggalkan agama pembesar-pembesar negeri itu, yaitu agama Yahudi dan memeluk agama yang dibawa oleh Nabi Isa dengan memasukkan mereka ke dalam parit-parit yang telah mereka gali dan diberi api yang menyala-nyala. Orang-orang kafir negeri itu duduk di sekitar parit-parit itu menyaksikan siksaan yang tidak berperikemanusia-an itu.\n\nSiksaan itu sebenarnya tidak patut mereka lakukan sebab orang-orang itu tidak mempunyai kesalahan yang besar. Mereka menyiksa hanya karena orang-orang mukmin itu beriman kepada Allah Yang Mahaperkasa lagi Maha Terpuji, yang mempunyai kerajaan langit dan bumi serta berkuasa atas semua yang ada pada keduanya. Sungguh tidak ada jalan bagi orang yang zalim itu untuk lari dari kekuasaan-Nya.\n\nBagi orang-orang mukmin siksaan dan pembunuhan ini hanyalah merupakan cobaan dan ujian yang akan membawa mereka kepada kebahagiaan abadi apabila mereka tetap sabar dengan tetap beriman kepada Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5915,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+                    "transliteration": {
+                        "en": "Iz hum 'alaihaa qu'ood"
+                    }
+                },
+                "translation": {
+                    "en": "When they were sitting near it",
+                    "id": "ketika mereka duduk di sekitarnya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5915",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5915.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5915.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Penguasa kafir itu menyiksa dan membantai kaum beriman di parit berapi tersebut. Peristiwa memilukan itu terjadi ketika mereka duduk di sekitarnya untuk menyaksikan kekejian mereka.",
+                        "long": "Dalam ayat-ayat ini diterangkan bahwa Allah telah membinasakan Najran, sebuah kota di Yaman, karena penduduknya telah menyiksa dan membunuh para pengikut Nabi Isa (orang-orang Nasrani) yang meninggalkan agama pembesar-pembesar negeri itu, yaitu agama Yahudi dan memeluk agama yang dibawa oleh Nabi Isa dengan memasukkan mereka ke dalam parit-parit yang telah mereka gali dan diberi api yang menyala-nyala. Orang-orang kafir negeri itu duduk di sekitar parit-parit itu menyaksikan siksaan yang tidak berperikemanusia-an itu.\n\nSiksaan itu sebenarnya tidak patut mereka lakukan sebab orang-orang itu tidak mempunyai kesalahan yang besar. Mereka menyiksa hanya karena orang-orang mukmin itu beriman kepada Allah Yang Mahaperkasa lagi Maha Terpuji, yang mempunyai kerajaan langit dan bumi serta berkuasa atas semua yang ada pada keduanya. Sungguh tidak ada jalan bagi orang yang zalim itu untuk lari dari kekuasaan-Nya.\n\nBagi orang-orang mukmin siksaan dan pembunuhan ini hanyalah merupakan cobaan dan ujian yang akan membawa mereka kepada kebahagiaan abadi apabila mereka tetap sabar dengan tetap beriman kepada Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5916,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
+                    "transliteration": {
+                        "en": "Wa hum 'alaa maa yaf'aloona bilmu 'mineena shuhood"
+                    }
+                },
+                "translation": {
+                    "en": "And they, to what they were doing against the believers, were witnesses.",
+                    "id": "sedang mereka menyaksikan apa yang mereka perbuat terhadap orang-orang mukmin."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5916",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5916.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5916.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Penguasa kafir dan prajuritnya itu duduk-duduk di sekitar parit, sedang mereka menyaksikan dan menikmati kekejiaan macam apa pun yang mereka perbuat terhadap orang-orang mukmin. Satu per satu orang beriman dipaksa untuk murtad. Bila menolak, mereka akan dilemparkan ke parit berapi tersebut. Inilah salah satu pelanggaran hak asasi manusia terbesar dalam sejarah keagamaan di dunia.",
+                        "long": "Dalam ayat-ayat ini diterangkan bahwa Allah telah membinasakan Najran, sebuah kota di Yaman, karena penduduknya telah menyiksa dan membunuh para pengikut Nabi Isa (orang-orang Nasrani) yang meninggalkan agama pembesar-pembesar negeri itu, yaitu agama Yahudi dan memeluk agama yang dibawa oleh Nabi Isa dengan memasukkan mereka ke dalam parit-parit yang telah mereka gali dan diberi api yang menyala-nyala. Orang-orang kafir negeri itu duduk di sekitar parit-parit itu menyaksikan siksaan yang tidak berperikemanusia-an itu.\n\nSiksaan itu sebenarnya tidak patut mereka lakukan sebab orang-orang itu tidak mempunyai kesalahan yang besar. Mereka menyiksa hanya karena orang-orang mukmin itu beriman kepada Allah Yang Mahaperkasa lagi Maha Terpuji, yang mempunyai kerajaan langit dan bumi serta berkuasa atas semua yang ada pada keduanya. Sungguh tidak ada jalan bagi orang yang zalim itu untuk lari dari kekuasaan-Nya.\n\nBagi orang-orang mukmin siksaan dan pembunuhan ini hanyalah merupakan cobaan dan ujian yang akan membawa mereka kepada kebahagiaan abadi apabila mereka tetap sabar dengan tetap beriman kepada Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5917,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَن يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
+                    "transliteration": {
+                        "en": "Wa maa naqamoo minhum illaaa aiyu'minoo billaahil 'azeezil Hameed"
+                    }
+                },
+                "translation": {
+                    "en": "And they resented them not except because they believed in Allah, the Exalted in Might, the Praiseworthy,",
+                    "id": "Dan mereka menyiksa orang-orang mukmin itu hanya karena (orang-orang mukmin itu) beriman kepada Allah Yang Mahaperkasa, Maha Terpuji,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5917",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5917.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5917.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan mereka yang kafir dan zalim tersebut menyiksa dan membantai orang-orang mukmin itu hanya karena orang-orang mukmin itu beriman kepada Allah yang Mahaperkasa, Maha Terpuji.",
+                        "long": "Dalam ayat-ayat ini diterangkan bahwa Allah telah membinasakan Najran, sebuah kota di Yaman, karena penduduknya telah menyiksa dan membunuh para pengikut Nabi Isa (orang-orang Nasrani) yang meninggalkan agama pembesar-pembesar negeri itu, yaitu agama Yahudi dan memeluk agama yang dibawa oleh Nabi Isa dengan memasukkan mereka ke dalam parit-parit yang telah mereka gali dan diberi api yang menyala-nyala. Orang-orang kafir negeri itu duduk di sekitar parit-parit itu menyaksikan siksaan yang tidak berperikemanusia-an itu.\n\nSiksaan itu sebenarnya tidak patut mereka lakukan sebab orang-orang itu tidak mempunyai kesalahan yang besar. Mereka menyiksa hanya karena orang-orang mukmin itu beriman kepada Allah Yang Mahaperkasa lagi Maha Terpuji, yang mempunyai kerajaan langit dan bumi serta berkuasa atas semua yang ada pada keduanya. Sungguh tidak ada jalan bagi orang yang zalim itu untuk lari dari kekuasaan-Nya.\n\nBagi orang-orang mukmin siksaan dan pembunuhan ini hanyalah merupakan cobaan dan ujian yang akan membawa mereka kepada kebahagiaan abadi apabila mereka tetap sabar dengan tetap beriman kepada Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5918,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+                    "transliteration": {
+                        "en": "Allazee lahoo mulkus samaawaati wal ard; wallaahu 'alaa kulli shai 'in Shaheed"
+                    }
+                },
+                "translation": {
+                    "en": "To whom belongs the dominion of the heavens and the earth. And Allah, over all things, is Witness.",
+                    "id": "yang memiliki kerajaan langit dan bumi. Dan Allah Maha Menyaksikan segala sesuatu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5918",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5918.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5918.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dialah Tuhan yang memiliki kerajaan langit dan bumi; dan Allah Maha Menyaksikan segala sesuatu yang terjadi di alam semesta karena semua itu masuk dalam wilayah kekuasaan-Nya. Allah menyaksikan perbuatan orang mukmin dan kafir untuk memberi mereka balasan yang sesuai.",
+                        "long": "Pada akhir ayat ini, Allah menerangkan bahwa Ia telah menyaksikan segala sesuatunya dan dengan demikian akan memberikan balasan yang setimpal atas kekejaman yang telah dilakukan oleh orang-orang kafir itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5919,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ",
+                    "transliteration": {
+                        "en": "Innal lazeena fatanul mu'mineena wal mu'minaati summa lam yatooboo falahum 'azaabu Jahannama wa lahum 'azaabul hareeq"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, those who have tortured the believing men and believing women and then have not repented will have the punishment of Hell, and they will have the punishment of the Burning Fire.",
+                    "id": "Sungguh, orang-orang yang mendatangkan cobaan (bencana, membunuh, menyiksa) kepada orang-orang mukmin laki-laki dan perempuan lalu mereka tidak bertobat, maka mereka akan mendapat azab Jahanam dan mereka akan mendapat azab (neraka) yang membakar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5919",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5919.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5919.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, orang-orang yang mendatangkan cobaan kepada orang-orang yang mukmin laki-laki dan perempuan dengan menghadapkan mereka pada pilihan mempertahankan keimanan atau disiksa dalam api yang membara, lalu mereka tidak bertobat dari kekejian mereka, kemudian melakukan amal saleh sebagai tanda tobat mereka, maka mereka akan mendapat azab Jahanam dan mereka akan mendapat azab neraka yang membakar. Allah menyediakan bagi mereka azab dari jenis yang sama dengan apa yang mereka timpakan kepada kaum beriman, namun kadarnya lebih hebat.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa bagi orang-orang kafir yang menganiaya dan menyiksa orang-orang mukmin dan mereka tidak mau meninggalkan agamanya, tetap dalam kekufuran, tidak bertobat sebelum mereka meninggal, telah disediakan api neraka untuk mengazab mereka di akhirat nanti."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5920,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ",
+                    "transliteration": {
+                        "en": "Innal lazeena aamanoo wa 'amilus saalihaati lahum Jannaatun tajree min tahtihal anhaar; zaalikal fawzul kabeer"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment.",
+                    "id": "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat surga yang mengalir di bawahnya sungai-sungai, itulah kemenangan yang agung."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5920",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5920.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5920.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, orang-orang yang beriman dengan kukuh dan membawanya hingga mati, dan mengerjakan kebajikan baik secara ritual maupun sosial, mereka akan mendapat taman-taman surga yang mengalir di bawahnya sungai-sungai yang jernih, indah, dan menyejukkan hati. Itulah kemenangan yang agung; anugerah yang Allah khususkan bagi orang yang taat kepada-Nya.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa orang-orang yang beriman mengakui bahwa Tuhan Maha Esa. Oleh karena itu, mereka mengerjakan pekerjaan yang sesuai dengan perintah Allah dan menjauhkan diri dari semua larangan-Nya. Semua itu mereka lakukan untuk mengharapkan keridaan-Nya. Di akhirat Allah akan memberi mereka kebun-kebun yang mengalir di bawahnya anak sungai, sehingga mereka hidup bahagia abadi di dalam surga, sebagai ganjaran atas keimanan dan kepatuhan mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5921,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+                    "transliteration": {
+                        "en": "Inna batsha Rabbika lashadeed"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, the vengeance of your Lord is severe.",
+                    "id": "Sungguh, azab Tuhanmu sangat keras."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5921",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5921.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5921.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah Mahaperkasa dan Mahakuasa. Dia pasti akan merealisasikan janji dan ancamannya. Sungguh, azab Tuhanmu yang diancamkan-Nya kepada para pendurhaka sangat keras dan pedih.",
+                        "long": "Dalam ayat ini dijelaskan bahwa siksa yang akan ditimpakan kepada orang-orang kafir yang menganiaya, menyiksa, dan membunuh orang-orang mukmin karena tidak mau meninggalkan agama mereka, sangatlah keras. Perlu diingat bahwa Allah-lah yang telah menciptakan mereka, dan Dia pula yang menghidupkan mereka kembali.\n\nMereka akhirnya akan kembali kepada Allah. Apabila Ia belum menyiksa mereka di dunia ini, bukanlah berarti mereka tidak akan mendapat siksaan sama sekali. Akan tetapi, siksaan itu diundurkan waktunya sampai mereka kembali kepada-Nya, yaitu pada hari Kiamat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5922,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+                    "transliteration": {
+                        "en": "Innahoo Huwa yubdi'u wa yu'eed"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, it is He who originates [creation] and repeats.",
+                    "id": "Sungguh, Dialah yang memulai pen-ciptaan (makhluk) dan yang menghidupkannya (kembali)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5922",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5922.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5922.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, Dialah yang mampu memulai penciptaan apa pun, kemudian mematikannya dan Dia pula yang menghidupkannya kembali seperti semula dengan sangat mudah.",
+                        "long": "Dalam ayat ini dijelaskan bahwa siksa yang akan ditimpakan kepada orang-orang kafir yang menganiaya, menyiksa, dan membunuh orang-orang mukmin karena tidak mau meninggalkan agama mereka, sangatlah keras. Perlu diingat bahwa Allah-lah yang telah menciptakan mereka, dan Dia pula yang menghidupkan mereka kembali.\n\nMereka akhirnya akan kembali kepada Allah. Apabila Ia belum menyiksa mereka di dunia ini, bukanlah berarti mereka tidak akan mendapat siksaan sama sekali. Akan tetapi, siksaan itu diundurkan waktunya sampai mereka kembali kepada-Nya, yaitu pada hari Kiamat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5923,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَهُوَ الْغَفُورُ الْوَدُودُ",
+                    "transliteration": {
+                        "en": "Wa Huwal Ghafoorul Wadood"
+                    }
+                },
+                "translation": {
+                    "en": "And He is the Forgiving, the Affectionate,",
+                    "id": "Dan Dialah Yang Maha Pengampun, Maha Pengasih,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5923",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5923.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5923.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Azab Allah sangat pedih, tetapi rahmat dan ampunan-Nya juga mahaluas. Dan Dialah Yang Maha Pengampun bagi mereka yang bertobat, Maha Pengasih bagi makhluk-Nya.",
+                        "long": "Dalam ayat ini diterangkan bahwa Allah Maha Pengampun bagi orang-orang yang kembali kepada-Nya dengan bertobat, Maha Pengasih bagi mereka yang sungguh-sungguh dan dengan ikhlas mencintai-Nya. Allah juga mempunyai kekuasaan yang mesti berlaku, perintah-Nya tidak dapat dibantah, dan Ia berbuat apa yang Ia kehendaki. Apabila Allah menghendaki kebinasaan bagi mereka yang ingkar dan durhaka, tidak ada suatu kekuasaan pun yang dapat menghalangi-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5924,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ذُو الْعَرْشِ الْمَجِيدُ",
+                    "transliteration": {
+                        "en": "Zul 'Arshil Majeed"
+                    }
+                },
+                "translation": {
+                    "en": "Honorable Owner of the Throne,",
+                    "id": "yang memiliki ‘Arsy, lagi Mahamulia,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5924",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5924.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5924.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dialah yang memiliki ‘Arsy, singgasana yang agung dan kerajaan yang mahabesar, lagi Mahamulia di atas semua makhluk-Nya.",
+                        "long": "Dalam ayat ini diterangkan bahwa Allah Maha Pengampun bagi orang-orang yang kembali kepada-Nya dengan bertobat, Maha Pengasih bagi mereka yang sungguh-sungguh dan dengan ikhlas mencintai-Nya. Allah juga mempunyai kekuasaan yang mesti berlaku, perintah-Nya tidak dapat dibantah, dan Ia berbuat apa yang Ia kehendaki. Apabila Allah menghendaki kebinasaan bagi mereka yang ingkar dan durhaka, tidak ada suatu kekuasaan pun yang dapat menghalangi-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5925,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَعَّالٌ لِّمَا يُرِيدُ",
+                    "transliteration": {
+                        "en": "Fa' 'aalul limaa yureed"
+                    }
+                },
+                "translation": {
+                    "en": "Effecter of what He intends.",
+                    "id": "Mahakuasa berbuat apa yang Dia kehendaki."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5925",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5925.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5925.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dia Mahakuasa berbuat apa yang Dia kehendaki. Jika Dia berkehendak mengazab orang kafir atau menganugerahkan nikmat kepada orang beriman, tidak ada yang mampu menahan kehendak-Nya tersebut.",
+                        "long": "Dalam ayat ini diterangkan bahwa Allah Maha Pengampun bagi orang-orang yang kembali kepada-Nya dengan bertobat, Maha Pengasih bagi mereka yang sungguh-sungguh dan dengan ikhlas mencintai-Nya. Allah juga mempunyai kekuasaan yang mesti berlaku, perintah-Nya tidak dapat dibantah, dan Ia berbuat apa yang Ia kehendaki. Apabila Allah menghendaki kebinasaan bagi mereka yang ingkar dan durhaka, tidak ada suatu kekuasaan pun yang dapat menghalangi-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5926,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ",
+                    "transliteration": {
+                        "en": "Hal ataaka hadeesul junood"
+                    }
+                },
+                "translation": {
+                    "en": "Has there reached you the story of the soldiers -",
+                    "id": "Sudahkah sampai kepadamu berita tentang bala tentara (penentang),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5926",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5926.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5926.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menceritakan kisah Fir‘aun dan kaum Šamùd untuk menenteramkan hati Nabi yang mengalami tekanan hebat dari kaum kafir Mekah. Wahai Nabi Muhammad, sudahkah sampai kepadamu berita tentang bala tentara penentang,",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan dalam bentuk pertanyaan kepada Nabi Muhammad bahwa apakah telah sampai kepadanya tentang kisah Fir'aun dan kaumnya yang telah mendustakan kenabian Nabi Musa, kisah tentang kesombongan Fir'aun, dan kekufuran kaumnya, serta akibat dari perbuatan mereka, yaitu ditenggelamkan ke dalam laut.\n\nDemikian pula dengan kaum Samud yang telah mendustakan Nabi Saleh sebagai utusan Allah. Mereka telah menyembelih unta yang menjadi tanda kenabiannya. Sebagai akibatnya, Allah menurunkan siksaan-Nya kepada mereka dengan menghancurkan negeri mereka serta memusnahkan semua yang ada.\n\nRingkasnya, orang-orang kafir itu sejak dahulu tidak berubah. Mereka selalu mengingkari kebenaran agama yang dibawa oleh para nabi utusan Allah. Mereka tentu akan menerima balasannya sebagaimana kaum-kaum sebelum mereka, bila mereka tidak bertobat dan kembali kepada jalan yang diridai Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5927,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِرْعَوْنَ وَثَمُودَ",
+                    "transliteration": {
+                        "en": "Fir'awna wa Samood"
+                    }
+                },
+                "translation": {
+                    "en": "[Those of] Pharaoh and Thamud?",
+                    "id": "(yaitu) Fir‘aun dan Samud?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5927",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5927.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5927.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Yaitu Fir‘aun, penguasa Mesir penindas Bani Israil pada masanya, dan kaum Šamùd, para pendurhaka terhadap Nabi Saleh? Fir‘aun dan tentaranya ditenggelamkan di Laut Merah, sedangkan kaum Šamùd dihancurkan dengan sambaran petir.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan dalam bentuk pertanyaan kepada Nabi Muhammad bahwa apakah telah sampai kepadanya tentang kisah Fir'aun dan kaumnya yang telah mendustakan kenabian Nabi Musa, kisah tentang kesombongan Fir'aun, dan kekufuran kaumnya, serta akibat dari perbuatan mereka, yaitu ditenggelamkan ke dalam laut.\n\nDemikian pula dengan kaum Samud yang telah mendustakan Nabi Saleh sebagai utusan Allah. Mereka telah menyembelih unta yang menjadi tanda kenabiannya. Sebagai akibatnya, Allah menurunkan siksaan-Nya kepada mereka dengan menghancurkan negeri mereka serta memusnahkan semua yang ada.\n\nRingkasnya, orang-orang kafir itu sejak dahulu tidak berubah. Mereka selalu mengingkari kebenaran agama yang dibawa oleh para nabi utusan Allah. Mereka tentu akan menerima balasannya sebagaimana kaum-kaum sebelum mereka, bila mereka tidak bertobat dan kembali kepada jalan yang diridai Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5928,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ",
+                    "transliteration": {
+                        "en": "Balil lazeena kafaroo fee takzeeb"
+                    }
+                },
+                "translation": {
+                    "en": "But they who disbelieve are in [persistent] denial,",
+                    "id": "Memang orang-orang kafir (selalu) mendustakan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5928",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5928.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5928.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi Muhammad, bersabarlah engkau atas keingkaran kaummu sebagaimana Nabi Musa dan Nabi Saleh. Memang, orang-orang kafir dari kaummu itu keras kepala dan selalu mendustakan kebenaran yang kamu tunjukkan kepada mereka.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan dalam bentuk pertanyaan kepada Nabi Muhammad bahwa apakah telah sampai kepadanya tentang kisah Fir'aun dan kaumnya yang telah mendustakan kenabian Nabi Musa, kisah tentang kesombongan Fir'aun, dan kekufuran kaumnya, serta akibat dari perbuatan mereka, yaitu ditenggelamkan ke dalam laut.\n\nDemikian pula dengan kaum Samud yang telah mendustakan Nabi Saleh sebagai utusan Allah. Mereka telah menyembelih unta yang menjadi tanda kenabiannya. Sebagai akibatnya, Allah menurunkan siksaan-Nya kepada mereka dengan menghancurkan negeri mereka serta memusnahkan semua yang ada.\n\nRingkasnya, orang-orang kafir itu sejak dahulu tidak berubah. Mereka selalu mengingkari kebenaran agama yang dibawa oleh para nabi utusan Allah. Mereka tentu akan menerima balasannya sebagaimana kaum-kaum sebelum mereka, bila mereka tidak bertobat dan kembali kepada jalan yang diridai Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5929,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَاللَّهُ مِن وَرَائِهِم مُّحِيطٌ",
+                    "transliteration": {
+                        "en": "Wallaahu minw waraaa'ihim muheet"
+                    }
+                },
+                "translation": {
+                    "en": "While Allah encompasses them from behind.",
+                    "id": "padahal Allah mengepung dari belakang mereka (sehingga tidak dapat lolos)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5929",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5929.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5929.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka mendustakanmu seakan mereka tidak takut pada azab dan murka Allah, padahal Allah mengepung dari belakang mereka sehingga mereka tidak akan bisa lolos. Dia mengetahui apa saja yang mereka perbuat. Tidak ada tempat lari bagi mereka dari siksa Allah. Karena itu, janganlah engkau bersedih atas kekafiran mereka.",
+                        "long": "Dalam ayat ini, Allah menjelaskan bahwa mereka tidak akan lepas dari kekuasaan-Nya, dan tidak akan dapat lari dari jangkauan-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5930,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "بَلْ هُوَ قُرْآنٌ مَّجِيدٌ",
+                    "transliteration": {
+                        "en": "Bal huwa Quraanum Majeed"
+                    }
+                },
+                "translation": {
+                    "en": "But this is an honored Qur'an",
+                    "id": "Bahkan (yang didustakan itu) ialah Al-Qur'an yang mulia,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5930",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5930.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5930.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bahkan yang didustakan oleh kaummu yang kafir itu ialah Al-Qur’an yang mulia, yang tinggi kedudukannya di antara kitab-kitab suci lain, kalam Tuhan Yang Mahaagung. Betapapun didustakan dan dianggap sebagai kumpulan dongeng orang kuno oleh kaummu yang kafir itu, Al-Qur’an tetap tidak ternodai kemuliaannya.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa Al-Qur'an itu adalah kitab Allah yang mulia, tersimpan dalam Lauh Mahfudh. Tidak ada yang dapat menandingi isi dan susunan kata-katanya, terpelihara dari pemalsuan dan perubahan. Ini sebagai jawaban kepada orang-orang kafir yang mendustakan Al-Qur'an dengan mengatakan bahwa ia adalah cerita-cerita orang dahulu kala."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5931,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 590,
+                    "manzil": 7,
+                    "ruku": 527,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِي لَوْحٍ مَّحْفُوظٍ",
+                    "transliteration": {
+                        "en": "Fee Lawhim Mahfooz"
+                    }
+                },
+                "translation": {
+                    "en": "[Inscribed] in a Preserved Slate.",
+                    "id": "yang (tersimpan) dalam (tempat) yang terjaga (Lauh Mahfuzh)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5931",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5931.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5931.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Itulah kitab suci yang tersimpan dalam tempat yang terjaga, Lauh Mahfùz. Itulah tempat paling rahasia yang tidak diketahui hakikatnya oleh manusia. Di dalamnya terdapat detail peristiwa-peristiwa yang terjadi di alam semesta. Tempat ini terjaga dari setan yang berusaha mengintai dan mencari tahu isinya.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa Al-Qur'an itu adalah kitab Allah yang mulia, tersimpan dalam Lauh Mahfudh. Tidak ada yang dapat menandingi isi dan susunan kata-katanya, terpelihara dari pemalsuan dan perubahan. Ini sebagai jawaban kepada orang-orang kafir yang mendustakan Al-Qur'an dengan mengatakan bahwa ia adalah cerita-cerita orang dahulu kala."
+                    }
+                }
+            }
+        ]
+    }
+}

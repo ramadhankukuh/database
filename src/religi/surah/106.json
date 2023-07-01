@@ -1,0 +1,211 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 106,
+        "sequence": 29,
+        "numberOfVerses": 4,
+        "name": {
+            "short": "قريش",
+            "long": "سورة قريش",
+            "transliteration": {
+                "en": "Quraish",
+                "id": "Quraisy"
+            },
+            "translation": {
+                "en": "Quraysh",
+                "id": "Quraisy"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat Makkiyyah dan diturunkan sesudah surat At Tiin. Nama Quraisy diambil dari kata Quraisy yang terdapat pada ayat pertama, artinya suku Quraisy. Suku Quraisy adalah suku yang mendapat  kehormatan untuk memelihara Ka'bah."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 6194,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 602,
+                    "manzil": 7,
+                    "ruku": 548,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِإِيلَافِ قُرَيْشٍ",
+                    "transliteration": {
+                        "en": "Li-ilaafi quraish"
+                    }
+                },
+                "translation": {
+                    "en": "For the accustomed security of the Quraysh -",
+                    "id": "Karena kebiasaan orang-orang Quraisy,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6194",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6194.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6194.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai manusia, kamu akan dibuat kagum karena kebiasaan orang-orang Quraisy, suatu kabilah besar yang mempunyai peranan sentral pada masyarakat Arab dalam bidang politik dan sosial.",
+                        "long": ". Syarat pertama ini diambil dari kalimat li ilaf yang artinya karena kebiasaan.\n\n2.Memelihara nama baik, yang diambil dari kalimat Quraisy sebab suku atau kabilah Quraisy itu termasuk kabilah yang paling mulia yang nantinya melahirkan Nabi Muhammad. Maka seorang pedagang pun harus selalu memelihara nama baiknya sehingga dapat kepercayaan yang penuh dari sekalian langganannya, karena tidak pernah dusta atau menipu, tidak pernah menyalahi janji atau menimbun barang-barang yang dibutuhkan oleh rakyat dan lain-lain.\n\n3.Mengadakan misi perniagaan ke luar daerahnya, bahkan ke luar negeri untuk melebarluaskan daerah lingkungan perniagaannya dan syarat ini diambil dari kalimat rihlah yang artinya bepergian. Seorang pedagang tidak akan maju jika tidak mengadakan misi perniagaan ke luar daerahnya.\n\n4.Memperhatikan situasi keadaan yang menguntungkan. Ia harus memperhatikan iklim, situasi, dan kondisi tempat di sekitarnya. Syarat ini diambil dari kalimat asy-syita'i wa as-saif yang artinya: pada musim dingin dan musim panas. Orang-orang Quraisy pun mengatur arah perniagaannya yaitu di musim dingin mereka pergi ke sebelah selatan yaitu negeri Yaman, dan di musim panas ke utara yaitu negeri Syam. \n\nJika keempat syarat ini diperhatikan dengan seksama niscaya akan mendatangkan kemakmuran yang merata dan kemakmuran itu jangan sekali-kali hanya untuk memuaskan hawa nafsu. Akan tetapi, harus dijadikan bekal untuk beribadah kepada Allah yang mempunyai Baitullah dan digunakan untuk menyukuri segala nikmat pemberian-Nya, agar menghasilkan kesejahteraan, cukup sandang-pangan dan keamanan dari ketakutan seperti diisyaratkan dalam kalimat: \"Yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan.\"\n\nJadi yang harus disembah dan disyukuri itu ialah Allah Pemilik Ka'bah sebab di dekat Ka'bah itu ada satu macam ibadah yang tidak terdapat di luar kota Mekah yaitu tawaf di Baitullah.\n\nJika diperhatikan cara tawaf itu memang aneh sekali, sebab menurut hukum alam setiap benda yang mengelilingi benda lain, lama-lama akan bertambah jauh dari markasnya atau titik putarnya sesuai dengan daya sentrivical atau daya lompatan ke luar. Jika sebuah batu diikat dengan tali lalu diputarkan maka bila batu itu terlepas mesti terlempar jauh ke luar. Demikian pula dalam bidang kerohanian, seorang pedagang yang tadinya rajin salat berjamaah dan menghadiri pengajian pada ulama di kampungnya setelah sering bepergian ke luar daerah maka ia bertambah jauh dari masjid dan ulamanya.\n\nJika ia bepergian ke luar negeri tentu akan bertambah jauh lagi dari sumber agamanya. Tidak demikian keadaan orang yang sedang tawaf di Baitullah. Walaupun ia berkeliling sampai tujuh kali, tetapi ia tetap berada di samping Baitullah. Demikian pula hendaknya setiap pedagang yang telah menjadi hartawan atau jutawan tetap saja tekun melaksanakan ibadahnya kepada Allah secara terus-menerus (istikamah).\n\n(1-2) Dalam ayat-ayat berikut ini, Allah menerangkan profesi suku Quraisy sebagai kaum pedagang di negara yang tandus dan mempunyai dua jurusan perdagangan. Pada musim dingin ke arah Yaman untuk membeli rempah-rempah yang datang dari Timur Jauh melalui Teluk Persia dan yang kedua ke arah Syam pada musim panas untuk membeli hasil pertanian yang akan dibawa pulang ke negeri mereka yang tandus lagi kering itu.\n\nOrang-orang penghuni padang pasir (Badui) menghormati suku Quraisy karena mereka dipandang sebagai jiran (tetangga) Baitullah, penduduk tanah suci dan berkhidmat untuk memelihara Ka'bah, dan penjaga-penjaga Ka'bah. Oleh karena itu, suku Quraisy berada dalam aman dan sentosa, baik ketika mereka pergi maupun ketika mereka pulang walaupun banyak terjadi perampokan dalam perjalanan.\n\nKarena rasa hormat kepada Baitullah itu merupakan suatu kekuatan jiwa dan berwibawa untuk memelihara keselamatan mereka dalam misi-misi perdagangannya ke utara atau ke selatan; sehingga timbullah suatu kebiasaan dan kegemaran untuk berniaga yang menghasilkan banyak rezeki. Rasa hormat terhadap Baitullah yang memenuhi jiwa orang Arab itu adalah kehendak Allah semata, lebih-lebih lagi ketika mereka melihat bagaimana Allah menghancurkan tentara gajah yang ingin meruntuhkan Ka'bah, sebelum mereka sampai mendekatinya.\n\nSekiranya penghormatan terhadap Baitullah kurang mempengaruhi jiwa orang-orang Arab atau tidak ada sama sekali pengaruhnya niscaya orang-orang Quraisy tentu tidak mau mengadakan perjalanan-perjalanan perdagangan tersebut. Maka dengan demikian akan berkuranglah sumber-sumber rezeki mereka sebab negeri mereka bukanlah tanah yang subur."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6195,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 602,
+                    "manzil": 7,
+                    "ruku": 548,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+                    "transliteration": {
+                        "en": "Elaafihim rihlatash shitaa-i wass saif"
+                    }
+                },
+                "translation": {
+                    "en": "Their accustomed security [in] the caravan of winter and summer -",
+                    "id": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6195",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6195.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6195.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Yaitu kebiasaan mereka bepergian pada musim dingin ke Yaman dan musim panas ke Syam untuk berniaga guna memenuhi kebutuhan hidup mereka di Mekah untuk berkhidmat merawat Kakbah dan melayani para peziarah, suatu hal yang menjadi kebanggan mereka atas kabilah-kabilah lain.",
+                        "long": ". Syarat pertama ini diambil dari kalimat li ilaf yang artinya karena kebiasaan.\n\n2.Memelihara nama baik, yang diambil dari kalimat Quraisy sebab suku atau kabilah Quraisy itu termasuk kabilah yang paling mulia yang nantinya melahirkan Nabi Muhammad. Maka seorang pedagang pun harus selalu memelihara nama baiknya sehingga dapat kepercayaan yang penuh dari sekalian langganannya, karena tidak pernah dusta atau menipu, tidak pernah menyalahi janji atau menimbun barang-barang yang dibutuhkan oleh rakyat dan lain-lain.\n\n3.Mengadakan misi perniagaan ke luar daerahnya, bahkan ke luar negeri untuk melebarluaskan daerah lingkungan perniagaannya dan syarat ini diambil dari kalimat rihlah yang artinya bepergian. Seorang pedagang tidak akan maju jika tidak mengadakan misi perniagaan ke luar daerahnya.\n\n4.Memperhatikan situasi keadaan yang menguntungkan. Ia harus memperhatikan iklim, situasi, dan kondisi tempat di sekitarnya. Syarat ini diambil dari kalimat asy-syita'i wa as-saif yang artinya: pada musim dingin dan musim panas. Orang-orang Quraisy pun mengatur arah perniagaannya yaitu di musim dingin mereka pergi ke sebelah selatan yaitu negeri Yaman, dan di musim panas ke utara yaitu negeri Syam. \n\nJika keempat syarat ini diperhatikan dengan seksama niscaya akan mendatangkan kemakmuran yang merata dan kemakmuran itu jangan sekali-kali hanya untuk memuaskan hawa nafsu. Akan tetapi, harus dijadikan bekal untuk beribadah kepada Allah yang mempunyai Baitullah dan digunakan untuk menyukuri segala nikmat pemberian-Nya, agar menghasilkan kesejahteraan, cukup sandang-pangan dan keamanan dari ketakutan seperti diisyaratkan dalam kalimat: \"Yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan.\"\n\nJadi yang harus disembah dan disyukuri itu ialah Allah Pemilik Ka'bah sebab di dekat Ka'bah itu ada satu macam ibadah yang tidak terdapat di luar kota Mekah yaitu tawaf di Baitullah.\n\nJika diperhatikan cara tawaf itu memang aneh sekali, sebab menurut hukum alam setiap benda yang mengelilingi benda lain, lama-lama akan bertambah jauh dari markasnya atau titik putarnya sesuai dengan daya sentrivical atau daya lompatan ke luar. Jika sebuah batu diikat dengan tali lalu diputarkan maka bila batu itu terlepas mesti terlempar jauh ke luar. Demikian pula dalam bidang kerohanian, seorang pedagang yang tadinya rajin salat berjamaah dan menghadiri pengajian pada ulama di kampungnya setelah sering bepergian ke luar daerah maka ia bertambah jauh dari masjid dan ulamanya.\n\nJika ia bepergian ke luar negeri tentu akan bertambah jauh lagi dari sumber agamanya. Tidak demikian keadaan orang yang sedang tawaf di Baitullah. Walaupun ia berkeliling sampai tujuh kali, tetapi ia tetap berada di samping Baitullah. Demikian pula hendaknya setiap pedagang yang telah menjadi hartawan atau jutawan tetap saja tekun melaksanakan ibadahnya kepada Allah secara terus-menerus (istikamah).\n\n(1-2) Dalam ayat-ayat berikut ini, Allah menerangkan profesi suku Quraisy sebagai kaum pedagang di negara yang tandus dan mempunyai dua jurusan perdagangan. Pada musim dingin ke arah Yaman untuk membeli rempah-rempah yang datang dari Timur Jauh melalui Teluk Persia dan yang kedua ke arah Syam pada musim panas untuk membeli hasil pertanian yang akan dibawa pulang ke negeri mereka yang tandus lagi kering itu.\n\nOrang-orang penghuni padang pasir (Badui) menghormati suku Quraisy karena mereka dipandang sebagai jiran (tetangga) Baitullah, penduduk tanah suci dan berkhidmat untuk memelihara Ka'bah, dan penjaga-penjaga Ka'bah. Oleh karena itu, suku Quraisy berada dalam aman dan sentosa, baik ketika mereka pergi maupun ketika mereka pulang walaupun banyak terjadi perampokan dalam perjalanan.\n\nKarena rasa hormat kepada Baitullah itu merupakan suatu kekuatan jiwa dan berwibawa untuk memelihara keselamatan mereka dalam misi-misi perdagangannya ke utara atau ke selatan; sehingga timbullah suatu kebiasaan dan kegemaran untuk berniaga yang menghasilkan banyak rezeki. Rasa hormat terhadap Baitullah yang memenuhi jiwa orang Arab itu adalah kehendak Allah semata, lebih-lebih lagi ketika mereka melihat bagaimana Allah menghancurkan tentara gajah yang ingin meruntuhkan Ka'bah, sebelum mereka sampai mendekatinya.\n\nSekiranya penghormatan terhadap Baitullah kurang mempengaruhi jiwa orang-orang Arab atau tidak ada sama sekali pengaruhnya niscaya orang-orang Quraisy tentu tidak mau mengadakan perjalanan-perjalanan perdagangan tersebut. Maka dengan demikian akan berkuranglah sumber-sumber rezeki mereka sebab negeri mereka bukanlah tanah yang subur."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6196,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 602,
+                    "manzil": 7,
+                    "ruku": 548,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+                    "transliteration": {
+                        "en": "Fal y'abudu rabba haazal-bait"
+                    }
+                },
+                "translation": {
+                    "en": "Let them worship the Lord of this House,",
+                    "id": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6196",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6196.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6196.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka pergi berniaga tiap tahun dengan aman dan sentosa. Oleh karena itu maka hendaklah mereka menyembah Tuhan Pemilik rumah ini, yaitu Kakbah, dengan pengabdian yang hakiki dan tidak mempersekutukan-Nya, sebagai bentuk rasa syukur atas nikmat yang telah mereka terima.",
+                        "long": "Dalam ayat ini, Allah memerintahkan orang-orang Quraisy agar mereka menyembah Tuhan Pemilik Ka'bah yang telah menyelamatkan mereka dari serangan orang Ethiopia yang bergabung dalam tentara gajah. Seyogyanya mereka hanya menyembah Allah dan mengagungkan-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6197,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 602,
+                    "manzil": 7,
+                    "ruku": 548,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+                    "transliteration": {
+                        "en": "Allazi at'amahum min ju'inw-wa-aamana hum min khawf"
+                    }
+                },
+                "translation": {
+                    "en": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.",
+                    "id": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6197",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6197.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6197.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Hendaklah mereka menyembah Tuhan Yang telah memberi makanan kepada mereka untuk menghilangkan lapar, memenuhi kebutuhan dasar mereka, dan mengamankan mereka dari rasa ketakutan. Terpenuhinya kebutuhan akan makanan dan rasa aman merupakan dua prasyarat penting yang menjamin kesejahteraan suatu masyarakat.",
+                        "long": "Kemudian Allah menjelaskan sifat Tuhan Pemilik Ka'bah yang disuruh untuk disembah itu, yaitu Tuhan yang membuka pintu rezeki yang luas bagi mereka dan memudahkan jalan untuk mencari rezeki itu. Jika tidak demikian, tentu mereka berada dalam kesempitan dan kesengsaraan. Dia mengamankan jalan yang mereka tempuh dalam rangka mereka mencari rezeki, serta menjadikan orang-orang yang mereka jumpai dalam perjalanan senang dengan mereka. Mereka tidak menemui kesulitan. Kalau tidak, tentu mereka selalu berada dalam ketakutan yang mengakibatkan hidup sengsara dan papa."
+                    }
+                }
+            }
+        ]
+    }
+}

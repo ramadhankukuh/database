@@ -1,0 +1,531 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 65,
+        "sequence": 99,
+        "numberOfVerses": 12,
+        "name": {
+            "short": "الطلاق",
+            "long": "سورة الطلاق",
+            "transliteration": {
+                "en": "At-Talaaq",
+                "id": "At-Talaq"
+            },
+            "translation": {
+                "en": "Divorce",
+                "id": "Talak"
+            }
+        },
+        "revelation": {
+            "arab": "مدينة",
+            "en": "Medinan",
+            "id": "Madaniyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Insaan. Dinamai surat Ath Thalaaq karena kebanyakan ayat-ayatnya mengenai masalah talak dan yang berhubungan dengan masalah itu."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5218,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 558,
+                    "manzil": 7,
+                    "ruku": 492,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا الْعِدَّةَ ۖ وَاتَّقُوا اللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِن بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّا أَن يَأْتِينَ بِفَاحِشَةٍ مُّبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhan nabiyyu izaa tallaqtummun nisaaa'a fatalliqoohunna li'iddatihinna wa ahsul'iddata; wattaqul laaha rabbakum laa tukhri joohunna mim bu-yootihinna wa laa yakhrujna illaaa any yaateema bifaahishatim mubaiyinah; wa tilka hudoodul laah; wa many yata'adda hudoodal laahi faqad zalama nafsha; laa tadree la'allal laaha yuhdisu ba'dazaalika amraa"
+                    }
+                },
+                "translation": {
+                    "en": "O Prophet, when you [Muslims] divorce women, divorce them for [the commencement of] their waiting period and keep count of the waiting period, and fear Allah, your Lord. Do not turn them out of their [husbands'] houses, nor should they [themselves] leave [during that period] unless they are committing a clear immorality. And those are the limits [set by] Allah. And whoever transgresses the limits of Allah has certainly wronged himself. You know not; perhaps Allah will bring about after that a [different] matter.",
+                    "id": "Wahai Nabi! Apabila kamu menceraikan istri-istrimu maka hendaklah kamu ceraikan mereka pada waktu mereka dapat (menghadapi) idahnya (yang wajar), dan hitunglah waktu idah itu, serta bertakwalah kepada Allah Tuhanmu. Janganlah kamu keluarkan mereka dari rumahnya dan janganlah (diizinkan) keluar kecuali jika mereka mengerjakan perbuatan keji yang jelas. Itulah hukum-hukum Allah, dan barangsiapa melanggar hukum-hukum Allah, maka sungguh, dia telah berbuat zalim terhadap dirinya sendiri. Kamu tidak mengetahui barangkali setelah itu Allah mengadakan suatu ketentuan yang baru."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5218",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5218.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5218.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada akhir Surah at-Tagàbun, Allah memberitahukan bahwa istri dan anak bisa jadi musuh; dan Allah memerintahkan agar bersikap baik dan pemaaf kepada mereka. Pada ayat ini diterangkan bahwa di antara suami istri bisa terjadi perceraian, namun Allah mengingatkan Nabi tentang hukum dan etika perceraian dalam Islam. Wahai Nabi! Apabila kamu menceraikan istri-istrimu, perbuatan halal, tetapi paling tidak disukai Allah, maka hendaklah kamu ceraikan mereka atau salah seorang di antara mereka pada waktu mereka dapat menghadapi idahnya dengan tidak memberatkan, yaitu ketika masa suci dari haid agar tidak lama menunggu untuk bisa menikah lagi dengan laki-laki lain. Dan hitunglah waktu idah itu dengan cermat kapan mulainya dan kapan berakhir; serta bertakwalah, kamu semua, kepada Allah Tuhanmu dalam segala urusan. Janganlah kamu keluarkan mereka, istri yang dijatuhi talak itu selama masa idah, dari rumah yang ditempati-nya dan janganlah mereka diizinkan keluar secara bebas kecuali jika mereka mengerjakan perbuatan keji yang jelas seperti berzina. Itulah hukum-hukum Allah yang harus dilaksanakan manusia. Dan barang siapa melanggar hukum-hukum Allah secara sengaja atau karena lalai, maka sungguh dia telah berbuat zalim terhadap dirinya sendiri, karena merugikan dirinya, sedangkan ia tetap harus mempertanggungjawabkannya di hadapan Allah. Kamu tidak mengetahui, wahai Nabi, rencana Allah bagi kamu, barangkali setelah itu, yakni setelah kamu menjatuhkan talak kepada istrimu, Allah mengadakan sesuatu yang baru, yakni memberikan istri yang lebih baik.",
+                        "long": "Dalam ayat ini, khithab (seruan) Allah ditujukan kepada Nabi Muhammad, tetapi pada hakikatnya dimaksudkan juga kepada umatnya yang beriman. Allah menyerukan kepada orang-orang mukmin apabila mereka ingin menceraikan (menalak) istri-istri mereka, agar melakukannya ketika istrinya langsung bisa menjalani idahnya, yaitu pada waktu istri-istri itu suci dari haid dan belum dicampuri, sebagaimana dijelaskan dalam satu hadis Nabi saw yang berasal dari Ibnu 'Umar: \n\n'Abdullah bin 'Umar telah menalak istrinya dalam keadaan haid. Lalu 'Umar bin Khaththab menanyakan hal itu kepada Nabi saw, lalu beliau memerintahkan 'Abdullah bin 'Umar merujuk istrinya, menahan istrinya (tinggal bersama) sampai masa suci. Lalu menunggu masa haidnya lagi sampai suci, maka setelah itu jika ia menginginkan tinggal bersama istrinya (maka lakukanlah), dan jika ia ingin menalak istrinya (maka lakukanlah) sebelum menggaulinya. Demikianlah masa idah yang diperintahkan Allah ketika perempuan ditalak. (Riwayat al-Bukhari dan Muslim)\n\nSeorang suami yang akan menalak istrinya, agar meneliti dan memperhitungkan betul kapan idah istrinya mulai dan kapan berakhir, agar istri langsung bisa menjalani idahnya sehingga tidak menunggu terlalu lama. Suami juga diminta melaksanakan hukum-hukum dan memenuhi hak-hak istri yang harus dipenuhi selama masa idah. Hendaklah suami itu takut kepada Allah dan jangan menyalahi apa yang telah diperintahkan-Nya mengenai talak, yaitu menjatuhkan talak pada masa yang direstui-Nya dan memenuhi hak istri yang di talak. Antara lain, janganlah sang suami mengeluarkan istri yang ditalaknya dari rumah yang ditempatinya sebelum ditalak dengan alasan marah dan sebagainya, karena menempatkan istri itu pada tempat yang layak adalah hak istri yang telah diwajibkan Allah selama ia masih dalam idah. \n\nSang suami juga dilarang untuk mengeluarkan istri yang sedang menjalani idah dari rumah yang ditempatinya. Apalagi membiarkan keluar sekehendaknya, karena yang demikian merupakan pelanggaran agama, kecuali apabila istri terang-terangan mengerjakan perbuatan keji, seperti melakukan perbuatan zina dan sebagainya. Jika sang istri berkelakuan tidak sopan terhadap mertua, maka bolehlah ia dikeluarkan dari tempat tinggalnya. Demikianlah batas-batas dan ketentuan-ketentuan yang telah digariskan Allah mengenai talak, idah, dan sebagainya.\n\nOleh karena itu, barang siapa melanggar hukum-hukum Allah itu, berarti ia berbuat zalim kepada dirinya sendiri. Andaikata Allah menakdirkan satu perubahan, lalu hati suami berbalik menjadi cinta lagi kepada istrinya yang telah ditalaknya dan merasa menyesal atas perbuatannya kemudian ia ingin rujuk kembali, maka baginya sudah tertutup jalan, bila keinginannya itu dilaksanakan sesudah habis masa idahnya karena ia telah menyia-nyiakan kesempatan yang diberikan kepadanya. Istri yang dimaksud di sini ialah istri yang sudah atau masih haid dan sudah dicampuri sesudah akad nikah. Ada pun istri yang masih kecil atau sudah ayisah (tidak haid lagi) atau belum dicampuri sesudah akad nikah, apabila ditalak, mempunyai hukum idah tersendiri. Berbeda dengan hukum yang berlaku seperti tersebut di atas."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5219,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 558,
+                    "manzil": 7,
+                    "ruku": 492,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِ مَن كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا",
+                    "transliteration": {
+                        "en": "Fa izaa balaghna ajalahunna fa amsikoohunna bima'roofin aw faariqoohunna bima'roofinw wa ashhidoo zawai 'adlim minkum wa aqeemush shahaadata lillaah; zaalikum yoo'azu bihee man kaana yu'minu billaahi wal yawmil aakhir; wa many yattaqil laaha yaj'al lahoo makhrajaa"
+                    }
+                },
+                "translation": {
+                    "en": "And when they have [nearly] fulfilled their term, either retain them according to acceptable terms or part with them according to acceptable terms. And bring to witness two just men from among you and establish the testimony for [the acceptance of] Allah. That is instructed to whoever should believe in Allah and the Last day. And whoever fears Allah - He will make for him a way out",
+                    "id": "Maka apabila mereka telah mendekati akhir idahnya, maka rujuklah (kembali kepada) mereka dengan baik atau lepaskanlah mereka dengan baik dan persaksikanlah dengan dua orang saksi yang adil di antara kamu dan hendaklah kamu tegakkan kesaksian itu karena Allah. Demikianlah pengajaran itu diberikan bagi orang yang beriman kepada Allah dan hari akhirat. Barangsiapa bertakwa kepada Allah niscaya Dia akan membukakan jalan keluar baginya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5219",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5219.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5219.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka apabila mereka, para istri yang dijatuhi talak telah mendekati akhir masa idahnya, maka rujuklah, kembali kepada mereka dengan baik guna mempertahankan ikatan perkawinan; atau lepaskanlah mereka, yakni terus menceraikannya dengan baik dengan memperhatikan hak-hak anak. Dan persaksikanlah keputusan kamu untuk menceraikannya dengan dua orang saksi yang adil di antara kamu, yakni dua orang laki-laki atau satu orang laki-laki dan dua orang perempuan; dan hendaklah kamu menegakkan kesaksian itu karena Allah dengan jujur dan adil, serta dengan menaati hukum Allah. Demikianlah pengajaran itu, perintah untuk mematuhi hukum Allah dengan tulus diberikan kepada orang yang beriman kepada Allah dan hari akhirat di antara hamba-hamba-Nya. Barang siapa bertakwa kepada Allah dalam segala urusan; niscaya Dia akan membukakan jalan keluar baginya dari segala kesulitan.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa apabila masa idah istri hampir habis dan suami masih ingin berkumpul kembali, ia boleh rujuk kepada istrinya dan tinggal bersama secara baik sebagai suami-istri, melaksanakan kewajibannya, memberi belanja, pakaian, tempat tinggal, dan lainnya. Akan tetapi, kalau suami tetap tidak akan rujuk kepada istri, maka ia boleh melepaskannya secara baik pula tanpa ada ketegangan terjadi, menyempurnakan maharnya, memberi mut'ah sebagai imbalan dan terima kasih atas kebaikan istrinya selama ia hidup bersama dan lain-lain yang menghibur hatinya. Apabila suami memilih rujuk, maka hendaknya hal itu disaksikan oleh dua orang saksi laki-laki yang adil, untuk memantapkan rumah tangganya kembali.\n\nSelanjutnya Allah menyerukan agar kesaksian itu diberikan secara jujur karena Allah semata-mata tanpa mengharapkan bayaran dan tanpa memihak, sebagaimana firman Allah:\n\nJadilah kamu penegak keadilan, menjadi saksi karena Allah, walaupun terhadap dirimu sendiri. (an-Nisa'/4: 135)\n\nDemikian seruan mengenai rujuk dan talak untuk menjadi pelajaran bagi orang yang beriman kepada Allah di hari akhirat. Orang yang bertakwa kepada Allah, dan patuh menaati peraturan-peraturan yang telah ditetapkan-Nya, antara lain mengenai rujuk dan talak tersebut di atas, niscaya Ia akan menunjukkan baginya jalan keluar dari kesulitan yang dihadapinya.\n\nBagi orang-orang yang bertakwa kepada Allah, tidak saja diberi dan dimudahkan jalan keluar dari kesulitan yang dihadapinya, tetapi juga diberi rezeki oleh Allah dari arah yang tidak disangka-sangka, yang belum pernah terlintas dalam pikirannya. Selanjutnya Allah menyerukan agar mereka bertawakal kepada-Nya, karena Allah-lah yang mencukupkan keperluannya mensukseskan urusannya. \n\nBertawakal kepada Allah artinya berserah diri kepada-Nya, menyerahkan sepenuhnya kepada-Nya keberhasilan usaha. Setelah ia berusaha dan memantapkan satu ikhtiar, barulah ia bertawakal. Bukanlah tawakal namanya apabila seorang menyerahkan keadaannya kepada Allah tanpa usaha dan ikhtiar. Berusaha dan berikhtiar dahulu baru bertawakal menyerahkan diri kepada Allah. \n\nPernah terjadi seorang Arab Badui berkunjung kepada Nabi di Medinah dengan mengendarai unta. Setelah orang Arab itu sampai ke tempat yang dituju, ia turun dari untanya lalu masuk menemui Nabi saw. Nabi bertanya, \"Apakah unta sudah ditambatkan?\" Orang Badui itu menjawab, \"Tidak! Saya melepaskan begitu saja, dan saya bertawakal kepada Allah.\" Nabi saw bersabda, \"Tambatkan dulu untamu, baru bertawakal.\"\n\nAllah akan melaksanakan dan menyempurnakan urusan orang yang bertawakal kepada-Nya sesuai dengan kodrat iradat-Nya, pada waktu yang telah ditetapkan, sebagaimana dijelaskan dalam firman-Nya:\n\nDan segala sesuatu ada ukuran di sisi-Nya. (ar-Ra'd/13: 8)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5220,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 558,
+                    "manzil": 7,
+                    "ruku": 492,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ ۚ إِنَّ اللَّهَ بَالِغُ أَمْرِهِ ۚ قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا",
+                    "transliteration": {
+                        "en": "Wa yarzuqhu min haisu laa yahtasib; wa many yatawakkal 'alal laahi fahuwa husbuh; innal laaha baalighu amrih; qad ja'alal laahu likulli shai'in qadraa"
+                    }
+                },
+                "translation": {
+                    "en": "And will provide for him from where he does not expect. And whoever relies upon Allah - then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent.",
+                    "id": "dan Dia memberinya rezeki dari arah yang tidak disangka-sangkanya. Dan barangsiapa bertawakal kepada Allah, niscaya Allah akan mencukupkan (keperluan)nya. Sesungguhnya Allah melaksanakan urusan-Nya. Sungguh, Allah telah mengadakan ketentuan bagi setiap sesuatu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5220",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5220.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5220.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Dia pun akan memberinya rezeki dari arah yang tidak disangka-sangkanya dengan memberikan kebutuhan fisik maupun kebutuhan ruhani. Dan barang siapa bertawakal kepada Allah dalam segala urusan, niscaya Allah cukup sebagai tempat mengadu bagi diri-nya. Sesungguhnya Allah melaksanakan urusan-Nya dengan penuh hikmah bagi manusia. Sungguh, Allah telah menjadikan segala sesuatu dengan kadarnya sehingga setiap orang tidak akan menghadapi masalah di luar batas kemampuannya.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa apabila masa idah istri hampir habis dan suami masih ingin berkumpul kembali, ia boleh rujuk kepada istrinya dan tinggal bersama secara baik sebagai suami-istri, melaksanakan kewajibannya, memberi belanja, pakaian, tempat tinggal, dan lainnya. Akan tetapi, kalau suami tetap tidak akan rujuk kepada istri, maka ia boleh melepaskannya secara baik pula tanpa ada ketegangan terjadi, menyempurnakan maharnya, memberi mut'ah sebagai imbalan dan terima kasih atas kebaikan istrinya selama ia hidup bersama dan lain-lain yang menghibur hatinya. Apabila suami memilih rujuk, maka hendaknya hal itu disaksikan oleh dua orang saksi laki-laki yang adil, untuk memantapkan rumah tangganya kembali.\n\nSelanjutnya Allah menyerukan agar kesaksian itu diberikan secara jujur karena Allah semata-mata tanpa mengharapkan bayaran dan tanpa memihak, sebagaimana firman Allah:\n\nJadilah kamu penegak keadilan, menjadi saksi karena Allah, walaupun terhadap dirimu sendiri. (an-Nisa'/4: 135)\n\nDemikian seruan mengenai rujuk dan talak untuk menjadi pelajaran bagi orang yang beriman kepada Allah di hari akhirat. Orang yang bertakwa kepada Allah, dan patuh menaati peraturan-peraturan yang telah ditetapkan-Nya, antara lain mengenai rujuk dan talak tersebut di atas, niscaya Ia akan menunjukkan baginya jalan keluar dari kesulitan yang dihadapinya.\n\nBagi orang-orang yang bertakwa kepada Allah, tidak saja diberi dan dimudahkan jalan keluar dari kesulitan yang dihadapinya, tetapi juga diberi rezeki oleh Allah dari arah yang tidak disangka-sangka, yang belum pernah terlintas dalam pikirannya. Selanjutnya Allah menyerukan agar mereka bertawakal kepada-Nya, karena Allah-lah yang mencukupkan keperluannya mensukseskan urusannya. \n\nBertawakal kepada Allah artinya berserah diri kepada-Nya, menyerahkan sepenuhnya kepada-Nya keberhasilan usaha. Setelah ia berusaha dan memantapkan satu ikhtiar, barulah ia bertawakal. Bukanlah tawakal namanya apabila seorang menyerahkan keadaannya kepada Allah tanpa usaha dan ikhtiar. Berusaha dan berikhtiar dahulu baru bertawakal menyerahkan diri kepada Allah. \n\nPernah terjadi seorang Arab Badui berkunjung kepada Nabi di Medinah dengan mengendarai unta. Setelah orang Arab itu sampai ke tempat yang dituju, ia turun dari untanya lalu masuk menemui Nabi saw. Nabi bertanya, \"Apakah unta sudah ditambatkan?\" Orang Badui itu menjawab, \"Tidak! Saya melepaskan begitu saja, dan saya bertawakal kepada Allah.\" Nabi saw bersabda, \"Tambatkan dulu untamu, baru bertawakal.\"\n\nAllah akan melaksanakan dan menyempurnakan urusan orang yang bertawakal kepada-Nya sesuai dengan kodrat iradat-Nya, pada waktu yang telah ditetapkan, sebagaimana dijelaskan dalam firman-Nya:\n\nDan segala sesuatu ada ukuran di sisi-Nya. (ar-Ra'd/13: 8)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5221,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 558,
+                    "manzil": 7,
+                    "ruku": 492,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَاللَّائِي يَئِسْنَ مِنَ الْمَحِيضِ مِن نِّسَائِكُمْ إِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَاثَةُ أَشْهُرٍ وَاللَّائِي لَمْ يَحِضْنَ ۚ وَأُولَاتُ الْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مِنْ أَمْرِهِ يُسْرًا",
+                    "transliteration": {
+                        "en": "Wallaaa'ee ya'isna minal maheedi min nisaaa 'ikum inir tabtum fa'iddatuhunna salaasatu ashhurinw wallaaa'ee lam yahidn; wa ulaatul ahmaali ajaluhunna any yada'na hamlahun; wa many yattaqil laaha yaj'al lahoo min armrihee yusraa"
+                    }
+                },
+                "translation": {
+                    "en": "And those who no longer expect menstruation among your women - if you doubt, then their period is three months, and [also for] those who have not menstruated. And for those who are pregnant, their term is until they give birth. And whoever fears Allah - He will make for him of his matter ease.",
+                    "id": "Perempuan-perempuan yang tidak haid lagi (menopause) di antara istri-istrimu jika kamu ragu-ragu (tentang masa idahnya) maka idahnya adalah tiga bulan; dan begitu (pula) perempuan-perempuan yang tidak haid. Sedangkan perempuan-perempuan yang hamil, waktu idah mereka itu ialah sampai mereka melahirkan kandungannya. Dan barangsiapa bertakwa kepada Allah, niscaya Dia menjadikan kemudahan baginya dalam urusannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5221",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5221.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5221.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan adapun perempuan-perempuan yang tidak haid lagi, yaitu perempuan yang sudah menopause di antara istri-istri kamu jika kamu menjatuhkan talak kepadanya, maka masa idahnya jika kamu ragu-ragu adalah tiga bulan. Dan demikian pula masa idah bagi perempuan-perempuan yang tidak pernah haid sepanjang hidupnya juga tiga bulan. Sedangkan perempuan-perempuan hamil yang dijatuhi talak, maka waktu idah mereka itu ialah sampai mereka melahirkan kandungannya. Seusai melahirkan, maka masa idahnya berakhir. Dan barang siapa bertakwa kepada Allah dengan ketakwaan yang sesungguhnya dalam segala urusan, niscaya Dia akan menjadikan kemudahan baginya dalam urusannya karena ketakwaannya.",
+                        "long": "Ayat ini menjelaskan bahwa idah perempuan-perempuan yang ya'is (tidak haid lagi), adalah tiga bulan. Begitu juga perempuan muda yang belum pernah haid. Adapun bagi perempuan-perempuan yang hamil, maka idahnya sampai melahirkan kandungannya. Begitu juga perempuan-perempuan hamil yang meninggal suaminya, idahnya sampai melahirkan kandungannya, sebagaimana yang diriwayatkan Imam Malik, Imam Syafi'i, Abdur Razaq, Ibnu Abi Syaibah, dan Ibnu Mundhir dari Ibnu 'Umar. Ketika ditanya tentang perempuan hamil yang meninggal suaminya, Ibnu 'Umar menjawab, \"Apabila perempuan itu melahirkan kandungannya, maka ia menjadi halal (untuk dinikahi).\" Mengenai hal ini ada ulama yang berpendapat yang didasarkan pada masa terlama dari dua waktu, yaitu kalau hamil tua dan segera melahirkan maka idahnya 4 bulan 10 hari. Sedang kalau hamil muda, idahnya sampai perempuan itu melahirkan. Orang yang bertakwa kepada Allah, melaksanakan perintah-Nya dan menjauhi larangan-Nya, maka ia akan dimudahkan urusannya, dilepaskan dari kesulitan yang dialaminya.\n\nDua ayat di atas (ayat 1 dan 4), dan 2 (dua) ayat lain yang berada di antaranya (ayat 2 dan 3), mengatur mengenai tata cara perceraian. Di antaranya hal yang mengatur masa idah. Masa tersebut dengan jelas disebutkan sebagai 3 (tiga) bulan bagi wanita yang (sedang) tidak haid dan mereka yang sudah memasuki masa menopause, dan sampai saat melahirkan bagi mereka yang sedang mengandung.\n\nPada dasarnya, waktu tiga bulan, apabila tidak lagi terjadi persetubuhan, maka akan dapat ditentukan kondisi wanita, apakah dalam keadaan hamil atau tidak. Karena mulai pada bulan pertama kehamilan, haid akan berhenti. Tentunya, berhentinya haid ini dapat disebabkan oleh banyak hal. Dapat karena hamil, atau sedang memulai proses menopause, atau karena adanya penyakit. Bagi seorang wanita, mereka akan mengetahui terjadinya kehamilan dari adanya beberapa ciri lain, karena kehamilan tidak saja ditandai oleh terlambatnya haid atau makin \"gendutnya\" perut. Masih ada tanda-tanda lainnya. Memang tidak mudah mengetahui apakah seseorang benar-benar hamil atau tidak."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5222,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 558,
+                    "manzil": 7,
+                    "ruku": 492,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ذَٰلِكَ أَمْرُ اللَّهِ أَنزَلَهُ إِلَيْكُمْ ۚ وَمَن يَتَّقِ اللَّهَ يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُعْظِمْ لَهُ أَجْرًا",
+                    "transliteration": {
+                        "en": "Zaalika amrul laahi anzalahoo ilaikum; wa many yattaqil laaha yukaffir 'anhu saiyi aatihee wa yu'zim lahoo ajraa"
+                    }
+                },
+                "translation": {
+                    "en": "That is the command of Allah, which He has sent down to you; and whoever fears Allah - He will remove for him his misdeeds and make great for him his reward.",
+                    "id": "Itulah perintah Allah yang diturunkan-Nya kepada kamu; barangsiapa bertakwa kepada Allah, niscaya Allah akan menghapus kesalahan-kesalahannya dan akan melipatgandakan pahala baginya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5222",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5222.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5222.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Itulah aturan Allah yang diturunkan-Nya kepada kamu agar dilaksanakan dengan baik dan benar; barang siapa bertakwa kepada Allah dengan mantap, niscaya Allah akan menghapus kesalahan-kesalahannya sebagai penghargaan atas kepatuhannya; dan Allah akan melipatgandakan pahala baginya atas usahanya yang sungguh-sungguh.",
+                        "long": "Dalam ayat ini, Allah menjelaskan bahwa hukum-hukum yang telah disyariatkan mengenai talak, tempat tinggal, dan idah perempuan yang tertera pada ayat-ayat yang lalu adalah ketentuan Allah yang mesti diamalkan dan dilaksanakan.\n\nPada akhir ayat ini, sekali lagi Allah menjelaskan bahwa bagi orang yang bertakwa kepada-Nya dengan mengerjakan perintah-Nya dan menjauhi larangan-Nya, niscaya Dia akan menghapus dan mengampuni dosanya sebagaimana yang telah dijanjikan-Nya. Dalam ayat lain Allah berfirman:\n\nPerbuatan-perbuatan baik itu menghapus kesalahan-kesalahan. (Hud/11: 114)\n\nSelain dari itu, Allah juga melipatgandakan pahala amal mereka, sebagaimana yang Ia janjikan dalam firman-Nya:\n\nBarang siapa berbuat kebaikan mendapat balasan sepuluh kali lipat amalnya. Dan barang siapa berbuat kejahatan dibalas seimbang dengan kejahatannya. Mereka sedikit pun tidak dirugikan (dizalimi). (al-An'am/6: 160)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5223,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 559,
+                    "manzil": 7,
+                    "ruku": 492,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَارُّوهُنَّ لِتُضَيِّقُوا عَلَيْهِنَّ ۚ وَإِن كُنَّ أُولَاتِ حَمْلٍ فَأَنفِقُوا عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَآتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا بَيْنَكُم بِمَعْرُوفٍ ۖ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُ أُخْرَىٰ",
+                    "transliteration": {
+                        "en": "Askinoohunna min haisu sakantum minw wujdikum wa laa tudaaarroohunna litudaiyiqoo 'alaihinn; wa in kunna ulaati hamlin fa anfiqoo 'alihinna hattaa yada'na hamlahunn; fain arda'na lakum fa aatoo hunna ujoorahunna waatamiroo bainakum bima'roofinw wa in ta'aasartum fasaturdi'u lahooo ukhraa"
+                    }
+                },
+                "translation": {
+                    "en": "Lodge them [in a section] of where you dwell out of your means and do not harm them in order to oppress them. And if they should be pregnant, then spend on them until they give birth. And if they breastfeed for you, then give them their payment and confer among yourselves in the acceptable way; but if you are in discord, then there may breastfeed for the father another woman.",
+                    "id": "Tempatkanlah mereka (para istri) di mana kamu bertempat tinggal menurut kemampuanmu dan janganlah kamu menyusahkan mereka untuk menyempitkan (hati) mereka. Dan jika mereka (istri-istri yang sudah ditalak) itu sedang hamil, maka berikanlah kepada mereka nafkahnya sampai mereka melahirkan, kemudian jika mereka menyusukan (anak-anak)mu maka berikanlah imbalannya kepada mereka; dan musyawarahkanlah di antara kamu (segala sesuatu) dengan baik; dan jika kamu menemui kesulitan, maka perempuan lain boleh menyusukan (anak itu) untuknya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5223",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5223.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5223.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada ayat ini diperintahkan kepada para suami untuk menyiapkan tempat tinggal bagi istri mereka. Allah berfirman, “Tempatkanlah mereka, para istri, di mana kamu bertempat tinggal, yakni di tempat tinggal kamu yang layak menurut kemampuan kamu; dan janganlah kamu menyusahkan mereka, para istri untuk menyempitkan hati dan perasaan mereka. Dan jika mereka, istri-istri yang sudah ditalak itu sedang hamil, maka, wahai para suami, berikanlah kepada mereka nafkahnya sampai mereka melahirkan, karena itu merupakan bukti tanggung jawab kamu terhadap perempuan yang akan melahirkan keturunan kamu; kemudian jika mereka menyusukan anak-anak kamu, maka berikanlah imbalannya kepada mereka yang pantas; dan musyawarahkanlah di antara kamu tentang segala sesuatu berkenaan dengan nafkah dan imbalan menyusui anakmu dengan baik; dan jika kamu berdua saling menemukan kesulitan untuk memberikan ASI kepada anakmu karena sesuatu dan lain hal, maka perempuan lain yang sehat boleh menyusukan anak itu untuk kelangsungan hidup-nya dengan imbalan yang layak dan sadarilah bahwa anakmu akan menjadi anak persusuan perempuan itu.",
+                        "long": "Dalam ayat ini, Allah menjelaskan bahwa menjadi kewajiban bagi suami memberi tempat tinggal yang layak, sesuai dengan kemampuannya kepada istri yang tengah menjalani idah. Jangan sekali-kali ia berbuat yang menyempitkan dan menyusahkan hati sang istri dengan menempatkannya pada tempat yang tidak layak atau membiarkan orang lain tinggal bersamanya, sehingga ia merasa harus meninggalkan tempat itu dan menuntut tempat lain yang disenangi.\n\nJika istri yang di talak ba'in sedang hamil, maka ia wajib diberi nafkah secukupnya sampai melahirkan. Apabila ia melahirkan, maka habislah masa idahnya. Namun demikian, karena ia menyusukan anak-anak dari suami yang menceraikannya, maka ia wajib diberi nafkah oleh sang suami sebesar yang umum berlaku. Sebaiknya seorang ayah dan ibu merundingkan dengan cara yang baik tentang kemaslahatan anak-anaknya, baik mengenai kesehatan, pendidikan, maupun hal lainnya. Di sejumlah negara muslim, hak-hak perempuan yang dicerai telah diatur secara khusus dalam undang-undang.\n\nApabila di antara kedua belah pihak tidak terdapat kata sepakat, maka pihak ayah boleh saja memilih perempuan lain yang dapat menerima dan memahami kemampuannya untuk menyusukan anak-anaknya. Sekalipun demikian, kalau anak itu tidak mau menyusu kepada perempuan lain, tetapi hanya ke ibunya, maka sang bapak wajib memberi nafkah yang sama besarnya seperti nafkah yang diberikan kepada orang lain."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5224,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 559,
+                    "manzil": 7,
+                    "ruku": 492,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُ فَلْيُنفِقْ مِمَّا آتَاهُ اللَّهُ ۚ لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا مَا آتَاهَا ۚ سَيَجْعَلُ اللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+                    "transliteration": {
+                        "en": "Liyuntiq zoo sa'atim min sa'atihee wa man qudira 'alaihi riquhoo falyunfiq mimmaaa aataahul laah; laa yukalliful laahu nafsan illaa maaa aataahaa; sa yaj'alul laahu ba'da'usriny yusraa"
+                    }
+                },
+                "translation": {
+                    "en": "Let a man of wealth spend from his wealth, and he whose provision is restricted - let him spend from what Allah has given him. Allah does not charge a soul except [according to] what He has given it. Allah will bring about, after hardship, ease.",
+                    "id": "Hendaklah orang yang mempunyai keluasan memberi nafkah menurut kemampuannya, dan orang yang terbatas rezekinya, hendaklah memberi nafkah dari harta yang diberikan Allah kepadanya. Allah tidak membebani kepada seseorang melainkan (sesuai) dengan apa yang diberikan Allah kepadanya. Allah kelak akan memberikan kelapangan setelah kesempitan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5224",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5224.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5224.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Hendaklah orang yang mempunyai keluasan, yaitu suami yang berkecukupan, memberi nafkah kepada istri yang ditalaknya selama masa idah dan memberikan imbalan kepadanya karena telah menyusui anaknya, dari kemampuannya yang telah diberikan Allah kepadanya. Dan adapun orang yang terbatas rezekinya, yakni suami yang tidak sanggup, hendaklah memberi nafkah kepada istri yang ditalaknya selama masa idah dari harta yang diberikan Allah kepadanya sesuai dengan kesanggupannya. Allah tidak membebani seseorang melainkan sesuai dengan apa yang diberikan Allah kepadanya, rezeki dan kemampuan; Allah akan memberikan kemudahan kepada seseorang setelah ia menunjukkan kegigihan dalam menghadapi kesulitan.",
+                        "long": "Dalam ayat ini, Allah menjelaskan bahwa kewajiban ayah memberikan upah kepada perempuan yang menyusukan anaknya menurut kemampuannya. Jika kemampuan ayah itu hanya dapat memberi makan karena rezekinya sedikit, maka hanya itulah yang menjadi kewajibannya. Allah tidak akan memikulkan beban kepada seseorang melainkan sesuai dengan kemampuannya, sebagaimana firman-Nya:\n\nAllah tidak membebani seseorang melainkan sesuai dengan kesanggupannya. (al-Baqarah/2: 286)\n\nDalam ayat lain juga dijelaskan:\n\nSeseorang tidak dibebani lebih dari kesanggupannya. (al-Baqarah/2: 233)\n\nTidak ada yang kekal di dunia. Pada suatu waktu, Allah akan mem-berikan kelapangan sesudah kesempitan, kekayaan sesudah kemiskinan, kesenangan sesudah penderitaan. Allah berfirman:\n\nSesungguhnya beserta kesulitan itu ada kemudahan. (asy-Syarh/94: 6)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5225,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 559,
+                    "manzil": 7,
+                    "ruku": 493,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِ فَحَاسَبْنَاهَا حِسَابًا شَدِيدًا وَعَذَّبْنَاهَا عَذَابًا نُّكْرًا",
+                    "transliteration": {
+                        "en": "Wa ka ayyim min qaryatin 'atat 'an amri Rabbihaa wa Rusulihee fahaasabnaahaa hisaaban shadeedanw wa 'azzabnaahaa 'azaaban nukraa"
+                    }
+                },
+                "translation": {
+                    "en": "And how many a city was insolent toward the command of its Lord and His messengers, so We took it to severe account and punished it with a terrible punishment.",
+                    "id": "Dan betapa banyak (penduduk) negeri yang mendurhakai perintah Tuhan mereka dan rasul-rasul-Nya, maka Kami buat perhitungan terhadap penduduk negeri itu dengan perhitungan yang ketat, dan Kami azab mereka dengan azab yang mengerikan (di akhirat),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5225",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5225.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5225.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan betapa banyak penduduk dari suatu negeri yang mendurhakai perintah Tuhan mereka dan rasul-rasul-Nya, seperti penduduk al-Hijr, Madyan, Sodom, dan Gomorah; maka Kami buat perhitungan terhadap penduduk negeri itu dengan perhitungan yang ketat, yaitu dengan mengazab mereka di dunia sebanding dengan pembangkangannya; dan Kami pun mengazab mereka dengan azab yang mengerikan di akhirat.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa tidak sedikit daerah yang penduduknya menyalahi perintah-Nya, mendustakan rasul-rasul yang telah diutus kepada mereka. Mereka akan dihisab dengan perhitungan yang sangat teliti, sehingga terbongkar segala kejahatan yang telah diperbuatnya di dunia. Mereka lalu diazab dengan siksaan yang mengerikan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5226,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 559,
+                    "manzil": 7,
+                    "ruku": 493,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَاقِبَةُ أَمْرِهَا خُسْرًا",
+                    "transliteration": {
+                        "en": "Fazaaqat wabbala amrihaa wa kaana 'aaqibatu amrihaa khusraa"
+                    }
+                },
+                "translation": {
+                    "en": "And it tasted the bad consequence of its affair, and the outcome of its affair was loss.",
+                    "id": "sehingga mereka merasakan akibat yang buruk dari perbuatannya, dan akibat perbuatan mereka, itu adalah kerugian yang besar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5226",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5226.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5226.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sehingga mereka, orang-orang yang mencemoohkan misi para rusul itu, merasakan akibat buruk dari perbuatannya, baik azab di dunia lebih-lebih azab di akhirat, dan akibat perbuatan mereka itu akan disadari oleh mereka di akhirat merupakan kerugian yang besar bagi diri mereka sendiri.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa orang-orang yang diazab di hari Kiamat dengan azab yang mengerikan adalah seperti orang-orang yang memetik hasil tanaman mereka, mendapatkan hasil usaha mereka sesuai dengan tanaman dan usaha mereka. Jika baik yang ditanam, baik pula yang akan dipetik, sebaliknya jika buruk yang ditanam, buruk pula yang akan dipetik, dan tidak mungkin terjadi sebaliknya. Sejalan dengan uraian ini, dalam ayat lain dijelaskan:\n\nBarang siapa mengerjakan kebajikan maka (pahalanya) untuk dirinya sendiri dan barang siapa berbuat jahat maka (dosanya) menjadi tanggungan dirinya sendiri. Dan Tuhanmu sama sekali tidak menzalimi hamba-hamba-(Nya). (Fussilat/41: 46)\n\nAkibat perbuatan buruk yang mereka kerjakan, mereka memperoleh kerugian yang sangat besar."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5227,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 559,
+                    "manzil": 7,
+                    "ruku": 493,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ فَاتَّقُوا اللَّهَ يَا أُولِي الْأَلْبَابِ الَّذِينَ آمَنُوا ۚ قَدْ أَنزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا",
+                    "transliteration": {
+                        "en": "A'addal laahu lahum 'azaaban shadeedan fattaqul laaha yaaa ulil albaab, allazeena aammanoo; qad anzalal laahu ilaikum zikraa"
+                    }
+                },
+                "translation": {
+                    "en": "Allah has prepared for them a severe punishment; so fear Allah, O you of understanding who have believed. Allah has sent down to you the Qur'an.",
+                    "id": "Allah menyediakan azab yang keras bagi mereka, maka bertakwalah kepada Allah wahai orang-orang yang mempunyai akal! (Yaitu) orang-orang yang beriman. Sungguh, Allah telah menurunkan peringatan kepadamu,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5227",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5227.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5227.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sejalan dengan ayat sebelumnya, Allah menyediakan azab yang keras bagi mereka, yaitu bagi orang-orang yang menolak beriman kepada-Nya; maka bertakwalah kepada Allah wahai orang-orang yang mempunyai akal, yaitu orang-orang yang berpikir, lagi beriman dan bertakwa kepada Allah supaya kamu terhindar dari azab yang mengerikan di akhirat. Sungguh, Allah telah menurunkan peringatan, yakni al-Qur\\'an kepada kamu.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa bagi orang-orang yang senantiasa memperlihatkan keingkaran dan pembangkangan terhadap ajaran-ajaran para rasul yang berasal dari Allah, telah disediakan azab yang pedih di hari kemudian. Orang-orang yang berakal dan beriman mestinya bertakwa kepada Allah, karena Ia telah lama menurunkan peringatan yaitu Al-Qur'an, yang memperingatkan segala sesuatunya, untuk menjadi pegangan dengan mengamalkan serta mematuhi isinya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5228,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 559,
+                    "manzil": 7,
+                    "ruku": 493,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "رَّسُولًا يَتْلُو عَلَيْكُمْ آيَاتِ اللَّهِ مُبَيِّنَاتٍ لِّيُخْرِجَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنَ الظُّلُمَاتِ إِلَى النُّورِ ۚ وَمَن يُؤْمِن بِاللَّهِ وَيَعْمَلْ صَالِحًا يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ قَدْ أَحْسَنَ اللَّهُ لَهُ رِزْقًا",
+                    "transliteration": {
+                        "en": "Rasoolany yatloo 'alaikum aayaatil laahi mubaiyinaatil liyukhrijal lazeena aamanoo wa 'amilus saalihaati minaz zulumaati ilan noor; wa many yu'mim billaahi wa ya;mal saalihany yudkhilhu jannaatin tajree min tahtihal anhaaru khaalideena feehaa abadan qad ahsanal laahu lahoo rizqqq"
+                    }
+                },
+                "translation": {
+                    "en": "[He sent] a Messenger [Muhammad] reciting to you the distinct verses of Allah that He may bring out those who believe and do righteous deeds from darknesses into the light. And whoever believes in Allah and does righteousness - He will admit him into gardens beneath which rivers flow to abide therein forever. Allah will have perfected for him a provision.",
+                    "id": "(dengan mengutus) seorang Rasul yang membacakan ayat-ayat Allah kepadamu yang menerangkan (bermacam-macam hukum), agar Dia mengeluarkan orang-orang yang beriman dan mengerjakan kebajikan, dari kegelapan kepada cahaya. Dan barangsiapa beriman kepada Allah dan mengerjakan kebajikan, niscaya Dia akan memasukkannya ke dalam surga-surga yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Sungguh, Allah memberikan rezeki yang baik kepadanya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5228",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5228.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5228.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan Allah telah seorang Rasul yang membacakan ayat-ayat Allah kepada kamu sekalian yang menerangkan ajaran Allah agar Dia mengeluarkan orang-orang yang beriman dan mengerjakan kebajikan, dari kegelapan kufur dan kebodohan kepada cahaya iman dan ilmu. Dan barang siapa beriman kepada Allah dengan keimanan yang sejatinya dan mengerjakan kebajikan, niscaya Dia akan memasukkannya ke dalam surga-surga di akhirat yang mengalir di bawahnya sungai-sungai sehingga merasakan kenikmatan yang tiada tara; mereka kekal di dalamnya selama-lamanya dalam suasana penuh kenikmatan. Sungguh, Allah memberikan rezeki yang baik kepadanya dengan mendaptkan rida-Nya sehingga diizinkan masuk surga.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa Dia telah mengutus seorang rasul untuk membacakan dan mengajarkan ayat-ayat kitab suci Al-Qur'an yang diturunkan kepadanya, yang mengandung bermacam-macam petunjuk dan hukum. Ayat-ayatnya sangat jelas dan mudah dipahami oleh orang yang mau memikirkan dan mempergunakan akalnya, agar orang-orang beriman dan mengerjakan amal saleh memperoleh petunjuk, dan keluar dari kegelapan menuju cahaya yang terang benderang. Orang-orang yang beriman kepada Allah mengakui kebesaran kekuasaan-Nya. Mereka itu akan dimasukkan ke dalam surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya untuk selama-lamanya, tidak akan mati dan tidak akan dikeluarkan. Di dalam surga, mereka memperoleh beraneka macam kenikmatan yang besar, kelapangan rezeki berupa makanan dan minuman yang tidak pernah dilihat mata, didengar telinga, dan terlintas di dalam hati manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5229,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 559,
+                    "manzil": 7,
+                    "ruku": 493,
+                    "hizbQuarter": 223,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "اللَّهُ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ وَمِنَ الْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ الْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوا أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ وَأَنَّ اللَّهَ قَدْ أَحَاطَ بِكُلِّ شَيْءٍ عِلْمًا",
+                    "transliteration": {
+                        "en": "Allaahul lazee khalaq Sab'a Samaawaatinw wa minal ardi mislahunna yatanazzalul amru bainahunna lita'lamooo annal laaha 'alaa kulli shai'in Qadeerunw wa annal laaha qad ahaata bikulli shai'in ilmaa"
+                    }
+                },
+                "translation": {
+                    "en": "It is Allah who has created seven heavens and of the earth, the like of them. [His] command descends among them so you may know that Allah is over all things competent and that Allah has encompassed all things in knowledge.",
+                    "id": "Allah yang menciptakan tujuh langit dan dari (penciptaan) bumi juga serupa. Perintah Allah berlaku padanya, agar kamu mengetahui bahwa Allah Mahakuasa atas segala sesuatu, dan ilmu Allah benar-benar meliputi segala sesuatu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5229",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5229.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5229.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah yang menciptakan tujuh lapis langit dan demikian juga penciptaan dari bumi serupa itu, yakni tujuh lapis bumi. Perintah Allah berupa hukum alam berlaku padanya secara mutlak, agar kamu mengetahui bahwa Allah Mahakuasa atas segala sesuatu yang menyadarkan manusia untuk beriman dan taat kepada Allah; dan menyadari bahwa ilmu Allah benar-benar meliputi segala sesuatu, baik yang kasat mata maupun yang tersembunyi.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa Dialah yang menciptakan tujuh petala langit dan yang menciptakan tujuh lapis bumi. Dalam sebuah hadis yang diriwayatkan oleh Ibnu Mas'ud , Nabi saw bersabda: \n\nWahai Abu dzarr, tidaklah ada (perbandingan) tujuh petala langit dengan kursi melainkan seperti lingkaran kecil di hamparan tanah yang luas. Sedangkan (perbandingan) 'Arsy dengan kursi di hamparan tanah yang luas dengan lingkaran kecil. (Riwayat Ibn hibban dan Abu Nu'aim)\n\nPerintah, qadha', dan qadar Allah berlaku di antara bumi dan langit. Dialah yang mengatur semuanya sesuai dengan ilmu-Nya yang Mahaluas, menerapkan kebijaksanaan-Nya yang adil dan membawa maslahat. Semuanya itu bertujuan agar manusia mengetahui sejauh mana kekuasaan Allah. Tidak ada sesuatu yang dapat menghalangi kehendak-Nya. Dia kuasa di atas segala sesuatu. Hal ini juga bertujuan agar manusia mengetahui bahwa ilmu Allah meliputi segala sesuatunya. Tidak ada sesuatu di langit dan di bumi walau bagaimanapun kecilnya, kecuali diketahui Allah. Tidak ada yang tersembunyi bagi-Nya, sebagaimana dijelaskan dalam firman-Nya:\n\nBagi Allah tidak ada sesuatu pun yang tersembunyi di bumi dan di langit. (Ali 'Imran/3: 5)\n\nDijelaskan juga dalam firman-Nya yang lain:\n\nDan tidak ada sesuatu pun yang tersembunyi bagi Allah, baik yang ada di bumi maupun yang ada di langit. (Ibrahim/14: 38)"
+                    }
+                }
+            }
+        ]
+    }
+}

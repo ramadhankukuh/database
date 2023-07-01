@@ -1,0 +1,1291 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 76,
+        "sequence": 98,
+        "numberOfVerses": 31,
+        "name": {
+            "short": "الانسان",
+            "long": "سورة الانسان",
+            "transliteration": {
+                "en": "Al-Insaan",
+                "id": "Al-Insan"
+            },
+            "translation": {
+                "en": "Man",
+                "id": "Manusia"
+            }
+        },
+        "revelation": {
+            "arab": "مدينة",
+            "en": "Medinan",
+            "id": "Madaniyyah"
+        },
+        "tafsir": {
+            "id": "Surat Al Insaan terdiri atas 31 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ar Rahmaan. Dinamai al Insaan (manusia) diambil dari perkataan Al Insaan yang terdapat pada ayat pertama surat ini."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5592,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 578,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئًا مَّذْكُورًا",
+                    "transliteration": {
+                        "en": "Hal ataa 'alal insaani heenum minad dahri lam yakun shai'am mazkooraa"
+                    }
+                },
+                "translation": {
+                    "en": "Has there [not] come upon man a period of time when he was not a thing [even] mentioned?",
+                    "id": "Bukankah pernah datang kepada manusia waktu dari masa, yang ketika itu belum merupakan sesuatu yang dapat disebut?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5592",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5592.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5592.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Surah ini diawali dengan peringatan kepada manusia tentang kehadirannya di pentas bumi sekaligus menjelaskan tentang tujuan penciptaannya. Bukankah, yaitu sungguh, pernah datang kepada manusia waktu dari masa yaitu sebelum ia diciptakan, yang ketika itu belum merupakan sesuatu yang dapat disebut? Ketika itu manusia dalam ketiadaan, jangankan wujudnya, namanya pun belum ada.2. Proses awal penciptaan manusia ditegaskan pada ayat ini. Sungguh, Kami telah menciptakan manusia dari setetes mani yang bercampur yaitu dari sperma laki-laki dan indung telur perempuan yang tujuan utamanya Kami hendak mengujinya dengan berbagai perintah dan larangan, karena itu Kami jadikan dia mendengar dengan telinganya dan melihat dengan matanya.",
+                        "long": "Ayat pertama ini menegaskan tentang proses kejadian manusia dari tidak ada menjadi ada, pada saat manusia belum berwujud sama sekali. Disebutkan bahwa manusia berasal dari tanah yang tidak dikenal dan tidak disebut-sebut sebelumnya. Apa dan bagaimana jenis tanah itu tidak dikenal sama sekali. Kemudian Allah meniupkan roh kepadanya, sehingga jadilah dia makhluk yang bernyawa.\n\nAyat di atas dapat diinterpretasikan sebagai salah satu bagian yang menceritakan evolusi manusia. Uraian sepenuhnya mengenai hal ini dapat dilihat di bawah ini. \n\nPada abad-19, Charles Darwin mengemukakan teori bahwa jenis manusia ada di muka bumi melalui suatu proses panjang evolusi. Mereka tidak langsung ada sebagaimana dinyatakan pada banyak kitab suci. Dia menyatakan bahwa waktu yang diperlukan untuk proses evolusi, yang berujung pada terbentuknya manusia, kemungkinan besar memerlukan waktu jutaan tahun. Hal kedua yang dikemukakan oleh teori Darwin adalah bahwa manusia berkembang dari binatang. \n\nPada permulaan adanya kehidupan, demikian dinyatakan oleh teori ini, bentuk kehidupan yang ada adalah binatang-binatang tingkat rendah. Dengan berjalannya waktu, muncul binatang-binatang tingkat tinggi dan berukuran lebih besar. Dengan tidak sengaja, dari salah satu binatang berkembang menjadi manusia. Hal demikian ini dibuktikannya dengan adanya sederet bukti dari tengkorak hewan yang secara runut mengarah ke tengkorak manusia saat ini. Bukti lain juga dikemukakan dari perkembangan bentuk embrio. Dalam perkembangannya, embrio manusia berubah-ubah bentuk. Dimulai dari mirip bentuk embrio ikan, kelinci, dan jenis binatang lainnya, dan berakhir berbentuk manusia. Dari temuan terakhir ini, kemudian disimpulkan bahwa evolusi panjang manusia berasal dari bintang tingkat rendah.\n\nPoint kedua dari teori Darwin adalah bahwa manusia dan kera datang dari satu moyang yang sudah punah saat ini. Moyang yang punah ini disebutnya sebagai \"missing link\", rantai yang hilang. Haekel, seorang peneliti setelah masa Darwin, berpendapat bahwa binatang yang menjadi \"missing link\" adalah yang disebut Lypotilu. Apabila binatang ini atau sisa-sisa dari binatang ini dapat ditemukan, maka teka-teki mengenai evolusi manusia dapat dijelaskan dengan lebih baik. Para pemikir yang mempercayai teori ini menganggap bahwa gorila dan simpanse ada pada jalur evolusi manusia. Peneliti lain yang bernama Huxley mempunyai pemikiran yang sedikit berbeda. Ia menyimpulkan bahwa garis manusia dapat saja terjadi jauh sebelum munculnya jenis-jenis kera. Jadi, manusia dan kera tidak pernah berhubungan.\n\nPenelitian yang lebih kemudian yang dilakukan oleh Prof. Jones dan Prof. Osborne, cenderung untuk menyimpulkan bahwa walaupun manusia ada melalui proses evolusi, namun prosesnya sudah terpisah dari binatang lainnya di masa yang lebih jauh. Dan dari saat itu, manusia berevolusi pada garisnya sendiri, tanpa bercampur dengan evolusi binatang lainnya. Dengan kata lain, manusia bukanlah cabang dari binatang lain, katakanlah kera, sebagaimana dipercaya oleh Darwin.\n\nPara ahli arkeologi dan antropologi menemukan bahwa peradaban manusia terjadi melalui jalur yang terbagi secara jelas. Pada zaman batu, manusia pertama kali melangkah masuk ke daerah budaya dan kemasyarakatan. Sejak masa itu, manusia melakukan evolusi dalam mempertahankan hidup sebagai \"binatang yang lemah\". Karena tidak memiliki kekuatan, cakar, dan taring yang kuat sebagaimana binatang lain, manusia menggunakan batu sebagai alat mempertahankan diri dan kegunaan lainnya. Kemudian datang zaman perunggu, dimana manusia mulai menggunakan bahan metal untuk membuat peralatan. Zaman ini diikuti oleh zaman besi. Dari berbagai situs yang ditemukan para arkeologi disimpulkan bahwa berbagai zaman dari kehidupan manusia dilakukan dengan perubahan budaya dari satu masa ke masa lainnya.\n\nDi dalam Al-Qur'an, ada satu ayat yang berkaitan erat dengan penciptaan manusia yang bertahap, yaitu:\n\nMengapa kamu tidak takut akan kebesaran Allah? Dan sungguh, Dia telah menciptakan kamu dalam beberapa tingkatan (kejadian). Tidakkah kamu memperhatikan bagaimana Allah telah menciptakan tujuh langit berlapis-lapis? Dan di sana Dia menciptakan bulan yang bercahaya dan menjadikan matahari sebagai pelita (yang cemerlang)? Dan Allah menumbuhkan kamu dari tanah, tumbuh (berangsur-angsur), kemudian Dia akan mengembalikan kamu ke dalamnya (tanah) dan mengeluarkan kamu (pada hari Kiamat) dengan pasti. Dan Allah menjadikan bumi untukmu sebagai hamparan, agar kamu dapat pergi kian kemari di jalan-jalan yang luas. (Nuh/71: 13-20)\n\nAyat di atas mencela manusia yang masih meragukan bahwa penciptaan tidak dilakukan berdasarkan perencanaan yang baik. Diperlihatkan bagaimana semuanya dilakukan melalui fase-fase atau masa-masa, yang teratur dan didasarkan pada perencanaan yang bijak. Penciptaan dilakukan bukan tanpa tujuan, dan mengarah pada kesempurnaan.\n\nTernyata hukum evolusi yang dikembangkan para peneliti di Eropa telah dijelaskan secara sangat rinci oleh Al-Qur'an pada 1400 tahun sebelumnya. Dijelaskan oleh Al-Qur'an bahwa manusia tidak diciptakan secara mendadak dan dalam bentuk dan rupa sebagaimana kita saat ini. Allah tidak membuat model dari tanah liat dan \"meniupkan\" kehidupan ke dalamnya untuk menjadi manusia pertama di muka bumi. Manusia mencapai tahap seperti saat ini setelah melalui proses beberapa masa perubahan.\n\nHal kedua yang diungkapkan Al-Qur'an dalam kaitan penciptaan manusia adalah dari kondisi ketiadaan. Suatu subjek yang bertolak belakang dengan penjelasan sebelumnya.\n\nDan tidakkah manusia itu memikirkan bahwa sesungguhnya Kami telah menciptakannya dahulu, padahal (sebelumnya) dia belum berwujud sama sekali? (Maryam/19: 67)\n\nAyat di atas menunjuk pada ciptaan pertama dari jenis manusia. Sangat berbeda dengan apa yang terjadi sekarang. Reproduksi manusia pada saat ini terjadi dengan bibit yang diproduksi dari organ laki-laki dan perempuan. \n\nHarus diperhatikan secara cermat bahwa dalam ayat tersebut, ada pernyataan bahwa sesuatu ada dari bukan sesuatu. Ayat tersebut menyatakan bahwa sebelum tahapan dimana material dan benda lain menjadi benda hidup, ada satu tahapan lain dimana tidak ada eksistensi apa pun. Kita dapat menyatakan bahwa kursi dibuat dari kayu; atau rantai dibuat dari besi. Di sini kita memiliki material yang dapat digunakan sebagai bahan untuk membuat barang tertentu. Mereka yang tidak mempercayai agama seringkali menyatakan ayat di atas sebagai dongeng saja. Akan tetapi, ayat di atas tidak menyatakan hal yang demikian. Arti ayat di atas jelas memberitahukan bahwa sebelum adanya penciptaan, tidak ada apa-apa di alam semesta. Setelah ada penciptaan alam semesta, menyusul kemudian penciptaan-penciptaan lainnya, termasuk penciptaan manusia.\n\nTahap kedua perkembangan manusia tampaknya terjadi pada saat manusia ada secara fisik, namun otak belum berkembang baik. Dengan demikian, posisinya masih sama atau lebih rendah dari binatang. Bukankah telah datang atas manusia satu waktu dari masa, sedang ia ketika itu belum merupakan sesuatu yang dapat disebut (al-Insan/76: 1).\n\nTahap ketiga evolusi manusia dicapai saat reproduksi antara manusia laki-laki dan perempuan mulai terjadi. Di dalam Al-Qur'an, Dinyatakan suatu masa dari evolusi manusia. Ketika itu manusia mempunyai karakter binatang tingkat tinggi. Karakter ini adalah adanya perbedaan didasarkan pada seks, terbagi menjadi jantan dan betina. Pada masa ini, perkembangbiakan sudah melalui sperma yang dihasilkan manusia laki-laki. Keadaan demikian ini menjadikan manusia sudah memiliki ciri yang sama dengan binatang tingkat tinggi. Dua penggalan ayat di bawah ini menunjukkan hal tersebut:\n\nDialah yang menciptakan kamu dari jiwa yang satu (Adam) dan daripadanya Dia menciptakan pasangannya, agar dia merasa senang kepadanya. Maka setelah dicampurinya, (istrinya) mengandung kandungan yang ringan, dan teruslah dia merasa ringan (beberapa waktu). Kemudian ketika dia merasa berat, keduanya (suami istri) bermohon kepada Allah, Tuhan mereka (seraya berkata), \"Jika Engkau memberi kami anak yang saleh, tentulah kami akan selalu bersyukur.\" (al-A'raf/7: 189)\n\nDan firman Allah:\n\nWahai manusia! Bertakwalah kepada Tuhanmu yang telah menciptakan kamu dari diri yang satu (Adam), dan (Allah) menciptakan pasangannya (Hawa) dari (diri)-nya; dan dari keduanya Allah memperkembangbiakkan laki-laki dan perempuan yang banyak¦. (an-Nisa'/4: 1)\n\nLebih lanjut Al-Qur'an memperlihatkan perkembangan manusia ke tingkat yang lebih lanjut, yaitu menggunakan nalarnya, demikian:\n\nSungguh, Kami telah menciptakan manusia dari setetes mani yang bercampur yang Kami hendak mengujinya (dengan perintah dan larangan), karena itu Kami jadikan dia mendengar dan melihat. (al-Insan/76: 2)\n\nMulai dari masa ini, karena peran pentingnya di alam semesta, manusia mulai mempelajari alam. Untuk dapat mengelola dengan baik, manusia memerlukan penguasaan pengetahuan secara luas. Tahap keempat ini dicapai saat otak manusia telah mencapai kesempurnaannya. Diciri dari perkembangan kecerdasan dan kepedulian terhadap lingkungan yang sangat cepat. Dengan kemampuannya dalam mendengarkan dan melihat, sebagaimana juga dapat dilakukan oleh binatang, manusia kemudian mulai melatih kecerdasannya sampai pada tingkat dapat melakukan penemuan-penemuan yang berguna untuk kehidupannya. Di sini manusia telah menempatkan dirinya jauh di atas binatang. Ia menjadi jenis binatang yang dapat bertahan hidup melalui kemampuan berpikir dan berbicara.\n\nUraian evolusi manusia ini tidak dengan eksplisit disampaikan dalam Al-Qur'an . Mengapa? Karena kitab ini tidak dimaksudkan sebagai buku ilmiah. Al-Qur'an diciptakan untuk mengungkapkan kebenaran, dan meninggalkan beberapa gap atau rumpang yang akan diisi oleh kemajuan pengetahuan manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5593,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 578,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّا خَلَقْنَا الْإِنسَانَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعًا بَصِيرًا",
+                    "transliteration": {
+                        "en": "Innaa khalaqnal insaana min nutfatin amshaajin nabta leehi faja'alnaahu samee'am baseeraa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, We created man from a sperm-drop mixture that We may try him; and We made him hearing and seeing.",
+                    "id": "Sungguh, Kami telah menciptakan manusia dari setetes mani yang bercampur yang Kami hendak mengujinya (dengan perintah dan larangan), karena itu Kami jadikan dia mendengar dan melihat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5593",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5593.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5593.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Proses awal penciptaan manusia ditegaskan pada ayat ini. Sungguh, Kami telah menciptakan manusia dari setetes mani yang bercampur yaitu dari sperma laki-laki dan indung telur perempuan yang tujuan utamanya Kami hendak mengujinya dengan berbagai perintah dan larangan, karena itu Kami jadikan dia mendengar dengan telinganya dan melihat dengan matanya.3. Potensi lainnya yang dianugerahkan Allah kepada manusia adalah berupa petunjuk, seperti yang ditegaskan pada ayat ini. Sungguh, Kami telah menunjukkan kepadanya jalan yang jelas lagi lurus tidak ada jalan yang lurus selainnya, di antara manusia ada yang bersyukur atas nikmat dan petunjuk Tuhannya dan ada pula yang kufur, menutupi kebenaran dan mengingkari nikmat-nikmat-Nya.",
+                        "long": "Ayat ini menerangkan unsur-unsur penciptaan manusia, yaitu bahwa manusia diciptakan dari sperma (nuthfah) laki-laki dan ovum perempuan yang bercampur. Kedua unsur itu berasal dari sulbi laki-laki dan tulang dada perempuan dan keluar secara berpancaran. Firman Allah:\n\nDia diciptakan dari air (mani) yang terpancar, yang keluar dari antara tulang punggung (sulbi) dan tulang dada. (ath-thariq/86: 6-7)\n\nPerkataan amsyaj (bercampur) yang terdapat dalam ayat ini maksudnya ialah bercampurnya sperma laki-laki yang berwarna keputih-putihan dengan sel telur perempuan yang kekuning-kuningan. Campuran itulah yang menghasilkan segumpal darah ('alaqah), kemudian segumpal daging (mudgah), lalu tulang belulang yang dibungkus dengan daging, dan seterusnya, sehingga setelah 9 bulan dalam rahim ibu lahirlah bayi yang sempurna.\n\nMaksud Allah menciptakan manusia adalah untuk mengujinya dengan perintah (taklif) dan larangan, dan untuk menjunjung tegaknya risalah Allah di atas bumi ini. Sebagai ujiannya, di antaranya adalah apakah mereka bisa bersyukur pada waktu senang dan gembira, dan sabar dan tabah ketika menghadapi musuh.\n\nKarena kelahiran manusia pada akhirnya bertujuan sebagai penjunjung amanat Allah, kepadanya dianugerahkan pendengaran dan penglihatan yang memungkinkannya menyimak dan menyaksikan kebesaran, kekuasaan, dan besarnya nikmat Allah. Manusia dianugerahi pendengaran dan akal pikiran adalah sebagai bukti tentang kekuasaan Allah. Penyebutan secara khusus pendengaran dan penglihatan dalam ayat ini bermakna bahwa keduanya adalah indra yang paling berfungsi mengamati ciptaan Allah untuk membawa manusia mentauhidkan-Nya.\n\nDengan alat penglihatan dan pendengaran serta dilengkapi pula dengan pikiran (akal), tersedialah dua kemungkinan bagi manusia. Apakah ia cenderung kembali kepada sifat asalnya sebagai makhluk bumi sehingga ia sama dengan makhluk lainnya seperti hewan dan tumbuh-tumbuhan, atau ia cenderung untuk menjadi makhluk yang Ilahiah, yang berpikir dan memperhatikan kebesaran-Nya?\n\nSetelah menjadi manusia yang sempurna indranya sehingga memungkinkan dia untuk memikul beban (taklif) dari Allah, maka diberikanlah kepadanya dua alternatif jalan hidup seperti disebutkan dalam ayat berikutnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5594,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 578,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+                    "transliteration": {
+                        "en": "Innaa hadainaahus sabeela immaa shaakiranw wa immaa kafoora"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, We guided him to the way, be he grateful or be he ungrateful.",
+                    "id": "Sungguh, Kami telah menunjukkan kepadanya jalan yang lurus; ada yang bersyukur dan ada pula yang kufur."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5594",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5594.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5594.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Potensi lainnya yang dianugerahkan Allah kepada manusia adalah berupa petunjuk, seperti yang ditegaskan pada ayat ini. Sungguh, Kami telah menunjukkan kepadanya jalan yang jelas lagi lurus tidak ada jalan yang lurus selainnya, di antara manusia ada yang bersyukur atas nikmat dan petunjuk Tuhannya dan ada pula yang kufur, menutupi kebenaran dan mengingkari nikmat-nikmat-Nya.4. Bagi yang kufur maka Allah telah menyediakan balasan siksa yang mengerikan, seperti yang ditegaskan pada ayat ini. Sungguh, Kami telah menyediakan bagi orang-orang kafir yang mantap kekafirannya, rantai yang digunakan untuk mengikat kaki, dan belenggu dan juga neraka yang menyala-nyala.",
+                        "long": "Ayat ini menerangkan bahwa sesungguhnya Allah telah menunjukkan manusia ke jalan yang lurus. Di antara mereka ada yang bersyukur dan ada pula yang kafir. Dengan bimbingan wahyu-Nya yang disampaikan lewat Nabi Muhammad, manusia telah ditunjuki jalan yang lurus dan jalan yang sesat. Allah menunjukkan kepadanya kebaikan dan kejahatan.\n\nDari perkataan sabil yang terdapat dalam ayat ini, tergambar keinginan Allah terhadap manusia yakni membimbing mereka kepada hidayah-Nya. Kata sabil lebih tepat diartikan sebagai petunjuk daripada jalan. Hidayah itu berupa dalil-dalil keesaan Allah dan kenabian yang disebutkan dalam kitab suci.\n\nSabil (hidayah) itu dapat ditangkap dengan pendengaran, penglihatan, dan pikiran. Tuhan hendak menunjukkan kepada manusia bukti-bukti wujud-Nya melalui penglihatan terhadap diri mereka sendiri dan alam semesta, sehingga pikirannya merasa puas untuk mengimani-Nya.\n\nAkan tetapi, memang sudah merupakan kenyataan bahwa terhadap pemberian Allah itu, sebagian manusia ada yang bersyukur, tetapi ada pula yang ingkar (kafir). Tegasnya ada yang menjadi mukmin, dan ada pula yang kafir. Dengan sabil itu pula manusia bebas menentukan pilihannya antara dua alternatif yang tersedia. Pada ayat lain disebutkan:\n\nYang menciptakan mati dan hidup, untuk menguji kamu, siapa di antara kamu yang lebih baik amalnya. Dan Dia Mahaperkasa, Maha Pengampun. (al-Mulk/67: 2)\n\nFirman Allah:\n\nDan sungguh, Kami benar-benar akan menguji kamu sehingga Kami mengetahui orang-orang yang benar-benar berjihad dan bersabar di antara kamu; dan akan Kami uji perihal kamu. (Muhammad/47: 31)\n\nBahwa manusia diciptakan atas fitrah dan hidayah-Nya terlebih dahulu, baru kemudian datang godaan untuk mengingkari Allah, disebutkan dalam suatu ayat:\n\n¦(sesuai) fitrah Allah disebabkan Dia telah menciptakan manusia menurut (fitrah) itu. (ar-Rum/30: 30)\n\n\n\nDalam suatu hadis disebutkan:\n\nTiada seorang pun yang keluar (rumah), kecuali di tangannya ada dua bendera: bendera (yang satu) di tangan malaikat dan bendera (yang lain) di tangan setan. Jika seseorang keluar karena mengharapkan apa yang dicintai atau disenangi Allah, niscaya ia diikuti oleh malaikat dengan benderanya. Ia senantiasa berada di bawah bendera malaikat sampai ia kembali ke rumahnya. Dan jika seseorang keluar karena mencari apa yang dimurkai Allah, niscaya ia diikuti oleh setan dengan benderanya. Ia senantiasa berada di bawah bendera setan sampai ia kembali ke rumahnya. (Riwayat Ahmad dari Abu Hurairah)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5595,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 578,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَلَاسِلَ وَأَغْلَالًا وَسَعِيرًا",
+                    "transliteration": {
+                        "en": "Innaaa a'tadnaa lilkaa fireena salaasila wa aghlaalanw wa sa'eeraa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, We have prepared for the disbelievers chains and shackles and a blaze.",
+                    "id": "Sungguh, Kami telah menyediakan bagi orang-orang kafir rantai, belenggu dan neraka yang menyala-nyala."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5595",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5595.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5595.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bagi yang kufur maka Allah telah menyediakan balasan siksa yang mengerikan, seperti yang ditegaskan pada ayat ini. Sungguh, Kami telah menyediakan bagi orang-orang kafir yang mantap kekafirannya, rantai yang digunakan untuk mengikat kaki, dan belenggu dan juga neraka yang menyala-nyala.5-6. Bagi yang bertakwa Allah menyiapkan balasan yang sempurna. Di antaranya disebut pada ayat ini. Sungguh, orang-orang yang berbuat kebajikan akan minum dari gelas berisi minuman yang campurannya adalah air kafur, agar lebih menyegarkan dan menambah aroma lebih sedap. Kafur yang dimaksud adalah mata air dalam surga yang diminum oleh hamba-hamba Allah yang taat dan selalu berusaha mendekatkan diri kepada-Nya, dan mereka para penghuni surga tersebut dapat memancarkannya dengan sebaik-baiknya.",
+                        "long": "Ayat ini menerangkan bahwa sesungguhnya Allah telah menyediakan rantai, belenggu, dan neraka yang menyala-nyala bagi orang-orang kafir, yaitu orang yang mengingkari dan bahkan membantah, nikmat dan pemberian yang telah dianugerahkan kepadanya. Rantai dipakai untuk mengikat kaki mereka supaya tidak lari, sedang belenggu untuk merantai tangan dan leher yang diikat ke neraka. Neraka Sa'ir (yang menyala-nyala) seperti disebutkan dalam surah yang lalu adalah neraka yang nyalanya tidak dapat dibandingkan dengan jenis api mana pun di atas dunia ini. Api di dunia hanya sepertujuh puluh dari api neraka.\n\nAyat lain menyebutkan:\n\nKetika belenggu dan rantai dipasang di leher mereka, seraya mereka diseret. (Gafir/40: 71)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5596,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 578,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ الْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا",
+                    "transliteration": {
+                        "en": "innal abraara yashra boona min kaasin kaana mizaa juhaa kaafooraa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, the righteous will drink from a cup [of wine] whose mixture is of Kafur,",
+                    "id": "Sungguh, orang-orang yang berbuat kebajikan akan minum dari gelas (berisi minuman) yang campurannya adalah air kafur,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5596",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5596.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5596.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "5-6. Bagi yang bertakwa Allah menyiapkan balasan yang sempurna. Di antaranya disebut pada ayat ini. Sungguh, orang-orang yang berbuat kebajikan akan minum dari gelas berisi minuman yang campurannya adalah air kafur, agar lebih menyegarkan dan menambah aroma lebih sedap. Kafur yang dimaksud adalah mata air dalam surga yang diminum oleh hamba-hamba Allah yang taat dan selalu berusaha mendekatkan diri kepada-Nya, dan mereka para penghuni surga tersebut dapat memancarkannya dengan sebaik-baiknya.5-6. Bagi yang bertakwa Allah menyiapkan balasan yang sempurna. Di antaranya disebut pada ayat ini. Sungguh, orang-orang yang berbuat kebajikan akan minum dari gelas berisi minuman yang campurannya adalah air kafur, agar lebih menyegarkan dan menambah aroma lebih sedap. Kafur yang dimaksud adalah mata air dalam surga yang diminum oleh hamba-hamba Allah yang taat dan selalu berusaha mendekatkan diri kepada-Nya, dan mereka para penghuni surga tersebut dapat memancarkannya dengan sebaik-baiknya.",
+                        "long": "Ayat ini menerangkan balasan Allah kepada orang yang berbuat kebajikan, yaitu berupa minuman dari gelas yang berisikan air yang campurannya adalah air kafur, yaitu nama suatu mata air di surga yang warnanya putih, baunya sedap, dan rasanya enak."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5597,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَيْنًا يَشْرَبُ بِهَا عِبَادُ اللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا",
+                    "transliteration": {
+                        "en": "'Aynany yashrabu bihaa 'ibaadul laahi yafajjiroonahaa tafjeeraa"
+                    }
+                },
+                "translation": {
+                    "en": "A spring of which the [righteous] servants of Allah will drink; they will make it gush forth in force [and abundance].",
+                    "id": "(yaitu) mata air (dalam surga) yang diminum oleh hamba-hamba Allah dan mereka dapat memancarkannya dengan sebaik-baiknya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5597",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5597.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5597.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "5-6. Bagi yang bertakwa Allah menyiapkan balasan yang sempurna. Di antaranya disebut pada ayat ini. Sungguh, orang-orang yang berbuat kebajikan akan minum dari gelas berisi minuman yang campurannya adalah air kafur, agar lebih menyegarkan dan menambah aroma lebih sedap. Kafur yang dimaksud adalah mata air dalam surga yang diminum oleh hamba-hamba Allah yang taat dan selalu berusaha mendekatkan diri kepada-Nya, dan mereka para penghuni surga tersebut dapat memancarkannya dengan sebaik-baiknya.7. Di antara amal kebaikan yang akan diberikan balasan seperti di atas antara lain adalah bahwa mereka memenuhi nazar sebagai bukti mereka adalah orang-orang cenderung kepada kebaikan, dan takut akan suatu hari yang azabnya merata di mana-mana yaitu siksa neraka.",
+                        "long": "Mata air di dalam surga itu adalah sebagai minuman lezat bagi hamba-hamba Allah. Mereka pun dapat mengalirkannya dengan sesukanya.\n\nJadi kafur itu berasal dari mata air yang airnya diminum oleh para hamba Allah yang muqarrabin (yang dekat kepada-Nya). Mereka dapat mengalirkan air sungai itu menurut kehendak hati tanpa ada yang menghalangi. Mereka bebas menikmati air itu sepuas-puasnya. Air itu akan mengalir ke tempat-tempat yang mereka kehendaki, ke dalam kamar, mahligai, atau ke dalam kebun-kebun yang mereka inginkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5598,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يُوفُونَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُ مُسْتَطِيرًا",
+                    "transliteration": {
+                        "en": "Yoofoona binnazri wa yakhaafoona yawman kaana sharruhoo mustateeraa"
+                    }
+                },
+                "translation": {
+                    "en": "They [are those who] fulfill [their] vows and fear a Day whose evil will be widespread.",
+                    "id": "Mereka memenuhi nazar dan takut akan suatu hari yang azabnya merata di mana-mana."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5598",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5598.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5598.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di antara amal kebaikan yang akan diberikan balasan seperti di atas antara lain adalah bahwa mereka memenuhi nazar sebagai bukti mereka adalah orang-orang cenderung kepada kebaikan, dan takut akan suatu hari yang azabnya merata di mana-mana yaitu siksa neraka.8-9. Dan amalan lain yang mereka lakukan adalah mereka memberikan makanan sesuai dengan kemampuannya yang disukainya kepada orang miskin yang amat membutuhkan, anak yatim dan orang yang ditawan baik tertawan karena peperangan maupun karena terbelenggu oleh perbudakan, sambil berkata, “Sesungguhnya kami memberi makanan kepadamu hanyalah karena mengharapkan keridaan Allah, kami tidak mengharap balasan dan terima kasih dari kamu.",
+                        "long": "Ayat ini dan beberapa ayat berikutnya menyebutkan beberapa sifat orang-orang abrar (berbuat kebaikan), yaitu: mereka menunaikan nazar dan takut akan suatu hari yang azabnya merata di mana-mana. Menunaikan nazar adalah menepati suatu kewajiban yang datang dari pribadi sendiri dalam rangka menaati Allah. Berbeda dengan kewajiban syara (agama) yang datang dari Allah, maka nazar bersifat pembebanan yang timbul karena keinginan sendiri dengan niat mensyukuri nikmat Allah. Baik nazar maupun syarak, kedua-duanya hukumnya wajib dilaksanakan.\n\nDalam sebuah hadis yang diriwayatkan Imam Malik, al-Bukhari, dan Muslim dari 'Aisyah, Rasulullah saw bersabda:\n\nBarang siapa yang bernazar menaati Allah, hendaklah ia menepati nazar itu, (tetapi) janganlah dipenuhi jika nazar itu untuk mendurhakai-Nya. (Riwayat al-Bukhari, Malik, Abu Dawud, at-Tirmidhi, an-Nasa'i dan Ibnu Majah dari 'Aisyah)\n\nDalam beberapa hadis dijelaskan tentang ketentuan nazar, di antaranya adalah:\n\n1.Hadis riwayat al-Bukhari dari 'Aisyah di atas menjelaskan bahwa nazar yang bermaksud hendak menaati Allah wajib dipenuhi, sedangkan nazar dengan niat mendurhakai Allah tidak boleh dipenuhi. Demikian pula hadis-hadis riwayat at-Tirmidhi, Abu Dawud, dan an Nasa'i.\n\n2.Rasulullah saw memerintahkan kepada Sa'ad bin Ubadah agar membayar puasa nazar yang pernah diucapkan oleh ibunya yang telah meninggal. Hadis ini diriwayatkan oleh al-Bukhari dan Muslim dari Sa'ad bin Ubadah.\n\nSelain dari menyempurnakan janji, orang abrar juga mau meninggalkan segala perbuatan terlarang (muharramat) karena takut akan dahsyatnya siksa yang harus diterima di hari Kiamat akibat mengerjakannya. Sebab pada hari itu, segala kejahatan dan kedurhakaan yang pernah dikerjakan seseorang disebarluaskan. Hanya orang-orang yang dikasihi Allah saja yang selamat dari keadaan yang mengerikan itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5599,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+                    "transliteration": {
+                        "en": "Wa yut''imoonat ta'aama 'alaa hubbihee miskeenanw wa yatemanw wa aseeraa"
+                    }
+                },
+                "translation": {
+                    "en": "And they give food in spite of love for it to the needy, the orphan, and the captive,",
+                    "id": "Dan mereka memberikan makanan yang disukainya kepada orang miskin, anak yatim dan orang yang ditawan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5599",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5599.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5599.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "8-9. Dan amalan lain yang mereka lakukan adalah mereka memberikan makanan sesuai dengan kemampuannya yang disukainya kepada orang miskin yang amat membutuhkan, anak yatim dan orang yang ditawan baik tertawan karena peperangan maupun karena terbelenggu oleh perbudakan, sambil berkata, “Sesungguhnya kami memberi makanan kepadamu hanyalah karena mengharapkan keridaan Allah, kami tidak mengharap balasan dan terima kasih dari kamu.8-9. Dan amalan lain yang mereka lakukan adalah mereka memberikan makanan sesuai dengan kemampuannya yang disukainya kepada orang miskin yang amat membutuhkan, anak yatim dan orang yang ditawan baik tertawan karena peperangan maupun karena terbelenggu oleh perbudakan, sambil berkata, “Sesungguhnya kami memberi makanan kepadamu hanyalah karena mengharapkan keridaan Allah, kami tidak mengharap balasan dan terima kasih dari kamu.",
+                        "long": "Disebutkan bahwa latar belakang turunnya ayat ke 8 ini berkaitan dengan seorang laki-laki Ansar bernama Abu Dahdah yang pada suatu hari mengerjakan puasa. Ketika waktu berbuka datang, berkunjunglah ke rumahnya satu orang miskin, seorang anak yatim, dan seorang tawanan. Ketiganya dijamu oleh Abu Dahdah dengan tiga potong roti. Untuk keluarga dan anak-anaknya akhirnya hanya tersedia sepotong roti padahal dia hendak berbuka puasa. Maka Allah menurunkan ayat ini.\n\nRiwayat lain mengatakan bahwa Ali bin Abi thalib mendapat upah bekerja dengan seorang Yahudi berupa sekarung gandum. Sepertiga gandum itu dimasak, ketika siap dihidangkan datanglah seorang miskin memintanya. Tanpa berpikir panjang, Ali langsung saja memberikannya. Kemudian dimasaknya sepertiga lagi. Setelah siap dimakan, datang pula seorang anak yatim meminta bubur gandum itu. Ali pun memberikannya. Kali ketiga sisa gandum itu dimasak semuanya, dan secara kebetulan datang pula seorang tawanan yang masih musyrik dan mohon dikasihani. Ali memberikan lagi sisa bubur gandum itu, sehingga untuk dia sendiri tidak ada lagi yang tersisa. Demikianlah untuk menghargai sikap sosial itulah Allah menurunkan ayat ke 8 ini. \n\nAyat ini menerangkan bahwa orang-orang abrar memberikan makanan yang sangat diperlukan dan disukainya kepada orang miskin, anak yatim, dan orang yang ditawan. Memberikan makan dalam hal ini dapat pula berarti memberikan bantuan dan sokongan kepada orang yang memerlukan. Makanan disebutkan di sini karena merupakan kebutuhan pokok hidup seseorang. Boleh jadi pula memberikan makanan berarti berbuat baik kepada orang yang sangat membutuhkannya dengan cara dan bentuk apa pun. Boleh jadi pula yang dimaksud dengan memberikan makanan berarti pula berbuat baik kepada makhluk yang sangat memerlukannya dengan cara dan bentuk apa pun. Disebutkan secara khusus memberikan makanan karena itulah bentuk ihsan (kebaikan) yang paling tinggi nilainya.\n\nBentuk ihsan lain yang juga tinggi nilainya disebutkan dalam ayat lain, yakni:\n\nDia mengatakan, \"Aku telah menghabiskan harta yang banyak.\" Apakah dia mengira bahwa tidak ada sesuatu pun yang melihatnya? Bukankah Kami telah menjadikan untuknya sepasang mata, lidah, dan sepasang bibir? Dan Kami telah menunjukkan kepadanya dua jalan (kebajikan dan kejahatan), tetapi dia tidak menempuh jalan yang mendaki dan sukar? (al-Balad/90: 6-11)\n\nDari ayat ini dapat diambil kesimpulan bahwa memberikan bantuan (pertolongan) diutamakan kepada orang yang kuat berusaha mencari keperluan hidupnya, namun penghasilannya tidak memenuhi kebutuhan hidupnya sehari-hari. Miskin juga berarti orang yang tidak berharta sama sekali dan karena keadaan fisiknya tidak memungkinkan untuk berusaha mencari nafkah hidup.\n\nAdapun orang yang ditawan, selain berarti tawanan perang, dapat pula berarti orang yang sedang dipenjarakan (karena melanggar ketentuan syara atau berbuat kesalahan), atau budak yang belum dapat memerdekakan dirinya dan yang patut dibantu. Dengan demikian, bantuan berupa makanan kepada orang yang memerlukan tidak terbatas kepada orang Islam saja, tetapi juga non muslim. Yang perlu diingat oleh seseorang yang hendak beramal sosial seperti itu adalah keikhlasan dalam mengerjakannya tanpa pamrih."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5600,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنكُمْ جَزَاءً وَلَا شُكُورًا",
+                    "transliteration": {
+                        "en": "Innaamaa nut'imukum li wajhil laahi laa nureedu minkum jazaaa'anw wa laa shukooraa"
+                    }
+                },
+                "translation": {
+                    "en": "[Saying], \"We feed you only for the countenance of Allah. We wish not from you reward or gratitude.",
+                    "id": "(sambil berkata), “Sesungguhnya kami memberi makanan kepadamu hanyalah karena mengharapkan keridaan Allah, kami tidak mengharap balasan dan terima kasih dari kamu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5600",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5600.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5600.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "8-9. Dan amalan lain yang mereka lakukan adalah mereka memberikan makanan sesuai dengan kemampuannya yang disukainya kepada orang miskin yang amat membutuhkan, anak yatim dan orang yang ditawan baik tertawan karena peperangan maupun karena terbelenggu oleh perbudakan, sambil berkata, “Sesungguhnya kami memberi makanan kepadamu hanyalah karena mengharapkan keridaan Allah, kami tidak mengharap balasan dan terima kasih dari kamu.10. Orang-orang yang disebut al-abràr yang selalu berbuat baik juga menegaskan bahwa pemberian tersebut semata karena mengharap rida Allah dan rasa takut akan azab. Seperti yang disebut pada ayat ini. Sungguh, kami takut akan azab Tuhan pada hari ketika orang-orang berwajah masam penuh kesulitan.”",
+                        "long": "Ayat ini menerangkan keikhlasan orang-orang abrar yang menyatakan bahwa mereka memberikan makanan kepada orang miskin, anak yatim, dan tawanan hanya untuk mengharapkan keridaan Allah semata, tidak menghendaki balasan dan tidak pula mengharapkan ucapan terima kasih. Jadi, di saat hendak memulai usaha sosial itu hendaklah hati dan lidah berniat ikhlas karena Allah, tanpa dicampuri oleh perasaan lain yang ingin menerima balasan yang setimpal atau mengharapkan pujian dan sanjungan orang lain."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5601,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا",
+                    "transliteration": {
+                        "en": "Innaa nakhaafu mir Rabbinna Yawman 'aboosan qamtareeraa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, We fear from our Lord a Day austere and distressful.\"",
+                    "id": "Sungguh, kami takut akan (azab) Tuhan pada hari (ketika) orang-orang berwajah masam penuh kesulitan.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5601",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5601.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5601.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Orang-orang yang disebut al-abràr yang selalu berbuat baik juga menegaskan bahwa pemberian tersebut semata karena mengharap rida Allah dan rasa takut akan azab. Seperti yang disebut pada ayat ini. Sungguh, kami takut akan azab Tuhan pada hari ketika orang-orang berwajah masam penuh kesulitan.”11-12. Sebagai imbalan atas perbuatan baik yang dilakukan seseorang, seperti yang disebut pada ayat di atas, maka Allah melindungi mereka dari kesusahan dan juga keburukan hari itu, dan memberikan kepada mereka aneka macam nikmat yang menimbulkan keceriaan pada wajah mereka dan kegembiraan pada hati mereka. Dan di samping yang telah disebut di atas, Dia memberi juga balasan kepada mereka karena kesabarannya dalam aneka macam situasi, berupa surga dan pakaian sutera.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa orang-orang abrar adalah orang yang mengerjakan segala perbuatan kebaikan seperti tersebut di atas karena takut pada azab Allah yang ditimpakan pada suatu hari yang penuh kesulitan. Mereka berbuat sosial membantu orang lain seperti memberi makanan dan lain-lain, adalah dengan harapan agar Tuhan mengasihi dan memelihara mereka dengan kasih sayang-Nya dari siksaan hari Kiamat pada saat manusia datang menemui Tuhan dengan wajah masam karena berbagai macam kesulitan dan ketakutan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5602,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَوَقَاهُمُ اللَّهُ شَرَّ ذَٰلِكَ الْيَوْمِ وَلَقَّاهُمْ نَضْرَةً وَسُرُورًا",
+                    "transliteration": {
+                        "en": "Fa waqaahumul laahu sharra zaalikal yawmi wa laqqaahum nadratanw wa surooraa"
+                    }
+                },
+                "translation": {
+                    "en": "So Allah will protect them from the evil of that Day and give them radiance and happiness",
+                    "id": "Maka Allah melindungi mereka dari kesusahan hari itu, dan memberikan kepada mereka keceriaan dan kegembiraan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5602",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5602.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5602.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "11-12. Sebagai imbalan atas perbuatan baik yang dilakukan seseorang, seperti yang disebut pada ayat di atas, maka Allah melindungi mereka dari kesusahan dan juga keburukan hari itu, dan memberikan kepada mereka aneka macam nikmat yang menimbulkan keceriaan pada wajah mereka dan kegembiraan pada hati mereka. Dan di samping yang telah disebut di atas, Dia memberi juga balasan kepada mereka karena kesabarannya dalam aneka macam situasi, berupa surga dan pakaian sutera.11-12. Sebagai imbalan atas perbuatan baik yang dilakukan seseorang, seperti yang disebut pada ayat di atas, maka Allah melindungi mereka dari kesusahan dan juga keburukan hari itu, dan memberikan kepada mereka aneka macam nikmat yang menimbulkan keceriaan pada wajah mereka dan kegembiraan pada hati mereka. Dan di samping yang telah disebut di atas, Dia memberi juga balasan kepada mereka karena kesabarannya dalam aneka macam situasi, berupa surga dan pakaian sutera.",
+                        "long": "Dijelaskan juga bahwa sebagai balasan kepada orang-orang abrar, Allah memelihara mereka dari kesusahan hari itu dan memberikan kepada mereka keceriaan wajah dan kegembiraan hati. Tampak pada wajah mereka kegembiraan yang berseri-seri sebagai tanda kepuasan hati karena anugerah Allah yang telah mereka terima. Dalam ayat lain, Allah berfirman:\n\nPada hari itu ada wajah-wajah yang berseri-seri, tertawa dan gembira ria. ('Abasa/80: 38-39)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5603,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَجَزَاهُم بِمَا صَبَرُوا جَنَّةً وَحَرِيرًا",
+                    "transliteration": {
+                        "en": "Wa jazaahum bimaa sabaroo janatanw wa hareeraa"
+                    }
+                },
+                "translation": {
+                    "en": "And will reward them for what they patiently endured [with] a garden [in Paradise] and silk [garments].",
+                    "id": "Dan Dia memberi balasan kepada mereka karena kesabarannya (berupa) surga dan (pakaian) sutera."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5603",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5603.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5603.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "11-12. Sebagai imbalan atas perbuatan baik yang dilakukan seseorang, seperti yang disebut pada ayat di atas, maka Allah melindungi mereka dari kesusahan dan juga keburukan hari itu, dan memberikan kepada mereka aneka macam nikmat yang menimbulkan keceriaan pada wajah mereka dan kegembiraan pada hati mereka. Dan di samping yang telah disebut di atas, Dia memberi juga balasan kepada mereka karena kesabarannya dalam aneka macam situasi, berupa surga dan pakaian sutera.13-14. Di sana yaitu di dalam surga, mereka duduk bersandar di atas dipan bersama pasangan mereka dan keluarga besar. Di sana mereka tidak melihat dan juga tidak merasakan teriknya matahari dan tidak pula merasakan udara dingin yang berlebihan. Dan anugerah tersebut semakin membahagiakan dengan adanya naungan pepohonannya dekat di atas mereka dan dimudahkan semudah-mudahnya untuk memetik buahnya.",
+                        "long": "Dalam ayat ini dijelaskan bahwa Allah memberi mereka ganjaran karena kesabaran mereka dengan surga dan pakaian sutra. Karena kesabaran mereka dalam berbuat kebaikan, ketabahan menahan diri dari godaan nafsu, dan terkadang-kadang harus menahan lapar dan kurang pakaian (karena berbuat sosial dalam keadaan miskin), maka Allah membalasi yang demikian itu dengan kenikmatan surga dalam bentuk yang lain berupa pakaian yang terbuat dari sutra. Ayat ini sama artinya dengan firman Allah:\n\n(Mereka akan mendapat) surga 'Adn, mereka masuk ke dalamnya, di dalamnya mereka diberi perhiasan gelang-gelang dari emas dan mutiara, dan pakaian mereka di dalamnya adalah sutra. (Fathir/35: 33)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5604,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مُّتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا",
+                    "transliteration": {
+                        "en": "muttaki'eena feeha 'alal araaa 'iki laa yarawna feehaa shamsanw wa laa zamhareeraa"
+                    }
+                },
+                "translation": {
+                    "en": "[They will be] reclining therein on adorned couches. They will not see therein any [burning] sun or [freezing] cold.",
+                    "id": "Di sana mereka duduk bersandar di atas dipan, di sana mereka tidak melihat (merasakan teriknya) matahari dan tidak pula dingin yang berlebihan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5604",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5604.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5604.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "13-14. Di sana yaitu di dalam surga, mereka duduk bersandar di atas dipan bersama pasangan mereka dan keluarga besar. Di sana mereka tidak melihat dan juga tidak merasakan teriknya matahari dan tidak pula merasakan udara dingin yang berlebihan. Dan anugerah tersebut semakin membahagiakan dengan adanya naungan pepohonannya dekat di atas mereka dan dimudahkan semudah-mudahnya untuk memetik buahnya.13-14. Di sana yaitu di dalam surga, mereka duduk bersandar di atas dipan bersama pasangan mereka dan keluarga besar. Di sana mereka tidak melihat dan juga tidak merasakan teriknya matahari dan tidak pula merasakan udara dingin yang berlebihan. Dan anugerah tersebut semakin membahagiakan dengan adanya naungan pepohonannya dekat di atas mereka dan dimudahkan semudah-mudahnya untuk memetik buahnya.",
+                        "long": "Dalam ayat ini, Allah menerangkan keadaan ahli surga bahwa mereka duduk bertelekan di atas dipan. Mereka tidak merasakan teriknya matahari dan tidak pula dinginnya udara. Dipan-dipan dalam surga itu dikatakan tidak pernah ditimpa terik matahari, tidak disentuh oleh udara dingin yang menusuk sumsum tulang seperti halnya di dunia ini, akan tetapi di sana hanya ada satu iklim sejuk yang tak pernah berubah. Tidak ada yang merasakan panas maupun dingin.\n\nTumbuhnya pohon yang sangat rindang dan menyejukkan itu melindungi orang-orang abrar sehingga makin bertambahlah kenikmatan yang mereka peroleh. Demikian pula buah-buahan yang lezat cita rasanya, dan mudah dipetik. Mereka menikmati sambil berbaring duduk atau berdiri sesuka hati mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5605,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا",
+                    "transliteration": {
+                        "en": "Wa daaniyatan 'alaihim zilaaluhaa wa zullilat qutoofu haa tazleela"
+                    }
+                },
+                "translation": {
+                    "en": "And near above them are its shades, and its [fruit] to be picked will be lowered in compliance.",
+                    "id": "Dan naungan (pepohonan)nya dekat di atas mereka dan dimudahkan semudah-mudahnya untuk memetik (buah)nya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5605",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5605.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5605.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "13-14. Di sana yaitu di dalam surga, mereka duduk bersandar di atas dipan bersama pasangan mereka dan keluarga besar. Di sana mereka tidak melihat dan juga tidak merasakan teriknya matahari dan tidak pula merasakan udara dingin yang berlebihan. Dan anugerah tersebut semakin membahagiakan dengan adanya naungan pepohonannya dekat di atas mereka dan dimudahkan semudah-mudahnya untuk memetik buahnya.15-16. Setelah berbicara aneka fasilitas surga, kini giliran hidangan bagi para penghuni surga. Dan kepada mereka diedarkan oleh para pelayan surga bejana-bejana tempat minum yang terbuat dari perak dan piala-piala yang bening laksana kristal, kristal yang jernih terbuat dari perak saking jernihnya isinya nampak dari luar, mereka tentukan ukurannya yang sesuai dengan kehendak mereka, untuk disuguhkan bagi penghuni surga.",
+                        "long": "(13-14) Dalam ayat ini, Allah menerangkan keadaan ahli surga bahwa mereka duduk bertelekan di atas dipan. Mereka tidak merasakan teriknya matahari dan tidak pula dinginnya udara. Dipan-dipan dalam surga itu dikatakan tidak pernah ditimpa terik matahari, tidak disentuh oleh udara dingin yang menusuk sumsum tulang seperti halnya di dunia ini, akan tetapi di sana hanya ada satu iklim sejuk yang tak pernah berubah. Tidak ada yang merasakan panas maupun dingin.\n\nTumbuhnya pohon yang sangat rindang dan menyejukkan itu melindungi orang-orang abrar sehingga makin bertambahlah kenikmatan yang mereka peroleh. Demikian pula buah-buahan yang lezat cita rasanya, dan mudah dipetik. Mereka menikmati sambil berbaring duduk atau berdiri sesuka hati mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5606,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيُطَافُ عَلَيْهِم بِآنِيَةٍ مِّن فِضَّةٍ وَأَكْوَابٍ كَانَتْ قَوَارِيرَا",
+                    "transliteration": {
+                        "en": "Wa yutaafu 'alaihim bi aaniyatim min fiddatinw wa akwaabin kaanat qawaareeraa"
+                    }
+                },
+                "translation": {
+                    "en": "And there will be circulated among them vessels of silver and cups having been [created] clear [as glass],",
+                    "id": "Dan kepada mereka diedarkan bejana-bejana dari perak dan piala-piala yang bening laksana kristal,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5606",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5606.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5606.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "15-16. Setelah berbicara aneka fasilitas surga, kini giliran hidangan bagi para penghuni surga. Dan kepada mereka diedarkan oleh para pelayan surga bejana-bejana tempat minum yang terbuat dari perak dan piala-piala yang bening laksana kristal, kristal yang jernih terbuat dari perak saking jernihnya isinya nampak dari luar, mereka tentukan ukurannya yang sesuai dengan kehendak mereka, untuk disuguhkan bagi penghuni surga.15-16. Setelah berbicara aneka fasilitas surga, kini giliran hidangan bagi para penghuni surga. Dan kepada mereka diedarkan oleh para pelayan surga bejana-bejana tempat minum yang terbuat dari perak dan piala-piala yang bening laksana kristal, kristal yang jernih terbuat dari perak saking jernihnya isinya nampak dari luar, mereka tentukan ukurannya yang sesuai dengan kehendak mereka, untuk disuguhkan bagi penghuni surga.",
+                        "long": "Pada ayat-ayat berikut ini, Allah menerangkan pula makanan dan minuman yang dihidangkan kepada mereka berbagai bentuk, bejana yang terbuat dari perak juga sejumlah gelas yang sangat bening laksana kaca yang berkilauan. Bejana dan gelas-gelas itu bening sekali seolah-olah kaca yang sangat indah dan tinggi sekali nilainya.\n\nHadis riwayat Ibnu Abi hatim dari Ibnu 'Abbas menerangkan sebagai berikut:\n\nTidak ada sesuatu pun dalam surga, melainkan di dunia telah dianugerahkan Allah kepadamu sesuatu yang mirip dengan itu, kecuali botol-botol yang terbuat dari perak. (Riwayat Ibnu Abi hatim dari Ibnu 'Abbas).\n\nDalam sebuah ayat lain disebutkan pula:\n\nKepada mereka diedarkan piring-piring dan gelas-gelas dari emas, dan di dalam surga itu terdapat apa yang diingini oleh hati dan segala yang sedap (dipandang) mata. Dan kamu kekal di dalamnya. (az-Zukhruf/43: 71)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5607,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قَوَارِيرَ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا",
+                    "transliteration": {
+                        "en": "Qawaareera min fiddatin qaddaroohaa taqdeeraa"
+                    }
+                },
+                "translation": {
+                    "en": "Clear glasses [made] from silver of which they have determined the measure.",
+                    "id": "kristal yang jernih terbuat dari perak, mereka tentukan ukurannya yang sesuai (dengan kehendak mereka)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5607",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5607.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5607.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "15-16. Setelah berbicara aneka fasilitas surga, kini giliran hidangan bagi para penghuni surga. Dan kepada mereka diedarkan oleh para pelayan surga bejana-bejana tempat minum yang terbuat dari perak dan piala-piala yang bening laksana kristal, kristal yang jernih terbuat dari perak saking jernihnya isinya nampak dari luar, mereka tentukan ukurannya yang sesuai dengan kehendak mereka, untuk disuguhkan bagi penghuni surga.17-18. Di dalam surga itu mereka mendapat suguhan minuman yang jenisnya di antaranya seperti yang disebut pada ayat ini. Dan di sana mereka diberi segelas minuman bercampur jahe, yang pastilah berbeda dengan rasa jahe yang ada di dunia. Karena air minum tersebut yang didatangkan dari sebuah mata air di surga yang dinamakan Salsabìl.",
+                        "long": "Pada ayat-ayat berikut ini, Allah menerangkan pula makanan dan minuman yang dihidangkan kepada mereka berbagai bentuk, bejana yang terbuat dari perak juga sejumlah gelas yang sangat bening laksana kaca yang berkilauan. Bejana dan gelas-gelas itu bening sekali seolah-olah kaca yang sangat indah dan tinggi sekali nilainya.\n\nHadis riwayat Ibnu Abi hatim dari Ibnu 'Abbas menerangkan sebagai berikut:\n\nTidak ada sesuatu pun dalam surga, melainkan di dunia telah dianugerahkan Allah kepadamu sesuatu yang mirip dengan itu, kecuali botol-botol yang terbuat dari perak. (Riwayat Ibnu Abi hatim dari Ibnu 'Abbas).\n\nDalam sebuah ayat lain disebutkan pula:\n\nKepada mereka diedarkan piring-piring dan gelas-gelas dari emas, dan di dalam surga itu terdapat apa yang diingini oleh hati dan segala yang sedap (dipandang) mata. Dan kamu kekal di dalamnya. (az-Zukhruf/43: 71)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5608,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+                    "transliteration": {
+                        "en": "Wa yusawna feehaa kaasan kaana mizaajuhaa zanjabeelaa"
+                    }
+                },
+                "translation": {
+                    "en": "And they will be given to drink a cup [of wine] whose mixture is of ginger",
+                    "id": "Dan di sana mereka diberi segelas minuman bercampur jahe."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5608",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5608.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5608.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "17-18. Di dalam surga itu mereka mendapat suguhan minuman yang jenisnya di antaranya seperti yang disebut pada ayat ini. Dan di sana mereka diberi segelas minuman bercampur jahe, yang pastilah berbeda dengan rasa jahe yang ada di dunia. Karena air minum tersebut yang didatangkan dari sebuah mata air di surga yang dinamakan Salsabìl.17-18. Di dalam surga itu mereka mendapat suguhan minuman yang jenisnya di antaranya seperti yang disebut pada ayat ini. Dan di sana mereka diberi segelas minuman bercampur jahe, yang pastilah berbeda dengan rasa jahe yang ada di dunia. Karena air minum tersebut yang didatangkan dari sebuah mata air di surga yang dinamakan Salsabìl.",
+                        "long": "Kemudian disebutkan jenis minuman yang dihidangkan di surga, yakni mereka diberi minum segelas (minuman) yang campurannya jahe. Maksudnya penduduk surga disuguhi minuman yang terbuat dari zanjabil, yakni sejenis tumbuhan yang lezat cita-rasanya dan tumbuh di daerah Timur Tengah dahulu kala. Biasanya zanjabil digunakan untuk wangi-wangian dan orang-orang Arab menyukainya. Ada pula yang mengatakan nama dari Bait Ma'ruf. \n\nMenurut Ibnu 'Abbas, minuman, makanan, mata air, buah-buahan, dan lain-lain dalam surga yang disebutkan Al-Qur'an, satu pun tidak ada tandingannya. Kesamaan hanya pada namanya, sedangkan rasanya jauh lebih lezat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5609,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 231,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا",
+                    "transliteration": {
+                        "en": "'Aynan feeha tusammaa salsabeelaa"
+                    }
+                },
+                "translation": {
+                    "en": "[From] a fountain within Paradise named Salsabeel.",
+                    "id": "(Yang didatangkan dari) sebuah mata air (di surga) yang dinamakan Salsabil."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5609",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5609.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5609.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "17-18. Di dalam surga itu mereka mendapat suguhan minuman yang jenisnya di antaranya seperti yang disebut pada ayat ini. Dan di sana mereka diberi segelas minuman bercampur jahe, yang pastilah berbeda dengan rasa jahe yang ada di dunia. Karena air minum tersebut yang didatangkan dari sebuah mata air di surga yang dinamakan Salsabìl.19. Setelah diuraikan apa yang disajikan di surga, kini dijelaskan siapa yang menyajikan hidangan tersebut. Dan mereka dikelilingi oleh para pemuda-pemuda yang tetap muda sambil membawa hidangan dan menawarkan pelayanan. Apabila kamu wahai penghuni surga, melihatnya dari arah mana saja melihatnya, akan kamu kira mereka, bukan anak muda melainkan mutiara yang bertaburan karena keindahan dan kebeningan penampilan mereka.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa minuman ini didatangkan dari sebuah mata air surga yang dinamakan salsabil. Mereka minum campuran zanjabil yang berasal dari sebuah sungai yang bernama salsabil. Perkataan ini sendiri dalam bahasa Arab berarti 'minuman atau makanan yang lezat dan juga berarti 'mata air yang mengalir. Akan tetapi, mufasir Ibnu 'Arabi menegaskan, \"Aku tidak mendengar satu perkataan pun seperti salsabil ini melainkan di dalam Al-Qur'an saja.\"\n\nDari keterangan di atas, kita hanya dapat menyimpulkan bahwa nama seperti salsabil, zanjabil, dan sebagainya diberikan keterangan sedemikian rupa yang tidak ada bandingannya dengan yang ada di dunia. Mengenai surga, kita telah yakin bahwa dia adalah sesuatu yang baik dan penuh nikmat yang mata belum pernah melihatnya, telinga belum pernah mendengarnya. Oleh karena itu, kita tak dapat memastikan apakah betul-betul demikian makna yang dikehendaki ayat di atas."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5610,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا",
+                    "transliteration": {
+                        "en": "Wa yatoofu 'alaihim wildaanum mukhalladoona izaa ra aytahum hasibtahum lu'lu 'am mansoora"
+                    }
+                },
+                "translation": {
+                    "en": "There will circulate among them young boys made eternal. When you see them, you would think them [as beautiful as] scattered pearls.",
+                    "id": "Dan mereka dikelilingi oleh para pemuda yang tetap muda. Apabila kamu melihatnya, akan kamu kira mereka, mutiara yang bertaburan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5610",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5610.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5610.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah diuraikan apa yang disajikan di surga, kini dijelaskan siapa yang menyajikan hidangan tersebut. Dan mereka dikelilingi oleh para pemuda-pemuda yang tetap muda sambil membawa hidangan dan menawarkan pelayanan. Apabila kamu wahai penghuni surga, melihatnya dari arah mana saja melihatnya, akan kamu kira mereka, bukan anak muda melainkan mutiara yang bertaburan karena keindahan dan kebeningan penampilan mereka.20. Dan di samping para pelayan yang menakjubkan, maka apabila engkau melihat keadaan di sana yaitu di surga, niscaya engkau akan melihat berbagai macam kenikmatan yang sempurna dan kerajaan yang besar, luas tanpa batas yang belum pernah terlintas dalam benak manusia.",
+                        "long": "Kemudian dilanjutkan lagi bahwa penduduk surga dikelilingi pelayan-pelayan surga yang muda belia untuk selamanya. Para pelayan itu datang dan berkeliling guna melayani segala keperluan sesuai dengan permintaan penduduk surga. Mereka tetap muda, cerah, dan berseri-seri dan tidak pernah jemu dan lelah melayani penghuni surga. Begitu menarik wajah pelayan itu, cerah dan gembira, sehingga yang memandangnya melihat bagaikan mutiara bertebaran."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5611,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا",
+                    "transliteration": {
+                        "en": "Wa izaa ra ayta summa ra ayta na'eemanw wa mulkan kabeera"
+                    }
+                },
+                "translation": {
+                    "en": "And when you look there [in Paradise], you will see pleasure and great dominion.",
+                    "id": "Dan apabila engkau melihat (keadaan) di sana (surga), niscaya engkau akan melihat berbagai macam kenikmatan dan kerajaan yang besar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5611",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5611.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5611.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan di samping para pelayan yang menakjubkan, maka apabila engkau melihat keadaan di sana yaitu di surga, niscaya engkau akan melihat berbagai macam kenikmatan yang sempurna dan kerajaan yang besar, luas tanpa batas yang belum pernah terlintas dalam benak manusia.21. Hidangan dan pelayan sudah dijelaskan kini giliran dijelaskan tentang pakaian para penghuni surga. Mereka berpakaian sutera halus yang berwarna hijau dan sutera tebal dan juga memakai gelang terbuat dari perak masing-masing sesuai dengan kedudukannya, dan Tuhan memberikan kepada mereka minuman yang bersih dan suci yang benar-benar berbeda dengan minuman selainnya.",
+                        "long": "Apabila penduduk surga melihat keadaan di surga, niscaya ia akan melihat berbagai macam kenikmatan dan kerajaan yang besar. Kalau dilihat surga itu menurut penuturan ayat ini bagaikan sebuah kerajaan besar yang tiada taranya, sehingga banyak penafsiran yang saling berbeda tentang pengertian kerajaan besar itu. Yang terpenting bagi kita ialah beriman dan percaya tentang adanya surga yang tidak dapat dilukiskan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5612,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَالِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوا أَسَاوِرَ مِن فِضَّةٍ وَسَقَاهُمْ رَبُّهُمْ شَرَابًا طَهُورًا",
+                    "transliteration": {
+                        "en": "'Aaliyahum siyaabu sundusin khudrunw wa istabraq, wa hullooo asaawira min fiddatinw wa saqaahum Rabbuhum sharaaban tahooraa"
+                    }
+                },
+                "translation": {
+                    "en": "Upon the inhabitants will be green garments of fine silk and brocade. And they will be adorned with bracelets of silver, and their Lord will give them a purifying drink.",
+                    "id": "Mereka berpakaian sutera halus yang hijau dan sutera tebal dan memakai gelang terbuat dari perak, dan Tuhan memberikan kepada mereka minuman yang bersih (dan suci)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5612",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5612.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5612.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Hidangan dan pelayan sudah dijelaskan kini giliran dijelaskan tentang pakaian para penghuni surga. Mereka berpakaian sutera halus yang berwarna hijau dan sutera tebal dan juga memakai gelang terbuat dari perak masing-masing sesuai dengan kedudukannya, dan Tuhan memberikan kepada mereka minuman yang bersih dan suci yang benar-benar berbeda dengan minuman selainnya.22. Semua kenikmatan tersebut disajikan sambil dikatakan kepada mereka, \"Inilah balasan untukmu, dan segala usahamu diterima dan diakui Allah dengan memberi balasan yang sempurna melebihi amal-amal kamu.\"",
+                        "long": "Kemudian dalam ayat ini diterangkan pula bahwa pakaian mereka terbuat dari sutra halus berwarna hijau, dihiasi gelang yang terbuat dari perak dan emas. Tuhan memberikan kepada mereka minuman yang bersih dan lezat cita rasanya. Sutra dan emas disebutkan secara khusus di sini karena keduanya sangat disukai manusia dan dianggap sebagai barang berharga dan simbol kemewahan. Pada ayat lain, Allah berfirman:\n\n¦Mereka diberi hiasan gelang emas dan mereka memakai pakaian hijau dari sutra halus dan sutra tebal, sedang mereka duduk sambil bersandar di atas dipan-dipan yang indah. (Itulah) sebaik-baik pahala dan tempat istirahat yang indah. (al-Kahf/18: 31)\n\nDibandingkan dengan kebiasaan para raja-raja di dunia ini yang memakai pakaian kebesaran bertahtakan emas dan berlian, maka kesenangan yang dinikmati dalam surga itu jauh lebih sempurna, hebat, dan nikmat, serta sifatnya kekal abadi.\n\nDemikianlah beberapa gambaran kebahagiaan yang akan diperoleh golongan abrar di surga kelak."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5613,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 514,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ هَٰذَا كَانَ لَكُمْ جَزَاءً وَكَانَ سَعْيُكُم مَّشْكُورًا",
+                    "transliteration": {
+                        "en": "Innaa haazaa kaana lakum jazz 'anw wa kaana sa'yukum mashkooraa"
+                    }
+                },
+                "translation": {
+                    "en": "[And it will be said], \"Indeed, this is for you a reward, and your effort has been appreciated.\"",
+                    "id": "Inilah balasan untukmu, dan segala usahamu diterima dan diakui (Allah)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5613",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5613.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5613.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Semua kenikmatan tersebut disajikan sambil dikatakan kepada mereka, \"Inilah balasan untukmu, dan segala usahamu diterima dan diakui Allah dengan memberi balasan yang sempurna melebihi amal-amal kamu.\"23-24. Setelah diuraikan tentang balasan bagi yang bertakwa, selanjutnya dijelaskan tentang bagaimana bertakwa secara baik itu. Allah menurunkan petunjuk-Nya melalui al-Qur’an. Inilah yang disinggung oleh ayat ini. Sesungguhnya Kamilah yang menurunkan Al-Qur’an kepadamu wahai Nabi Muhammad secara berangsur-angsur agar mudah memahaminya. Maka bersabarlah setiap saat untuk menghadapi dan melaksanakan ketetapan Tuhanmu, dan janganlah engkau ikuti orang yang berdosa dan orang yang kafir di antara mereka yang mencoba untuk menghentikan dakwahmu.",
+                        "long": "Ayat ini menegaskan lagi bahwa sesungguhnya kenikmatan yang dianugerahkan Allah itu merupakan ganjaran bagi orang-orang abrar, karena amal perbuatan mereka di dunia disyukuri, diterima, dan diridai Allah. Inilah pemberian Allah kepada mereka sebagai balasan atas apa yang sudah mereka lakukan di dunia. Pada ayat lain, Allah berfirman:\n\n(Kepada mereka dikatakan), \"Makan dan minumlah dengan nikmat karena amal yang telah kamu kerjakan pada hari-hari yang telah lalu.\" (al-haqqah/69: 24)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5614,
+                    "inSurah": 23
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 515,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ الْقُرْآنَ تَنزِيلًا",
+                    "transliteration": {
+                        "en": "Innaa nahnu nazzalnaa 'alaikal quraana tanzeelaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, it is We who have sent down to you, [O Muhammad], the Qur'an progressively.",
+                    "id": "Sesungguhnya Kamilah yang menurunkan Al-Qur'an kepadamu (Muhammad) secara berangsur-angsur."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5614",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5614.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5614.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "23-24. Setelah diuraikan tentang balasan bagi yang bertakwa, selanjutnya dijelaskan tentang bagaimana bertakwa secara baik itu. Allah menurunkan petunjuk-Nya melalui al-Qur’an. Inilah yang disinggung oleh ayat ini. Sesungguhnya Kamilah yang menurunkan Al-Qur’an kepadamu wahai Nabi Muhammad secara berangsur-angsur agar mudah memahaminya. Maka bersabarlah setiap saat untuk menghadapi dan melaksanakan ketetapan Tuhanmu, dan janganlah engkau ikuti orang yang berdosa dan orang yang kafir di antara mereka yang mencoba untuk menghentikan dakwahmu.23-24. Setelah diuraikan tentang balasan bagi yang bertakwa, selanjutnya dijelaskan tentang bagaimana bertakwa secara baik itu. Allah menurunkan petunjuk-Nya melalui al-Qur’an. Inilah yang disinggung oleh ayat ini. Sesungguhnya Kamilah yang menurunkan Al-Qur’an kepadamu wahai Nabi Muhammad secara berangsur-angsur agar mudah memahaminya. Maka bersabarlah setiap saat untuk menghadapi dan melaksanakan ketetapan Tuhanmu, dan janganlah engkau ikuti orang yang berdosa dan orang yang kafir di antara mereka yang mencoba untuk menghentikan dakwahmu.",
+                        "long": "Dalam ayat ini diterangkan bahwa sesungguhnya Allah telah menurunkan Al-Qur'an kepada Nabi Muhammad dengan berangsur-angsur. Al-Qur'an diturunkan selama 22 tahun lebih secara berangsur-angsur sedikit demi sedikit. Tujuannya agar mudah dipahami, dihafal, dan diajarkan kepada para sahabat. Terkadang ayat diturunkan dengan maksud untuk menjelaskan suatu peristiwa yang terjadi yang memerlukan bimbingan dari Allah. Dengan cara berangsur-angsur itu, Al-Qur'an menjadi mantap diimani dan menambah ketakwaan mereka. Ayat ini sekaligus membantah anggapan beberapa orang bahwa Al-Qur'an merupakan sihir atau barang renungan yang bisa dipelajari, atau sebagai perkataan manusia biasa."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5615,
+                    "inSurah": 24
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 515,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ آثِمًا أَوْ كَفُورًا",
+                    "transliteration": {
+                        "en": "Fasbir lihukmi Rabbika wa laa tuti' minhum aasiman aw kafooraa"
+                    }
+                },
+                "translation": {
+                    "en": "So be patient for the decision of your Lord and do not obey from among them a sinner or ungrateful [disbeliever].",
+                    "id": "Maka bersabarlah untuk (melaksanakan) ketetapan Tuhanmu, dan janganlah engkau ikuti orang yang berdosa dan orang yang kafir di antara mereka."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5615",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5615.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5615.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "23-24. Setelah diuraikan tentang balasan bagi yang bertakwa, selanjutnya dijelaskan tentang bagaimana bertakwa secara baik itu. Allah menurunkan petunjuk-Nya melalui al-Qur’an. Inilah yang disinggung oleh ayat ini. Sesungguhnya Kamilah yang menurunkan Al-Qur’an kepadamu wahai Nabi Muhammad secara berangsur-angsur agar mudah memahaminya. Maka bersabarlah setiap saat untuk menghadapi dan melaksanakan ketetapan Tuhanmu, dan janganlah engkau ikuti orang yang berdosa dan orang yang kafir di antara mereka yang mencoba untuk menghentikan dakwahmu.25-26. Dan untuk lebih menguatkan hatimu menghadapi kesulitan dakwah, maka ingatlah selalu serta sebutlah nama Tuhanmu di antaranya dengan melaksanakan salat pada waktu pagi yaitu Subuh dan petang yaitu Zuhur dan Asar. Dan pada sebagian dari malam yaitu Maghrib dan Isya’, maka bersujudlah kepada-Nya dan bertasbihlah kepada-Nya yaitu dengan melaksanakan salat tahajud pada bagian yang panjang di malam hari.",
+                        "long": "Dalam ayat ini, Allah menganjurkan kepada Rasul-Nya agar menghadapi celaan dan sikap permusuhan orang musyrik itu dengan sabar, dan tidak mengikuti mereka. Ayat ini memerintahkan Nabi Muhammad dan orang-orang mukmin agar bersikap sabar dan tahan uji menghadapi seribu satu gangguan dalam menegakkan agama Allah. Mereka diperintahkan untuk bersabar katika pertolongan belum dating dalam menghadapi orang-orang musyrik anti-Islam. Bersabar ketika menyampaikan kebenaran Allah dalam menghadapi tantangan penuh bahaya. Sebab tantangan itu suatu kewajaran dan sikap sabar menghadapinya adalah sikap yang terpuji.\n\nKemudian Allah memerintahkan pula agar umat Islam tidak terbawa arus mengikuti jalan pikiran orang yang sudah hanyut dalam lautan dosa, atau orang yang sudah sangat keterlaluan memusuhi agama. Orang yang seperti itu di antaranya adalah Abu Jahal. Ketika Rasulullah saw diperintahkan untuk pertama kali mengerjakan salat, Abu Jahal berusaha menghalangi orang Islam melaksanakan perintah itu. Ia berkata, \"Kalau aku lihat Muhammad salat, pasti akan aku patahkan lehernya\".\n\nContoh yang lain adalah 'Utbah bin Rabi'ah (sahabat karib Abu Jahal). Dialah yang membujuk Nabi agar berhenti berdakwah. Suatu kali dia bersama al-Walid datang menemui Nabi sambil membujuk, \"Kalau engkau bermaksud dengan kegiatan dakwah itu hendak memperoleh wanita cantik atau harta yang banyak, berhentilah dan saya berjanji akan mengawinkan engkau dengan anakku sendiri dan aku berikan kepadamu tanpa mahar.\" Sementara itu, al-Walid menyeru pula, \"Dan saya, hai Muhammad, akan memberikan kepadamu harta sebanyak-banyaknya sampai engkau puas, asal engkau berhenti melakukan kegiatan ini.\" \n\nAllah mengingatkan kepada Nabi saw dan umatnya agar tidak tergiur dengan bujukan dan rayuan itu, sebab nilai akidah dan perjuangan tidak dapat ditukar dengan kekayaan dunia. Dalam artian lain, ayat ini melarang seorang mukmin, apalagi kalau ia sebagai pemimpin umat, tergiur dengan berbagai kesenangan duniawi yang ditawarkan oleh orang-orang yang penuh dosa dan maksiat, dengan tujuan hendak mematikan gerakan dakwah. Namun yang betul-betul seratus persen bebas dari bujukan dan rayuan itu hanyalah Nabi Muhammad saw saja, karena beliau dijamin suci dan maksum dari dosa. Akan tetapi, kepada umat Islam dianjurkan untuk mengikuti apa yang dicontohkan beliau. Jangan terlalu mudah mengikuti gejolak nafsu, agar selamat dari kebinasaan, dan menemui Allah di hari Kiamat dengan lembaran amal yang putih bersih, bebas dari cela dan aib."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5616,
+                    "inSurah": 25
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 579,
+                    "manzil": 7,
+                    "ruku": 515,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَاذْكُرِ اسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا",
+                    "transliteration": {
+                        "en": "Wazkuris ma Rabbika bukratanw wa aseelaa"
+                    }
+                },
+                "translation": {
+                    "en": "And mention the name of your Lord [in prayer] morning and evening",
+                    "id": "Dan sebutlah nama Tuhanmu pada (waktu) pagi dan petang."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5616",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5616.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5616.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "25-26. Dan untuk lebih menguatkan hatimu menghadapi kesulitan dakwah, maka ingatlah selalu serta sebutlah nama Tuhanmu di antaranya dengan melaksanakan salat pada waktu pagi yaitu Subuh dan petang yaitu Zuhur dan Asar. Dan pada sebagian dari malam yaitu Maghrib dan Isya’, maka bersujudlah kepada-Nya dan bertasbihlah kepada-Nya yaitu dengan melaksanakan salat tahajud pada bagian yang panjang di malam hari.25-26. Dan untuk lebih menguatkan hatimu menghadapi kesulitan dakwah, maka ingatlah selalu serta sebutlah nama Tuhanmu di antaranya dengan melaksanakan salat pada waktu pagi yaitu Subuh dan petang yaitu Zuhur dan Asar. Dan pada sebagian dari malam yaitu Maghrib dan Isya’, maka bersujudlah kepada-Nya dan bertasbihlah kepada-Nya yaitu dengan melaksanakan salat tahajud pada bagian yang panjang di malam hari.",
+                        "long": "Dalam ayat ini, Allah memerintahkan Nabi Muhammad supaya menyebut nama Tuhan pada waktu pagi dan petang. Maksudnya hendaklah umat Islam selalu ingat kepada Allah dalam keadaan bagaimanapun, di mana dan kapan pun, baik dengan hati maupun dengan lidah. Ada yang mengatakan bahwa maksud mengingat Allah pada waktu pagi dan petang ialah mengerjakan salat pada saat-saat itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5617,
+                    "inSurah": 26
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 515,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمِنَ اللَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+                    "transliteration": {
+                        "en": "Wa minal laili fasjud lahoo wa sabbihhu lailan taweelaa"
+                    }
+                },
+                "translation": {
+                    "en": "And during the night prostrate to Him and exalt Him a long [part of the] night.",
+                    "id": "Dan pada sebagian dari malam, maka bersujudlah kepada-Nya dan bertasbihlah kepada-Nya pada bagian yang panjang di malam hari."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5617",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5617.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5617.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "25-26. Dan untuk lebih menguatkan hatimu menghadapi kesulitan dakwah, maka ingatlah selalu serta sebutlah nama Tuhanmu di antaranya dengan melaksanakan salat pada waktu pagi yaitu Subuh dan petang yaitu Zuhur dan Asar. Dan pada sebagian dari malam yaitu Maghrib dan Isya’, maka bersujudlah kepada-Nya dan bertasbihlah kepada-Nya yaitu dengan melaksanakan salat tahajud pada bagian yang panjang di malam hari.27. Di antara alasan utama mengapa manusia menolak dakwah karena sesungguhnya mereka, orang kafir, itu mencintai kehidupan dunia yang memang kasat mata dan cepat diraih, meskipun juga cepat musnahnya, dan meninggalkan hari yang berat yaitu hari akhirat di belakangnya.",
+                        "long": "Dalam ayat ini, Allah memerintahkan Nabi supaya bersujud, salat malam, dan bertasbih kepada-Nya pada bagian yang panjang pada malam hari. Perintah mengerjakan salat pada sebagian waktu malam, yakni salat Magrib dan Isya, kemudian salat Tahajud pada malam hari disebutkan juga dalam ayat lain:\n\nDan pada sebagian malam, lakukanlah salat Tahajud (sebagai suatu ibadah) tambahan bagimu: mudah-mudahan Tuhanmu mengangkatmu ke tempat yang terpuji. (al-Isra'/17: 79)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5618,
+                    "inSurah": 27
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 515,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ هَٰؤُلَاءِ يُحِبُّونَ الْعَاجِلَةَ وَيَذَرُونَ وَرَاءَهُمْ يَوْمًا ثَقِيلًا",
+                    "transliteration": {
+                        "en": "Inna haaa'ulaa'i yuhibboona 'aajilata wa yazaroona waraaa'ahum yawman saqeelaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, these [disbelievers] love the immediate and leave behind them a grave Day.",
+                    "id": "Sesungguhnya mereka (orang kafir) itu mencintai kehidupan (dunia) dan meninggalkan hari yang berat (hari akhirat) di belakangnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5618",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5618.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5618.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di antara alasan utama mengapa manusia menolak dakwah karena sesungguhnya mereka, orang kafir, itu mencintai kehidupan dunia yang memang kasat mata dan cepat diraih, meskipun juga cepat musnahnya, dan meninggalkan hari yang berat yaitu hari akhirat di belakangnya.28. Ayat ini mengingatkan manusia akan kuasa Allah dalam menciptakan makhluk dari ketiadaan. Kami telah menciptakan mereka bukan ciptaan yang sembarangan dan juga menguatkan persendian tubuh mereka padahal tadinya hanyalah air mani yang begitu lemah dan hina. Tetapi, jika Kami menghendaki untuk membinasakan mereka itupun mudah, dan kemudian Kami dapat mengganti dengan yang serupa mereka.",
+                        "long": "Dalam ayat ini, Allah mencela sikap orang kafir yang mabuk kesenangan duniawi dengan melupakan hari akhirat disebabkan mereka itu menyukai kehidupan dunia dan mereka tidak mempedulikan hari berat, hari akhirat.\n\nMemang watak orang kafir itu sebenarnya cinta dunia dan takut mati, melupakan hari akhirat dan tidak mempercayai sama sekali. Dikatakan bahwa hari akhirat itu sebagai \"hari yang berat\" karena begitu beratnya pertanggungjawaban manusia di hadapan Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5619,
+                    "inSurah": 28
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 515,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "نَّحْنُ خَلَقْنَاهُمْ وَشَدَدْنَا أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَا أَمْثَالَهُمْ تَبْدِيلًا",
+                    "transliteration": {
+                        "en": "Nahnu khalaqnaahum wa shadadnaaa asrahum wa izaa shi'naa baddalnaaa amsaala hum tabdeelaa"
+                    }
+                },
+                "translation": {
+                    "en": "We have created them and strengthened their forms, and when We will, We can change their likenesses with [complete] alteration.",
+                    "id": "Kami telah menciptakan mereka dan menguatkan persendian tubuh mereka. Tetapi, jika Kami menghendaki, Kami dapat mengganti dengan yang serupa mereka."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5619",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5619.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5619.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ayat ini mengingatkan manusia akan kuasa Allah dalam menciptakan makhluk dari ketiadaan. Kami telah menciptakan mereka bukan ciptaan yang sembarangan dan juga menguatkan persendian tubuh mereka padahal tadinya hanyalah air mani yang begitu lemah dan hina. Tetapi, jika Kami menghendaki untuk membinasakan mereka itupun mudah, dan kemudian Kami dapat mengganti dengan yang serupa mereka.29. Sebagai bagian akhir dari surah ini maka Allah mengingatkan tentang salah satu fungsi utama Al-Qur’an. Sungguh, ayat-ayat ini adalah peringatan tentang Kuasa Allah, maka barangsiapa menghendaki kebaikan bagi dirinya tentu dia akan bersungguh-sungguh mengambil jalan menuju kepada Tuhannya.",
+                        "long": "Dalam ayat ini, seolah-olah Allah menegur manusia yang lalai itu kenapa mereka melupakan Allah, padahal Dialah yang menciptakan mereka, menyusun dan mengatur demikian rapi tubuh mereka sehingga tidak ada celanya. Apakah setelah menciptakan mereka dengan sebaik-baiknya itu, lalu Allah membiarkan saja mereka berbuat sekehendaknya?\n\nOleh karena itu, Allah memperlihatkan kekuasaan-Nya yang Mahamutlak untuk sewaktu-waktu melenyapkan dan mengganti mereka dengan generasi manusia yang lain. Dalam ayat lain disebutkan:\n\nDan milik Allah-lah apa yang ada di langit dan apa yang ada di bumi. Cukuplah Allah sebagai pemeliharanya. (an-Nisa'/4: 132)\n\nDemikianlah sunatullah telah berlaku di alam semesta ini sejak dahulu. Allah menghancurkan manusia-manusia yang ingkar kepada-Nya kemudian segera menggantinya dengan generasi baru. Sunatullah ini pasti akan berlaku karena manusia yang ingkar kepadanya tetap akan bermunculan sepanjang masa."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5620,
+                    "inSurah": 29
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 515,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا",
+                    "transliteration": {
+                        "en": "Inna haazihee tazkiratun fa man shaaa'at takhaza ilaa rabbihee sabeela"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, this is a reminder, so he who wills may take to his Lord a way.",
+                    "id": "Sungguh, (ayat-ayat) ini adalah peringatan, maka barangsiapa menghendaki (kebaikan bagi dirinya) tentu dia mengambil jalan menuju kepada Tuhannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5620",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5620.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5620.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sebagai bagian akhir dari surah ini maka Allah mengingatkan tentang salah satu fungsi utama Al-Qur’an. Sungguh, ayat-ayat ini adalah peringatan tentang Kuasa Allah, maka barangsiapa menghendaki kebaikan bagi dirinya tentu dia akan bersungguh-sungguh mengambil jalan menuju kepada Tuhannya.30. Terkadang ada yang merasa memiliki kemampuan untuk mewujudkan kehendaknya, Allah menampik anggapan tersebut. Tetapi kamu tidak mampu menempuh jalan itu, kecuali apabila dikehendaki Allah. Sungguh, Allah Maha Mengetahui segala sesuatu, Mahabijaksana dalam seluruh kehendak dan ketetapan-Nya.",
+                        "long": "Dalam ayat ini, Allah kembali mengingatkan bahwa semua yang disebutkan di atas merupakan peringatan (tadhkirah) dan pengajaran (mau'idhah) bagi siapa yang ingin mendengarnya. Segala peringatan yang terkandung dalam Surah al-Insan ini merupakan bahan renungan bagi siapa yang suka belajar kepada kenyataan yang pernah terjadi. Barang siapa yang ingin kebaikan bagi pribadinya untuk kehidupan dunia dan akhirat, hendaklah ia menjadikan ayat-ayat ini sebagai peringatan. Hendaklah ia mendekatkan diri kepada Allah dengan perbuatan taat, mengikuti segala perintah, dan menjauhi segala larangan-Nya, agar dia memperoleh rida Allah, agar ia selamat dari segala kesulitan hidup di kampung akhirat kelak."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5621,
+                    "inSurah": 30
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 515,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ ۚ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+                    "transliteration": {
+                        "en": "Wa maa tashaaa'oona illaa anyyashaaa'al laah; innal laahaa kaana'Aleeman Hakeema"
+                    }
+                },
+                "translation": {
+                    "en": "And you do not will except that Allah wills. Indeed, Allah is ever Knowing and Wise.",
+                    "id": "Tetapi kamu tidak mampu (menempuh jalan itu), kecuali apabila Allah kehendaki Allah. Sungguh, Allah Maha Mengetahui, Mahabijaksana."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5621",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5621.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5621.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Terkadang ada yang merasa memiliki kemampuan untuk mewujudkan kehendaknya, Allah menampik anggapan tersebut. Tetapi kamu tidak mampu menempuh jalan itu, kecuali apabila dikehendaki Allah. Sungguh, Allah Maha Mengetahui segala sesuatu, Mahabijaksana dalam seluruh kehendak dan ketetapan-Nya. 31. Dan Dia akan memasukkan siapa pun yang Dia kehendaki yang dinilai-Nya wajar menerimanya, ke dalam rahmat-Nya yaitu surga. Adapun bagi orang-orang zalim yang begitu mantap kezalimannya maka disediakan-Nya azab yang pedih.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa manusia tidak akan mencapai keselamatan itu kecuali dengan kehendak-Nya, dan bila Ia memberikan taufik kepadanya. Usaha seseorang saja tanpa ada bimbingan Allah tidak akan mencapai kebaikan dan tidak dapat menolak kejahatan.\n\nAyat ini ditutup dengan suatu kepastian bahwa Allah Maha Mengetahui lagi Mahabijaksana. Allah Mahatahu siapa di antara hamba-Nya yang berhak menerima hidayat itu sehingga dimudahkan jalan baginya dan didatangkan sebab-sebab untuk mendapatkan hidayat itu. Sebaliknya yang sering terlibat dalam perbuatan memperturutkan hawa nafsu, hidayah itu dihilangkan Allah darinya. Allah Mahabijaksana dan Mahaadil."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5622,
+                    "inSurah": 31
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 515,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يُدْخِلُ مَن يَشَاءُ فِي رَحْمَتِهِ ۚ وَالظَّالِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًا",
+                    "transliteration": {
+                        "en": "Yudkhilu mai yashaaa'u fee rahmatih; wazzaalimeena a'adda lahum 'azaaban aleemaa"
+                    }
+                },
+                "translation": {
+                    "en": "He admits whom He wills into His mercy; but the wrongdoers - He has prepared for them a painful punishment.",
+                    "id": "Dia memasukkan siapa pun yang Dia kehendaki ke dalam rahmat-Nya (surga). Adapun bagi orang-orang zalim disediakan-Nya azab yang pedih."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5622",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5622.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5622.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Dia akan memasukkan siapa pun yang Dia kehendaki yang dinilai-Nya wajar menerimanya, ke dalam rahmat-Nya yaitu surga. Adapun bagi orang-orang zalim yang begitu mantap kezalimannya maka disediakan-Nya azab yang pedih.1-2. Orang-orang kafir mendustakan janji dan ancaman Allah. Surah ini dimulai dengan sumpah Allah, demi malaikat-malaikat yang diutus untuk membawa kebaikan, dan demi malaikat-malaikat yang terbang dengan kencangnya,",
+                        "long": "Dalam ayat ini, Allah menegaskan bahwa Dia memasukkan siapa saja yang dikehendaki-Nya ke dalam rahmat-Nya, yaitu surga. Bagi orang zalim disediakan azab yang pedih.\n\nAllah menunjukkan manfaat perbuatan taat kepada orang tersebut sehingga dengan perbuatan itu, dia mempersiapkan dirinya memasuki rahmat Allah berupa surga. Bagi orang-orang yang merugikan diri mereka, dan mati dalam kekafiran, Allah telah menyediakan bagi mereka di akhirat azab yang paling hebat, yaitu neraka Jahanam."
+                    }
+                }
+            }
+        ]
+    }
+}

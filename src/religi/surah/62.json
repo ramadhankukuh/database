@@ -1,0 +1,491 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 62,
+        "sequence": 110,
+        "numberOfVerses": 11,
+        "name": {
+            "short": "الجمعة",
+            "long": "سورة الجمعة",
+            "transliteration": {
+                "en": "Al-Jumu'a",
+                "id": "Al-Jumu'ah"
+            },
+            "translation": {
+                "en": "Friday",
+                "id": "Jumat"
+            }
+        },
+        "revelation": {
+            "arab": "مدينة",
+            "en": "Medinan",
+            "id": "Madaniyyah"
+        },
+        "tafsir": {
+            "id": "Surat Al Jumu'ah ini terdiri atas 11 ayat, termasuk golongan-golongan surat-surat Madaniyyah dan diturunkan sesudah surat Ash Shaf. Nama surat Al Jumu'ah diambil dari kata Al Jumu'ah yang terdapat pada ayat 9 surat ini yang artinya: hari Jum'at."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5178,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 553,
+                    "manzil": 7,
+                    "ruku": 486,
+                    "hizbQuarter": 221,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ",
+                    "transliteration": {
+                        "en": "Yusabbihu lilaahi maa fis samaawaati wa maa fil ardil Malikil Quddoosil 'Azeezil Hakeem"
+                    }
+                },
+                "translation": {
+                    "en": "Whatever is in the heavens and whatever is on the earth is exalting Allah, the Sovereign, the Pure, the Exalted in Might, the Wise.",
+                    "id": "Apa yang ada di langit dan apa yang ada di bumi senantiasa bertasbih kepada Allah. Maharaja, Yang Mahasuci, Yang Mahaperkasa, Mahabijaksana."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5178",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5178.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5178.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Apa yang ada di langit, bintang, bulan, matahari dan seluruh planet; dan apa yang ada di bumi, hewan dan tetumbuhan bertasbih kepada Allah, mengakui dan menyatakan kemahasucian Allah yang berbeda dengan seluruh makhluk ciptaan-Nya; Dia adalah Maharaja yang kekuasaan-Nya mutlak; Yang Mahasuci dari segala yang diduga manusia; dan Dialah Yang Mahaperkasa menciptakan dan menghancurkan jagat raya sekejap mata; Mahabijaksana, tidak terburu menggunakan kekuasaan-Nya yang tiada terbatas untuk menghancurkan jagat raya atau menghukum manusia yang berdosa.",
+                        "long": "Pada ayat ini Allah menerangkan bahwa segala sesuatu yang ada di langit dan di bumi baik yang bernyawa maupun tidak, benda keras ataupun cair, pepohonan, dan sebagainya, bertasbih kepada Allah, menyucikan-Nya dari hal-hal yang tidak wajar, seperti sifat-sifat kekurangan dan sebagainya. Setiap kita melihat dan memandang kepada apa yang ada di bumi dan di langit, semuanya itu menunjukkan kepada kita atas keesaan penciptanya yaitu Allah dan kebesaran kekuasaan-Nya. Ini sejalan dengan firman Allah:\n\nDan tidak ada sesuatu pun melainkan bertasbih dengan memuji-Nya. (al-Isra'/17: 44)\n\nAyat pertama ini ditutup dengan satu ketegasan bahwa Allah itu merajai segala apa yang ada di bumi dan di langit, bertasbih kepada-Nya dengan kehendak-Nya berdasarkan kekuasaan dan kebijaksanaan-Nya, suci dari segala yang tidak layak dan tidak sesuai dengan ketinggian dan kesempurnaan-Nya. Tuhan Yang Mahaperkasa, menundukkan segala makhluk-Nya dengan kekuasaan-Nya. Mahabijaksana dalam mengatur hal ihwal mereka. Dialah yang lebih mengetahui kemaslahatan mereka, yang akan membawa mereka kepada kebahagiaan di dunia dan di akhirat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5179,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 553,
+                    "manzil": 7,
+                    "ruku": 486,
+                    "hizbQuarter": 221,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِّنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِن كَانُوا مِن قَبْلُ لَفِي ضَلَالٍ مُّبِينٍ",
+                    "transliteration": {
+                        "en": "Huwal lazee ba'asa fil ummiyyeena Rasoolam min hum yatloo 'alaihim aayaatihee wa yuzakkeehim wa yu'allimuhumul Kitaaba wal Hikmata wa in kaano min qablu lafee dalaalim mubeen"
+                    }
+                },
+                "translation": {
+                    "en": "It is He who has sent among the unlettered a Messenger from themselves reciting to them His verses and purifying them and teaching them the Book and wisdom - although they were before in clear error -",
+                    "id": "Dialah yang mengutus seorang Rasul kepada kaum yang buta huruf dari kalangan mereka sendiri, yang membacakan kepada mereka ayat-ayat-Nya, menyucikan (jiwa) mereka dan mengajarkan kepada mereka Kitab dan Hikmah (Sunnah), meskipun sebelumnya, mereka benar-benar dalam kesesatan yang nyata."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5179",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5179.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5179.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dialah yang mengutus seorang Rasul, Muhammad kepada kaum yang buta huruf, yang secara khusus ditujukan kepada bangsa Arab yang kebanyakan tidak bisa baca tulis, dari kalangan mereka sendiri, yaitu dari kalangan bangsa Arab, yang membacakan kepada mereka ayat-ayat-Nya, ayat-ayat Al-Qur’an, yang isinya menyucikan jiwa mereka yang beriman kepadanya; dan mengajarkan kepada mereka yang membuka diri menerima dan membenaran kerasulan beliau, Kitab Al-Qur’an, dan Hikmah yakni Sunah Nabi, meskipun sebelumnya, yakni sebelum kelahiran Rasulullah di masa jahiliah, mereka, sebagian di antara para sahabat Rasulullah benar-benar dalam kesesatan yang nyata. Keyakinan mereka menyimpang dari prinsip tauhid dan perilaku mereka bertentangan dengan nilai kemanusiaan, salah satunya mengubur anak perempuan hidup-hidup.",
+                        "long": "Allah menerangkan bahwa Dialah yang mengutus kepada bangsa Arab yang masih buta huruf, yang pada saat itu belum tahu membaca dan menulis, seorang rasul dari kalangan mereka sendiri, yaitu Nabi Muhammad saw dengan tugas sebagai berikut:\n\n1.Membacakan ayat suci Al-Qur'an yang di dalamnya terdapat petunjuk dan bimbingan untuk memperoleh kebaikan dunia dan akhirat.\n\n2.Membersihkan mereka dari akidah yang menyesatkan, kemusyrikan, sifat-sifat jahiliah yang biadab sehingga mereka itu berakidah tauhid mengesakan Allah, tidak tunduk kepada pemimpin-pemimpin yang menyesatkan dan tidak percaya lagi kepada sesembahan mereka seperti batu, berhala, pohon kayu, dan sebagainya.\n\n3.Mengajarkan kepada mereka al-Kitab yang berisi syariat agama beserta hukum-hukum dan hikmah-hikmah yang terkandung di dalamnya.\n\nDisebutkan secara khusus bangsa Arab yang buta huruf tidaklah berarti bahwa kerasulan Nabi Muhammad saw itu ditujukan terbatas hanya kepada bangsa Arab saja. Akan tetapi, kerasulan Nabi Muhammad saw itu diperuntukkan bagi semua makhluk terutama jin dan manusia, sebagaimana firman Allah:\n\nDan Kami tidak mengutus engkau (Muhammad) melainkan untuk (menjadi) rahmat bagi seluruh alam. (al-Anbiya'/21: 107)\n\nDan firman-Nya:\n\nKatakanlah (Muhammad), \"Wahai manusia! Sesungguhnya aku ini utusan Allah bagi kamu semua,\" (al-A'raf/7: 158) \n\nAyat kedua Surah al-Jumu'ah ini diakhiri dengan ungkapan bahwa orang Arab itu sebelumnya benar-benar dalam kesesatan yang nyata. Mereka itu pada umumnya menganut dan berpegang teguh kepada agama samawi yaitu agama Nabi Ibrahim. Mereka lalu mengubah dan menukar akidah tauhid dengan syirik, keyakinan mereka dengan keraguan, dan mengadakan sesembahan selain dari Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5180,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 553,
+                    "manzil": 7,
+                    "ruku": 486,
+                    "hizbQuarter": 221,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+                    "transliteration": {
+                        "en": "Wa aakhareena minhum lammaa yalhaqoo bihim wa huwal 'azeezul hakeem"
+                    }
+                },
+                "translation": {
+                    "en": "And [to] others of them who have not yet joined them. And He is the Exalted in Might, the Wise.",
+                    "id": "Dan (juga) kepada kaum yang lain dari mereka yang belum berhubungan dengan mereka. Dan Dialah Yang Mahaperkasa, Mahabijaksana."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5180",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5180.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5180.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Selain mengutus kepada bangsa Arab yang tidak bisa baca tulis, Allah juga mengutus Rasulullah kepada bangsa-bangsa lain di luar bangsa Arab, bahkan kepada seluruh dunia. Dan Rasulullah juga diutus kepada kaum yang lain dari mereka di luar bangsa Arab untuk masa yang tiada terbatas hingga hari kiamat, kaum yang belum berhubungan dengan mereka, karena hidup pada zaman dan tempat yang berbeda dengan mereka, sebagaimana disebutkan dalam Al-Qur’an, “Dan Kami tidak mengutus engkau Muhammad melainkan untuk menjadi rahmat bagi seluruh alam.” (Lihat: Surah al-Anbiyà’/21: 107). Dan Dialah Yang Mahaperkasa, menciptakan dan menghancurkan jagat raya sekejap mata; Mahabijaksana, tidak terburu menggunakan kekuasaan-Nya yang tiada terbatas untuk menghukum manusia yang berdosa.",
+                        "long": "Allah menjelaskan bahwa kerasulan Muhammad saw tidaklah terbatas kepada bangsa Arab yang ada pada waktu itu, tetapi juga kepada orang-orang yang belum bergabung kepada mereka sampai hari Kiamat, yaitu orang-orang yang datang sesudah para sahabat Nabi saw, sampai hari Pembalasan, seperti bangsa Persia, Romawi dan lain-lain. Di dalam suatu hadis yang diriwayatkan oleh al-Bukhari dari Abu Hurairah, ia berkata:\n\nAbu Hurairah meriwayatkan bahwa ketika kami duduk bersama Nabi saw, lalu diturunkan kepadanya Surah al-Jumu'ah \"wa akharina minhum lamma yalhaqu bihim.\" Abu Hurairah bertanya, \"Siapa mereka wahai Rasulullah? Namun Nabi saw tidak menjawab sampai ia bertanya tiga kali. Abu Hurairah berkata, \"Pada saat itu ada Salman al-Farisi bersama kami. Kemudian Nabi meletakkan tangannya di pundak Salman, seraya berkata, 'Seandainya keimanan terdapat pada bintang-bintang, maka tentulah akan dicapai oleh orang-orang dari mereka (bangsa Persia).\" (Riwayat al-Bukhari)\n\nAllah itu Mahaperkasa, kuasa meningkatkan kecerdasan orang yang bodoh, dan menguatkan umat yang lemah dengan mengutus seorang rasul dari kalangan mereka juga, untuk menyelamatkan mereka dari kesesatan, dan membawa kepada petunjuk kebenaran, dari kegelapan kepada cahaya terang-benderang. Allah juga Mahabijaksana dalam mengatur kepentingan makhluk-Nya yang akan membawa mereka kepada kebaikan dan keuntungan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5181,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 553,
+                    "manzil": 7,
+                    "ruku": 486,
+                    "hizbQuarter": 221,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+                    "transliteration": {
+                        "en": "Zaalika fadlul laahi yu'teehi many-yashaaa; wallaahu zul fadil 'azeem"
+                    }
+                },
+                "translation": {
+                    "en": "That is the bounty of Allah, which He gives to whom He wills, and Allah is the possessor of great bounty.",
+                    "id": "Demikianlah karunia Allah, yang diberikan kepada siapa yang Dia kehendaki; dan Allah memiliki karunia yang besar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5181",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5181.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5181.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demikianlah karunia Allah yang diberikan kepada siapa yang Dia kehendaki seperti mengangkat Rasulullah menjadi nabi dan rasul dan diutus kepada umat manusia seluruh alam; dan Allah memiliki karunia yang besar yang diberikan kepada hamba-hamba-Nya yang beriman.",
+                        "long": "Pada ayat ini, Allah menerangkan bahwa diutusnya rasul kepada manusia, untuk membersihkan mereka dari kemusyrikan dan sifat-sifat kebiadaban. Hal tersebut merupakan nikmat dan karunia Allah yang terbesar diberikan kepada siapa yang dikehendaki-Nya, dari hamba-hamba-Nya yang telah dipilih-Nya, karena kebersihan hati mereka dan kesediaan menerimanya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5182,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 553,
+                    "manzil": 7,
+                    "ruku": 486,
+                    "hizbQuarter": 221,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا ۚ بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+                    "transliteration": {
+                        "en": "Masalul lazeena hum milut tawraata summa lam yahmiloonhaa kamasalil himaari yah milu asfaaraa; bi'sa masalul qawmil lazeena kaazzaboo bi aayaatil laah; wallaahu laa yahdil qawmazzaalimeen"
+                    }
+                },
+                "translation": {
+                    "en": "The example of those who were entrusted with the Torah and then did not take it on is like that of a donkey who carries volumes [of books]. Wretched is the example of the people who deny the signs of Allah. And Allah does not guide the wrongdoing people.",
+                    "id": "Perumpamaan orang-orang yang diberi tugas membawa Taurat, kemudian mereka tidak membawanya (tidak mengamalkannya) adalah seperti keledai yang membawa kitab-kitab yang tebal. Sangat buruk perumpamaan kaum yang mendustakan ayat-ayat Allah. Dan Allah tidak memberi petunjuk kepada orang-orang yang zalim."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5182",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5182.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5182.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah mengecam manusia yang mendapat karunia-Nya menjadi ahli agama, tetapi tidak mengamalkannya. Perumpamaan orang-orang yang diberi tugas membawa Taurat, menjadi ulama dan bertugas membimbing manusia beragama, kemudian mereka tidak membawanya, tidak mengamalkan agama dan tidak menjadikan dirinya teladan bagi umat adalah seperti keledai yang membawa kitab-kitab yang tebal, dirinya dibebani oleh pengetahuan agama, tetapi pengetahuan agama itu tidak membawa kebaikan apa pun bagi dirinya. Sangat buruk perumpamaan kaum yang mendustakan ayat-ayat Allah yang diwahyukan kepada Nabi dan Rasul-Nya. Dan Allah tidak akan pernah memberi petunjuk kepada orang-orang yang zalim, yang membiarkan dirinya gelap, padahal mereka memegang lampu.",
+                        "long": "Pada ayat ini Allah menyatakan kemurkaan-Nya kepada orang-orang Yahudi yang telah diturunkan kepada mereka kitab Taurat untuk diamalkan, tetapi mereka tidak melaksanakan isinya. Mereka itu tidak ada bedanya dengan keledai yang memikul kitab yang banyak, tetapi tidak mengetahui apa yang dipikulnya itu. Bahkan mereka lebih bodoh lagi dari keledai, karena keledai itu memang tidak mempunyai akal untuk memahaminya, sedangkan mereka itu mempunyai akal, tetapi tidak dipergunakan. Di sisi lain, ketika menggunakan akal, mereka menggunakannya untuk menyelewengkan Taurat dengan mengurangi, menambah, mengubah, atau menakwilkannya kepada arti yang mereka inginkan. Keadaan mereka itu digambarkan dalam ayat ini, sebagai berikut:\n\nMereka seperti hewan ternak, bahkan lebih sesat lagi. Mereka itulah orang-orang yang lengah. (al-A'raf/7: 179)\n\nAlangkah buruknya perumpamaan yang diberikan kepada mereka. Itu tidak lain karena mereka mendustakan ayat-ayat Allah yang dibawa oleh rasul mereka. Allah tidak akan memberikan petunjuk kepada orang-orang yang zalim terhadap dirinya sendiri, yang bergelimang dosa sehingga matanya tidak dapat melihat cahaya kebenaran. Hatinya merana tidak dapat merasakan hal-hal yang benar, bahkan dia berada dalam kegelapan yang menyebabkannya tidak dapat melihat jalan sampai kepada sasaran."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5183,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 553,
+                    "manzil": 7,
+                    "ruku": 486,
+                    "hizbQuarter": 221,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُلْ يَا أَيُّهَا الَّذِينَ هَادُوا إِن زَعَمْتُمْ أَنَّكُمْ أَوْلِيَاءُ لِلَّهِ مِن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ",
+                    "transliteration": {
+                        "en": "Qul yaaa ayyuhal lazeena haadoo in za'amtum annakum awliyaaa'u lilaahi min doonin naasi fatamannawul mawta in kuntum saadiqeen"
+                    }
+                },
+                "translation": {
+                    "en": "Say, \"O you who are Jews, if you claim that you are allies of Allah, excluding the [other] people, then wish for death, if you should be truthful.\"",
+                    "id": "Katakanlah (Muhammad), “Wahai orang-orang Yahudi! Jika kamu mengira bahwa kamulah kekasih Allah, bukan orang-orang yang lain, maka harapkanlah kematianmu, jika kamu orang yang benar.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5183",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5183.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5183.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Para pemuka Yahudi tidak hanya tidak mengamalkan agamanya, tetapi juga menilai dirinya kekasih Allah, padahal mereka kufur kepada-Nya. Katakanlah, wahai Nabi Muhammad kepada para tokoh Agama Yahudi, “Wahai orang-orang Yahudi Bani Naýir, Bani Quraizah dan Bani Qainuqà‘! Jika kamu mengira dengan penuh keyakinan bahwa kamulah kekasih Allah, karena menjadi bangsa pilihan, bukan orang-orang yang lain, seperti kaum muslim, maka harapkanlah kematianmu, karena kematian membuktikan apakah kamu kekasih Allah atau bukan, jika kamu orang yang benar, dalam pengakuanmu itu.”",
+                        "long": "Pada ayat ini Allah memberi peringatan kepada orang-orang Yahudi bahwa kalau memang mereka mendakwakan dan menyangkal bahwa mereka adalah kekasih dan kesayangan Allah, maka silakan memohon kepada Allah agar mereka itu cepat-cepat mati, dan segera bertemu dengan Tuhan mereka. Biasanya orang yang ingin cepat-cepat bertemu dengan kekasih dan kesayangannya, ingin cepat-cepat bebas dari kesusahan dan kesulitan dunia dan menempati surga yang penuh dengan segala macam kenikmatan. Firman Allah:\n\nKatakanlah (Muhammad), \"Jika negeri akhirat di sisi Allah, khusus untukmu saja bukan untuk orang lain, maka mintalah kematian jika kamu orang yang benar.\" (al-Baqarah/2: 94)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5184,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 553,
+                    "manzil": 7,
+                    "ruku": 486,
+                    "hizbQuarter": 221,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+                    "transliteration": {
+                        "en": "Wa laa yatamannaw nahooo abadam bimaa qaddamat aydeehim; wallaahu 'aleemum bix zaalimeen"
+                    }
+                },
+                "translation": {
+                    "en": "But they will not wish for it, ever, because of what their hands have put forth. And Allah is Knowing of the wrongdoers.",
+                    "id": "Dan mereka tidak akan mengharapkan kematian itu selamanya disebabkan kejahatan yang telah mereka perbuat dengan tangan mereka sendiri. Dan Allah Maha Mengetahui orang-orang yang zalim."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5184",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5184.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5184.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Namun demikian, mereka tidak mungkin mengharapkan kematian. Dan mereka, tokoh-tokoh Yahudi di Madinah yang mengaku kekasih Allah tidak akan pernah mengharapkan kematian itu selamanya disebabkan kejahatan yang telah mereka perbuat dengan tangan mereka sendiri. Hal ini karena hati kecil mereka mengakui dirinya salah dan menyadari bahwa kematian akan mengungkapkan siapa yang salah dan siapa yang benar. Dan Allah Maha Mengetahui pengakuan, perasaan, dan kegelisahan orang-orang yang zalim, yaitu orang-orang yang menganiaya dirinya sendiri dengan berbuat kejahatan, padahal mereka mengetahuinya.",
+                        "long": "Allah menegaskan bahwa para penganut agama Yahudi tidak akan meminta cepat mati, karena mereka menyadari dan mengetahui kesalahan dan keadaan mereka yang bergelimang dosa. Kalau mereka betul-betul menginginkan agar cepat mati, pasti akan terlaksana atas iradat dan kodrat Allah, dan kepada mereka itu akan ditimpakan siksa Allah yang amat pedih.\n\nDan sungguh, engkau (Muhammad) akan mendapati mereka (orang-orang Yahudi), manusia yang paling tamak akan kehidupan (dunia), bahkan (lebih tamak) dari orang-orang musyrik. Masing-masing dari mereka, ingin diberi umur seribu tahun, padahal umur panjang itu tidak akan menjauhkan mereka dari azab. Dan Allah Maha Melihat apa yang mereka kerjakan. (al-Baqarah/2: 96)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5185,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 553,
+                    "manzil": 7,
+                    "ruku": 486,
+                    "hizbQuarter": 221,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+                    "transliteration": {
+                        "en": "Qul innal mawtal lazee tafirroona minhu fa innahoo mulaaqeekum summa turaddoona ilaa 'Aalimil Ghaibi wash shahaadati fa yunabbi'ukum bimaa kuntum ta'maloon"
+                    }
+                },
+                "translation": {
+                    "en": "Say, \"Indeed, the death from which you flee - indeed, it will meet you. Then you will be returned to the Knower of the unseen and the witnessed, and He will inform you about what you used to do.\"",
+                    "id": "Katakanlah, “Sesungguhnya kematian yang kamu lari dari padanya, ia pasti menemui kamu, kemudian kamu akan dikembalikan kepada (Allah), yang mengetahui yang gaib dan yang nyata, lalu Dia beritakan kepadamu apa yang telah kamu kerjakan.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5185",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5185.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5185.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kematian yang tidak diharapkan itu pasti akan datang. Katakanlah, wahai Nabi Muhammad kepada para pemuka Yahudi di Madinah, “Sesungguhnya kematian yang kamu lari daripadanya, karena kamu menyadari bahwa kematian akan mengungkapkan siapa yang salah dan siapa yang benar, ia, kematian, meskipun dijauhi pasti menemui kamu, di mana pun kamu berada; kemudian kamu, melalui pintu kematian, akan dikembalikan kepada Allah untuk mempertanggung-jawabkan semua perbuatan selama hidup di dunia. Dia Yang Maha Mengetahui yang gaib, yang tidak terlihat, dan yang nyata, yang kasat mata; lalu Dia akan memberitahukan kepada kamu dengan lengkap dan menyeluruh apa yang telah kamu kerjakan, baik kejahatan maupun kebaikan.”",
+                        "long": "Pada ayat ini Allah menerangkan bahwa orang-orang Yahudi sangat takut menghadapi kematian dan berusaha menghindarinya. Oleh karena itu, Allah memerintahkan Rasulullah agar menyampaikan kepada mereka bahwa kematian pasti datang menemui mereka. Kemudian mereka dikembalikan kepada Allah Yang Maha Mengetahui yang gaib dan yang kelihatan, baik di langit maupun di bumi. Maka Allah memberitahukan kepada mereka segala apa yang telah mereka kerjakan, lalu dibalas sesuai dengan amal perbuatannya. Jahat dibalas dengan jahat, yaitu neraka, baik dibalas dengan baik, yaitu surga, sebagaimana firman Allah:\n\nMereka tidak dibalas melainkan sesuai dengan apa yang telah mereka kerjakan. (Saba'/34: 33)\n\nDan firman-Nya:\n\nDan milik Allah-lah apa yang ada di langit dan apa yang ada di bumi. (Dengan demikian) Dia akan memberi balasan kepada orang-orang yang berbuat jahat sesuai dengan apa yang telah mereka kerjakan dan Dia akan memberi balasan kepada orang-orang yang berbuat baik dengan pahala yang lebih baik (surga). (an-Najm/53: 31)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5186,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 554,
+                    "manzil": 7,
+                    "ruku": 487,
+                    "hizbQuarter": 221,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhal lazeena aamanoo izaa noodiya lis-Salaati miny yawmil Jumu'ati fas'aw ilaa zikril laahi wa zarul bai'; zaalikum khayrul lakum in kuntum ta'lamoon"
+                    }
+                },
+                "translation": {
+                    "en": "O you who have believed, when [the adhan] is called for the prayer on the day of Jumu'ah [Friday], then proceed to the remembrance of Allah and leave trade. That is better for you, if you only knew.",
+                    "id": "Wahai orang-orang yang beriman! Apabila telah diseru untuk melaksanakan salat pada hari Jum‘at, maka segeralah kamu mengingat Allah dan tinggalkanlah jual beli. Yang demikian itu lebih baik bagimu jika kamu mengetahui."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5186",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5186.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5186.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menghimbau orang-orang beriman agar segera ke masjid untuk salat berjamaah apabila azan sudah dikumandangkan. Wahai orang-orang yang beriman! Di mana pun dan kapan pun kamu berada. Apabila telah diseru dengan dikumandangkan azan untuk melaksanakan salat Jumat pada hari Jumat, atau salat lima waktu maka segeralah kamu mengingat Allah, dengan melaksanakan salat yang khusyuk serta zikir dan doa sesudah salat; dan tinggalkanlah jual beli dan berbagai kegiatan lainnya. Yang demikian itu, meninggalkan sementara berbagai kegiatan untuk segera melaksanakan salat wajib berjamaah di masjid, lebih baik bagi kamu dibandingkan dengan menunda salat, jika kamu mengetahui keutamaan salat di awal waktu dengan berjamaah di masjid.",
+                        "long": "Allah menerangkan bahwa apabila muazin mengumandangkan azan pada hari Jumat, maka hendaklah kita meninggalkan perniagaan dan segala usaha dunia serta bersegera ke masjid untuk mendengarkan khutbah dan melaksanakan salat Jumat, dengan cara yang wajar, tidak berlari-lari, tetapi berjalan dengan tenang sampai ke masjid, sebagaimana sabda Nabi saw:\n\nApabila salat telah diikamahkan, maka janganlah kamu mendatanginya dengan tergesa-gesa. Namun datangilah salat dalam keadaan berjalan biasa penuh ketenangan. Lalu, berapa rakaat yang kamu dapatkan maka ikutilah, sedangkan rakaat yang ketinggalan maka sempurnakanlah. (Riwayat al-Bukhari dan Muslim dari Abu Hurairah)\n\nSeandainya seseorang mengetahui betapa besar pahala yang akan diperoleh orang yang mengerjakan salat Jumat dengan baik, maka melaksanakan perintah itu (memenuhi panggilan salat dan meninggalkan jual-beli), adalah lebih baik daripada tetap di tempat melaksanakan jual-beli dan meneruskan usaha untuk memperoleh keuntungan dunia. Firman Allah:\n\nPadahal kehidupan akhirat itu lebih baik dan lebih kekal. (al-A'la/87: 17)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5187,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 554,
+                    "manzil": 7,
+                    "ruku": 487,
+                    "hizbQuarter": 221,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِن فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+                    "transliteration": {
+                        "en": "Fa-izaa qudiyatis Salaatu fantashiroo fil ardi wabtaghoo min fadlil laahi wazkurul laaha kaseeral la'allakum tuflihoon"
+                    }
+                },
+                "translation": {
+                    "en": "And when the prayer has been concluded, disperse within the land and seek from the bounty of Allah, and remember Allah often that you may succeed.",
+                    "id": "Apabila salat telah dilaksanakan, maka bertebaranlah kamu di bumi; carilah karunia Allah dan ingatlah Allah banyak-banyak agar kamu beruntung."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5187",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5187.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5187.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Apabila salat wajib telah dilaksanakan di awal waktu dengan berjamaah di masjid; maka bertebaranlah kamu di bumi, kembali bekerja dan berbisnis; carilah karunia Allah, rezeki yang halal, berkah, dan melimpah dan ingatlah Allah banyak-banyak ketika salat maupun ketika bekerja atau berbisnis agar kamu beruntung, menjadi pribadi yang seimbang, serta sehat mental dan fisik.",
+                        "long": "Pada ayat ini Allah menerangkan bahwa setelah selesai melakukan salat Jumat, umat Islam boleh bertebaran di muka bumi untuk melaksanakan urusan duniawi, dan berusaha mencari rezeki yang halal, sesudah menunaikan yang bermanfaat untuk akhirat. Hendaklah mengingat Allah sebanyak-banyaknya dalam mengerjakan usahanya dengan menghindarkan diri dari kecurangan, penyelewengan, dan lain-lainnya. Allah Maha Mengetahui segala sesuatu yang tersembunyi apalagi yang tampak nyata, sebagaimana firman Allah:\n\nYang Mengetahui yang gaib dan yang nyata. Yang Mahaperkasa, Mahabijaksana. (at-Tagabun/64: 18)\n\nDengan demikian, tercapailah kebahagiaan dan keberuntungan di dunia dan di akhirat. Dianjurkan kepada siapa yang telah selesai salat Jumat membaca doa yang biasa dilakukan oleh Arrak bin Malik\n\n\"Ya Allah! Sesungguhnya aku telah memenuhi panggilan-Mu, dan melaksanakan kewajiban kepada-Mu, dan bertebaran (di muka bumi) sebagaimana Engkau perintahkan kepadaku, maka anugerahkanlah kepadaku karunia-Mu. Engkaulah sebaik-baik Pemberi rezeki.\" (Riwayat Ibnu Abi hatim)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5188,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 554,
+                    "manzil": 7,
+                    "ruku": 487,
+                    "hizbQuarter": 221,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا ۚ قُلْ مَا عِندَ اللَّهِ خَيْرٌ مِّنَ اللَّهْوِ وَمِنَ التِّجَارَةِ ۚ وَاللَّهُ خَيْرُ الرَّازِقِينَ",
+                    "transliteration": {
+                        "en": "Wa izaa ra'aw tijaaratan aw lahwanin faddooo ilaihaa wa tarakooka qaaa'imaa; qul maa 'indal laahi khairum minal lahwi wa minat tijaarah; wallaahu khayrur raaziqeen"
+                    }
+                },
+                "translation": {
+                    "en": "But when they saw a transaction or a diversion, [O Muhammad], they rushed to it and left you standing. Say, \"What is with Allah is better than diversion and than a transaction, and Allah is the best of providers.\"",
+                    "id": "Dan apabila mereka melihat perdagangan atau permainan, mereka segera menuju kepadanya dan mereka tinggalkan engkau (Muhammad) sedang berdiri (berkhotbah). Katakanlah, “Apa yang ada di sisi Allah lebih baik daripada permainan dan perdagangan,” dan Allah pemberi rezeki yang terbaik."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5188",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5188.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5188.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ayat sebelumnya mengingatkan orang-orang beriman agar kembali bekerja mencari rezeki yang halal apabila sudah melaksanakan salat Jumat. Ayat ini menegur kaum muslim yang meninggalkan Rasulullah ketika sedang menyampaikan khutbah Jumat untuk berburu barang dagangan. Dan apabila mereka, orang-orang beriman yang sedang menyimak khutbah Jum\\'at, melihat perdagangan, kafilah dagang yang membawa barang-barang berharga tiba di Madinah atau permainan, hiburan musik dan tari yang diselenggarakan guna menyambut kafilah dagang yang baru tiba dari Syam, mereka, sebagian besar orang-orang yang sedang menyimak khutbah Jumat itu, segera menuju kepadanya, ke tempat kafilah dagang dan hiburan itu; dan mereka meninggalkan engkau Muhammad yang sedang berdiri, menyampaikan khutbah Jumat. Katakanlah, wahai Muhammad kepada mereka, “Apa yang ada di sisi Allah, kenikmatan surga yang diberikan kepada orang yang taat kepada Allah dan Rasul-Nya lebih baik daripada permainan, hiburan, musik dan tari, dan perdagangan barang-barang berharga yang dicari dan disukai manusia.” Dan Allah pemberi rezeki yang terbaik kepada setiap manusia.",
+                        "long": "Diriwayatkan oleh al-Bukhari, Muslim, Ahmad, dan at-Tirmidhi dari Jabir bin 'Abdullah bahwa ketika Nabi saw berdiri berkhotbah pada hari Jumat, tiba-tiba datanglah rombongan unta (pembawa dagangan), maka para sahabat Rasulullah bergegas mendatanginya sehingga tidak ada yang tinggal mendengarkan khotbah kecuali 12 orang. Saya (Jabir), Abu Bakar, dan Umar termasuk mereka yang tinggal, maka Allah Ta'ala menurunkan ayat: wa idha ra'au tijaratan au lahwan, sampai akhir surah). \n\nPada ayat ini Allah mencela perbuatan orang-orang mukmin yang lebih mementingkan kafilah dagang yang baru tiba dari pada Rasulullah, sehingga mereka meninggalkan Nabi saw dalam keadaan berdiri berkhotbah. Ayat ini ada hubungannya dengan peristiwa kedatangan Dihyah al-Kalbi dari Syam (Suriah), bersama rombongan untanya membawa barang dagangannya seperti tepung, gandum, minyak dan lain-lainnya. Menurut kebiasaan apabila rombongan unta dagangan tiba, wanita-wanita muda keluar menyambutnya dengan menabuh gendang, sebagai pemberitahuan atas kedatangan rombongan itu, supaya orang-orang datang berbelanja membeli barang dagangan yang dibawanya. \n\nSelanjutnya Allah memerintahkan Nabi-Nya supaya menyampaikan kekeliruan perbuatan mereka dengan menegaskan bahwa apa yang di sisi Allah jauh lebih baik daripada keuntungan dan kesenangan dunia. Kebahagiaan akhirat itu kekal, sedangkan keuntungan dunia akan lenyap.\n\nAyat ini ditutup dengan satu penegasan bahwa Allah itu sebaik-baik pemberi rezeki. Oleh karena itu, kepada-Nyalah kita harus mengarahkan segala usaha dan ikhtiar untuk memperoleh rezeki yang halal, mengikuti petunjuk-petunjuk-Nya dan rida-Nya."
+                    }
+                }
+            }
+        ]
+    }
+}

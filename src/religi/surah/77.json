@@ -1,0 +1,2051 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 77,
+        "sequence": 33,
+        "numberOfVerses": 50,
+        "name": {
+            "short": "المرسلات",
+            "long": "سورة المرسلات",
+            "transliteration": {
+                "en": "Al-Mursalaat",
+                "id": "Al-Mursalat"
+            },
+            "translation": {
+                "en": "The Emissaries",
+                "id": "Malaikat Yang Diutus"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat Al Mursalaat terdiri atas 50 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Humazah. Dinamai Al Mursalaat (Malaikat-Malaikat yang diutus), diambil dari perkataan Al Mursalaat yang terdapat pada ayat pertama surat ini. Dinamai juga Amma yatasaa aluun diambil dari perkataan Amma yatasaa aluun yang terdapat pada ayat 1 surat ini."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5623,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْمُرْسَلَاتِ عُرْفًا",
+                    "transliteration": {
+                        "en": "Wal mursalaati'urfaa"
+                    }
+                },
+                "translation": {
+                    "en": "By those [winds] sent forth in gusts",
+                    "id": "Demi (malaikat-malaikat) yang diutus untuk membawa kebaikan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5623",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5623.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5623.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "1-2. Orang-orang kafir mendustakan janji dan ancaman Allah. Surah ini dimulai dengan sumpah Allah, demi malaikat-malaikat yang diutus untuk membawa kebaikan, dan demi malaikat-malaikat yang terbang dengan kencangnya,1-2. Orang-orang kafir mendustakan janji dan ancaman Allah. Surah ini dimulai dengan sumpah Allah, demi malaikat-malaikat yang diutus untuk membawa kebaikan, dan demi malaikat-malaikat yang terbang dengan kencangnya,",
+                        "long": "Dalam ayat ini, Allah bersumpah dengan malaikat-malaikat yang menyebarkan kebaikan. Al-Mursalat (malaikat-malaikat yang diutus) adalah para malaikat yang bertugas untuk menyampaikan nikmat atau karunia Ilahi kepada suatu kaum atau mendatangkan siksaan kepada kelompok lain yang pantas menerimanya. Sebagian ulama mengartikan al-mursalat itu dengan angin yang bertiup terus-menerus ke segala arah atas perintah Tuhan untuk menyebarkan rahmat dan nikmat ke dunia ini."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5624,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَالْعَاصِفَاتِ عَصْفًا",
+                    "transliteration": {
+                        "en": "Fal'aasifaati 'asfaa"
+                    }
+                },
+                "translation": {
+                    "en": "And the winds that blow violently",
+                    "id": "dan (malaikat-malaikat) yang terbang dengan kencangnya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5624",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5624.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5624.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "1-2. Orang-orang kafir mendustakan janji dan ancaman Allah. Surah ini dimulai dengan sumpah Allah, demi malaikat-malaikat yang diutus untuk membawa kebaikan, dan demi malaikat-malaikat yang terbang dengan kencangnya,3-4. Dan juga demi malaikat-malaikat yang menyebarkan rahmat Allah dengan seluas-luasnya, dan demi malaikat-malaikat yang membedakan antara yang baik dan yang buruk dengan pembedaan yang sejelas-jelasnya,",
+                        "long": "Allah juga bersumpah dengan angin yang bertiup dengan kencang. Ada pula yang mengartikan al-'asifat dengan malaikat-malaikat yang menjauhkan diri dari kebatilan sebagaimana halnya angin kencang yang berhembus meniup onggokan tanah atau debu di atas batu. Yang lain menafsirkannya dengan angin yang menyebarkan air hujan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5625,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالنَّاشِرَاتِ نَشْرًا",
+                    "transliteration": {
+                        "en": "Wannaashiraati nashraa"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the winds that spread [clouds]",
+                    "id": "dan (malaikat-malaikat) yang menyebarkan (rahmat Allah) dengan seluas-luasnya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5625",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5625.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5625.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "3-4. Dan juga demi malaikat-malaikat yang menyebarkan rahmat Allah dengan seluas-luasnya, dan demi malaikat-malaikat yang membedakan antara yang baik dan yang buruk dengan pembedaan yang sejelas-jelasnya,3-4. Dan juga demi malaikat-malaikat yang menyebarkan rahmat Allah dengan seluas-luasnya, dan demi malaikat-malaikat yang membedakan antara yang baik dan yang buruk dengan pembedaan yang sejelas-jelasnya,",
+                        "long": "Selanjutnya Allah bersumpah dengan malaikat-malaikat yang menyebarkan rahmat-Nya seluas-luasnya. Terdapat berbagai macam penafsiran tentang kata an-nasyirat di sini. Ada yang mengartikannya dengan malaikat yang menebarkan maut kepada orang yang ditetapkan kematiannya tanpa diketahui sedikit pun. Ada pula yang menafsirkannya dengan malaikat yang menebarkan dan meratakan syariat-syariat Allah kepada sekalian nabi dan rasul-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5626,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَالْفَارِقَاتِ فَرْقًا",
+                    "transliteration": {
+                        "en": "Falfaariqaati farqaa"
+                    }
+                },
+                "translation": {
+                    "en": "And those [angels] who bring criterion",
+                    "id": "dan (malaikat-malaikat) yang membedakan (antara yang baik dan yang buruk) dengan sejelas-jelasnya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5626",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5626.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5626.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "3-4. Dan juga demi malaikat-malaikat yang menyebarkan rahmat Allah dengan seluas-luasnya, dan demi malaikat-malaikat yang membedakan antara yang baik dan yang buruk dengan pembedaan yang sejelas-jelasnya,5-6. Dan demi malaikat-malaikat yang bertugas menyampaikan wahyu kepada yang dipilih Allah untuk menerimanya, wahyu tersebut diturunkan untuk menolak alasan-alasan atau memberi peringatan bagi yang durhaka.",
+                        "long": "Allah bersumpah pula dengan para malaikat yang membedakan antara yang hak dengan yang batil dengan sejelas-jelasnya, membedakan antara petunjuk dan kesesatan.\n\nSebagian mufasir mengartikan al-fariqat dengan angin yang dapat membedakan mana yang membawa rahmat dan mana yang bertugas merusak manusia banyak. Dengan kata lain, angin pembawa rahmat dan angin pembawa bencana."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5627,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَالْمُلْقِيَاتِ ذِكْرًا",
+                    "transliteration": {
+                        "en": "Falmulqiyaati zikra"
+                    }
+                },
+                "translation": {
+                    "en": "And those [angels] who deliver a message",
+                    "id": "dan (malaikat-malaikat) yang menyampaikan wahyu,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5627",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5627.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5627.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "5-6. Dan demi malaikat-malaikat yang bertugas menyampaikan wahyu kepada yang dipilih Allah untuk menerimanya, wahyu tersebut diturunkan untuk menolak alasan-alasan atau memberi peringatan bagi yang durhaka.5-6. Dan demi malaikat-malaikat yang bertugas menyampaikan wahyu kepada yang dipilih Allah untuk menerimanya, wahyu tersebut diturunkan untuk menolak alasan-alasan atau memberi peringatan bagi yang durhaka.",
+                        "long": "Dalam ayat ini, Allah bersumpah dengan malaikat yang bertugas membawa wahyu kepada para nabi dan rasul. Akan tetapi, seperti pada ayat-ayat sebelumnya, ada yang mengartikan al-mulqiyat ini dengan angin yang menurunkan peringatan akan bencana Allah kepada manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5628,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عُذْرًا أَوْ نُذْرًا",
+                    "transliteration": {
+                        "en": "'Uzran aw nuzraa"
+                    }
+                },
+                "translation": {
+                    "en": "As justification or warning,",
+                    "id": "untuk menolak alasan-alasan atau memberi peringatan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5628",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5628.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5628.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "5-6. Dan demi malaikat-malaikat yang bertugas menyampaikan wahyu kepada yang dipilih Allah untuk menerimanya, wahyu tersebut diturunkan untuk menolak alasan-alasan atau memberi peringatan bagi yang durhaka.7-9. Demi semua yang telah disebut itu, sungguh, apa yang dijanjikan kepadamu, yaitu hari kebangkitan, juga surga dan neraka pasti terjadi. Kehidupan akhirat itu dimulai setelah Kiamat dunia ini. Dan inilah gambaran Kiamat itu. Maka apabila bintang-bintang dihapuskan cahayanya dengan mudah oleh Allah, dan apabila langit terbelah, sehingga langit dengan segala yang ada hancur.",
+                        "long": "Dalam ayat ini ditegaskan bahwa kedatangan wahyu kepada para nabi yang dibawa oleh malaikat adalah untuk menyampaikan alasan guna membantah ketidakpercayaan orang musyrik kepada adanya hari kebangkitan, dan untuk mengancam mereka dengan azab yang pedih bila mereka membangkang perintah Tuhan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5629,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّمَا تُوعَدُونَ لَوَاقِعٌ",
+                    "transliteration": {
+                        "en": "Innamaa too'adoona lawaaqi'"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, what you are promised is to occur.",
+                    "id": "Sungguh, apa yang dijanjikan kepadamu pasti terjadi."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5629",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5629.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5629.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "7-9. Demi semua yang telah disebut itu, sungguh, apa yang dijanjikan kepadamu, yaitu hari kebangkitan, juga surga dan neraka pasti terjadi. Kehidupan akhirat itu dimulai setelah Kiamat dunia ini. Dan inilah gambaran Kiamat itu. Maka apabila bintang-bintang dihapuskan cahayanya dengan mudah oleh Allah, dan apabila langit terbelah, sehingga langit dengan segala yang ada hancur.7-9. Demi semua yang telah disebut itu, sungguh, apa yang dijanjikan kepadamu, yaitu hari kebangkitan, juga surga dan neraka pasti terjadi. Kehidupan akhirat itu dimulai setelah Kiamat dunia ini. Dan inilah gambaran Kiamat itu. Maka apabila bintang-bintang dihapuskan cahayanya dengan mudah oleh Allah, dan apabila langit terbelah, sehingga langit dengan segala yang ada hancur.",
+                        "long": "Setelah bersumpah dengan beberapa macam makhluk-Nya di atas, maka dalam ayat ini, Allah menegaskan bahwa sesungguhnya apa yang telah dijanjikan kepada manusia itu pasti akan terjadi. Yang dijanjikan itu adalah datangnya hari kebangkitan, terjadinya kiamat, dihidupkannya kembali segala makhluk yang sudah mati sejak dahulu, sekarang, hingga yang akan datang dan dikumpulkan di Padang Mahsyar. Semuanya itu menurut penegasan ayat ini pasti akan terjadi!"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5630,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِذَا النُّجُومُ طُمِسَتْ",
+                    "transliteration": {
+                        "en": "Fa izam nujoomu tumisat"
+                    }
+                },
+                "translation": {
+                    "en": "So when the stars are obliterated",
+                    "id": "Maka apabila bintang-bintang dihapuskan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5630",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5630.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5630.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "7-9. Demi semua yang telah disebut itu, sungguh, apa yang dijanjikan kepadamu, yaitu hari kebangkitan, juga surga dan neraka pasti terjadi. Kehidupan akhirat itu dimulai setelah Kiamat dunia ini. Dan inilah gambaran Kiamat itu. Maka apabila bintang-bintang dihapuskan cahayanya dengan mudah oleh Allah, dan apabila langit terbelah, sehingga langit dengan segala yang ada hancur.7-9. Demi semua yang telah disebut itu, sungguh, apa yang dijanjikan kepadamu, yaitu hari kebangkitan, juga surga dan neraka pasti terjadi. Kehidupan akhirat itu dimulai setelah Kiamat dunia ini. Dan inilah gambaran Kiamat itu. Maka apabila bintang-bintang dihapuskan cahayanya dengan mudah oleh Allah, dan apabila langit terbelah, sehingga langit dengan segala yang ada hancur.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa pada waktu kedatangan hari Kiamat itu, cahaya bintang-bintang telah dihilangkan karena sumbernya telah berantakan, sebagaimana tersebut dalam ayat lain:\n\nDan apabila bintang-bintang berjatuhan. (at-Takwir/81: 2)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5631,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِذَا السَّمَاءُ فُرِجَتْ",
+                    "transliteration": {
+                        "en": "Wa izas samaaa'u furijat"
+                    }
+                },
+                "translation": {
+                    "en": "And when the heaven is opened",
+                    "id": "dan apabila langit terbelah,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5631",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5631.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5631.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "7-9. Demi semua yang telah disebut itu, sungguh, apa yang dijanjikan kepadamu, yaitu hari kebangkitan, juga surga dan neraka pasti terjadi. Kehidupan akhirat itu dimulai setelah Kiamat dunia ini. Dan inilah gambaran Kiamat itu. Maka apabila bintang-bintang dihapuskan cahayanya dengan mudah oleh Allah, dan apabila langit terbelah, sehingga langit dengan segala yang ada hancur.10-11.Tidak hanya sampai di situ. Dan juga apabila gunung-gunung dihancurkan menjadi debu yang beterbangan, dan apabila rasul-rasul telah ditetapkan waktunya, untuk dimintai pertanggung jawaban akan tugas dan kesaksiannya.Dan ketika itu terjadilah awal masa jatuhnya siksa, dan ketika itu dikatakan juga kepada para rasul itu.",
+                        "long": "Dikatakan pula bila langit pecah hancur berantakan berkeping-keping karena terjadinya guncangan gempa yang sangat dahsyat akibat benda-benda langit beradu sesamanya. Demikianlah beberapa ayat lain menceritakan hal yang sama, yakni:\n\nDan (ingatlah) pada hari (ketika) langit pecah mengeluarkan kabut putih dan para malaikat diturunkan (secara) bergelombang. (al-Furqan/25: 25)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5632,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِذَا الْجِبَالُ نُسِفَتْ",
+                    "transliteration": {
+                        "en": "Wa izal jibaalu nusifat"
+                    }
+                },
+                "translation": {
+                    "en": "And when the mountains are blown away",
+                    "id": "dan apabila gunung-gunung dihancurkan menjadi debu,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5632",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5632.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5632.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "10-11.Tidak hanya sampai di situ. Dan juga apabila gunung-gunung dihancurkan menjadi debu yang beterbangan, dan apabila rasul-rasul telah ditetapkan waktunya, untuk dimintai pertanggung jawaban akan tugas dan kesaksiannya.Dan ketika itu terjadilah awal masa jatuhnya siksa, dan ketika itu dikatakan juga kepada para rasul itu.10-11.Tidak hanya sampai di situ. Dan juga apabila gunung-gunung dihancurkan menjadi debu yang beterbangan, dan apabila rasul-rasul telah ditetapkan waktunya, untuk dimintai pertanggung jawaban akan tugas dan kesaksiannya.Dan ketika itu terjadilah awal masa jatuhnya siksa, dan ketika itu dikatakan juga kepada para rasul itu.",
+                        "long": "Ayat ini menyebutkan bahwa gunung-gunung dihancurkan menjadi debu. Dalam ayat lain disebutkan kedatangan hari Kiamat menyebabkan gunung-gunung beterbangan bagaikan kapas atau bulu yang diterbangkan angin atau dihancurkan sehancur-hancurnya. Firman Allah: \n\nDan mereka bertanya kepadamu (Muhammad) tentang gunung-gunung, maka katakanlah, \"Tuhanku akan menghancurkannya (pada hari Kiamat) sehancur-hancurnya.\" (thaha/20: 105)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5633,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِذَا الرُّسُلُ أُقِّتَتْ",
+                    "transliteration": {
+                        "en": "Wa izar Rusulu uqqitat"
+                    }
+                },
+                "translation": {
+                    "en": "And when the messengers' time has come...",
+                    "id": "dan apabila rasul-rasul telah ditetapkan waktunya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5633",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5633.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5633.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "10-11.Tidak hanya sampai di situ. Dan juga apabila gunung-gunung dihancurkan menjadi debu yang beterbangan, dan apabila rasul-rasul telah ditetapkan waktunya, untuk dimintai pertanggung jawaban akan tugas dan kesaksiannya.Dan ketika itu terjadilah awal masa jatuhnya siksa, dan ketika itu dikatakan juga kepada para rasul itu.12-14. Dan ketika itu terjadilah awal masa jatuhnya siksa, dan ketika itu dikatakan juga kepada para rasul itu, “Sampai hari apakah ditangguhkan azab orang-orang kafir itu?” Sampai hari keputusan. Dan tahukah kamu apakah hari keputusan itu? Sungguh dahsyat hari keputusan itu, tidak terjangkau nalar dan tidak juga terbayangkan oleh khayalan manusia.",
+                        "long": "Dalam ayat ini ditegaskan bahwa dengan kedatangan hari Kiamat, para nabi dan rasul dikumpulkan bersama-sama umat masing-masing. Tujuannya agar nabi dan rasul itu diberi kesempatan untuk mempertanggungjawabkan misi kenabian dan kerasulan mereka di hadapan Allah serta umatnya sebagai saksi. \n\nDan bagaimanakah (keadaan orang kafir nanti), jika Kami mendatangkan seorang saksi (Rasul) dari setiap umat dan Kami mendatangkan engkau (Muhammad) sebagai saksi atas mereka. (an-Nisa'/4: 41)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5634,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِأَيِّ يَوْمٍ أُجِّلَتْ",
+                    "transliteration": {
+                        "en": "Li ayyi yawmin ujjilat"
+                    }
+                },
+                "translation": {
+                    "en": "For what Day was it postponed?",
+                    "id": "(Niscaya dikatakan kepada mereka), “Sampai hari apakah ditangguhkan (azab orang-orang kafir itu)?”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5634",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5634.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5634.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "12-14. Dan ketika itu terjadilah awal masa jatuhnya siksa, dan ketika itu dikatakan juga kepada para rasul itu, “Sampai hari apakah ditangguhkan azab orang-orang kafir itu?” Sampai hari keputusan. Dan tahukah kamu apakah hari keputusan itu? Sungguh dahsyat hari keputusan itu, tidak terjangkau nalar dan tidak juga terbayangkan oleh khayalan manusia.12-14. Dan ketika itu terjadilah awal masa jatuhnya siksa, dan ketika itu dikatakan juga kepada para rasul itu, “Sampai hari apakah ditangguhkan azab orang-orang kafir itu?” Sampai hari keputusan. Dan tahukah kamu apakah hari keputusan itu? Sungguh dahsyat hari keputusan itu, tidak terjangkau nalar dan tidak juga terbayangkan oleh khayalan manusia.",
+                        "long": "Ayat ini menegaskan bahwa sampai kapankah urusan umat dengan rasul mereka ditangguhkan, sehingga yang kafir harus diazab atau mendapatkan kehinaan, dan sebaliknya yang beriman memperoleh kenikmatan dan pemeliharaan dari Allah? Ayat ini merupakan ancaman betapa hebatnya masalah-masalah yang dihadapi umat di hari itu, dan betapa beratnya tanggung jawab manusia di hadapan Allah kelak."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5635,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِيَوْمِ الْفَصْلِ",
+                    "transliteration": {
+                        "en": "Li yawmil Fasl"
+                    }
+                },
+                "translation": {
+                    "en": "For the Day of Judgement.",
+                    "id": "Sampai hari keputusan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5635",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5635.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5635.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "12-14. Dan ketika itu terjadilah awal masa jatuhnya siksa, dan ketika itu dikatakan juga kepada para rasul itu, “Sampai hari apakah ditangguhkan azab orang-orang kafir itu?” Sampai hari keputusan. Dan tahukah kamu apakah hari keputusan itu? Sungguh dahsyat hari keputusan itu, tidak terjangkau nalar dan tidak juga terbayangkan oleh khayalan manusia.12-14. Dan ketika itu terjadilah awal masa jatuhnya siksa, dan ketika itu dikatakan juga kepada para rasul itu, “Sampai hari apakah ditangguhkan azab orang-orang kafir itu?” Sampai hari keputusan. Dan tahukah kamu apakah hari keputusan itu? Sungguh dahsyat hari keputusan itu, tidak terjangkau nalar dan tidak juga terbayangkan oleh khayalan manusia.",
+                        "long": "Kemudian Allah menerangkan bahwa pada hari yang dijanjikan itu Dia menyelesaikan segala perkara yang terjadi di antara sesama makhluk. Pada hari itulah tegaknya Mahkamah Ilahi yang mengadili segala perkara dengan seadil-adilnya. Itulah hari yang disebut Yaumul-Fasl (hari pemisah)."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5636,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ",
+                    "transliteration": {
+                        "en": "Wa maaa adraaka maa yawmul fasl"
+                    }
+                },
+                "translation": {
+                    "en": "And what can make you know what is the Day of Judgement?",
+                    "id": "Dan tahukah kamu apakah hari ke-putusan itu?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5636",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5636.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5636.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "12-14. Dan ketika itu terjadilah awal masa jatuhnya siksa, dan ketika itu dikatakan juga kepada para rasul itu, “Sampai hari apakah ditangguhkan azab orang-orang kafir itu?” Sampai hari keputusan. Dan tahukah kamu apakah hari keputusan itu? Sungguh dahsyat hari keputusan itu, tidak terjangkau nalar dan tidak juga terbayangkan oleh khayalan manusia.15. Ketika hari keputusan itu telah tiba maka celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Dalam ayat ini, Allah menunjukkan betapa dahsyatnya hari itu dalam bentuk pertanyaan kepada Nabi Muhammad, \"Tahukah engkau apakah hari pemisah itu?\" Apakah hari saat umat dan rasul mereka masing-masing dikumpulkan?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5637,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+                    "transliteration": {
+                        "en": "Wailuny yawma 'izillilmukazzibeen"
+                    }
+                },
+                "translation": {
+                    "en": "Woe, that Day, to the deniers.",
+                    "id": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5637",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5637.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5637.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ketika hari keputusan itu telah tiba maka celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.16-17. Dahsyatnya Kiamat yang dilukiskan pada ayat di atas mungkin belum bisa menyadarkan para pendurhaka, kini ditunjukkan kuasa Allah yang lebih konkrit. Bukankah telah Kami binasakan generasi orang-orang yang dahulu karena keingkaran mereka? Lalu Kami juga akan susulkan azab Kami terhadap orang-orang yang datang kemudian seperti terhadap kamu wahai kaum musyrik Mekah, dan juga generasi pembangkang yang datang setelah kamu.",
+                        "long": "Kemudian Allah sendiri menjelaskan jawaban dari pertanyaan yang disebutkan dalam ayat di atas. Pada hari itu azab dan kehinaan menimpa orang-orang yang mendustakan Allah dan Rasul serta kitab suci yang diturunkan-Nya. Azab akan dijatuhkan kepada manusia yang suka mendustakan apa yang telah disampaikan dan diceritakan para rasul.\n\nSemua orang kafir masih ragu terhadap semua yang ditegaskan Allah. Akan tetapi, Allah tidak akan menyalahi janji-Nya. Ayat lain menegaskan:\n\n(Yaitu) pada hari (ketika) bumi diganti dengan bumi yang lain dan (demikian pula) langit, dan mereka (manusia) berkumpul (di Padang Mahsyar) menghadap Allah Yang Maha Esa, Mahaperkasa. (Ibrahim/14:: 48)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5638,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَلَمْ نُهْلِكِ الْأَوَّلِينَ",
+                    "transliteration": {
+                        "en": "Alam nuhlikil awwaleen"
+                    }
+                },
+                "translation": {
+                    "en": "Did We not destroy the former peoples?",
+                    "id": "Bukankah telah Kami binasakan orang-orang yang dahulu?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5638",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5638.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5638.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "16-17. Dahsyatnya Kiamat yang dilukiskan pada ayat di atas mungkin belum bisa menyadarkan para pendurhaka, kini ditunjukkan kuasa Allah yang lebih konkrit. Bukankah telah Kami binasakan generasi orang-orang yang dahulu karena keingkaran mereka? Lalu Kami juga akan susulkan azab Kami terhadap orang-orang yang datang kemudian seperti terhadap kamu wahai kaum musyrik Mekah, dan juga generasi pembangkang yang datang setelah kamu.16-17. Dahsyatnya Kiamat yang dilukiskan pada ayat di atas mungkin belum bisa menyadarkan para pendurhaka, kini ditunjukkan kuasa Allah yang lebih konkrit. Bukankah telah Kami binasakan generasi orang-orang yang dahulu karena keingkaran mereka? Lalu Kami juga akan susulkan azab Kami terhadap orang-orang yang datang kemudian seperti terhadap kamu wahai kaum musyrik Mekah, dan juga generasi pembangkang yang datang setelah kamu.",
+                        "long": "Ayat ini dimulai dengan pertanyaan Allah, \"Apakah Kami tidak membinasakan orang-orang yang telah mendustakan rasul-Nya sebelum kamu?\" Sejarah para nabi dan rasul bersama kaumnya mencatat bahwa hampir setiap bangsa yang telah mendurhakai Allah dan rasul-Nya telah dibinasakan dengan berbagai macam azab yang satu dengan yang lainnya berbeda.\n\nTerkadang Allah menghancurkan mereka dengan banjir seperti nasib yang telah diderita oleh umat Nabi Nuh, ketika negeri mereka ditenggelamkan Allah dengan air bah. Ada yang ditelan binasa oleh bumi setelah negeri itu dilanda oleh gempa yang sangat hebat, seperti halnya umat Nabi Lut. Ada pula yang diserang angin kencang selama 8 hari 7 malam, yang menyebabkan seluruh penduduknya tewas, kecuali orang yang beriman, yakni umat Nabi Saleh. Begitulah seterusnya.\n\nPertanyaan Allah yang demikian mengandung suatu peringatan halus agar manusia yang masih kafir itu hendaknya mawas diri, sebab bagaimana pun juga sunatullah peraturan Allah yang berlaku tidak akan diubah. Dalam hal ini, siapa yang kafir baik dahulu maupun sekarang atau pada masa yang akan datang, tetap akan merasakan siksaan dari-Nya. Oleh karena itu, hendaklah manusia sadar sebelum datang penyesalan yang tiada berguna."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5639,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ",
+                    "transliteration": {
+                        "en": "Summa nutbi'uhumul aakhireen"
+                    }
+                },
+                "translation": {
+                    "en": "Then We will follow them with the later ones.",
+                    "id": "Lalu Kami susulkan (azab Kami terhadap) orang-orang yang datang kemudian."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5639",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5639.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5639.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "16-17. Dahsyatnya Kiamat yang dilukiskan pada ayat di atas mungkin belum bisa menyadarkan para pendurhaka, kini ditunjukkan kuasa Allah yang lebih konkrit. Bukankah telah Kami binasakan generasi orang-orang yang dahulu karena keingkaran mereka? Lalu Kami juga akan susulkan azab Kami terhadap orang-orang yang datang kemudian seperti terhadap kamu wahai kaum musyrik Mekah, dan juga generasi pembangkang yang datang setelah kamu.18-19. Demikianlah yang akan terus terjadi, Kami akan perlakukan orang-orang yang berdosa sesuai dengan ketetapan Kami, kapan dan di mana pun. Maka Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Ayat ini menyatakan bahwa azab Allah yang menimpa bangsa-bangsa dahulu kala itu silih berganti datangnya. Umat yang satu binasa, ada umat lain yang serupa. Pada saatnya mereka akan binasa pula bila tidak mau belajar dari sejarah nenek moyang mereka yang mendurhakai Allah dan rasul-Nya.\n\nDengan penurunan Al-Qur'an, Allah memperingatkan orang Mekah yang bersikap menantang dan mendustakan Nabi Muhammad dan juga kepada umat yang hidup sesudah beliau pada masa kini dan akan datang. Hendaklah umat manusia selalu belajar dari sejarah, karena sejarah itu akan datang mengulang dirinya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5640,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
+                    "transliteration": {
+                        "en": "Kazzlika naf'alu bilmujrimeen"
+                    }
+                },
+                "translation": {
+                    "en": "Thus do We deal with the criminals.",
+                    "id": "Demikianlah Kami perlakukan orang-orang yang berdosa."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5640",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5640.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5640.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "18-19. Demikianlah yang akan terus terjadi, Kami akan perlakukan orang-orang yang berdosa sesuai dengan ketetapan Kami, kapan dan di mana pun. Maka Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.18-19. Demikianlah yang akan terus terjadi, Kami akan perlakukan orang-orang yang berdosa sesuai dengan ketetapan Kami, kapan dan di mana pun. Maka Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Dalam ayat ini, Allah sekali lagi menegaskan bahwa apa yang telah diperbuat-Nya terhadap umat dahulu akan sama saja dengan apa yang dilakukan-Nya terhadap umat sekarang. Sebab sunnah-Nya sejak dahulu sampai sekarang tetap sama, tidak akan berubah sedikit pun. Begitulah Dia telah menghancurkan orang-orang yang berdosa akibat perbuatan dan sikap mereka yang mendustai-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5641,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 580,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+                    "transliteration": {
+                        "en": "Wailunw yawma 'izil lil mukazzibeen"
+                    }
+                },
+                "translation": {
+                    "en": "Woe, that Day, to the deniers.",
+                    "id": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5641",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5641.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5641.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "18-19. Demikianlah yang akan terus terjadi, Kami akan perlakukan orang-orang yang berdosa sesuai dengan ketetapan Kami, kapan dan di mana pun. Maka Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.20-22. Setelah mengecam para pendurhaka, ayat-ayat berikut mengingatkan tentang kelemahan manusia dan bagaimana makhluk ini benar-benar berada dalam kendali-Nya. Bukankah Kami menciptakan kamu dari air yang hina yaitu sperma, kemudian Kami letakkan ia sperma tersebut setelah melalui proses yang telah ditetapkan, dalam tempat yang kokoh, yaitu rahim, sampai waktu dan tahap penciptaan yang ditentukan Allah,",
+                        "long": "Ayat ini berisi kecaman Allah terhadap orang-orang yang mendustakan-Nya serta para nabi dan rasul-Nya dengan kecaman \"celakalah orang yang mendustakan\".\n\nPengulangan sumpah dan kecaman yang terdapat dalam Surah al-Mursalat ini, di samping dimaksudkan untuk menegaskan arti (ta'kid), juga mengandung pengertian lain, yakni bahwa kecaman tersebut tidak hanya diberlakukan di akhirat, melainkan juga diperlihatkan-Nya di dunia ini.\n\nImam al-Qurthubi mengatakan kata wail diulang-ulang dalam surah ini untuk menunjukkan bahwa untuk masing-masing bangsa yang mendustakan Allah, diberikan siksaan yang berlainan dengan apa yang diterima oleh bangsa lain sebelumnya. Masing-masing umat nabi dahulu kala yang bersikap membangkang telah menerima siksaan Ilahi yang berlainan satu dengan lainnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5642,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَلَمْ نَخْلُقكُّم مِّن مَّاءٍ مَّهِينٍ",
+                    "transliteration": {
+                        "en": "Alam nakhlukkum mimmaaa'im maheen"
+                    }
+                },
+                "translation": {
+                    "en": "Did We not create you from a liquid disdained?",
+                    "id": "Bukankah Kami menciptakan kamu dari air yang hina (mani),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5642",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5642.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5642.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "20-22. Setelah mengecam para pendurhaka, ayat-ayat berikut mengingatkan tentang kelemahan manusia dan bagaimana makhluk ini benar-benar berada dalam kendali-Nya. Bukankah Kami menciptakan kamu dari air yang hina yaitu sperma, kemudian Kami letakkan ia sperma tersebut setelah melalui proses yang telah ditetapkan, dalam tempat yang kokoh, yaitu rahim, sampai waktu dan tahap penciptaan yang ditentukan Allah,20-22. Setelah mengecam para pendurhaka, ayat-ayat berikut mengingatkan tentang kelemahan manusia dan bagaimana makhluk ini benar-benar berada dalam kendali-Nya. Bukankah Kami menciptakan kamu dari air yang hina yaitu sperma, kemudian Kami letakkan ia sperma tersebut setelah melalui proses yang telah ditetapkan, dalam tempat yang kokoh, yaitu rahim, sampai waktu dan tahap penciptaan yang ditentukan Allah,",
+                        "long": "Pada ayat ini, Allah mengingatkan kembali dengan suatu pertanyaan, \"Tidakkah manusia itu dijadikan dari setetes air yang hina?\" Air yang hina yang disebut mani ini tersimpan dalam tempat yang kokoh yakni rahim ibu. Di situlah mani sang ayah dengan sel telur ibu bercampur dan mengikuti proses kejadian tahap demi tahap yang diatur dengan sangat rapi dan teliti oleh yang Mahakuasa. Setelah cukup waktu yang ditetapkan, maka lahirlah calon manusia itu dalam bentuk bayi.\n\nKetiga ayat di atas kembali mengulang mengenai peran air mani dalam perkembangan manusia. Namun, dalam ayat ini disebutkan rahim secara khusus. Untuk itu, tekanan interpretasi yang berkait dengan ayat ini adalah rahim.\n\nMenurut sains, rahim atau uterus adalah tempat dimana embrio dan janin tumbuh dan berkembang, sebelum dilahirkan dalam bentuk anak manusia yang utuh. Rahim disebutkan sebagai tempat yang kokoh dan aman karena beberapa hal, yaitu:\n\n1.Letaknya terlindung karena terletak di antara tulang panggul. Ia 'dipegang secara kuat di kedua sisinya oleh otot-otot, yang pada saat bersamaan memberikan kebebasan kepada rahim untuk bergerak dan tumbuh sampai beberapa ratus kali ukuran sebelumnya, pada saat puncak kandungan sebelum melahirkan.\n\n2.Pada saat kehamilan, dihasilkan suatu cairan yang dinamakan progesteron, atau biasa disebut sebagai hormon kehamilan, yang berfungsi untuk merendahkan frekuensi kontraksi rahim.\n\n3.Embrio yang ada di dalam rahim dikelilingi oleh beberapa lapisan membran yang menghasilkan suatu cairan dimana embrio itu berenang di dalamnya. Hal ini menjaga embrio dari kemungkinan rusak akibat benturan dari luar.\n\nAda satu ayat lain yang mengindikasikan tahapan-tahapan pengembangan dan keamanan yang ditawarkan rahim kepada janin:\n\n... Dia menjadikan kamu dalam perut ibumu kejadian demi kejadian dalam tiga kegelapan. Yang (berbuat) demikian itu adalah Allah, Tuhan kamu, Tuhan yang memiliki kerajaan. Tidak ada tuhan selain Dia; maka mengapa kamu dapat dipalingkan? (az-Zumar/39: 6)\n\nMengenai tahapan-tahapan sudah kita bahas di depan. Sedangkan mengenai keamanan janin di dalam rahim, para ahli menemukan adanya tiga lapis membran (di dalam ayat di atas disebutkan dengan 'tiga kegelapan) yang dapat mengamankan janin selama berada di dalam rahim, yaitu:\n\n1.Lapisan membran amnion yang mengandung cairan sehingga janin dalam keadaan berenang. Kondisi demikian ini melindungi janin apabila ada benturan dari luar. Di samping itu, posisi berenang ini memberikan kesempatan kepada janin dalam memposisikan diri saat akan dilahirkan.\n\n2.Lapisan membran chorion\n\n3.Lapisan membran decidua\n\nBeberapa peneliti menghubungkan tiga lapisan kegelapan dalam ayat di atas dengan lapisan membran amniotik yang mengelilingi rahim, dinding rahim itu sendiri, dan dinding abdomen di bagian perut."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5643,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَجَعَلْنَاهُ فِي قَرَارٍ مَّكِينٍ",
+                    "transliteration": {
+                        "en": "Faja'alnaahu fee qaraarim makeen"
+                    }
+                },
+                "translation": {
+                    "en": "And We placed it in a firm lodging",
+                    "id": "kemudian Kami letakkan ia dalam tempat yang kokoh (rahim),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5643",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5643.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5643.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "20-22. Setelah mengecam para pendurhaka, ayat-ayat berikut mengingatkan tentang kelemahan manusia dan bagaimana makhluk ini benar-benar berada dalam kendali-Nya. Bukankah Kami menciptakan kamu dari air yang hina yaitu sperma, kemudian Kami letakkan ia sperma tersebut setelah melalui proses yang telah ditetapkan, dalam tempat yang kokoh, yaitu rahim, sampai waktu dan tahap penciptaan yang ditentukan Allah,20-22. Setelah mengecam para pendurhaka, ayat-ayat berikut mengingatkan tentang kelemahan manusia dan bagaimana makhluk ini benar-benar berada dalam kendali-Nya. Bukankah Kami menciptakan kamu dari air yang hina yaitu sperma, kemudian Kami letakkan ia sperma tersebut setelah melalui proses yang telah ditetapkan, dalam tempat yang kokoh, yaitu rahim, sampai waktu dan tahap penciptaan yang ditentukan Allah,",
+                        "long": "Pada ayat ini, Allah mengingatkan kembali dengan suatu pertanyaan, \"Tidakkah manusia itu dijadikan dari setetes air yang hina?\" Air yang hina yang disebut mani ini tersimpan dalam tempat yang kokoh yakni rahim ibu. Di situlah mani sang ayah dengan sel telur ibu bercampur dan mengikuti proses kejadian tahap demi tahap yang diatur dengan sangat rapi dan teliti oleh yang Mahakuasa. Setelah cukup waktu yang ditetapkan, maka lahirlah calon manusia itu dalam bentuk bayi.\n\nKetiga ayat di atas kembali mengulang mengenai peran air mani dalam perkembangan manusia. Namun, dalam ayat ini disebutkan rahim secara khusus. Untuk itu, tekanan interpretasi yang berkait dengan ayat ini adalah rahim.\n\nMenurut sains, rahim atau uterus adalah tempat dimana embrio dan janin tumbuh dan berkembang, sebelum dilahirkan dalam bentuk anak manusia yang utuh. Rahim disebutkan sebagai tempat yang kokoh dan aman karena beberapa hal, yaitu:\n\n1.Letaknya terlindung karena terletak di antara tulang panggul. Ia 'dipegang secara kuat di kedua sisinya oleh otot-otot, yang pada saat bersamaan memberikan kebebasan kepada rahim untuk bergerak dan tumbuh sampai beberapa ratus kali ukuran sebelumnya, pada saat puncak kandungan sebelum melahirkan.\n\n2.Pada saat kehamilan, dihasilkan suatu cairan yang dinamakan progesteron, atau biasa disebut sebagai hormon kehamilan, yang berfungsi untuk merendahkan frekuensi kontraksi rahim.\n\n3.Embrio yang ada di dalam rahim dikelilingi oleh beberapa lapisan membran yang menghasilkan suatu cairan dimana embrio itu berenang di dalamnya. Hal ini menjaga embrio dari kemungkinan rusak akibat benturan dari luar.\n\nAda satu ayat lain yang mengindikasikan tahapan-tahapan pengembangan dan keamanan yang ditawarkan rahim kepada janin:\n\n... Dia menjadikan kamu dalam perut ibumu kejadian demi kejadian dalam tiga kegelapan. Yang (berbuat) demikian itu adalah Allah, Tuhan kamu, Tuhan yang memiliki kerajaan. Tidak ada tuhan selain Dia; maka mengapa kamu dapat dipalingkan? (az-Zumar/39: 6)\n\nMengenai tahapan-tahapan sudah kita bahas di depan. Sedangkan mengenai keamanan janin di dalam rahim, para ahli menemukan adanya tiga lapis membran (di dalam ayat di atas disebutkan dengan 'tiga kegelapan) yang dapat mengamankan janin selama berada di dalam rahim, yaitu:\n\n1.Lapisan membran amnion yang mengandung cairan sehingga janin dalam keadaan berenang. Kondisi demikian ini melindungi janin apabila ada benturan dari luar. Di samping itu, posisi berenang ini memberikan kesempatan kepada janin dalam memposisikan diri saat akan dilahirkan.\n\n2.Lapisan membran chorion\n\n3.Lapisan membran decidua\n\nBeberapa peneliti menghubungkan tiga lapisan kegelapan dalam ayat di atas dengan lapisan membran amniotik yang mengelilingi rahim, dinding rahim itu sendiri, dan dinding abdomen di bagian perut."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5644,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+                    "transliteration": {
+                        "en": "Illaa qadrim ma'loom"
+                    }
+                },
+                "translation": {
+                    "en": "For a known extent.",
+                    "id": "sampai waktu yang ditentukan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5644",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5644.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5644.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "20-22. Setelah mengecam para pendurhaka, ayat-ayat berikut mengingatkan tentang kelemahan manusia dan bagaimana makhluk ini benar-benar berada dalam kendali-Nya. Bukankah Kami menciptakan kamu dari air yang hina yaitu sperma, kemudian Kami letakkan ia sperma tersebut setelah melalui proses yang telah ditetapkan, dalam tempat yang kokoh, yaitu rahim, sampai waktu dan tahap penciptaan yang ditentukan Allah,23-24. Lalu Kami tentukan bentuknya serta masa kelahirannya, maka Kamilah sebaik-baik yang menentukan bentuk setiap makhluk. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Pada ayat ini, Allah mengingatkan kembali dengan suatu pertanyaan, \"Tidakkah manusia itu dijadikan dari setetes air yang hina?\" Air yang hina yang disebut mani ini tersimpan dalam tempat yang kokoh yakni rahim ibu. Di situlah mani sang ayah dengan sel telur ibu bercampur dan mengikuti proses kejadian tahap demi tahap yang diatur dengan sangat rapi dan teliti oleh yang Mahakuasa. Setelah cukup waktu yang ditetapkan, maka lahirlah calon manusia itu dalam bentuk bayi.\n\nKetiga ayat di atas kembali mengulang mengenai peran air mani dalam perkembangan manusia. Namun, dalam ayat ini disebutkan rahim secara khusus. Untuk itu, tekanan interpretasi yang berkait dengan ayat ini adalah rahim.\n\nMenurut sains, rahim atau uterus adalah tempat dimana embrio dan janin tumbuh dan berkembang, sebelum dilahirkan dalam bentuk anak manusia yang utuh. Rahim disebutkan sebagai tempat yang kokoh dan aman karena beberapa hal, yaitu:\n\n1.Letaknya terlindung karena terletak di antara tulang panggul. Ia 'dipegang secara kuat di kedua sisinya oleh otot-otot, yang pada saat bersamaan memberikan kebebasan kepada rahim untuk bergerak dan tumbuh sampai beberapa ratus kali ukuran sebelumnya, pada saat puncak kandungan sebelum melahirkan.\n\n2.Pada saat kehamilan, dihasilkan suatu cairan yang dinamakan progesteron, atau biasa disebut sebagai hormon kehamilan, yang berfungsi untuk merendahkan frekuensi kontraksi rahim.\n\n3.Embrio yang ada di dalam rahim dikelilingi oleh beberapa lapisan membran yang menghasilkan suatu cairan dimana embrio itu berenang di dalamnya. Hal ini menjaga embrio dari kemungkinan rusak akibat benturan dari luar.\n\nAda satu ayat lain yang mengindikasikan tahapan-tahapan pengembangan dan keamanan yang ditawarkan rahim kepada janin:\n\n... Dia menjadikan kamu dalam perut ibumu kejadian demi kejadian dalam tiga kegelapan. Yang (berbuat) demikian itu adalah Allah, Tuhan kamu, Tuhan yang memiliki kerajaan. Tidak ada tuhan selain Dia; maka mengapa kamu dapat dipalingkan? (az-Zumar/39: 6)\n\nMengenai tahapan-tahapan sudah kita bahas di depan. Sedangkan mengenai keamanan janin di dalam rahim, para ahli menemukan adanya tiga lapis membran (di dalam ayat di atas disebutkan dengan 'tiga kegelapan) yang dapat mengamankan janin selama berada di dalam rahim, yaitu:\n\n1.Lapisan membran amnion yang mengandung cairan sehingga janin dalam keadaan berenang. Kondisi demikian ini melindungi janin apabila ada benturan dari luar. Di samping itu, posisi berenang ini memberikan kesempatan kepada janin dalam memposisikan diri saat akan dilahirkan.\n\n2.Lapisan membran chorion\n\n3.Lapisan membran decidua\n\nBeberapa peneliti menghubungkan tiga lapisan kegelapan dalam ayat di atas dengan lapisan membran amniotik yang mengelilingi rahim, dinding rahim itu sendiri, dan dinding abdomen di bagian perut."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5645,
+                    "inSurah": 23
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ",
+                    "transliteration": {
+                        "en": "Faqadarnaa fani'mal qaadiroon"
+                    }
+                },
+                "translation": {
+                    "en": "And We determined [it], and excellent [are We] to determine.",
+                    "id": "lalu Kami tentukan (bentuknya), maka (Kamilah) sebaik-baik yang menentukan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5645",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5645.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5645.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "23-24. Lalu Kami tentukan bentuknya serta masa kelahirannya, maka Kamilah sebaik-baik yang menentukan bentuk setiap makhluk. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.23-24. Lalu Kami tentukan bentuknya serta masa kelahirannya, maka Kamilah sebaik-baik yang menentukan bentuk setiap makhluk. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Dalam urusan mengatur dan menetapkan masa lamanya si anak \"tersimpan\" dalam rahim itu dan kemudian menetapkan bila dia harus lahir sebagai anak yang sempurna ke alam ini, adalah urusan Allah semata. Manusia boleh mengetahui lewat pikirannya, namun soal pengaturannya tetaplah di tangan Yang Mahakuasa. Terhadap soal ini, Allah menegaskan bahwa Dialah sebaik-baiknya yang menentukan.\n\nBetapa tepat, indah, dan harmonis kejadian manusia yang diciptakan-Nya itu dapat kita bandingkan, umpamanya, dengan bentuk dan rupa hewan. Sekalipun jenis makhluk hewan itu tidak ada yang cacat maupun yang janggal menurut penglihatan kita, namun ciptaan dan susunan anatomi tubuh manusia tetap jauh lebih sempurna, indah, dan menarik, dibandingkan dengan segala makhluk hidup yang ada. Dengan merenungkan hal itu, barulah kita menyimpulkan bahwa memang Tuhanlah yang sebaik-baik menentukan.\n\nAyat ini mengandung ajakan bagi manusia untuk berpikir dan menyimpulkan sikap hidupnya terhadap Zat yang menjadikan itu. Apakah tidak patut manusia bersyukur dan berterima kasih kepada-Nya? Apakah tidak selayaknya kalau manusia menanggalkan sikap ingkar dan keras kepalanya setelah ia menyadari sepenuhnya betapa kasih sayang Allah, dan betapa Allah telah membimbing kehidupan ini dengan mengirim rasul-Nya guna mengajarkan ajaran tentang keesaan-Nya?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5646,
+                    "inSurah": 24
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+                    "transliteration": {
+                        "en": "Wailuny yawma 'izil lilmukazzibeen"
+                    }
+                },
+                "translation": {
+                    "en": "Woe, that Day, to the deniers.",
+                    "id": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5646",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5646.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5646.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "23-24. Lalu Kami tentukan bentuknya serta masa kelahirannya, maka Kamilah sebaik-baik yang menentukan bentuk setiap makhluk. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.25-26. Nikmat penciptaan manusia telah diuraikan, kini nikmat lain yang diberikan kepada manusia yaitu tempat kediaman di bumi yang nyaman untuk ditinggali. Bukankah Kami jadikan bumi untuk tempat berkumpul, bagi yang masih hidup di permukaan bumi mereka berkeliaran, dan di perut bumi makhluk yang sudah mati itu dikuburkan?",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa terlepas dari semua itu kalau memang manusia tak mau mengubah tabiat dan karakternya, tetap saja kafir laknat, dan lebih dari itu juga berusaha merongrong kewibawaan Ilahi itu dengan mempersekutukan-Nya dengan makhluk lain ciptaan-Nya, dan sama sekali tidak yakin adanya hari kebangkitan, hari manusia menerima ganjaran amal perbuatan baiknya, maka Tuhan mengancam untuk kedua kalinya, \"Celaka besarlah pada hari itu bagi orang-orang yang mendustakan.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5647,
+                    "inSurah": 25
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا",
+                    "transliteration": {
+                        "en": "Alam naj'alil arda kifaataa"
+                    }
+                },
+                "translation": {
+                    "en": "Have We not made the earth a container",
+                    "id": "Bukankah Kami jadikan bumi untuk (tempat) berkumpul,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5647",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5647.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5647.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "25-26. Nikmat penciptaan manusia telah diuraikan, kini nikmat lain yang diberikan kepada manusia yaitu tempat kediaman di bumi yang nyaman untuk ditinggali. Bukankah Kami jadikan bumi untuk tempat berkumpul, bagi yang masih hidup di permukaan bumi mereka berkeliaran, dan di perut bumi makhluk yang sudah mati itu dikuburkan?25-26. Nikmat penciptaan manusia telah diuraikan, kini nikmat lain yang diberikan kepada manusia yaitu tempat kediaman di bumi yang nyaman untuk ditinggali. Bukankah Kami jadikan bumi untuk tempat berkumpul, bagi yang masih hidup di permukaan bumi mereka berkeliaran, dan di perut bumi makhluk yang sudah mati itu dikuburkan?",
+                        "long": "Setelah menyebutkan berbagai rupa nikmat-Nya di sekitar proses kejadian manusia, maka dalam ayat ini, Allah mengajak manusia memperhatikan dengan seksama terhadap nikmat-Nya yang ada di cakrawala ini. Hal ini diungkapkan Allah dengan kalimat pertanyaan, \"Bukankah Kami telah menciptakan bumi yang terhampar dan terbentang begitu luas sebagai tempat berkumpul dan tempat hidup bersama-sama mencari penghidupan.\n\nSecara saintifik, planet bumi ini beserta atmosfernya telah diciptakan Allah dengan benar dan tepat. Bumi kita dan atmosfernya mengandung substansi atau materi yang mendukung adanya proses kehidupan, antara lain adanya gas nitrogen (N2) yang tak berbahaya bagi makhluk hidup, namun sangat dibutuhkan untuk timbulnya suatu proses kehidupan, dan gas oksigen (O2), yang sangat dibutuhkan dalam kelangsungan kehidupan semua makhluk hidup. Oleh sebab itu, di bumi semua kehidupan berkumpul (lebih detail lihat Al-Qur'an dan Tafsirnya Jilid 5 Surah Ibrahim/14:19)."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5648,
+                    "inSurah": 26
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَحْيَاءً وَأَمْوَاتًا",
+                    "transliteration": {
+                        "en": "Ahyaaa'anw wa amwaataa"
+                    }
+                },
+                "translation": {
+                    "en": "Of the living and the dead?",
+                    "id": "bagi yang masih hidup dan yang sudah mati?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5648",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5648.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5648.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "25-26. Nikmat penciptaan manusia telah diuraikan, kini nikmat lain yang diberikan kepada manusia yaitu tempat kediaman di bumi yang nyaman untuk ditinggali. Bukankah Kami jadikan bumi untuk tempat berkumpul, bagi yang masih hidup di permukaan bumi mereka berkeliaran, dan di perut bumi makhluk yang sudah mati itu dikuburkan?27-28. Dan di samping nikmat di atas Kami juga jadikan padanya gunung-gunung yang tinggi lagi kokoh, sehingga menjadikan bumi tetap stabil, dan Kami beri minum kamu dengan air tawar? Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Kegunaan bumi diciptakan terhampar dan tempat berkumpul bukan saja untuk yang masih hidup yang tinggal di atas permukaannya, melainkan juga bagi yang telah meninggal dunia untuk dikuburkan dalam perutnya. Itulah sebabnya dikatakan bumi untuk orang yang masih hidup dan yang sudah meninggal. Kifat dalam bahasa Arab berarti kuburan bagi yang meninggal dan rumah bagi yang masih hidup.\n\nMenurut para ilmuwan, bagian atas bumi merupakan lempengan-lempengan kulit bumi yang saling berinteraksi satu sama lain dan mengakibatkan terjadinya deformasi kerak bumi yang antara lain dimanifestasikan dengan pembentukan pegunungan, gunung api dan gempa bumi. Pegunungan-pegunungan yang tinggi ikut serta dalam siklus hidrologi dimana air akhirnya tersimpan di daratan dan menjadi sumber air minum manusia dan kehidupan lainnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5649,
+                    "inSurah": 27
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُم مَّاءً فُرَاتًا",
+                    "transliteration": {
+                        "en": "Wa ja'alnaa feehaa rawaasiya shaamikhaatinw wa asqainaakum maaa'an furaataa"
+                    }
+                },
+                "translation": {
+                    "en": "And We placed therein lofty, firmly set mountains and have given you to drink sweet water.",
+                    "id": "Dan Kami jadikan padanya gunung-gunung yang tinggi, dan Kami beri minum kamu dengan air tawar?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5649",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5649.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5649.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "27-28. Dan di samping nikmat di atas Kami juga jadikan padanya gunung-gunung yang tinggi lagi kokoh, sehingga menjadikan bumi tetap stabil, dan Kami beri minum kamu dengan air tawar? Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.27-28. Dan di samping nikmat di atas Kami juga jadikan padanya gunung-gunung yang tinggi lagi kokoh, sehingga menjadikan bumi tetap stabil, dan Kami beri minum kamu dengan air tawar? Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Selain itu, Allah juga mengarahkan perhatian manusia kepada tujuan penciptaan gunung yang menjulang tinggi dari permukaan bumi. Ia dikatakan sebagai pasak bumi dan dengan demikian, manusia merasa tenteram tinggal di bumi. Gunung itulah yang bertugas sebagai pasak tiang untuk menjaga keseimbangan bumi tersebut. Terkadang sebagian badan gunung-gunung itu terbenam dalam tanah atau dalam laut maupun sungai-sungai.\n\nSelanjutnya Allah mengajak manusia memikirkan tentang air tawar yang diminum setiap hari, sebagai anugerah dari-Nya. Dialah yang menurut ayat ini memberikan minum. Terkadang air itu tercurah dari langit yang dibawa hujan yang berasal dari gumpalan awan atau dari salju mencair dan adakalanya pula mengalir dari anak-anak sungai atau memancar dari mata air, di bawah celah-celah gunung maupun di pinggir kali, dan sebagainya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5650,
+                    "inSurah": 28
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+                    "transliteration": {
+                        "en": "Wailuny yawma 'izil lilmukazzibeen"
+                    }
+                },
+                "translation": {
+                    "en": "Woe, that Day, to the deniers.",
+                    "id": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5650",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5650.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5650.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "27-28. Dan di samping nikmat di atas Kami juga jadikan padanya gunung-gunung yang tinggi lagi kokoh, sehingga menjadikan bumi tetap stabil, dan Kami beri minum kamu dengan air tawar? Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.29-31. Pada bagian terdahulu dijelaskan tentang ancaman Allah kepada yang durhaka. Kelompok ayat ini menerangkan sekelumit ancaman tersebut nanti di akhirat. Akan dikatakan kepada mereka, “Pergilah kamu wahai para pendurhaka, mendapatkan apa azab yang dahulu kamu dustakan. Pergilah kamu mendapatkan naungan asap api neraka yang mempunyai tiga cabang, yang tidak melindungi yaitu tidak menaungi dari panasnya api neraka, dan tidak pula menolak jilatan nyala api neraka yang sangat panas.”",
+                        "long": "Oleh karena itu, bagi siapa yang masih mendustakan nikmat Allah itu terkena oleh kutukan ayat ini, \"Celaka besarlah pada hari itu bagi orang-orang yang mendustakan.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5651,
+                    "inSurah": 29
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "انطَلِقُوا إِلَىٰ مَا كُنتُم بِهِ تُكَذِّبُونَ",
+                    "transliteration": {
+                        "en": "Intaliqooo ilaa maa kuntum bihee tukazziboon"
+                    }
+                },
+                "translation": {
+                    "en": "[They will be told], \"Proceed to that which you used to deny.",
+                    "id": "(Akan dikatakan), “Pergilah kamu mendapatkan apa (azab) yang dahulu kamu dustakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5651",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5651.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5651.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "29-31. Pada bagian terdahulu dijelaskan tentang ancaman Allah kepada yang durhaka. Kelompok ayat ini menerangkan sekelumit ancaman tersebut nanti di akhirat. Akan dikatakan kepada mereka, “Pergilah kamu wahai para pendurhaka, mendapatkan apa azab yang dahulu kamu dustakan. Pergilah kamu mendapatkan naungan asap api neraka yang mempunyai tiga cabang, yang tidak melindungi yaitu tidak menaungi dari panasnya api neraka, dan tidak pula menolak jilatan nyala api neraka yang sangat panas.”29-31. Pada bagian terdahulu dijelaskan tentang ancaman Allah kepada yang durhaka. Kelompok ayat ini menerangkan sekelumit ancaman tersebut nanti di akhirat. Akan dikatakan kepada mereka, “Pergilah kamu wahai para pendurhaka, mendapatkan apa azab yang dahulu kamu dustakan. Pergilah kamu mendapatkan naungan asap api neraka yang mempunyai tiga cabang, yang tidak melindungi yaitu tidak menaungi dari panasnya api neraka, dan tidak pula menolak jilatan nyala api neraka yang sangat panas.”",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa orang-orang yang bernasib malang yang hendak dimasukkan ke dalam neraka Jahanam, akan ditegur oleh malaikat penjaga dengan suara keras agar mereka pergi kepada azab dan siksaan yang didustakan ketika masih di dunia dahulu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5652,
+                    "inSurah": 30
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "انطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ",
+                    "transliteration": {
+                        "en": "Intaliqooo ilaa zillin zee salaasi shu'ab"
+                    }
+                },
+                "translation": {
+                    "en": "Proceed to a shadow [of smoke] having three columns",
+                    "id": "Pergilah kamu mendapatkan naungan (asap api neraka) yang mempunyai tiga cabang,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5652",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5652.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5652.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "29-31. Pada bagian terdahulu dijelaskan tentang ancaman Allah kepada yang durhaka. Kelompok ayat ini menerangkan sekelumit ancaman tersebut nanti di akhirat. Akan dikatakan kepada mereka, “Pergilah kamu wahai para pendurhaka, mendapatkan apa azab yang dahulu kamu dustakan. Pergilah kamu mendapatkan naungan asap api neraka yang mempunyai tiga cabang, yang tidak melindungi yaitu tidak menaungi dari panasnya api neraka, dan tidak pula menolak jilatan nyala api neraka yang sangat panas.”29-31. Pada bagian terdahulu dijelaskan tentang ancaman Allah kepada yang durhaka. Kelompok ayat ini menerangkan sekelumit ancaman tersebut nanti di akhirat. Akan dikatakan kepada mereka, “Pergilah kamu wahai para pendurhaka, mendapatkan apa azab yang dahulu kamu dustakan. Pergilah kamu mendapatkan naungan asap api neraka yang mempunyai tiga cabang, yang tidak melindungi yaitu tidak menaungi dari panasnya api neraka, dan tidak pula menolak jilatan nyala api neraka yang sangat panas.”",
+                        "long": "Gumpalan asap neraka itu bercabang tiga. Satu bagian di sebelah kanan, satu cabang di kiri, dan yang ketiga di atas pundak mereka, sehingga mereka terkepung di dalamnya dan tidak dapat keluar lagi. Di dalam ayat yang lain, Allah berfirman:\n\nSesungguhnya Kami telah menyediakan neraka bagi orang zalim, yang gejolaknya mengepung mereka. (al-Kahf/18: 29)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5653,
+                    "inSurah": 31
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَّا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ",
+                    "transliteration": {
+                        "en": "Laa zaleelinw wa laa yughnee minal lahab"
+                    }
+                },
+                "translation": {
+                    "en": "[But having] no cool shade and availing not against the flame.\"",
+                    "id": "yang tidak melindungi dan tidak pula menolak nyala api neraka.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5653",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5653.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5653.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "29-31. Pada bagian terdahulu dijelaskan tentang ancaman Allah kepada yang durhaka. Kelompok ayat ini menerangkan sekelumit ancaman tersebut nanti di akhirat. Akan dikatakan kepada mereka, “Pergilah kamu wahai para pendurhaka, mendapatkan apa azab yang dahulu kamu dustakan. Pergilah kamu mendapatkan naungan asap api neraka yang mempunyai tiga cabang, yang tidak melindungi yaitu tidak menaungi dari panasnya api neraka, dan tidak pula menolak jilatan nyala api neraka yang sangat panas.”32-34. Kedahsyatan lain dari siksa neraka dijelaskan pada ayat ini,.Sungguh, neraka itu menyemburkan bunga api sebesar dan setinggi istana, seakan-akan iring-iringan unta yang kuning dalam bentuk dan warnanya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Allah mengatakan dalam ayat ini bahwa biarpun neraka itu disebutkan punya lindungan namun bukan melindungi mereka dari panasnya api neraka. Tidak ada tempat beristirahat dan tempat berteduh dari kepanasan. Ditegaskan pula di sini bahwa lindungan mereka bukan lindungan seperti yang diperoleh seorang mukmin, karena tidak ada yang dapat menaungi mereka dari panas gejolak api neraka.\n\nAyat lain menerangkan:\n\n(Mereka) dalam siksaan angin yang sangat panas dan air yang mendidih, dan naungan asap yang hitam, tidak sejuk dan tidak menyenangkan. (al-Waqi'ah/56: 42-44)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5654,
+                    "inSurah": 32
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ",
+                    "transliteration": {
+                        "en": "Innahaa tarmee bishararin kalqasr"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, it throws sparks [as huge] as a fortress,",
+                    "id": "Sungguh, (neraka) itu menyemburkan bunga api (sebesar dan setinggi) istana,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5654",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5654.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5654.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "32-34. Kedahsyatan lain dari siksa neraka dijelaskan pada ayat ini,.Sungguh, neraka itu menyemburkan bunga api sebesar dan setinggi istana, seakan-akan iring-iringan unta yang kuning dalam bentuk dan warnanya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.32-34. Kedahsyatan lain dari siksa neraka dijelaskan pada ayat ini,.Sungguh, neraka itu menyemburkan bunga api sebesar dan setinggi istana, seakan-akan iring-iringan unta yang kuning dalam bentuk dan warnanya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Allah menyebutkan pula bahwa neraka itu selalu melontarkan bunga api sebesar dan setinggi istana ke seluruh penjuru. Allah mengumpamakan gejolak api neraka Jahanam yang sangat dahsyat itu dengan unta kuning yang sangat banyak dan bergerak cepat. Allah mengulangi lagi ancamannya bahwa kecelakaan bagi orang yang mendustakan karena mereka tidak dapat mengelakkan diri dari siksaan yang begitu hebat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5655,
+                    "inSurah": 33
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَأَنَّهُ جِمَالَتٌ صُفْرٌ",
+                    "transliteration": {
+                        "en": "Ka annahoo jimaalatun sufr"
+                    }
+                },
+                "translation": {
+                    "en": "As if they were yellowish [black] camels.",
+                    "id": "seakan-akan iring-iringan unta yang kuning."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5655",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5655.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5655.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "32-34. Kedahsyatan lain dari siksa neraka dijelaskan pada ayat ini,.Sungguh, neraka itu menyemburkan bunga api sebesar dan setinggi istana, seakan-akan iring-iringan unta yang kuning dalam bentuk dan warnanya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.32-34. Kedahsyatan lain dari siksa neraka dijelaskan pada ayat ini,.Sungguh, neraka itu menyemburkan bunga api sebesar dan setinggi istana, seakan-akan iring-iringan unta yang kuning dalam bentuk dan warnanya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Allah menyebutkan pula bahwa neraka itu selalu melontarkan bunga api sebesar dan setinggi istana ke seluruh penjuru. Allah mengumpamakan gejolak api neraka Jahanam yang sangat dahsyat itu dengan unta kuning yang sangat banyak dan bergerak cepat. Allah mengulangi lagi ancamannya bahwa kecelakaan bagi orang yang mendustakan karena mereka tidak dapat mengelakkan diri dari siksaan yang begitu hebat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5656,
+                    "inSurah": 34
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+                    "transliteration": {
+                        "en": "Wailuny yawma 'izil lilmukazibeen"
+                    }
+                },
+                "translation": {
+                    "en": "Woe, that Day, to the deniers.",
+                    "id": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5656",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5656.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5656.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "32-34. Kedahsyatan lain dari siksa neraka dijelaskan pada ayat ini,.Sungguh, neraka itu menyemburkan bunga api sebesar dan setinggi istana, seakan-akan iring-iringan unta yang kuning dalam bentuk dan warnanya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.35-37. Bagi yang mendustakan azab Allah tersebut, maka ayat ini menguraikan tentang kepastian datangnya azab tersebut. Inilah hari yaitu hari Kiamat, saat mereka tidak dapat berbicara pada waktu dan tempat-tempat tertentu, dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Allah menyebutkan pula bahwa neraka itu selalu melontarkan bunga api sebesar dan setinggi istana ke seluruh penjuru. Allah mengumpamakan gejolak api neraka Jahanam yang sangat dahsyat itu dengan unta kuning yang sangat banyak dan bergerak cepat. Allah mengulangi lagi ancamannya bahwa kecelakaan bagi orang yang mendustakan karena mereka tidak dapat mengelakkan diri dari siksaan yang begitu hebat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5657,
+                    "inSurah": 35
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هَٰذَا يَوْمُ لَا يَنطِقُونَ",
+                    "transliteration": {
+                        "en": "Haazaa yawmu laa uantiqoon"
+                    }
+                },
+                "translation": {
+                    "en": "This is a Day they will not speak,",
+                    "id": "Inilah hari, saat mereka tidak dapat berbicara,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5657",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5657.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5657.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "35-37. Bagi yang mendustakan azab Allah tersebut, maka ayat ini menguraikan tentang kepastian datangnya azab tersebut. Inilah hari yaitu hari Kiamat, saat mereka tidak dapat berbicara pada waktu dan tempat-tempat tertentu, dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.35-37. Bagi yang mendustakan azab Allah tersebut, maka ayat ini menguraikan tentang kepastian datangnya azab tersebut. Inilah hari yaitu hari Kiamat, saat mereka tidak dapat berbicara pada waktu dan tempat-tempat tertentu, dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa pada hari itu manusia tidak bisa berbicara dan hanya terpukau karena kedahsyatan keadaan. Mereka tidak diizinkan berbicara, dan andaikata diizinkan pun, hal itu tidak ada gunanya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5658,
+                    "inSurah": 36
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+                    "transliteration": {
+                        "en": "Wa laa yu'zanu lahum fa ya'taziroon"
+                    }
+                },
+                "translation": {
+                    "en": "Nor will it be permitted for them to make an excuse.",
+                    "id": "dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5658",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5658.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5658.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "35-37. Bagi yang mendustakan azab Allah tersebut, maka ayat ini menguraikan tentang kepastian datangnya azab tersebut. Inilah hari yaitu hari Kiamat, saat mereka tidak dapat berbicara pada waktu dan tempat-tempat tertentu, dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.35-37. Bagi yang mendustakan azab Allah tersebut, maka ayat ini menguraikan tentang kepastian datangnya azab tersebut. Inilah hari yaitu hari Kiamat, saat mereka tidak dapat berbicara pada waktu dan tempat-tempat tertentu, dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Allah selanjutnya menerangkan bahwa mereka tidak diizinkan untuk minta uzur, sebab hari itu bukanlah hari pembelaan diri, tetapi hari untuk menerima keputusan. Mereka dapat mengeluh dan menyesali nasib, namun untuk mengajukan sanggahan tidak mungkin lagi karena keputusan Allah tidak dapat diganggu gugat. Dalam Surah al-An'am/6: 23, orang musyrik di hari itu menyatakan bahwa mereka tidak mau musyrik lagi. Pada Surah an-Nisa'/4: 42 disebutkan bahwa mereka tidak bisa menyembunyikan pembicaraannya, dan dalam ayat az-Zumar/39: 31 disebutkan mereka orang-orang kafir berdebat di muka Allah, saling menuduh, dan saling menyalahkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5659,
+                    "inSurah": 37
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+                    "transliteration": {
+                        "en": "Wailunw yawma 'izil lilmukazzibeen"
+                    }
+                },
+                "translation": {
+                    "en": "Woe, that Day, to the deniers.",
+                    "id": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5659",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5659.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5659.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "35-37. Bagi yang mendustakan azab Allah tersebut, maka ayat ini menguraikan tentang kepastian datangnya azab tersebut. Inilah hari yaitu hari Kiamat, saat mereka tidak dapat berbicara pada waktu dan tempat-tempat tertentu, dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.38-40. Untuk lebih menekankan tentang dahsyatnya situasi saat itu, maka Allah menambahkan penegasannya, Inilah hari keputusan yaitu penentuan keadaan manusia. Pada hari ini Kami kumpulkan kamu wahai para pendurhaka yang hidup pada masa Nabi Muhammad dan setelahnya, dan orang-orang yang terdahulu yang telah Kami binasakan. Maka jika kamu punya tipu daya yaitu upaya untuk menghindari siksa, maka lakukanlah tipu daya itu terhadap-Ku. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Dalam ayat ini, Allah mengulangi lagi ancaman-Nya bahwa kecelakaan besar di hari itu bagi orang yang mendustakan. Sebab rasul telah mengajak mereka supaya beriman dan mengancam dengan memperingatkan mereka dengan akan datangnya azab yang mereka hadapi itu. Sayang mereka tidak mau menerima dan mendengarkan ajakan itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5660,
+                    "inSurah": 38
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هَٰذَا يَوْمُ الْفَصْلِ ۖ جَمَعْنَاكُمْ وَالْأَوَّلِينَ",
+                    "transliteration": {
+                        "en": "Haaza yawmul fasli jama 'naakum wal awwaleen"
+                    }
+                },
+                "translation": {
+                    "en": "This is the Day of Judgement; We will have assembled you and the former peoples.",
+                    "id": "Inilah hari keputusan; (pada hari ini) Kami kumpulkan kamu dan orang-orang yang terdahulu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5660",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5660.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5660.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "38-40. Untuk lebih menekankan tentang dahsyatnya situasi saat itu, maka Allah menambahkan penegasannya, Inilah hari keputusan yaitu penentuan keadaan manusia. Pada hari ini Kami kumpulkan kamu wahai para pendurhaka yang hidup pada masa Nabi Muhammad dan setelahnya, dan orang-orang yang terdahulu yang telah Kami binasakan. Maka jika kamu punya tipu daya yaitu upaya untuk menghindari siksa, maka lakukanlah tipu daya itu terhadap-Ku. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.38-40. Untuk lebih menekankan tentang dahsyatnya situasi saat itu, maka Allah menambahkan penegasannya, Inilah hari keputusan yaitu penentuan keadaan manusia. Pada hari ini Kami kumpulkan kamu wahai para pendurhaka yang hidup pada masa Nabi Muhammad dan setelahnya, dan orang-orang yang terdahulu yang telah Kami binasakan. Maka jika kamu punya tipu daya yaitu upaya untuk menghindari siksa, maka lakukanlah tipu daya itu terhadap-Ku. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Allah menerangkan bahwa hari ini adalah hari keputusan. Inilah hari yang memisahkan antara kebenaran dan kebatilan, hari ketika diungkapkan kebenaran dan kepalsuan seseorang.\n\nDi hari itu, Allah menghimpun semua manusia yang pernah hidup di dunia ini sejak zaman Nabi Adam sampai akhir masa pada tempat yang satu. Tujuannya untuk memberikan suatu keputusan hukum buat mereka siapa yang salah dan siapa yang benar, sehingga masing-masing orang memperoleh haknya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5661,
+                    "inSurah": 39
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+                    "transliteration": {
+                        "en": "Fa in kaana lakum kaidun fakeedoon"
+                    }
+                },
+                "translation": {
+                    "en": "So if you have a plan, then plan against Me.",
+                    "id": "Maka jika kamu punya tipu daya, maka lakukanlah (tipu daya) itu terhadap-Ku."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5661",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5661.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5661.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "38-40. Untuk lebih menekankan tentang dahsyatnya situasi saat itu, maka Allah menambahkan penegasannya, Inilah hari keputusan yaitu penentuan keadaan manusia. Pada hari ini Kami kumpulkan kamu wahai para pendurhaka yang hidup pada masa Nabi Muhammad dan setelahnya, dan orang-orang yang terdahulu yang telah Kami binasakan. Maka jika kamu punya tipu daya yaitu upaya untuk menghindari siksa, maka lakukanlah tipu daya itu terhadap-Ku. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.38-40. Untuk lebih menekankan tentang dahsyatnya situasi saat itu, maka Allah menambahkan penegasannya, Inilah hari keputusan yaitu penentuan keadaan manusia. Pada hari ini Kami kumpulkan kamu wahai para pendurhaka yang hidup pada masa Nabi Muhammad dan setelahnya, dan orang-orang yang terdahulu yang telah Kami binasakan. Maka jika kamu punya tipu daya yaitu upaya untuk menghindari siksa, maka lakukanlah tipu daya itu terhadap-Ku. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Dalam ayat ini, Allah menantang dengan cara mengejek orang-orang kafir dan orang-orang yang merasa mempunyai kekuatan membela diri, untuk menggunakan kepandaian dan tipu dayanya guna menyelamatkan diri dari siksaan-Nya.\n\nSelain itu, ayat ini memberikan suatu pelajaran keras bagi orang-orang yang menentang agama Islam, yang selalu menipu dan mempermainkan orang-orang yang beriman bahwa kelak pada saatnya mereka akan mengetahui betapa lemahnya alasan mereka yang suka mengolok-olokkan agama itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5662,
+                    "inSurah": 40
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 516,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+                    "transliteration": {
+                        "en": "Wailuny yawma'izil lilmukazzibeen"
+                    }
+                },
+                "translation": {
+                    "en": "Woe, that Day, to the deniers.",
+                    "id": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5662",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5662.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5662.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "38-40. Untuk lebih menekankan tentang dahsyatnya situasi saat itu, maka Allah menambahkan penegasannya, Inilah hari keputusan yaitu penentuan keadaan manusia. Pada hari ini Kami kumpulkan kamu wahai para pendurhaka yang hidup pada masa Nabi Muhammad dan setelahnya, dan orang-orang yang terdahulu yang telah Kami binasakan. Maka jika kamu punya tipu daya yaitu upaya untuk menghindari siksa, maka lakukanlah tipu daya itu terhadap-Ku. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.41-42. Setelah dijelaskan sekilas tentang siksa bagi yang durhaka, kini diuraikan sekilas tentang kenikmatan bagi yang bertakwa. Sungguh, orang-orang yang bertakwa berada dalam naungan pepohonan surga yang teduh dan di sekitar mata air yang mengalir jernih. Dan juga buah-buahan serta aneka hidangan surga yang mereka sukai.",
+                        "long": "Allah mengulangi lagi ancaman-Nya bahwa kecelakaan besar di hari kebangkitan bagi orang-orang yang mendustakan-Nya. Kecelakaan buat mereka di hari kebangkitan karena waktu itulah terbukti kelemahan dan mereka berhadapan dengan Allah yang mereka dustai. Pada saat seperti itu terbukti betapa batalnya dakwaan yang mereka yakini selama ini."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5663,
+                    "inSurah": 41
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 517,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ",
+                    "transliteration": {
+                        "en": "Innal muttaqeena fee zilaalinw wa 'uyoon"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, the righteous will be among shades and springs",
+                    "id": "Sungguh, orang-orang yang bertakwa berada dalam naungan (pepohonan surga yang teduh) dan (di sekitar) mata air,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5663",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5663.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5663.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "41-42. Setelah dijelaskan sekilas tentang siksa bagi yang durhaka, kini diuraikan sekilas tentang kenikmatan bagi yang bertakwa. Sungguh, orang-orang yang bertakwa berada dalam naungan pepohonan surga yang teduh dan di sekitar mata air yang mengalir jernih. Dan juga buah-buahan serta aneka hidangan surga yang mereka sukai.41-42. Setelah dijelaskan sekilas tentang siksa bagi yang durhaka, kini diuraikan sekilas tentang kenikmatan bagi yang bertakwa. Sungguh, orang-orang yang bertakwa berada dalam naungan pepohonan surga yang teduh dan di sekitar mata air yang mengalir jernih. Dan juga buah-buahan serta aneka hidangan surga yang mereka sukai.",
+                        "long": "Dalam ayat ini dan ayat berikutnya Allah menerangkan berbagai kenikmatan buat orang-orang yang bertakwa yaitu naungan surga yang berada di (sekitar) mata air, di bawah pohon rindang yang mengalir anak-anak sungai di bawahnya, tidak pernah mereka merasakan udara panas dan gejolak api yang membakar. Dalam ayat ini, Allah berfirman:\n\nMereka dan pasangan-pasangannya berada dalam tempat yang teduh, bersandar di atas dipan-dipan. (Yasin/36: 56)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5664,
+                    "inSurah": 42
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 517,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَفَوَاكِهَ مِمَّا يَشْتَهُونَ",
+                    "transliteration": {
+                        "en": "Wa fawaakiha mimmaa yastahoon"
+                    }
+                },
+                "translation": {
+                    "en": "And fruits from whatever they desire,",
+                    "id": "dan buah-buahan yang mereka sukai."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5664",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5664.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5664.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "41-42. Setelah dijelaskan sekilas tentang siksa bagi yang durhaka, kini diuraikan sekilas tentang kenikmatan bagi yang bertakwa. Sungguh, orang-orang yang bertakwa berada dalam naungan pepohonan surga yang teduh dan di sekitar mata air yang mengalir jernih. Dan juga buah-buahan serta aneka hidangan surga yang mereka sukai.43-45. Dikatakan kepada mereka, “Makan dan minumlah dengan rasa nikmat, lezat dan menyenangkan tanpa khawatir ada dampak negatifnya. Itu semua sebagai balasan dari apa yang telah kamu kerjakan ketika di dunia.” Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik dengan istikamah, kebaikan tersebut telah menjadi karakter hidupnya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa di dalam surga terdapat anak sungai, berbagai jenis buah-buahan yang cita rasanya manis dan lezat, boleh dipetik dan dimakan kapan saja dikehendaki tanpa ada yang mengganggu. Bagi yang memakannya tidak perlu takut dan khawatir akan menimbulkan penyakit kalau terlalu banyak memakannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5665,
+                    "inSurah": 43
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 517,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنتُمْ تَعْمَلُونَ",
+                    "transliteration": {
+                        "en": "Kuloo washraboo haneee 'am bimaa kuntum ta'maloon"
+                    }
+                },
+                "translation": {
+                    "en": "[Being told], \"Eat and drink in satisfaction for what you used to do.\"",
+                    "id": "(Katakan kepada mereka), “Makan dan minumlah dengan rasa nikmat sebagai balasan dari apa yang telah kamu kerjakan.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5665",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5665.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5665.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "43-45. Dikatakan kepada mereka, “Makan dan minumlah dengan rasa nikmat, lezat dan menyenangkan tanpa khawatir ada dampak negatifnya. Itu semua sebagai balasan dari apa yang telah kamu kerjakan ketika di dunia.” Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik dengan istikamah, kebaikan tersebut telah menjadi karakter hidupnya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.43-45. Dikatakan kepada mereka, “Makan dan minumlah dengan rasa nikmat, lezat dan menyenangkan tanpa khawatir ada dampak negatifnya. Itu semua sebagai balasan dari apa yang telah kamu kerjakan ketika di dunia.” Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik dengan istikamah, kebaikan tersebut telah menjadi karakter hidupnya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Penduduk surga diterima dengan sambutan yang ramah dari penjaganya, yang mengatakan bahwa orang yang berbuat baik di dunia dahulu, dibolehkan menikmati segala buah-buahan dan minuman yang telah tersedia selama-lamanya. Mereka tidak akan sakit dan tidak pula perlu khawatir akan habis. Inilah balasan terhadap segala jerih payah mereka dulu dengan beramal menaati Allah, berjuang bersungguh-sungguh mendekatkan diri kepada-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5666,
+                    "inSurah": 44
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 517,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+                    "transliteration": {
+                        "en": "Innaa kazaalika najzil muhsineen"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, We thus reward the doers of good.",
+                    "id": "Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5666",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5666.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5666.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "43-45. Dikatakan kepada mereka, “Makan dan minumlah dengan rasa nikmat, lezat dan menyenangkan tanpa khawatir ada dampak negatifnya. Itu semua sebagai balasan dari apa yang telah kamu kerjakan ketika di dunia.” Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik dengan istikamah, kebaikan tersebut telah menjadi karakter hidupnya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.43-45. Dikatakan kepada mereka, “Makan dan minumlah dengan rasa nikmat, lezat dan menyenangkan tanpa khawatir ada dampak negatifnya. Itu semua sebagai balasan dari apa yang telah kamu kerjakan ketika di dunia.” Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik dengan istikamah, kebaikan tersebut telah menjadi karakter hidupnya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Selanjutnya Allah menerangkan bahwa semua kenikmatan itu merupakan pemberian dari-Nya sebagai pembalasan bagi orang yang bertakwa, dan orang yang senantiasa mengamalkan kebaikan dengan dasar dan menghambakan diri kepada-Nya. Tidak ada kebaikan yang luput dari pembalasan pahala Allah sebagaimana disebutkan dalam ayat lain:\n\nSungguh, mereka yang beriman dan mengerjakan kebajikan, Kami benar-benar tidak akan menyia-nyiakan pahala orang yang mengerjakan perbuatan yang baik itu. (al-Kahf/18: 30)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5667,
+                    "inSurah": 45
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 517,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+                    "transliteration": {
+                        "en": "Wailuny yawma 'izil lilmuzkazzibeen"
+                    }
+                },
+                "translation": {
+                    "en": "Woe, that Day, to the deniers.",
+                    "id": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5667",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5667.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5667.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "43-45. Dikatakan kepada mereka, “Makan dan minumlah dengan rasa nikmat, lezat dan menyenangkan tanpa khawatir ada dampak negatifnya. Itu semua sebagai balasan dari apa yang telah kamu kerjakan ketika di dunia.” Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik dengan istikamah, kebaikan tersebut telah menjadi karakter hidupnya. Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.46-47. Bagi para pendurhaka, janji kenikmatan surga nampaknya tidak menjadikan mereka tertarik, karena merasa sudah meraihnya itu semua di dunia. Katakan kepada orang-orang kafir, “Makan dan bersenang-senanglah kamu di dunia sebentar, sesungguhnya kamu orang-orang durhaka dan di akhirat pasti akan mendapat siksa!” Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Dalam ayat ini sekali lagi Allah mengutuk orang-orang yang mendustakan-Nya, \"Kecelakaan bagi orang-orang yang mendustakan (Kami) pada hari itu.\" Kecelakaan bagi mereka karena mendustakan apa yang telah diberikan Allah, yaitu kemuliaan orang bertakwa dan dengan kehinaan mereka pada hari Kiamat. Sungguh sial nasib orang yang mendustakan itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5668,
+                    "inSurah": 46
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 517,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+                    "transliteration": {
+                        "en": "Kuloo wa tamatta'oo qaleelan innakum mujrimoon"
+                    }
+                },
+                "translation": {
+                    "en": "[O disbelievers], eat and enjoy yourselves a little; indeed, you are criminals.",
+                    "id": "(Katakan kepada orang-orang kafir), “Makan dan bersenang-senanglah kamu (di dunia) sebentar, sesungguhnya kamu orang-orang durhaka!”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5668",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5668.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5668.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "46-47. Bagi para pendurhaka, janji kenikmatan surga nampaknya tidak menjadikan mereka tertarik, karena merasa sudah meraihnya itu semua di dunia. Katakan kepada orang-orang kafir, “Makan dan bersenang-senanglah kamu di dunia sebentar, sesungguhnya kamu orang-orang durhaka dan di akhirat pasti akan mendapat siksa!” Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.46-47. Bagi para pendurhaka, janji kenikmatan surga nampaknya tidak menjadikan mereka tertarik, karena merasa sudah meraihnya itu semua di dunia. Katakan kepada orang-orang kafir, “Makan dan bersenang-senanglah kamu di dunia sebentar, sesungguhnya kamu orang-orang durhaka dan di akhirat pasti akan mendapat siksa!” Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.",
+                        "long": "Kemudian dalam ayat ini Allah berseru dan mengancam dengan firman-Nya agar mereka makan dan menikmati sisa-sisa kesenangan hidup di dunia yang tinggal sedikit itu, sebab kelak pada waktunya Allah akan memberlakukan sunah berupa kedatangan siksa dan azab buat mereka seperti berulang-ulang dijatuhkan pada bangsa-bangsa sebelum mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5669,
+                    "inSurah": 47
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 517,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+                    "transliteration": {
+                        "en": "Wailunny yawma 'izil lilmukazzibeen"
+                    }
+                },
+                "translation": {
+                    "en": "Woe, that Day, to the deniers.",
+                    "id": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5669",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5669.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5669.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "46-47. Bagi para pendurhaka, janji kenikmatan surga nampaknya tidak menjadikan mereka tertarik, karena merasa sudah meraihnya itu semua di dunia. Katakan kepada orang-orang kafir, “Makan dan bersenang-senanglah kamu di dunia sebentar, sesungguhnya kamu orang-orang durhaka dan di akhirat pasti akan mendapat siksa!” Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran.48-49. Salah satu bentuk kedurhakaan mereka digambarkan pada ayat ini. Dan apabila dikatakan kepada mereka, “Rukuklah,” yaitu salatlah dan taatlah kepada Allah, mereka tidak mau rukuk. Maka Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran!",
+                        "long": "Allah lalu mengulangi lagi celaan dan ancaman-Nya kepada orang yang mendustakan-Nya. Mereka telah melakukan suatu perbuatan yang menyebabkan diri mereka terbenam dalam azab dan kesengsaraan abadi. Padahal di dunia mereka cuma menikmati kesenangan yang sangat sedikit dan tiada lama waktunya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5670,
+                    "inSurah": 48
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 517,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ",
+                    "transliteration": {
+                        "en": "Wa izaa qeela lahumur ka'oo aa yarka'oon"
+                    }
+                },
+                "translation": {
+                    "en": "And when it is said to them, \"Bow [in prayer],\" they do not bow.",
+                    "id": "Dan apabila dikatakan kepada mereka, “Rukuklah,” mereka tidak mau rukuk."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5670",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5670.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5670.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "48-49. Salah satu bentuk kedurhakaan mereka digambarkan pada ayat ini. Dan apabila dikatakan kepada mereka, “Rukuklah,” yaitu salatlah dan taatlah kepada Allah, mereka tidak mau rukuk. Maka Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran!48-49. Salah satu bentuk kedurhakaan mereka digambarkan pada ayat ini. Dan apabila dikatakan kepada mereka, “Rukuklah,” yaitu salatlah dan taatlah kepada Allah, mereka tidak mau rukuk. Maka Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran!",
+                        "long": "Diriwayatkan bahwa ayat ini turun ketika Rasulullah saw berdakwah menyuruh penduduk negeri Saqif, suatu negeri yang tidak jauh dari Mekah untuk salat menyembah Allah. Mereka menjawab dengan sombong, \"Kami tak akan ruku' (salat) karena bukan merupakan suatu kebiasaan kami.\" Nabi menjawab bahwa tidak ada kebaikan bagi suatu agama yang tidak ada padanya ruku' dan sujud. Ada yang mengatakan perintah ini adalah ketika orang-orang kafir disuruh sujud di hadapan Allah di hari akhirat, mereka tak sanggup melakukannya, sebab tidak biasa mengerjakan di atas dunia.\n\nAllah menyatakan bahwa mereka diperintahkan ruku' (mengerjakan salat), tetapi mereka enggan. Apabila disuruh patuh dan taat serta takut kepada Allah dan pada hari yang di waktu itu semua mata tunduk karena takut, mereka bersikap keras kepala."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5671,
+                    "inSurah": 49
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 517,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+                    "transliteration": {
+                        "en": "Wailunny yawma 'izil lilmukazzibeen"
+                    }
+                },
+                "translation": {
+                    "en": "Woe, that Day, to the deniers.",
+                    "id": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)!"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5671",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5671.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5671.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "48-49. Salah satu bentuk kedurhakaan mereka digambarkan pada ayat ini. Dan apabila dikatakan kepada mereka, “Rukuklah,” yaitu salatlah dan taatlah kepada Allah, mereka tidak mau rukuk. Maka Celakalah pada hari itu, bagi mereka yang mendustakan kebenaran!50. Sudah berulang kali Al-Qur’an menasihati dan memperingatkan mereka, namun tetap saja mereka menolak, maka kepada ajaran mana-kah selain Al-Qur’an ini mereka akan beriman? Pasti tidak ada lagi, karena Al-Qur’an dalah kitab petunjuk yang paling sempurna.",
+                        "long": "Sebagai penutup dari dua ayat terakhir ini, Allah mengulang kembali kutukan-Nya terhadap orang-orang yang mendustakan perintah dan larangan-Nya. Kecelakaan besar bagi orang yang mendustakan karena tidak patuh kepada perintah-Nya dan tidak mau meninggalkan larangan-Nya.\n\nSetelah mencela orang kafir dengan sangat keras agar mengikuti agama yang benar, maka Allah mengakhiri surah ini dengan menegaskan bahwa orang-orang musyrik itu sama sekali tidak mau mendengarkan nasihat para dai yang mengajak mereka untuk mengikuti ajaran Ilahi bagi kepentingan kehidupan mereka di dunia dan akhirat. Allah mengatakan, \"Maka kepada perkataan apakah selain Al-Qur'an mereka akan beriman?\" Jadi dengan keterangan-keterangan Al-Qur'an yang begitu jelas dan mudah dimengerti disertai dengan bukti-bukti yang jelas, mereka tidak juga mau beriman, maka manakah lagi kebenaran yang mampu membawa mereka kepada petunjuk Ilahi?\"\n\nDari ayat terakhir ini jelaslah bahwa Allah telah menetapkan ajaran Al-Qur'an tentang dunia dan akhirat yang menghimpun sekalian keterangan yang ada, lengkap dengan segala seluk-beluknya sebagai alasan yang kuat. Dengan demikian, Al-Qur'an satu-satunya kitab suci yang dikenal manusia yang mengandung keterangan yang begitu jelas dan lengkap. Hanya manusia tidak mau beriman menjelang ajal datang mencabut kehidupannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5672,
+                    "inSurah": 50
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 581,
+                    "manzil": 7,
+                    "ruku": 517,
+                    "hizbQuarter": 232,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ",
+                    "transliteration": {
+                        "en": "Fabi ayyi hadeesim ba'dahoo yu'minoon"
+                    }
+                },
+                "translation": {
+                    "en": "Then in what statement after the Qur'an will they believe?",
+                    "id": "Maka kepada ajaran manakah (selain Al-Qur'an) ini mereka akan beriman?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5672",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5672.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5672.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sudah berulang kali Al-Qur’an menasihati dan memperingatkan mereka, namun tetap saja mereka menolak, maka kepada ajaran mana-kah selain Al-Qur’an ini mereka akan beriman? Pasti tidak ada lagi, karena Al-Qur’an dalah kitab petunjuk yang paling sempurna.1. Saat Nabi Muhammad diutus, kaum kafir Mekah bertanya-tanya tentang diri Nabi, dakwah, dan ajarannya, salah satunya adalah perihal hari kebangkitan. Tentang apakah mereka saling bertanya-tanya di antara  mereka?",
+                        "long": "Sebagai penutup dari dua ayat terakhir ini, Allah mengulang kembali kutukan-Nya terhadap orang-orang yang mendustakan perintah dan larangan-Nya. Kecelakaan besar bagi orang yang mendustakan karena tidak patuh kepada perintah-Nya dan tidak mau meninggalkan larangan-Nya.\n\nSetelah mencela orang kafir dengan sangat keras agar mengikuti agama yang benar, maka Allah mengakhiri surah ini dengan menegaskan bahwa orang-orang musyrik itu sama sekali tidak mau mendengarkan nasihat para dai yang mengajak mereka untuk mengikuti ajaran Ilahi bagi kepentingan kehidupan mereka di dunia dan akhirat. Allah mengatakan, \"Maka kepada perkataan apakah selain Al-Qur'an mereka akan beriman?\" Jadi dengan keterangan-keterangan Al-Qur'an yang begitu jelas dan mudah dimengerti disertai dengan bukti-bukti yang jelas, mereka tidak juga mau beriman, maka manakah lagi kebenaran yang mampu membawa mereka kepada petunjuk Ilahi?\"\n\nDari ayat terakhir ini jelaslah bahwa Allah telah menetapkan ajaran Al-Qur'an tentang dunia dan akhirat yang menghimpun sekalian keterangan yang ada, lengkap dengan segala seluk-beluknya sebagai alasan yang kuat. Dengan demikian, Al-Qur'an satu-satunya kitab suci yang dikenal manusia yang mengandung keterangan yang begitu jelas dan lengkap. Hanya manusia tidak mau beriman menjelang ajal datang mencabut kehidupannya."
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,571 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 60,
+        "sequence": 91,
+        "numberOfVerses": 13,
+        "name": {
+            "short": "الممتحنة",
+            "long": "سورة الممتحنة",
+            "transliteration": {
+                "en": "Al-Mumtahana",
+                "id": "Al-Mumtahanah"
+            },
+            "translation": {
+                "en": "She that is to be examined",
+                "id": "Wanita Yang Diuji"
+            }
+        },
+        "revelation": {
+            "arab": "مدينة",
+            "en": "Medinan",
+            "id": "Madaniyyah"
+        },
+        "tafsir": {
+            "id": "Surat Al Mumtahanah terdiri atas 13 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Ahzab. Dinamai Al Mumtahanah (wanita yang diuji), diambil dari kata \"Famtahinuuhunna\" yang berarti maka ujilah mereka, yang terdapat pada ayat 10 surat ini."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5151,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 549,
+                    "manzil": 7,
+                    "ruku": 482,
+                    "hizbQuarter": 219,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ تُلْقُونَ إِلَيْهِم بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا جَاءَكُم مِّنَ الْحَقِّ يُخْرِجُونَ الرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا بِاللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَادًا فِي سَبِيلِي وَابْتِغَاءَ مَرْضَاتِي ۚ تُسِرُّونَ إِلَيْهِم بِالْمَوَدَّةِ وَأَنَا أَعْلَمُ بِمَا أَخْفَيْتُمْ وَمَا أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+                    "transliteration": {
+                        "en": "Yaa ayyuhal lazeena aamanoo laa tattakhizoo 'aduwwee wa 'aduwaakum awliyaaa'a tulqoona ilaihim bilmawaddati wa qad kafaroo bima jaaa'akum minal haqq, yukhrijoonar Rasoola wa iyyaakum an tu'minoo billaahi rabbikum in kuntum kharajtum jihaadan fee sabeelee wabtighaaa'a mardaatee; tusirroona ilaihim bilma waddati wa ana a'alamu bimaaa akhfaitum wa maaa a'lantum; wa many yaf'alhu minkum faqad dalla sawaaa'as sabeel"
+                    }
+                },
+                "translation": {
+                    "en": "O you who have believed, do not take My enemies and your enemies as allies, extending to them affection while they have disbelieved in what came to you of the truth, having driven out the Prophet and yourselves [only] because you believe in Allah, your Lord. If you have come out for jihad in My cause and seeking means to My approval, [take them not as friends]. You confide to them affection, but I am most knowing of what you have concealed and what you have declared. And whoever does it among you has certainly strayed from the soundness of the way.",
+                    "id": "Wahai orang-orang yang beriman! Janganlah kamu menjadikan musuh-Ku dan musuhmu sebagai teman-teman setia sehingga kamu sampaikan kepada mereka (berita-berita Muhammad), karena rasa kasih sayang; padahal mereka telah ingkar kepada kebenaran yang disampaikan kepadamu. Mereka mengusir Rasul dan kamu sendiri karena kamu beriman kepada Allah, Tuhanmu. Jika kamu benar-benar keluar untuk berjihad pada jalan-Ku dan mencari keridaan-Ku (janganlah kamu berbuat demikian). Kamu memberitahukan secara rahasia (berita-berita Muhammad) kepada mereka, karena rasa kasih sayang, dan Aku lebih mengetahui apa yang kamu sembunyikan dan apa yang kamu nyatakan. Dan barangsiapa di antara kamu yang melakukannya, maka sungguh, dia telah tersesat dari jalan yang lurus."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5151",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5151.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5151.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai orang-orang yang beriman di mana pun dan kapan pun kamu hidup! Janganlah kamu menjadikan musuh-Ku, yaitu mereka yang menolak ajaran-Ku, dan musuhmu yang membenci, menganiaya, berencana membunuh dan mengusir kamu dari tanah kelahiran kamu hanya karena kamu beriman kepada-Ku sebagai teman setia sehingga kamu merasa perlu menyampaikan kepada mereka informasi tentang Nabi Muhammad yang membahayakan Islam dan kaum muslim, karena kasih sayang kamu kepada mereka, padahal mereka telah ingkar kepada kebenaran, menolak beriman kepada Al-Qur’an yang disampaikan kepada kamu melalui Rasulullah. Mereka mengusir Rasul dan kamu sendiri, ketika kamu bersama Rasulullah berada di Mekah sebelum hijrah ke Madinah, tanpa ada alasan apa pun hanya karena kamu beriman kepada Allah, Tuhan kamu, yang memelihara kamu dan seluruh jagat raya. Janganlah kamu berbuat demikan, bersahabat dengan orang-orang kafir dan membocorkan rahasia kepada mereka, jika kamu benar-benar keluar dari kota kelahiran kamu, Mekah dan berhijrah ke Madinah bersama Rasul untuk berjihad pada jalan-Ku guna mengharumkan Islam dan kaum muslim. Kamu benar-benar pengkhianat, karena kamu memberitahukan secara rahasia informasi-informasi tentang Nabi Muhammad kepada mereka, yang membahayakan Islam dan kaum muslim serta keamanan Negara Madinah, karena kecintaan kamu kepada mereka, dan Aku lebih mengetahui apa yang kamu sembunyikan dari Rasul dan kaum muslim dan apa yang kamu nyatakan secara terbuka di hadapan publik. Dan barang siapa di antara kamu, wahai orang-orang beriman, melakukannya, membocorkan rahasia kepada orang-orang kafir, maka sungguh dia telah tersesat dari jalan yang lurus hingga bertobat dan kembali setia kepada ajaran Islam.",
+                        "long": "Ayat ini memperingatkan kaum Muslimin agar tidak mengadakan hubungan kasih sayang dengan kaum musyrik yang menjadi musuh Allah dan kaum Muslimin. Sebab, dengan adanya hubungan yang demikian itu, tanpa disadari mereka telah membukakan rahasia-rahasia kaum Muslimin, menyampaikan sesuatu yang akan dilaksanakan Rasulullah saw kepada mereka dalam usaha menegakkan kalimat Allah. Oleh karena itu, kaum Muslimin dilarang melakukan yang demikian sekalipun kepada kaum kerabatnya.\n\nMenjadikan orang-orang kafir yang memusuhi kaum Muslimin sebagai teman setia dan penolong adalah suatu hal yang dilarang. Hal ini tidak boleh dilakukan selama orang-orang kafir itu ingin menghancurkan agama Islam dan kaum Muslimin. \n\nAllah kemudian menjelaskan penyebab larangan menjadikan orang-orang kafir sebagai teman setia, yaitu:\n\n1.Mereka menyangkal dan tidak membenarkan semua yang dibawa Rasulullah. Mereka ingkar kepada Allah, Rasul-Nya, dan Al-Qur'an. Mungkinkah orang yang seperti itu dijadikan penolong-penolong dan teman setia? Kemudian disampaikan kepada mereka rahasia-rahasia yang bermanfaat bagi mereka dan menimbulkan bahaya bagi kaum Muslimin?\n\n2.Mereka telah mengusir Rasulullah saw dan orang-orang Muhajirin dari kampung halaman mereka karena beriman kepada Allah, bukan karena sebab yang lain.\n\nAyat ini sama maksudnya dengan firman Allah:\n\nDan mereka menyiksa orang-orang mukmin itu hanya karena (orang-orang mukmin itu) beriman kepada Allah Yang Mahaperkasa, Maha Terpuji (al-Buruj/85: 8)\n\nDan Firman Allah:\n\n(Yaitu) orang-orang yang diusir dari kampung halamannya tanpa alasan yang benar, hanya karena mereka berkata, \"Tuhan kami ialah Allah.\" Seandainya Allah tidak menolak (keganasan) sebagian manusia dengan sebagian yang lain, tentu telah dirobohkan biara-biara Nasrani, gereja-gereja, rumah-rumah ibadah orang Yahudi dan masjid-masjid, yang di dalamnya banyak disebut nama Allah. Allah pasti akan menolong orang yang menolong (agama)-Nya. Sungguh, Allah Mahakuat, Mahaperkasa (al-hajj/22: 40)\n\nAllah memperingatkan kaum Muslimin bahwa jika mereka keluar dari kampung halaman atau terusir karena berjihad di jalan Allah dan mencari keridaan-Nya, maka janganlah sekali-kali menjadikan orang-orang kafir itu sebagai teman setia dan penolong-penolong mereka. Cukuplah kaum Muslimin menderita akibat tindakan-tindakan mereka, dan jangan sekali-kali memberi kesempatan kepada mereka menambah penderitaan kaum Muslimin. Bagaimana mungkin ada di antara kaum Muslimin melakukan seperti yang dilakukan hathib yang menyampaikan kepada orang-orang kafir langkah-langkah yang akan diambil Rasulullah dalam menghadapi orang-orang kafir?\n\nAllah Mahatahu segala yang dilakukan hamba-hamba-Nya. Oleh karena itu, Dia menyampaikan hal tersebut kepada Rasulullah, sehingga beliau segera dapat mengambil tindakan. Dengan demikian, kaum Muslimin tidak dirugikan.\n\nPada akhir ayat ini ditegaskan bahwa barang siapa yang berkasih-kasihan dengan musuh Islam dan menjadikan mereka penolong-penolong, berarti ia telah menyimpang dari jalan yang lurus."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5152,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 549,
+                    "manzil": 7,
+                    "ruku": 482,
+                    "hizbQuarter": 219,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِن يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً وَيَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِالسُّوءِ وَوَدُّوا لَوْ تَكْفُرُونَ",
+                    "transliteration": {
+                        "en": "Iny yasqafookum yakoonoo lakum a'daaa'anw wa yabsutooo ilaikum aydiyahum wa alsinatahum bissooo'i wa waddoo law takfuroon"
+                    }
+                },
+                "translation": {
+                    "en": "If they gain dominance over you, they would be to you as enemies and extend against you their hands and their tongues with evil, and they wish you would disbelieve.",
+                    "id": "Jika mereka menangkapmu, niscaya mereka bertindak sebagai musuh bagimu lalu melepaskan tangan dan lidahnya kepadamu untuk menyakiti dan mereka ingin agar kamu (kembali) kafir."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5152",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5152.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5152.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah lalu menjelaskan mengapa ia melarang kaum muslim membocorkan rahasia kepada kaum kafir. Jika mereka, orang-orang kafir yang memusuhi kamu, menangkap kamu atau mengalahkan kamu dalam perang, niscaya mereka bertindak sebagai musuh bagi kamu dengan berbuat kezaliman di luar batas kemanusiaan, karena orang kafir yang membenci Islam dan kaum muslim tidak bisa dijadikan sahabat setia; lalu melepaskan tangan mereka dengan tindakan dan lidahnya dengan kata-kata kasar dan tajam kepada kamu untuk menyakiti perasaan kamu, menghujat ajaran Islam, serta melukai kehormatan kamu sebagi muslim; dan mereka sangat menginginkan agar kamu kembali kafir, mengikuti keyakinan mereka.",
+                        "long": "Dalam ayat ini diterangkan sebab-sebab yang lain Allah melarang kaum Muslimin berteman akrab dan saling menolong dengan orang kafir, yaitu:\n\n1.Jika suatu waktu mereka menangkap atau mengalahkan kaum Muslimin, mereka pasti akan melakukan kezaliman yang di luar dugaan. Mereka berteman dengan kaum Muslimin semata-mata mencari keuntungan bagi diri dan golongan mereka. Bila tidak ada keuntungan yang diharapkan, mereka akan menjauhkan diri, bahkan akan menghancurkan kaum Muslimin.\n\n2.Mereka selalu berusaha menjelek-jelekkan dan memusuhi kaum Muslimin. Bagaimana mungkin ada satu atau sebagian dari kaum Muslimin membukakan rahasia kepada mereka atau berteman erat dengan mereka. Orang yang dapat dijadikan teman itu hanyalah orang yang menginginkan kebaikan untuk kita, bukan sebaliknya.\n\n3.Mereka mengharapkan kaum Muslimin mengingkari kebenaran dan kafir kepada Allah, sehingga kaum Muslimin sama dengan mereka, yaitu sama-sama kafir. Oleh karena itu, mereka hanya mau berteman erat atau bertolong-tolongan dengan kaum Muslimin selama hal itu bisa memenuhi keinginan-keinginan mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5153,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 549,
+                    "manzil": 7,
+                    "ruku": 482,
+                    "hizbQuarter": 219,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَا أَوْلَادُكُمْ ۚ يَوْمَ الْقِيَامَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+                    "transliteration": {
+                        "en": "Lan tanfa'akum arhaamukum wa laaa awlaadukum; yawmal qiyaamati yafsilu bainakum; wallaahu bimaa ta'maloon baseer"
+                    }
+                },
+                "translation": {
+                    "en": "Never will your relatives or your children benefit you; the Day of Resurrection He will judge between you. And Allah, of what you do, is Seeing.",
+                    "id": "Kaum kerabatmu dan anak-anakmu tidak akan bermanfaat bagimu pada hari Kiamat. Dia akan memisahkan antara kamu. Dan Allah Maha Melihat apa yang kamu kerjakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5153",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5153.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5153.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kaum kerabat dan anak-anak kamu yang selama ini menjadi kebanggaan kamu tidak akan bermanfaat bagi kamu pada hari kiamat, karena kehidupan di akhirat bersifat individual, tidak ada jual beli, tidak ada persahabatan, dan tidak ada tolong menolong. (al-Baqarah/2: 254); dan akhirat akan memisahkan hubungan di antara kamu, kecuali yang seiman akan dipertemukan di dalam surga. Dan Allah Maha Melihat apa yang kamu kerjakan, kebaikan maupun keburukan yang disembunyikan maupun yang dinyatakan secara terbuka.",
+                        "long": "Pada hari Kiamat setiap orang mempertanggungjawabkan diri mereka masing-masing kepada Allah. Karib-kerabat, teman setia, anak-anak, atau orang tua sekalipun tidak dapat menolong seseorang di hari Kiamat. Yang dapat menolong seseorang dari siksa Allah hanyalah iman dan amal saleh yang dilakukan selama hidup di dunia.\n\nKarib-kerabat, teman setia, anak-anak dan orang tua tidak dapat dijadikan penolong di hari Kiamat karena masing-masing berusaha menghindarkan diri dari malapetaka yang akan menimpa, sehingga tidak sempat memikirkan kerabat atau temannya, sebagaimana firman Allah:\n\nMaka apabila datang suara yang memekakkan (tiupan sangkakala yang kedua), Pada hari itu manusia lari dari saudaranya, Dan dari ibu dan bapaknya, Dan dari istri dan anak-anaknya. Setiap orang dari mereka pada hari itu mempunyai urusan yang menyibukkannya. ('Abasa/80: 33-37)\n\nPada akhir ayat ini, Allah memberi peringatan bahwa Dia Maha Mengetahui semua yang dilakukan manusia, tidak ada satu pun yang luput dari pengetahuan-Nya. Oleh karena itu, Dia akan memberikan balasan yang seadil-adilnya. Maka itu berhati-hatilah dan jagalah dirimu sebaik mungkin."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5154,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 549,
+                    "manzil": 7,
+                    "ruku": 482,
+                    "hizbQuarter": 219,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ اللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا بِاللَّهِ وَحْدَهُ إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِن شَيْءٍ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+                    "transliteration": {
+                        "en": "Qad kaanat lakum uswatun basanatun feee Ibraaheema wallazeena ma'ahoo iz qaaloo liqawmihim innaa bura'aaa'u minkum wa mimmaa ta'budoona min doonil laahi kafarnaa bikum wa badaa bainanaa wa bainakumul 'adaawatu wal baghdaaa'u abadan hattaa tu'minoo billaahi wahdahooo illaa qawla Ibraheema li abeehi la astaghfiranna laka wa maaa amliku laka minal laahi min shai; rabbanaa 'alaika tawakkalnaa wa ilaika anabnaa wa ilaikal maseer"
+                    }
+                },
+                "translation": {
+                    "en": "There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, \"Indeed, we are disassociated from you and from whatever you worship other than Allah. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allah alone\" except for the saying of Abraham to his father, \"I will surely ask forgiveness for you, but I have not [power to do] for you anything against Allah. Our Lord, upon You we have relied, and to You we have returned, and to You is the destination.",
+                    "id": "Sungguh, telah ada suri teladan yang baik bagimu pada Ibrahim dan orang-orang yang bersama dengannya, ketika mereka berkata kepada kaumnya, “Sesungguhnya kami berlepas diri dari kamu dan dari apa yang kamu sembah selain Allah, kami mengingkari (kekafiran)mu dan telah nyata antara kami dan kamu ada permusuhan dan kebencian untuk selama-lamanya sampai kamu beriman kepada Allah saja,” kecuali perkataan Ibrahim kepada ayahnya, ”Sungguh, aku akan memohonkan ampunan bagimu, namun aku sama sekali tidak dapat menolak (siksaan) Allah terhadapmu.” (Ibrahim berkata), “Ya Tuhan kami, hanya kepada Engkau kami bertawakal dan hanya kepada Engkau kami bertobat dan hanya kepada Engkaulah kami kembali,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5154",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5154.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5154.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Melalui ayat ini, Allah memberikan pelajaran berharga dari hubungan Nabi Ibrahim dengan ayahnya. Sungguh, telah ada suri teladan yang baik bagi kamu, orang-orang beriman di akhir zaman, pada Ibrahim dan orang-orang beriman yang bersama dengannya, para pengikut, dan sahabat-sahabatnya, ketika mereka berkata kepada kaumnya yang menyembah berhala dan mempertuhankan matahari, bulan, dan bintang, “Sesungguhnya kami berlepas diri dari kalian dan dari apa yang kalian sembah selain Allah, tidak menjadi sahabat kalian, dan mendukung perbuatan kalian, beribadah kepada selain Allah; kami mengingkari kekafiran kalian lahir batin, pernyataan, pikiran, perasaan, dan keyakinan, dan menurut kami telah nyata antara kami dan kalian ada permusuhan dan kebencian untuk selama-lamanya, karena kalian menolak beriman kepada Allah dan berusaha membunuh kami, orang-orang beriman, hingga kalian beriman kepada Allah saja dengan tauhid yang benar, sebab dengan beriman kalian menjadi saudara. “Allah tidak membenarkan orang beriman memintakan ampunan untuk orang-orang kafir (Lihat: Surah an-Nisà’/4: 48), kecuali perkataan Ibrahim kepada ayahnya yang bernama Azar, “Sungguh aku akan memohonkan ampunan kepada Allah bagimu, karena cinta dan kasih sayang anak kepada orang tua, namun aku sebagai hamba Allah sama sekali tidak dapat menolak siksaan Allah kepadamu, karena aku tidak memiliki daya dan kekuatan apa pun.” Ibrahim berkata dalam doanya yang tulus, “Ya Tuhan kami, hanya kepada Engkau kami bertawakal, karena Engkau menyukai orang yang bertawakal dan hanya Engkau saja yang pantas menjadi tempat kami bertawakal; dan hanya kepada Engkau kami bertobat, karena Engkau menyukai hamba-hamba yang tobat dari dosa mereka dan hanya kepada Engkau kami kembali, karena hanya Engkau yang memiliki akhirat dan Engkau pangkal seluruh kehidupan.”",
+                        "long": "Allah memerintahkan kaum Muslimin untuk mencontoh Nabi Ibrahim dan orang-orang yang beriman besertanya, ketika ia berkata kepada kaumnya yang kafir dan menyembah berhala, \"Hai kaumku, sesungguhnya kami berlepas diri dari kamu semua, dan dari apa yang kamu sembah selain Allah.\"\n\nKemudian diterangkan bahwa yang dimaksud Ibrahim dengan berlepas diri itu ialah:\n\n1.Nabi Ibrahim mengingkari kaumnya, tidak mengacuhkan tuhan-tuhan mereka, dan tidak membenarkan perbuatan mereka yang menyembah patung-patung yang tidak dapat memberi manfaat dan mudarat kepada siapa pun. Allah berfirman: \n\nWahai manusia! Telah dibuat suatu perumpamaan. Maka dengarkanlah! Sesungguhnya segala yang kamu seru selain Allah tidak dapat menciptakan seekor lalat pun, walaupun mereka bersatu untuk menciptakannya. Dan jika lalat itu merampas sesuatu dari mereka, mereka tidak akan dapat merebutnya kembali dari lalat itu. Sama lemahnya yang menyembah dan yang disembah. (al-hajj/22: 73)\n\n2.Nabi Ibrahim mengatakan bahwa antara dia dengan kaumnya yang ingkar telah terjadi permusuhan dan saling membenci selamanya. Ibrahim menyatakan akan tetap menentang kaumnya sampai mereka meninggalkan perbuatan syirik. Jika mereka telah beriman, permusuhan itu baru akan berakhir.\n\nTerhadap ayahnya yang masih kafir, ia tidak mengambil sikap yang tegas seperti sikapnya terhadap kaumnya. Ia berjanji akan mendoakan agar Allah mengampuni dosa-dosa ayahnya. Dalam hal ini, Allah melarang kaum Muslimin mencontoh Ibrahim, sekalipun ia akhirnya berlepas tangan pula terhadap ayahnya, setelah nyata baginya keingkaran bapaknya itu.\n\nBenar ada di antara orang yang beriman mendoakan ayah-ayah mereka yang meninggal dalam keadaan musyrik. Mereka beralasan mencontoh perbuatan Ibrahim itu. Maka Allah membantah perbuatan mereka:\n\nTidak pantas bagi Nabi dan orang-orang yang beriman memohonkan ampunan (kepada Allah) bagi orang-orang musyrik, sekalipun orang-orang itu kaum kerabat(nya), setelah jelas bagi mereka, bahwa orang-orang musyrik itu penghuni neraka Jahanam. Adapun permohonan ampunan Ibrahim (kepada Allah) untuk bapaknya, tidak lain hanyalah karena suatu janji yang telah diikrarkannya kepada bapaknya. Maka ketika jelas bagi Ibrahim bahwa bapaknya adalah musuh Allah, maka Ibrahim berlepas diri darinya. Sungguh, Ibrahim itu seorang yang sangat lembut hatinya lagi penyantun. (at-Taubah/9: 113-114)\n\nSelanjutnya Nabi Ibrahim berkata kepada ayahnya bahwa dia tidak mampu menolongnya. Ia hanya bisa berdoa agar Allah memberi taufik berupa iman kepadanya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5155,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 549,
+                    "manzil": 7,
+                    "ruku": 482,
+                    "hizbQuarter": 219,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ",
+                    "transliteration": {
+                        "en": "Rabbana laa taj'alnaa fitnatal lillazeena kafaroo waghfir lanaa rabbanaa innaka antal azeezul hakeem"
+                    }
+                },
+                "translation": {
+                    "en": "Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise.\"",
+                    "id": "Ya Tuhan kami, janganlah Engkau jadikan kami (sasaran) fitnah bagi orang-orang kafir. Dan ampunilah kami, ya Tuhan kami. Sesungguhnya Engkau yang Mahaperkasa, Mahabijaksana.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5155",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5155.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5155.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "“Ya Tuhan kami, janganlah Engkau jadikan kami, orang-orang beriman, menjadi sasaran fitnah bagi orang-orang kafir, karena keluguan kami. Dan ampunilah kami, seluruh dosa dan kekhilafan kami agar jiwa kami bersih, aib kami tertutup, dan hidup kami bahagia. Ya Tuhan kami. Sesungguhnya Engkaulah Yang Mahaperkasa, menyadarkan dan mengubah jalan hidup orang-orang berdosa; Maha bijaksana, menghadapi perilaku hamba yang lalai.",
+                        "long": "Sebelum Nabi Ibrahim berpisah dengan kaumnya yang tidak mau menerima seruannya, ia berdoa kepada Allah dengan hati yang tunduk dan berserah diri kepada-Nya. Dalam doanya ia berkata, \"Ya Tuhan kami, janganlah Engkau jadikan kami (sasaran) fitnah bagi orang-orang kafir.\"\n\nDengan perkataan lain, arti ayat ini ialah Nabi Ibrahim memohon agar Allah tidak memenangkan orang kafir atas orang beriman. Hal itu akan memberi kesempatan kepada orang kafir untuk memfitnah orang beriman. Kemenangan itu juga bisa menimbulkan keyakinan pada orang kafir bahwa mereka berada di jalan yang benar sedangkan orang beriman berada di jalan yang salah.\n\nDi akhir ayat, Nabi Ibrahim berdoa, \"Wahai Tuhan kami, ampunilah dan maafkanlah dosa kami sehingga perbuatan dosa itu seakan-akan tidak pernah kami kerjakan. Engkaulah tempat kami berlindung. Tuntutan-Mu sangat keras. Engkau melakukan dan menciptakan segala sesuatu sesuai dengan sifat, guna, dan faedahnya.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5156,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 550,
+                    "manzil": 7,
+                    "ruku": 482,
+                    "hizbQuarter": 219,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ ۚ وَمَن يَتَوَلَّ فَإِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ",
+                    "transliteration": {
+                        "en": "Laqad kaana lakum feehim uswatunhasanatul liman kaana yarjul laaha wal yawmal aakhir; wa many yatawalla fa innal laaha huwal ghaniyyul hameed"
+                    }
+                },
+                "translation": {
+                    "en": "There has certainly been for you in them an excellent pattern for anyone whose hope is in Allah and the Last Day. And whoever turns away - then indeed, Allah is the Free of need, the Praiseworthy.",
+                    "id": "Sungguh, pada mereka itu (Ibrahim dan umatnya) terdapat suri teladan yang baik bagimu; (yaitu) bagi orang yang mengharap (pahala) Allah dan (keselamatan pada) hari kemudian, dan barangsiapa berpaling, maka sesungguhnya Allah, Dialah Yang Mahakaya, Maha Terpuji."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5156",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5156.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5156.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dari kisah Nabi Ibrahim itu, Allah menyatakan bahwa sungguh pada mereka itu, Ibrahim dan umatnya yang beriman, terdapat suri teladan yang baik bagi kamu, berkenaan dengan sikap beragama, ketegasan, dan kekhusyukan dalam berdoa bagi orang-orang yang berharap kepada Allah, karena Allah tempat memohon dan bergantung seluruh makhluk, dan berharap mendapat keselamatan pada hari akhir, karena kebahagiaan sejati bukan di dunia, tetapi di akhirat ketika selamat dari azab Allah. Dan barang siapa berpaling dari Allah dengan menjauh dan menyimpang dari ajaran-Nya, maka sesungguhnya Allah, Dialah Yang Mahakaya, tidak bertambah keagungan-Nya dengan ketaatan hamba dan tidak berkurang keagungan-Nya dengan kekufuran seluruh makhluk, Maha Terpuji, sifat dan perbuatan-Nya.",
+                        "long": "Ayat ini mengulang perintah untuk menjadikan Nabi Ibrahim dan orang-orang yang beriman besertanya sebagai teladan yang baik dengan maksud agar perintah itu diperhatikan oleh orang-orang yang beriman. Hal ini terutama ditujukan bagi orang yang yakin akan bertemu dengan Allah di akhirat, dan mengharapkan pahala serta balasan surga sebagai tempat yang nikmat.\n\nOrang yang tidak mengikuti perintah Allah, dan tidak mengambil teladan dari orang-orang yang saleh, maka hendaklah mereka ketahui bahwa Allah sedikit pun tidak memerlukannya. Allah Maha Terpuji di langit dan di bumi, dan Dia tidak memerlukan bantuan makhluk-Nya dalam melaksanakan kehendak-Nya. Allah berfirman:\n\nDan Musa berkata, \"Jika kamu dan orang yang ada di bumi semuanya mengingkari (nikmat Allah), maka sesungguhnya Allah Mahakaya, Maha Terpuji. (Ibrahim/14: 8)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5157,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 550,
+                    "manzil": 7,
+                    "ruku": 483,
+                    "hizbQuarter": 220,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "۞ عَسَى اللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً ۚ وَاللَّهُ قَدِيرٌ ۚ وَاللَّهُ غَفُورٌ رَّحِيمٌ",
+                    "transliteration": {
+                        "en": "Asal laahu any yaj'ala bainakum wa bainal lazeena 'aadaitum minhum mawaddah; wallahu qadeer; wallahu ghafoorur raheem"
+                    }
+                },
+                "translation": {
+                    "en": "Perhaps Allah will put, between you and those to whom you have been enemies among them, affection. And Allah is competent, and Allah is Forgiving and Merciful.",
+                    "id": "Mudah-mudahan Allah menimbulkan kasih sayang di antara kamu dengan orang-orang yang pernah kamu musuhi di antara mereka. Allah Mahakuasa. Dan Allah Maha Pengampun, Maha Penyayang."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5157",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5157.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5157.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ayat ini menjelaskan bahwa orang-orang beriman menaruh harapan kepada Allah untuk mengubah kebencian dengan kasih sayang. Mudah-mudahan Allah menimbulkan kasih sayang yang tulus dan bersemi di antara kamu, orang-orang beriman dengan orang-orang yang pernah kamu musuhi di antara mereka, orang-orang kafir. Allah Mahakuasa mengubah benci menjadi cinta dan permusuhan menjadi persahabatan. Dan Allah Maha Pengampun kepada yang tobat dari dosa-dosanya, Maha Penyayang kepada hamba yang taat kepada-Nya.",
+                        "long": "Menurut al-hasan al-Basri dan Abu salih, ayat ini diturunkan berhubungan dengan Khuza'ah, Bani al-harits bin Ka'ab, Kinanah, Khuzaimah, dan kabilah-kabilah Arab lainnya. Mereka minta diadakan perdamaian dengan kaum Muslimin dengan mengemukakan ikrar tidak akan memerangi kaum Muslimin dan tidak menolong musuh-musuh mereka. Maka turunlah ayat ini yang memerintahkan kaum Muslimin untuk menerima permusuhan mereka.\n\nAyat ini menyatakan kepada Rasulullah dan orang-orang yang beriman bahwa mudah-mudahan Allah akan menjalinkan rasa cinta dan kasih sayang antara kaum Muslimin yang ada di Medinah dengan orang-orang musyrik Mekah yang selama ini membenci dan menjadi musuh mereka. Hal itu mudah bagi Allah, sebagai Zat Yang Mahakuasa dan menentukan segalanya. Apalagi jika orang-orang kafir mau beriman kepada Allah dan rasul-Nya, maka Allah akan mengampuni dosa-dosa yang telah mereka lakukan sebelumnya, yaitu dosa memusuhi Rasulullah dan kaum Muslimin.\n\nIsyarat yang terdapat dalam ayat ini terbukti kebenarannya pada pembebasan kota Mekah oleh kaum Muslimin, tanpa terjadi pertumpahan darah. Sewaktu Rasulullah memasuki kota Mekah, karena orang-orang musyrik melanggar perjanjian mereka dengan kaum Muslimin, mereka merasa gentar menghadapi tentara kaum Muslimin, dan bersembunyi di rumah-rumah mereka. Oleh karena itu, Rasulullah mengumumkan bahwa barang siapa memasuki Baitullah, maka dia mendapat keamanan, barang siapa memasuki Masjidil Haram, maka ia mendapat keamanan, dan barang siapa memasuki rumah Abu Sufyan, ia mendapat keamanan. Perintah itu ditaati oleh kaum musyrik dan mereka pun berlindung di Ka'bah, di Masjidil Haram, dan rumah Abu Sufyan. Maka waktu itu, kaum Muslimin yang telah hijrah bersama Rasulullah ke Medinah bertemu kembali dengan keluarganya yang masih musyrik dan tetap tinggal di Mekah, setelah beberapa tahun mereka berpisah. Maka terjalinlah kembali hubungan baik dan kasih sayang diantara mereka.\n\nKarena baiknya sikap kaum Muslimin kepada mereka, maka mereka berbondong-bondong masuk Islam. Firman Allah: \n\nApabila telah datang pertolongan Allah dan kemenangan, dan engkau melihat manusia berbondong-bondong masuk agama Allah. Maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat. (an-Nasr/110:1-3)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5158,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 550,
+                    "manzil": 7,
+                    "ruku": 483,
+                    "hizbQuarter": 220,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَّا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
+                    "transliteration": {
+                        "en": "Laa yanhaakumul laahu 'anil lazeena lam yuqaatilookum fid deeni wa lam yukhrijookum min diyaarikum an tabarroohum wa tuqsitooo ilaihim; innal laaha yuhibbul muqsiteen"
+                    }
+                },
+                "translation": {
+                    "en": "Allah does not forbid you from those who do not fight you because of religion and do not expel you from your homes - from being righteous toward them and acting justly toward them. Indeed, Allah loves those who act justly.",
+                    "id": "Allah tidak melarang kamu berbuat baik dan berlaku adil terhadap orang-orang yang tidak memerangimu dalam urusan agama dan tidak mengusir kamu dari kampung halamanmu. Sesungguhnya Allah mencintai orang-orang yang berlaku adil."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5158",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5158.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5158.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah tidak melarang kamu berbuat baik dan berlaku adil, karena kebaikan dan keadilan itu bersifat universal, kepada orang-orang kafir yang tidak memerangi kamu karena agama dengan menekankan kebebasan dan toleransi beragama; dan tidak mengusir kamu dari kampung halaman kamu, karena kamu beriman kepada Allah. Sesungguhnya Allah mencintai orang-orang yang berlaku adil baik terhadap dirinya sendiri maupun terhadap orang lain.",
+                        "long": "Diriwayatkan bahwa Ahmad bin hanbal menceritakan kepada beberapa imam yang lain dari 'Abdullah bin Zubair, ia berkata, \"Telah datang ke Medinah (dari Mekah) Qutailah binti 'Abdul 'Uzza, bekas istri Abu Bakar sebelum masuk Islam, untuk menemui putrinya Asma' binti Abu Bakar dengan membawa berbagai hadiah. Asma' enggan menerima hadiah itu dan tidak memperkenankan ibunya memasuki rumahnya. Kemudian Asma' mengutus seseorang kepada 'Aisyah agar menanyakan hal itu kepada Rasulullah. Maka turunlah ayat ini yang membolehkan Asma' menerima hadiah dan mengizinkan ibunya yang kafir itu tinggal di rumahnya.\n\nAllah tidak melarang orang-orang yang beriman berbuat baik, mengadakan hubungan persaudaraan, tolong-menolong, dan bantu-membantu dengan orang musyrik selama mereka tidak mempunyai niat menghancurkan Islam dan kaum Muslimin, tidak mengusir kaum Muslimin dari negeri-negeri mereka, dan tidak pula berteman akrab dengan orang yang hendak mengusir itu.\n\nAyat ini memberikan ketentuan umum dan prinsip agama Islam dalam menjalin hubungan dengan orang-orang yang bukan Islam dalam satu negara. Kaum Muslimin diwajibkan bersikap baik dan bergaul dengan orang-orang kafir, selama mereka bersikap dan ingin bergaul baik, terutama dengan kaum Muslimin.\n\nSeandainya dalam sejarah Islam, terutama pada masa Rasulullah saw dan masa para sahabat, terdapat tindakan kekerasan yang dilakukan oleh kaum Muslimin kepada orang-orang musyrik, maka tindakan itu semata-mata dilakukan untuk membela diri dari kezaliman dan siksaan yang dilakukan oleh pihak musyrik.\n\nDi Mekah, Rasulullah dan para sahabat disiksa dan dianiaya oleh orang-orang musyrik, sampai mereka terpaksa hijrah ke Medinah. Sesampai di Medinah, mereka pun dimusuhi oleh orang Yahudi yang bersekutu dengan orang-orang musyrik, sekalipun telah dibuat perjanjian damai antara mereka dengan Rasulullah. Oleh karena itu, Rasulullah terpaksa mengambil tindakan keras terhadap mereka. Demikian pula ketika kaum Muslimin berhadapan dengan kerajaan Persia dan Romawi, orang-orang kafir di sana telah memancing permusuhan sehingga terjadi peperangan.\n\nJadi ada satu prinsip yang perlu diingat dalam hubungan orang-orang Islam dengan orang-orang kafir, yaitu boleh mengadakan hubungan baik, selama pihak yang bukan Islam melakukan yang demikian pula. Hal ini hanya dapat dibuktikan dalam sikap dan perbuatan kedua belah pihak.\n\nDi Indonesia prinsip ini dapat dilakukan, selama tidak ada pihak agama lain bermaksud memurtadkan orang Islam atau menghancurkan Islam dan kaum Muslimin."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5159,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 550,
+                    "manzil": 7,
+                    "ruku": 483,
+                    "hizbQuarter": 220,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَجُوكُم مِّن دِيَارِكُمْ وَظَاهَرُوا عَلَىٰ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ ۚ وَمَن يَتَوَلَّهُمْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+                    "transliteration": {
+                        "en": "Innamaa yanhaakumul laahu 'anil lazeena qaatalookum fid deeni wa akhrajookum min diyaarikum wa zaaharoo 'alaa ikhraajikum an tawallawhum; wa many yatawallahum faulaaa'ika humuz zaalimoon"
+                    }
+                },
+                "translation": {
+                    "en": "Allah only forbids you from those who fight you because of religion and expel you from your homes and aid in your expulsion - [forbids] that you make allies of them. And whoever makes allies of them, then it is those who are the wrongdoers.",
+                    "id": "Sesungguhnya Allah hanya melarang kamu menjadikan mereka sebagai kawanmu orang-orang yang memerangi kamu dalam urusan agama dan mengusir kamu dari kampung halamanmu dan membantu (orang lain) untuk mengusirmu. Barangsiapa menjadikan mereka sebagai kawan, mereka itulah orang-orang yang zalim."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5159",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5159.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5159.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "“Sesungguhnya Allah hanya melarang kamu, orang-orang beriman, menjadikan mereka, orang-orang kafir yang tidak bersedia hidup berdampingan dengan kamu secara damai, yaitu mereka yang memerangi kamu karena agama, tidak ada kebebasan dan toleransi beragama; mengusir kamu dari tempat tinggal kamu, karena pembersihan ras, suku, dan agama, serta penguasaan teritorial, dan membantu pihak lain untuk mengusir kamu karena kerja sama yang sistemik dan terencana; sebagai sahabat dekat kamu lahir batin. Barang siapa yang menjadikan mereka sebagai kawan, karena kepentingan ekonomi, politik, dan keamanan; maka mereka itulah orang zalim terhadap perjuangan Islam dan kaum muslim.",
+                        "long": "Dalam ayat ini dijelaskan bahwa Allah hanya melarang kaum Muslimin bertolong-tolongan dengan orang-orang yang menghambat atau menghalangi manusia beribadah di jalan Allah, dan memurtadkan kaum Muslimin sehingga ia berpindah kepada agama lain, yang memerangi, mengusir, dan membantu pengusir kaum Muslimin dari negeri mereka. Dengan orang yang semacam itu, Allah dengan tegas melarang kaum Muslimin untuk berteman dengan mereka.\n\nDi akhir ayat ini, Allah mengingatkan kaum Muslimin yang menjadikan musuh-musuh mereka sebagai teman dan tolong-menolong dengan mereka, bahwa jika mereka melanggar larangan ini, maka mereka adalah orang-orang yang zalim."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5160,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 550,
+                    "manzil": 7,
+                    "ruku": 483,
+                    "hizbQuarter": 220,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ ۖ اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ ۖ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلَا تَرْجِعُوهُنَّ إِلَى الْكُفَّارِ ۖ لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ ۖ وَآتُوهُم مَّا أَنفَقُوا ۚ وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ ۚ وَلَا تُمْسِكُوا بِعِصَمِ الْكَوَافِرِ وَاسْأَلُوا مَا أَنفَقْتُمْ وَلْيَسْأَلُوا مَا أَنفَقُوا ۚ ذَٰلِكُمْ حُكْمُ اللَّهِ ۖ يَحْكُمُ بَيْنَكُمْ ۚ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+                    "transliteration": {
+                        "en": "Yaa ayyuhal lazeena aamanoo izaa jaaa'akumul mu'minaatu muhaajiraatin famtah inoohunna Allaahu a'lamu bieemaanihinna fa in 'alimtumoohunna mu'minaatin falaa tarji'oohunna ilal kuffaar; laa hunna hillul lahum wa laa hum uahilloona lahunna wa aatoohum maa anfaqoo wa laa junaaha 'alaikum an tankihoohunna izaaa aataitumoohunna ujoorahunn; wa laa tumsikoo bi 'isamil kawaafiri was'aloo maaa anfaqtum walyas'aloo maaa anfaqoo zaalikum hukmul laahi yahkumu bainakum wallaahu 'aleemun hakeem"
+                    }
+                },
+                "translation": {
+                    "en": "O you who have believed, when the believing women come to you as emigrants, examine them. Allah is most knowing as to their faith. And if you know them to be believers, then do not return them to the disbelievers; they are not lawful [wives] for them, nor are they lawful [husbands] for them. But give the disbelievers what they have spent. And there is no blame upon you if you marry them when you have given them their due compensation. And hold not to marriage bonds with disbelieving women, but ask for what you have spent and let them ask for what they have spent. That is the judgement of Allah; He judges between you. And Allah is Knowing and Wise.",
+                    "id": "Wahai orang-orang yang beriman! Apabila perempuan-perempuan mukmin datang berhijrah kepadamu, maka hendaklah kamu uji (keimanan) mereka. Allah lebih mengetahui tentang keimanan mereka; jika kamu telah mengetahui bahwa mereka (benar-benar) beriman maka janganlah kamu kembalikan mereka kepada orang-orang kafir (suami-suami mereka). Mereka tidak halal bagi orang-orang kafir itu dan orang-orang kafir itu tidak halal bagi mereka. Dan berikanlah kepada (suami) mereka mahar yang telah mereka berikan. Dan tidak ada dosa bagimu menikahi mereka apabila kamu bayar kepada mereka maharnya. Dan janganlah kamu tetap berpegang pada tali (pernikahan) dengan perempuan-perempuan kafir; dan hendaklah kamu minta kembali mahar yang telah kamu berikan; dan (jika suaminya tetap kafir) biarkan mereka meminta kembali mahar yang telah mereka bayar (kepada mantan istrinya yang telah beriman). Demikianlah hukum Allah yang ditetapkan-Nya di antara kamu. Dan Allah Maha Mengetahui, Mahabijaksana."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5160",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5160.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5160.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Melalui ayat ini Allah menjelaskan tentang tata cara yang harus dilakukan Rasulullah apabila menerima perempuan yang berasal dari daerah kafir dan hukum perkawinan mereka. “Wahai orang-orang yang beriman! Apabila perempuan-perempuan mukmin yang berasal daerah yang dikuasai orang-orang kafir datang berhijrah kepadamu ke Madinah, maka hendaklah kamu uji keimanan mereka agar kamu mengetahui latar belakang dan motivasi kedatangan mereka, serta dapat memberikan perlindungan yang tepat kepada mereka. Allah lebih mengetahui tentang keimanan mereka, hakikat, kualitas, bahkan yang terbesit dalam hati mereka; namun, pengujian ini diperlukan untuk kewaspadaan. Jika kamu telah mengetahui, setelah kamu melakukan wawancara mendalam terhadap mereka bahwa mereka, perempuan-perempuan yang meminta perlindungan itu benar-benar beriman, maka janganlah kamu mengembalikan mereka kepada orang-orang kafir, yakni suami-suami mereka yang kafir, karena perkawinan mereka batal, ketika perempuan-perempuan itu masuk Islam. Mereka, perempuan-perempuan muslimah itu tidak halal bagi orang-orang kafir itu, yakni bagi para suami mereka untuk berhubungan suami-istri dan orang-orang kafir itu pun, yakni para suami yang kafir, tidak halal bagi mereka, para istri yang sudah menjadi muslimah untuk berhubungan suami-istri. Dan berikanlah kepada suami mereka, yang masih tetap kafir itu mahar yang telah mereka berikan kepada mantan istrinya yang menjadi muslimah, jika mereka meminta. Dan tidak ada dosa bagi kamu, para laki-laki muslim untuk menikahi mereka, karena perempuan-perempuan itu berstatus janda, apabila kamu menikahinya setelah selesai masa iddah, mengikuti hukum Allah dan dengan tujuan pernikahan yang benar, serta membayarkan kepada mereka maharnya sesuai kesepakatan.” Sebaliknya jika perempuan-perempuan muslimah meninggalkan suami mereka, masuk ke daerah kafir dan menjadi kafir, maka Allah menegaskan, “Dan janganlah kamu, para laki-laki muslim tetap berpegang pada tali pernikahan dengan perempuan-perempuan kafir, karena pernikahan kamu dengan mereka batal setelah mereka murtad; dan hendaklah kamu, para laki-laki muslim meminta kembali mahar yang telah kamu berikan kepada mantan istri kamu yang murtad itu.” Sementara itu tentang perempuan beriman yang menghadap kepada Nabi di Madinah, Allah menegaskan, “Dan jika suaminya tetap kafir, sedangkan perempuan-perempuan itu benar-benar beriman, biarkanlah mereka, para suami itu, meminta kembali mahar yang telah mereka bayarkan kepada mantan istrinya yang telah beriman. Demikianlah hukum Allah yang ditetapkan-Nya di antara kamu tentang perceraian karena suami atau istri murtad atau istri masuk Islam, serta larangan menikah beda agama. Dan Allah Maha Mengetahui semua yang tersimpan dalam hati, Mahabijasana dalam menyikapi tingkah laku manusia.”",
+                        "long": "Ayat ini menerangkan perintah Allah kepada Rasulullah dan orang-orang yang beriman tentang sikap yang harus diambil, jika seorang perempuan beriman yang berasal dari daerah kafir datang menghadap atau minta perlindungan. Allah menyatakan bahwa apabila datang seorang perempuan dari daerah kafir yang mengucapkan dua kalimat syahadat dan tidak tampak padanya tanda-tanda keingkaran dan kemunafikan, maka perlu diperiksa lebih dahulu, apakah mereka benar telah beriman, atau datang karena melarikan diri dari suaminya, sedangkan ia sebenarnya tidak beriman.\n\nAllah memerintahkan yang demikian itu bukan karena Dia tidak mengetahui hal ihwal mereka. Allah Maha Mengetahui hakikat iman mereka, bahkan mengetahui semua yang terbesit dalam hati mereka. Akan tetapi, untuk kewaspadaan dan berjaga-jaga di kalangan kaum Muslimin yang sedang berperang menghadapi orang-orang kafir, maka usaha-usaha mengadakan penelitian itu harus dilakukan, walaupun orang itu kerabat sendiri.\n\nJika dalam pemeriksaan itu terbukti mereka adalah orang-orang yang beriman, maka jangan sekali-kali kaum Muslimin mengembalikan mereka ke daerah kafir, sebab perempuan-perempuan yang beriman tidak halal lagi bagi suaminya yang kafir. Sebaliknya, pria-pria yang kafir tidak halal bagi perempuan yang beriman.\n\nDari ayat ini dapat ditetapkan suatu hukum yang menyatakan bahwa jika seorang istri telah masuk Islam, berarti sejak itu ia telah bercerai dengan suaminya yang masih kafir. Oleh karena itu, ia haram kembali kepada suaminya. Ayat ini juga menguatkan hukum yang menyatakan bahwa haram hukumnya seorang perempuan muslimat kawin dengan laki-laki kafir.\n\nKemudian Allah menetapkan agar mas kawin yang telah diterima istri yang masuk Islam itu dikembalikan kepada suaminya. Menurut Imam Syafi'i, istri wajib mengembalikan mahar itu jika pihak suaminya yang kafir itu memintanya. Jika pihak suami tidak memintanya, maka mahar itu tidak wajib dikembalikan. Sebagian ulama berpendapat bahwa mahar yang wajib dikembalikan itu jika suaminya termasuk orang yang telah melakukan perjanjian damai dengan kaum Muslimin, sedang bagi suami yang tidak termasuk dalam perjanjian damai dengan kaum Muslimin maharnya tidak wajib dikembalikan. Sebagian ulama lain berpendapat bahwa hukum pengembalian mahar itu bukan wajib tetapi sunah dan itu pun jika diminta oleh suaminya.\n\nSementara itu kaum Muslimin dibolehkan mengawini perempuan-perempuan mukminat yang berhijrah itu dengan membayar mahar. Hal ini berarti bahwa perempuan itu tidak boleh dijadikan budak, karena mereka bukan berasal dari tawanan perang. Allah menganjurkan kaum Muslimin mengawini mereka agar diri mereka terpelihara. \n\nAllah menerangkan bahwa penyebab larangan melanjutkan perkawinan istri yang beriman dengan suami yang kafir itu adalah karena tidak akan ada hubungan perkawinan antara perempuan-perempuan yang sudah beriman dengan suami-suami mereka yang masih kafir dan berada di daerah kafir. Akad perkawinan mereka tidak berlaku lagi sejak sang istri masuk Islam. Sebaliknya jika yang pergi ke daerah kafir itu adalah istri-istri yang beriman kemudian ia menjadi kafir, kaum Muslimin diperintahkan untuk membiarkan mereka pergi. Akan tetapi, mereka harus mengembalikan barang-barang yang pernah diberikan suaminya yang Muslim.\n\nSemua yang disebutkan itu adalah hukum-hukum Allah yang wajib ditaati oleh setiap orang yang menghambakan diri kepada-Nya, karena dalam menetapkan hukum-Nya, Allah Maha Mengetahui kesanggupan hamba yang akan memikul hukum itu dan mengetahui sesuatu yang paling baik dilakukan oleh hamba-hamba-Nya. Dalam menetapkan hukum itu, Allah juga mengetahui faedah dan akibat menetapkan hukum serta keserasian hukum itu bagi yang memikulnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5161,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 550,
+                    "manzil": 7,
+                    "ruku": 483,
+                    "hizbQuarter": 220,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِن فَاتَكُمْ شَيْءٌ مِّنْ أَزْوَاجِكُمْ إِلَى الْكُفَّارِ فَعَاقَبْتُمْ فَآتُوا الَّذِينَ ذَهَبَتْ أَزْوَاجُهُم مِّثْلَ مَا أَنفَقُوا ۚ وَاتَّقُوا اللَّهَ الَّذِي أَنتُم بِهِ مُؤْمِنُونَ",
+                    "transliteration": {
+                        "en": "Wa in faatakum shai'um min azwaajikum ilal kuffaari fa'aaqabtum fa aatul lazeena zahabat azwaajuhum misla maaa anfaqoo; wattaqul laahal lazeee antum bihee mu'minoon"
+                    }
+                },
+                "translation": {
+                    "en": "And if you have lost any of your wives to the disbelievers and you subsequently obtain [something], then give those whose wives have gone the equivalent of what they had spent. And fear Allah, in whom you are believers.",
+                    "id": "Dan jika ada sesuatu (pengembalian mahar) yang belum kamu selesaikan dari istri-istrimu yang lari kepada orang-orang kafir, lalu kamu dapat mengalahkan mereka maka berikanlah (dari harta rampasan) kepada orang-orang yang istrinya lari itu sebanyak mahar yang telah mereka berikan. Dan bertakwalah kamu kepada Allah yang kepada-Nya kamu beriman."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5161",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5161.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5161.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah lalu menjelaskan cara-cara pengembalian mahar kepada para suami yang ditinggalkan istri mereka tersebut. Dan jika ada sesuatu tentang pengembalian mahar yang belum selesai dari istri-istri kamu yang lari kepada orang-orang kafir, karena para mantan istri kamu itu tidak memiliki niat baik untuk mengembalikan mahar kepada kamu, kemudian kamu berhasil mengalahkan mereka dalam perang, yakni mengalahkan orang-orang kafir yang kepada mereka mantan istri-istri kamu lari, maka berikanlah dengan mengambil dari harta rampasan perang kepada orang-orang yang istri-istri mereka lari kepada orang-orang kafir sebanyak mahar yang telah mereka berikan kepada mantan istri-istri mereka. Dan bertakwalah kamu, wahai para suami yang ditinggalkan istri, kepada Allah yang kepada-Nya kamu beriman agar kamu tetap tegar.",
+                        "long": "Dalam ayat ini diterangkan hukum seorang istri mukminat yang murtad dan lari dari suaminya ke daerah kafir, sedang ia belum mengembalikan mahar yang pernah diterima dari suaminya yang Mukmin itu. Jika si suami menyerang daerah kafir, kemudian dapat menawan bekas istrinya, maka bekas istrinya itu boleh diambilnya kembali dengan mengganti mahar yang telah diterima oleh istri dari suami yang kafir.\n\nDiriwayatkan oleh Ibnu Abi hatim dari al-hasan bahwa ayat ini diturunkan berhubungan dengan peristiwa Ummul hakam binti Abi Sufyan yang telah murtad dan melarikan diri dari suaminya, kemudian ia menikah dengan seorang laki-laki dari Bani tsaqif. Ayat ini memerintahkan agar mas kawin yang diterima Ummul hakam dari suaminya yang kafir itu diganti dan diambilkan dari hasil rampasan perang, dan Ummul hakam kembali kepada suaminya semula (yang Muslim).\n\nMenurut riwayat Ibnu 'Abbas, mas kawin itu diambil dan diberikan kepada suami yang kafir sebelum harta rampasan perang dibagi lima sebanyak yang pernah diberikan suami yang kafir kepada perempuan yang lari itu.\n\nPada akhir ayat ini Allah memerintahkan agar kaum Muslimin bertakwa dan melaksanakan perintah-perintah-Nya dan menghentikan larangan-larangan-Nya, baik yang diterangkan pada ayat di atas, maupun yang disebut pada ayat-ayat yang lain serta yang terdapat di dalam hadis, jika mereka beriman kepada-Nya dan kepada Rasul-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5162,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 551,
+                    "manzil": 7,
+                    "ruku": 483,
+                    "hizbQuarter": 220,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلَىٰ أَن لَّا يُشْرِكْنَ بِاللَّهِ شَيْئًا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَادَهُنَّ وَلَا يَأْتِينَ بِبُهْتَانٍ يَفْتَرِينَهُ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِي مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhan nabbiyyu izaa jaaa'akal mu'minaau yubaai naka 'alaaa allaa yushrikna billaahi shai 'anw wa laa yasriqna wa laa yazneena wa laa yaqtulna awlaadahunna wa laa yaateena bibuhtaaniny yaftaree nahoo baina aydeehinna wa arjulihinna wa laa ya'seenaka fee ma'roofin fabaayi'hunna wastaghfir lahunnal laaha innnal laaha ghafoorur raheem"
+                    }
+                },
+                "translation": {
+                    "en": "O Prophet, when the believing women come to you pledging to you that they will not associate anything with Allah, nor will they steal, nor will they commit unlawful sexual intercourse, nor will they kill their children, nor will they bring forth a slander they have invented between their arms and legs, nor will they disobey you in what is right - then accept their pledge and ask forgiveness for them of Allah. Indeed, Allah is Forgiving and Merciful.",
+                    "id": "Wahai Nabi! Apabila perempuan-perempuan yang mukmin datang kepadamu untuk mengadakan bai‘at (janji setia), bahwa mereka tidak akan mempersekutukan sesuatu apa pun dengan Allah; tidak akan mencuri, tidak akan berzina, tidak akan membunuh anak-anaknya, tidak akan berbuat dusta yang mereka ada-adakan antara tangan dan kaki mereka dan tidak akan mendurhakaimu dalam urusan yang baik, maka terimalah janji setia mereka dan mohonkanlah ampunan untuk mereka kepada Allah. Sungguh, Allah Maha Pengampun, Maha Penyayang."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5162",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5162.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5162.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ayat ini berbicara tentang perempuan yang berbaiat kepada Nabi bahwa mereka berjanji setia tidak akan melakukan dosa-dosa besar. Wahai Nabi! Apabila perempuan-perempuan beriman dari berbagai kabilah datang kepadamu untuk berbaiat, berjanji setia, bahwa mereka tidak akan mempersekutukan Allah dengan sesuatu apa pun setelah mengokohkan dua kalimat syahadat; tidak akan mencuri milik orang lain dengan cara apa pun; tidak akan berzina dengan siapa pun; tidak akan membunuh anak-anak mereka seperti kebiasaan masyarakat Arab sebelum zaman Islam, tidak akan berbuat dusta yang mereka ada-adakan antara tangan dan kaki mereka dengan mengadakan pengakuan-pengakuan palsu mengenai hubungan antara laki-laki dan perempuan seperti tuduhan berzina, tuduhan bahwa anak seorang perempuan bukan anak suaminya; dan tidak akan mendurhakaimu dalam urusan kebaikan yang diperintahkan Allah dan Rasul-Nya; maka terimalah janji setia mereka semoga menjadi momentum untuk perbaikan akhlak mereka dan mohonkanlah ampunan untuk mereka kepada Allah agar dosa-dosa mereka dihapuskan oleh Allah. Sesungguhnya Allah Maha Pengampun kepada siapa saja yang bertobat dengan tulus, Maha Penyayang kepada hamba-hamba-Nya yang beriman dan mendekatkan diri kepada-Nya.",
+                        "long": "Allah menyatakan kepada Nabi Muhammad bahwa perempuan-perempuan yang menyatakan keimanan dan ketaatannya harus berjanji bahwa mereka tidak akan mempersekutukan Allah dengan sesuatu pun, tidak akan mencuri harta orang lain, tidak akan berzina, tidak akan menggugurkan anak dalam kandungannya, dan tidak akan mengerjakan yang dilarang, seperti meratapi orang mati dengan mengoyak-ngoyak pakaian, dan sebagainya. Bila mereka telah berjanji, maka pernyataan iman mereka harus diterima. Nabi juga diperintahkan untuk mengatakan kepada mereka bahwa mereka akan mendapat ampunan Allah dan pahala dari-Nya jika mereka konsekuen melaksanakan janji mereka itu. Nabi juga diminta untuk berdoa kepada Allah agar dosa-dosa mereka diampuni, karena sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.\n\nDiriwayatkan oleh al-Bukhari dari 'Urwah bin Zubair bahwa 'Aisyah berkata, \"Rasulullah saw menguji perempuan yang hijrah sesuai ayat: ya ayyuhan-nabiyy idha ja'akal-mu'minat¦..innallaha gafurur-rahim. Barang siapa yang telah memenuhi syarat-syarat di atas, berarti perempuan itu telah mengikrarkan pernyataan bahwa dirinya beriman.\"\n\nDiriwayatkan pula oleh 'Urwah bin Zubair dari 'Aisyah, ia berkata, \"Telah datang Fathimah binti 'Utbah untuk menyatakan keimanannya kepada Rasulullah, maka beliau meminta ia berjanji tidak akan mempersekutukan Allah dengan sesuatu pun, tidak mencuri, tidak berzina, tidak menggugurkan kandungannya, maka Fathimah merasa malu menyebut janji itu sambil meletakkan tangan di atas kepalanya.\" Maka 'Aisyah berkata, \"Hendaklah engkau akui yang dikatakan Nabi itu. Demi Allah, kami tidak menyatakan keimanan kecuali dengan cara demikian.\" Fathimah melaksanakan yang diminta 'Aisyah itu, lalu Nabi menerima pengakuannya.\n\nMenurut riwayat yang lain bahwa Nabi Muhammad banyak menerima pernyataan beriman dari para perempuan ketika penaklukan Mekah. Di antara yang menyatakan keimanannya itu terdapat Hindun binti 'Utbah, istri Abu Sufyan, kepala suku Quraisy."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5163,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 551,
+                    "manzil": 7,
+                    "ruku": 483,
+                    "hizbQuarter": 220,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا مِنَ الْآخِرَةِ كَمَا يَئِسَ الْكُفَّارُ مِنْ أَصْحَابِ الْقُبُورِ",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhal lazeena amanoo laa tatawallaw qawman ghadibal laahu 'alaihim qad ya'isoo minal aakhirati kamaa ya'isal kuffaaru min as haabil quboor"
+                    }
+                },
+                "translation": {
+                    "en": "O you who have believed, do not make allies of a people with whom Allah has become angry. They have despaired of [reward in] the Hereafter just as the disbelievers have despaired of [meeting] the inhabitants of the graves.",
+                    "id": "Wahai orang-orang yang beriman! Janganlah kamu jadikan orang-orang yang dimurkai Allah sebagai penolongmu, sungguh, mereka telah putus asa terhadap akhirat sebagaimana orang-orang kafir yang telah berada dalam kubur juga berputus asa."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5163",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5163.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5163.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ayat ini berbicara tentang larangan memohon perlindungan kepada orang-orang kafir. Wahai orang-orang beriman kuatkanlah iman kamu, janganlah kamu menjadikan orang-orang yang dimurka Allah seperti orang-orang kafir, orang-orang munafik, dan orang-orang fasik, pelaku dosa besar secara terus-menerus sebagai penolong kamu ketika kamu mengalami kesulitan atau mempunyai masalah dunia atau agama. Sungguh mereka telah berputus asa terhadap akhirat sehingga kamu seperti berpegang kepada pohon yang tumbang atau dahan yang hanyut. Mereka tidak meyakini akhirat, bagaimana menolong kamu memperhatikan akhirat. Kehidupan mereka sebagaimana orang-orang kafir yang telah berada di dalam kubur berputus asa dari kasih sayang Allah. Mereka kehilangan asa untuk mendapatkan keselamatan.",
+                        "long": "Diriwayatkan oleh Ibnu Mundhir dari Ibnu Ishaq dari 'Ikrimah dan Abu Sa'id dari Ibnu 'Abbas, ia menerangkan bahwa 'Abdullah bin 'Umar dan Zaid bin haritsah bersahabat dengan orang-orang Yahudi. Maka turunlah ayat ini yang melarang kaum Muslimin berteman erat dengan orang yang dimurkai Allah.\n\nDalam ayat ini, Allah menegaskan kembali larangan menjadikan orang-orang Yahudi, Nasrani, dan musyrik Mekah yang berniat jahat terhadap kaum Muslimin sebagai wali atau teman akrab, karena dikhawatirkan orang-orang yang beriman akan menyampaikan rahasia-rahasia penting kepada mereka.\n\nPada akhir ayat ini, Allah menerangkan bahwa orang-orang kafir itu telah putus asa untuk memperoleh kebaikan dari Allah di akhirat, karena kedurhakaan mereka kepada Rasulullah saw yang telah diisyaratkan kedatangannya dalam kitab-kitab mereka. Padahal, persoalan itu sudah dikuatkan pula dengan bukti-bukti yang jelas dan mukjizat yang nyata. Keputusasaan mereka untuk memperoleh rahmat Allah di hari akhirat sama halnya dengan keputusasaan mereka di dalam kubur karena mereka tidak percaya adanya kebangkitan kembali di akhirat."
+                    }
+                }
+            }
+        ]
+    }
+}

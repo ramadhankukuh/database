@@ -1,0 +1,851 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 73,
+        "sequence": 3,
+        "numberOfVerses": 20,
+        "name": {
+            "short": "المزمل",
+            "long": "سورة المزمل",
+            "transliteration": {
+                "en": "Al-Muzzammil",
+                "id": "Al-Muzzammil"
+            },
+            "translation": {
+                "en": "The Enshrouded One",
+                "id": "Orang Yang Berselimut"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat Al Muzzammil terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Qalam.Dinamai Al Muzzammil (orang yang berselimut) diambil dari perkataan Al Muzzammil yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan orang yang berkemul ialah Nabi Muhammad s.a.w."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5476,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الْمُزَّمِّلُ",
+                    "transliteration": {
+                        "en": "Yaw ayyuhal muzzammil"
+                    }
+                },
+                "translation": {
+                    "en": "O you who wraps himself [in clothing],",
+                    "id": "Wahai orang yang berselimut (Muhammad)!"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5476",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5476.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5476.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di akhir surah al-Jinn dijelaskan tentang keagungan al-Qur’an dan pemeliharaan Allah atas wahyu yang diturunkannya tersebut, sedangkan di awal surah ini berisi petunjuk kepada Nabi Muhammad untuk mempersiapkan diri menghadapi turunnya wahyu yang berat. Wahai orang yang berselimut, yaitu Nabi Muhammad!",
+                        "long": "Dalam ayat ini, Allah memerintahkan Nabi Muhammad yang sedang berselimut supaya mendirikan salat pada sebagian malam. Seruan Allah kepada Nabi Muhammad ini didahului dengan kata-kata \"Hai orang yang berselimut"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5477,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُمِ اللَّيْلَ إِلَّا قَلِيلًا",
+                    "transliteration": {
+                        "en": "Qumil laila illaa qaleelaa"
+                    }
+                },
+                "translation": {
+                    "en": "Arise [to pray] the night, except for a little -",
+                    "id": "Bangunlah (untuk salat) pada malam hari, kecuali sebagian kecil,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5477",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5477.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5477.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bangunlah untuk mengerjakan salat dan bermunajat kepada Allah pada malam hari, kecuali sebagian kecil dari waktu malammu dapat digunakan untuk istirahat tidur,",
+                        "long": "Dalam ayat ini, Allah memerintahkan Nabi Muhammad yang sedang berselimut supaya mendirikan salat pada sebagian malam. Seruan Allah kepada Nabi Muhammad ini didahului dengan kata-kata \"Hai orang yang berselimut"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5478,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "نِّصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا",
+                    "transliteration": {
+                        "en": "Nisfahooo awinqus minhu qaleelaa"
+                    }
+                },
+                "translation": {
+                    "en": "Half of it - or subtract from it a little",
+                    "id": "(yaitu) separuhnya atau kurang sedikit dari itu,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5478",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5478.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5478.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "yaitu separuhnya atau kurang sedikit dari itu,",
+                        "long": "Allah menerangkan maksud perkataan sebagian yang terdapat dalam ayat sebelumnya, yaitu separuh atau lebih. Allah menyerahkan kepada Nabi Muhammad untuk memilih waktu melakukan salat malam. Ia dapat memilih antara sepertiga, seperdua, atau dua pertiga malam. Allah memberi kebebasan kepada Nabi Muhammad untuk memilih waktu-waktu tersebut. \n\nSepertiga malam menurut waktu Indonesia ialah kira-kira antara jam 10 dan jam 11 malam, seperdua malam ialah waktu antara jam 12 dan 1 malam dan dua pertiga malam ialah waktu antara jam 2 dan 3 sampai sebelum fajar."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5479,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+                    "transliteration": {
+                        "en": "Aw zid 'alaihi wa rattilil Qur'aana tarteela"
+                    }
+                },
+                "translation": {
+                    "en": "Or add to it, and recite the Qur'an with measured recitation.",
+                    "id": "atau lebih dari (seperdua) itu, dan bacalah Al-Qur'an itu dengan perlahan-lahan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5479",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5479.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5479.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "atau lebih dari seperdua itu, dan bacalah Al-Qur’an itu dengan perlahan-lahan dengan bacaan yang baik dan benar.",
+                        "long": "Dalam ayat ini, Allah memerintahkan Nabi Muhammad supaya membaca Al-Qur'an secara seksama (tartil). Maksudnya ialah membaca Al-Qur'an dengan pelan-pelan, bacaan yang fasih, dan merasakan arti dan maksud dari ayat-ayat yang dibaca itu, sehingga berkesan di hati. Perintah ini dilaksanakan oleh Nabi saw. 'Aisyah meriwayatkan bahwa Rasulullah saw membaca Al-Qur'an dengan tartil, sehingga surah yang dibacanya menjadi lebih lama dari ia membaca biasa.\n\nDalam hubungan ayat ini, al-Bukhari dan Muslim meriwayatkan dari 'Abdullah bin Mugaffal, bahwa ia berkata:\n\nAku melihat Rasulullah saw pada hari penaklukan kota Mekah, sedang menunggang unta beliau membaca Surah al-Fath di mana dalam bacaan itu beliau melakukan tarji' (bacaan lambat dengan mengulang-ulang). (Riwayat al-Bukhari dan Muslim dari 'Abdullah bin Mugaffal)\n\nPengarang buku Fathul Bayan berkata, \"Yang dimaksud dengan tartil ialah kehadiran hati ketika membaca, bukan asal mengeluarkan bunyi dari tenggorokan dengan memoncong-moncongkan muka dan mulut dengan alunan lagu, sebagaimana kebiasaan yang dilakukan pembaca-pembaca Al-Qur'an zaman sekarang. Membaca yang seperti itu adalah suatu bacaan yang dilakukan orang-orang yang tidak mengerti agama.\"\n\nMembaca Al-Qur'an secara tartil mengandung hikmah, yaitu terbukanya kesempatan untuk memperhatikan isi ayat-ayat yang dibaca dan di waktu menyebut nama Allah, si pembaca akan merasakan kemahaagungan-Nya. Ketika tiba pada ayat yang mengandung janji, pembaca akan timbul harapan-harapan, demikian juga ketika membaca ayat ancaman, pembaca akan merasa cemas.\n\nSebaliknya membaca Al-Qur'an secara tergesa-gesa atau dengan lagu yang baik, tetapi tidak memahami artinya adalah suatu indikasi bahwa si pembaca tidak memperhatikan isi yang terkandung dalam ayat yang dibacanya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5480,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+                    "transliteration": {
+                        "en": "Innaa sanulqee 'alika qawalan saqeelaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, We will cast upon you a heavy word.",
+                    "id": "Sesungguhnya Kami akan menurunkan perkataan yang berat kepadamu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5480",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5480.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5480.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mengapa Allah memerintahkan Nabi Muhammad untuk beribadah di waktu malam, alasannya disebut dalam ayat ini. Sesungguhnya Kami melalui malaikat Jibril akan menurunkan perkataan yang berat yaitu firman-firman Allah berupa al-Qur’an kepadamu wahai Nabi Muhammad.",
+                        "long": "Ayat ini menerangkan bahwa Allah akan menurunkan Al-Qur'an kepada Muhammad saw yang di dalamnya terdapat perintah dan larangan-Nya. Hal ini merupakan beban yang berat, baik terhadap Muhammad saw maupun pengikutnya. Tidak ada yang mau memikul beban yang berat itu kecuali orang yang mendapatkan petunjuk dari Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5481,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا",
+                    "transliteration": {
+                        "en": "Inn naashi'atal laili hiya ashadddu wat anw wa aqwamu qeelaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, the hours of the night are more effective for concurrence [of heart and tongue] and more suitable for words.",
+                    "id": "Sungguh, bangun malam itu lebih kuat (mengisi jiwa); dan (bacaan pada waktu itu) lebih berkesan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5481",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5481.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5481.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Diperintahkannya ibadah di waktu malam adalah mengandung hikmah yang sangat besar di antaranya seperti yang disebut pada ayat ini. Sungguh, bangun untuk beribadah di waktu malam itu lebih kuat mengisi jiwa. dan bacaan di waktu itu lebih berkesan serta lebih mudah untuk dipahami dan dihayati.",
+                        "long": "Ayat ini menegaskan bahwa ibadah yang dilakukan pada malam hari terasa lebih berkesan dan mantap, baik di hati maupun di lidah, sebab bacaan ayat-ayat itu lebih jelas dibandingkan bacaan pada siang hari di saat manusia sedang disibukkan oleh urusan-urusan kehidupan duniawi."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5482,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا",
+                    "transliteration": {
+                        "en": "Inna laka fin nahaari sabhan taweelaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, for you by day is prolonged occupation.",
+                    "id": "Sesungguhnya pada siang hari engkau sangat sibuk dengan urusan-urusan yang panjang."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5482",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5482.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5482.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sebaliknya, sesungguhnya pada siang hari engkau sangat sibuk dengan urusan-urusan yang panjang dan melelahkan. Karena itu bangunlah di malam hari agar pekerjaanmu di siang hari yang banyak itu dapat sukses dengan pertolongan Allah.",
+                        "long": "Ayat ini memerintahkan supaya Nabi Muhammad dapat membedakan antara suasana melakukan ibadah pada siang hari dan malamnya, saat ketenangan jiwa bermunajat kepada Tuhan, menghendaki kebebasan pikiran. Kesibukan yang terdapat pada siang hari membuat perhatian beliau tidak terfokus kepada kesibukan menjalankan risalah Tuhan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5483,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+                    "transliteration": {
+                        "en": "Wazkuris ma rabbika wa tabattal ilaihi tabteelaa"
+                    }
+                },
+                "translation": {
+                    "en": "And remember the name of your Lord and devote yourself to Him with [complete] devotion.",
+                    "id": "Dan sebutlah nama Tuhanmu, dan beribadahlah kepada-Nya dengan sepenuh hati."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5483",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5483.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5483.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Meskipun di siang hari kamu sangat sibuk bukan berarti boleh melupakan Allah. Ayat ini memerintahkan untuk selalu menyebut dan mengingat Allah. Dan sebutlah nama Tuhanmu, dan beribadahlah kepada-Nya dengan sepenuh hati.",
+                        "long": "Dalam ayat ini, Allah memerintahkan Nabi Muhammad supaya senantiasa mengingat-Nya, baik siang maupun malam, dengan bertasbih, bertahmid, bertakbir, salat, dan membaca Al-Qur'an. Dengan demikian, ia dapat melenyapkan dari hatinya segala sesuatu yang melalaikan perintah-perintah Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5484,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "رَّبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا",
+                    "transliteration": {
+                        "en": "Rabbul mashriqi wal maghriibi laaa ilaaha illaa Huwa fattakhizhu wakeelaa"
+                    }
+                },
+                "translation": {
+                    "en": "[He is] the Lord of the East and the West; there is no deity except Him, so take Him as Disposer of [your] affairs.",
+                    "id": "(Dialah) Tuhan timur dan barat, tidak ada tuhan selain Dia, maka jadikanlah Dia sebagai pelindung."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5484",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5484.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5484.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mengapa harus menyebut nama Allah, karena Dialah Tuhan timur dan barat yakni alam semesta, tidak ada tuhan yang mengendalikan alam raya selain Dia, maka jadikanlah Dia sebagai pelindung dan serahkanlah segala urusan hidup setelah berusaha dengan maksimal.",
+                        "long": "Selanjutnya dijelaskan bahwa Allah adalah pemilik timur dan barat. Tidak ada Tuhan selain Dia. Oleh karena itu, hendaklah Muhammad saw menyerahkan segala urusan kepada-Nya. Firman Allah:\n\nMaka sembahlah Dia dan bertawakallah kepada-Nya. (Hud/11: 123)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5485,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا",
+                    "transliteration": {
+                        "en": "Wasbir 'alaa maa yaqoo loona wahjurhum hajran jameelaa"
+                    }
+                },
+                "translation": {
+                    "en": "And be patient over what they say and avoid them with gracious avoidance.",
+                    "id": "Dan bersabarlah (Muhammad) terhadap apa yang mereka katakan dan tinggalkanlah mereka dengan cara yang baik."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5485",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5485.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5485.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di samping berusaha sungguh-sungguh dan berserah diri kepada Allah, modal sukses dalam menyampaikan dakwah adalah sabar. Inilah yang ditegaskan dalam ayat ini. Dan bersabarlah wahai Nabi Muhammad terhadap apa saja yang mereka katakan yang menyakitimu dan tinggalkanlah mereka dengan cara yang baik sehingga mereka tidak merasa bahwa engkau memusuhi mereka dan menaruh dendam terhadap mereka.",
+                        "long": "Dalam ayat ini, Allah memerintahkan kepada Nabi Muhammad supaya sabar dan menahan diri menghadapi orang-orang musyrik yang melontarkan kata-kata yang tidak senonoh terhadap dirinya dan Tuhannya, karena kesabaran membawa kepada tercapainya cita-cita. Allah juga memerintahkan supaya Muhammad saw memutuskan pergaulan dengan orang-orang yang seperti itu dengan bijaksana tanpa melontarkan cercaan terhadap mereka. Dalam ayat lain, Allah berfirman:\n\nApabila engkau (Muhammad) melihat orang-orang memperolok-olokkan ayat-ayat Kami, maka tinggalkanlah mereka hingga mereka beralih ke pembicaraan lain. (al-An'am/6: 68)\n\nDan firman-Nya:\n\nMaka tinggalkanlah (Muhammad) orang yang berpaling dari peringatan Kami, dan dia hanya menginginkan kehidupan dunia. (an-Najm/53: 29)\n\nAllah juga berfirman:\n\nKarena itu berpalinglah kamu dari mereka, dan berilah mereka nasihat, dan katakanlah kepada mereka perkataan yang membekas pada jiwanya. (an-Nisa'/4: 63)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5486,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+                    "transliteration": {
+                        "en": "Wa zarnee walmukaz zibeena ulin na'mati wa mahhilhum qaleelaa"
+                    }
+                },
+                "translation": {
+                    "en": "And leave Me with [the matter of] the deniers, those of ease [in life], and allow them respite a little.",
+                    "id": "Dan biarkanlah Aku (yang bertindak) terhadap orang-orang yang mendustakan, yang memiliki segala kenikmatan hidup, dan berilah mereka penangguhan sebentar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5486",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5486.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5486.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah segala cara ditempuh untuk mengajak kaum musyrik beriman, ternyata mereka tetap musyrik, maka tidak perlu berkecil hati, karena Allah yang akan membalas mereka. Dan biarkanlah Aku yang bertindak terhadap orang-orang yang mendustakan, yang memiliki segala kenikmatan hidup, dan berilah mereka penangguhan sebentar saja,",
+                        "long": "Ayat ini memerintahkan supaya Muhammad saw mengembalikan urusannya kepada Allah dalam menghadapi pendusta-pendusta agama yang kaya raya dan bermegah-megahan dengan kekayaan itu. Allah-lah yang akan menyiksa mereka dengan azab yang telah disiapkan-Nya untuk mereka. Oleh karenanya, hendaklah Muhammad saw membiarkan mereka bermegah-megahan dengan kekayaan mereka dalam waktu sementara, karena Allah pasti akan memenuhi janji-Nya mengazab mereka sebagaimana telah diperlihatkan-Nya kepada orang-orang mukmin pada hari peperangan Badar yang peristiwanya terjadi tidak lama setelah turun ayat ini. Allah berfirman:\n\nKami biarkan mereka bersenang-senang sebentar, kemudian Kami paksa mereka (masuk) ke dalam azab yang keras. (Luqman/31: 24)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5487,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ لَدَيْنَا أَنكَالًا وَجَحِيمًا",
+                    "transliteration": {
+                        "en": "Inna ladainaaa ankaalanw wa jaheemaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, with Us [for them] are shackles and burning fire",
+                    "id": "Sungguh, di sisi Kami ada belenggu-belenggu (yang berat) dan neraka yang menyala-nyala,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5487",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5487.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5487.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "karena sungguh, di sisi Kami ada belenggu-belenggu yang berat yang akan mengikat mereka dan api neraka yang menyala-nyala,",
+                        "long": "Ayat ini menggambarkan tentang berbagai macam azab Tuhan di akhirat nanti terhadap pendusta-pendusta tersebut. Allah berkuasa mengazab mereka karena Dia mempunyai belenggu untuk mengikat kaki mereka sebagai penghinaan terhadap mereka dan tidak ada kekhawatiran kalau-kalau mereka melarikan diri. Allah mempunyai api neraka yang menyala-nyala dan dapat menghanguskan serta merusak kulit muka dan badan serta melemahkan sendi-sendi tulang mereka. Allah mempunyai makanan-makanan dalam api neraka yang sifatnya mencekik kerongkongan yang tidak dapat dikeluarkan dan tidak dapat pula ditelan. Hal ini merupakan azab Tuhan yang memedihkan seluruh bagian tubuh mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5488,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+                    "transliteration": {
+                        "en": "Wa ta'aaman zaa ghussa tinw wa'azaaban aleemaa"
+                    }
+                },
+                "translation": {
+                    "en": "And food that chokes and a painful punishment -",
+                    "id": "dan (ada) makanan yang menyumbat di kerongkongan dan azab yang pedih."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5488",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5488.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5488.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan mereka juga diberi makanan tetapi ada makanan yang apabila dimakan akan menyumbat di kerongkongan dan azab yang pedih.",
+                        "long": "Ayat ini menggambarkan tentang berbagai macam azab Tuhan di akhirat nanti terhadap pendusta-pendusta tersebut. Allah berkuasa mengazab mereka karena Dia mempunyai belenggu untuk mengikat kaki mereka sebagai penghinaan terhadap mereka dan tidak ada kekhawatiran kalau-kalau mereka melarikan diri. Allah mempunyai api neraka yang menyala-nyala dan dapat menghanguskan serta merusak kulit muka dan badan serta melemahkan sendi-sendi tulang mereka. Allah mempunyai makanan-makanan dalam api neraka yang sifatnya mencekik kerongkongan yang tidak dapat dikeluarkan dan tidak dapat pula ditelan. Hal ini merupakan azab Tuhan yang memedihkan seluruh bagian tubuh mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5489,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَّهِيلًا",
+                    "transliteration": {
+                        "en": "Yawma tarjuful ardu waljibaalu wa kaanatil jibaalu kaseebam maheelaa"
+                    }
+                },
+                "translation": {
+                    "en": "On the Day the earth and the mountains will convulse and the mountains will become a heap of sand pouring down.",
+                    "id": "(Ingatlah) pada hari (ketika) bumi dan gunung-gunung berguncang keras, dan menjadilah gunung-gunung itu seperti onggokan pasir yang dicurahkan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5489",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5489.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5489.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ingatlah siksa yang diancamkan itu pasti akan terjadi yaitu pada hari ketika bumi dan gunung-gunung berguncang keras ketika itu bumi menjadi datar, dan menjadilah gunung-gunung itu seperti onggokan pasir yang dicurahkan yang tampak ringan, padahal sebelumnya adalah sesuatu yang berat lagi kokoh.",
+                        "long": "Ayat ini menerangkan bahwa azab tersebut terjadi pada hari di mana bumi dan gunung berguncang sekeras-kerasnya sehingga gunung dan bukit menjadi berserakan, bercerai-berai seperti tumpukan pasir yang beterbangan. Firman Allah dalam ayat lain:\n\nDan gunung-gunung seperti bulu yang dihambur-hamburkan. (al-Qari'ah/101: 5)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5490,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا",
+                    "transliteration": {
+                        "en": "Innaa arsalnaaa ilaikum rasoolan shahidan 'alikum kamaaa arsalnaaa ilaa Fir'awna Rasoolna"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, We have sent to you a Messenger as a witness upon you just as We sent to Pharaoh a messenger.",
+                    "id": "Sesungguhnya Kami telah mengutus seorang Rasul (Muhammad) kepada kamu, yang menjadi saksi terhadapmu, sebagaimana Kami telah mengutus seorang Rasul kepada Fir‘aun."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5490",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5490.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5490.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah dijelaskan ancaman siksa akhirat yang akan diterima bagi para pendurhaka, ayat ini mengingatkan manusia tentang siksa dunia. Sesungguhnya Kami telah mengutus seorang Rasul, Muhammad kepada kamu, wahai penduduk Mekah, bahkan juga seluruh manusia, yang menjadi saksi terhadapmu menyangkut sikap dan perbuatan kamu, sebagaimana Kami telah mengutus seorang Rasul yaitu Musa, kepada Fir‘aun.",
+                        "long": "Ayat ini menerangkan bahwa Allah telah mengutus kepada penduduk Mekah seorang rasul yaitu Muhammad saw untuk membawa mereka ke jalan yang benar dan menjadi saksi bagi mereka pada hari Kiamat tentang sikap mereka terhadap ajakan Rasul, apakah mereka menerima atau menolaknya, sebagaimana Allah mengutus seorang rasul kepada Fir'aun dan kaumnya. Akan tetapi, Fir'aun menentang kerasulan Musa sehingga Allah membinasakannya beserta pengikut-pengikutnya dengan menenggelamkan mereka ke dalam lautan. Oleh sebab itu, hendaklah penduduk Mekah mengambil pelajaran dari peristiwa ini."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5491,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا",
+                    "transliteration": {
+                        "en": "Fa'asaa Fir'awnur Rasoola fa akhaznaahu akhzanw wabeelaa"
+                    }
+                },
+                "translation": {
+                    "en": "But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure.",
+                    "id": "Namun Fir‘aun mendurhakai Rasul itu, maka Kami siksa dia dengan siksaan yang berat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5491",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5491.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5491.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Namun Fir‘aun mendurhakai Rasul yang Kami utus itu, maka Kami siksa dia dengan siksaan yang berat. Maka jika kamu wahai penduduk Mekah mendurhakai Nabi Muhammad, Kami dapat menyiksa kamu seperti yang dialami oleh Fir’aun.",
+                        "long": "Ayat ini menerangkan bahwa Allah telah mengutus kepada penduduk Mekah seorang rasul yaitu Muhammad saw untuk membawa mereka ke jalan yang benar dan menjadi saksi bagi mereka pada hari Kiamat tentang sikap mereka terhadap ajakan Rasul, apakah mereka menerima atau menolaknya, sebagaimana Allah mengutus seorang rasul kepada Fir'aun dan kaumnya. Akan tetapi, Fir'aun menentang kerasulan Musa sehingga Allah membinasakannya beserta pengikut-pengikutnya dengan menenggelamkan mereka ke dalam lautan. Oleh sebab itu, hendaklah penduduk Mekah mengambil pelajaran dari peristiwa ini."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5492,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا",
+                    "transliteration": {
+                        "en": "Fakaifa tattaqoona in kafartum yawmany yaj'alul wildaana sheeba"
+                    }
+                },
+                "translation": {
+                    "en": "Then how can you fear, if you disbelieve, a Day that will make the children white- haired?",
+                    "id": "Lalu bagaimanakah kamu akan dapat menjaga dirimu jika kamu tetap kafir kepada hari yang menjadikan anak-anak beruban."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5492",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5492.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5492.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Lalu ketentuan Allah yang akan menghukum siapa saja yang mendurhakai Rasul-Nya tetap berlaku sepanjang masa, bagaimanakah kamu akan dapat menjaga dirimu dari jatuhnya siksa Allah jika kamu tetap kafir kepada hari yang sedemikian berat lagi dahsyat sehingga menjadikan anak-anak kecil saking takutnya berubah menjadi tua dan beruban.",
+                        "long": "Ayat ini menegaskan bahwa orang-orang kafir tidak takut kepada datangnya hari Kiamat. Padahal pada hari itu, mereka tidak akan merasa aman karena kekufuran mereka. Mereka tidak sanggup menolak azab Tuhan pada hari yang sangat dahsyat yang menjadikan anak-anak muda beruban. Langit pun pada hari itu terpecah-belah. Hal itu menunjukkan sangat dahsyatnya hari tersebut. Kedatangan hari tersebut, yaitu turunnya azab Tuhan kepada orang kafir dan pahala Tuhan berupa nikmat kepada orang mukmin, adalah janji Tuhan yang pasti dipenuhi-Nya. Allah tidak akan memungkiri janji-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5493,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "السَّمَاءُ مُنفَطِرٌ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا",
+                    "transliteration": {
+                        "en": "Assamaaa'u munfatirum bih; kaana wa'duhoo maf'oola"
+                    }
+                },
+                "translation": {
+                    "en": "The heaven will break apart therefrom; ever is His promise fulfilled.",
+                    "id": "Langit terbelah pada hari itu. Janji Allah pasti terlaksana."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5493",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5493.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5493.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sedemikian dahsyatnya langit yang begitu kokoh menjadi terbelah dan berantakan pada hari itu. Janji Allah pasti terlaksana karena Allah tidak akan pernah mengingkari janji-Nya.",
+                        "long": "Ayat ini menegaskan bahwa orang-orang kafir tidak takut kepada datangnya hari Kiamat. Padahal pada hari itu, mereka tidak akan merasa aman karena kekufuran mereka. Mereka tidak sanggup menolak azab Tuhan pada hari yang sangat dahsyat yang menjadikan anak-anak muda beruban. Langit pun pada hari itu terpecah-belah. Hal itu menunjukkan sangat dahsyatnya hari tersebut. Kedatangan hari tersebut, yaitu turunnya azab Tuhan kepada orang kafir dan pahala Tuhan berupa nikmat kepada orang mukmin, adalah janji Tuhan yang pasti dipenuhi-Nya. Allah tidak akan memungkiri janji-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5494,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 574,
+                    "manzil": 7,
+                    "ruku": 508,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا",
+                    "transliteration": {
+                        "en": "Inna haazihee tazkiratun fa man shaaa'at takhaza ilaa Rabbihee sabeelaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, this is a reminder, so whoever wills may take to his Lord a way.",
+                    "id": "Sungguh, ini adalah peringatan. Barangsiapa menghendaki, niscaya dia mengambil jalan (yang lurus) kepada Tuhannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5494",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5494.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5494.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah ancaman disampaikan al-Qur’an kembali menegaskan bahwa sungguh, ayat-ayat al-Qur’an ini adalah peringatan sekaligus petunjuk. Barangsiapa menghendaki kebaikan, niscaya dia mengambil jalan yang lurus kepada Tuhannya.",
+                        "long": "Allah menegaskan bahwa sesungguhnya hal-hal yang lalu yang mengungkapkan berbagai hal tentang siksaan yang disediakan Allah bagi orang yang mendustakan-Nya, dan bahwa manusia tidak dapat menyelamatkan diri dari azab-Nya, merupakan pengajaran atau peringatan, khususnya bagi orang yang ingin kembali kepada jalan Tuhannya.\n\nMenempuh jalan kepada Tuhan berarti mengimani-Nya, mengerjakan perbuatan yang bersifat menaati-Nya, serta menundukkan diri kepada-Nya. Itulah upaya seseorang untuk mencapai mardhatillah (keridaan Allah). Itulah jalan hidup yang lurus dan kokoh."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5495,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 575,
+                    "manzil": 7,
+                    "ruku": 509,
+                    "hizbQuarter": 230,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِّنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَاسْتَغْفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+                    "transliteration": {
+                        "en": "Inna Rabbaka ya'lamu annaka taqoomu adnaa min sulusa yil laili wa nisfahoo wa sulusahoo wa taaa'ifatum minal lazeena ma'ak; wal laahu yuqaddirul laila wanna haar; 'alima al lan tuhsoohu fataaba 'alaikum faqra'oo maa tayassara minal quraan; 'alima an sa yakoonu minkum mardaa wa aakharoona yadriboona fil ardi yabtaghoona min fadlil laahi wa aakharoona yuqaatiloona fee sabeelil laahi faqra'oo ma tayassara minhu wa aqeemus salaata wa aatuz zakaata wa aqridul laaha qardan hasanaa; wa maa tuqadimoo li anfusikum min khairin tajidoohu 'indal laahi huwa khayranw wa a'zama ajraa; wastaghfirul laahaa innal laaha ghafoorur raheem."
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, your Lord knows, [O Muhammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allah determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it and has turned to you in forgiveness, so recite what is easy [for you] of the Qur'an. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allah and others fighting for the cause of Allah. So recite what is easy from it and establish prayer and give zakah and loan Allah a goodly loan. And whatever good you put forward for yourselves - you will find it with Allah. It is better and greater in reward. And seek forgiveness of Allah. Indeed, Allah is Forgiving and Merciful.",
+                    "id": "Sesungguhnya Tuhanmu mengetahui bahwa engkau (Muhammad) berdiri (salat) kurang dari dua pertiga malam, atau seperdua malam atau sepertiganya dan (demikian pula) segolongan dari orang-orang yang bersamamu. Allah menetapkan ukuran malam dan siang. Allah mengetahui bahwa kamu tidak dapat menentukan batas-batas waktu itu, maka Dia memberi keringanan kepadamu, karena itu bacalah apa yang mudah (bagimu) dari Al-Qur'an; Dia mengetahui bahwa akan ada di antara kamu orang-orang yang sakit, dan yang lain berjalan di bumi mencari sebagian karunia Allah; dan yang lain berperang di jalan Allah, maka bacalah apa yang mudah (bagimu) dari Al-Qur'an dan laksanakanlah salat, tunaikanlah zakat dan berikanlah pinjaman kepada Allah pinjaman yang baik. Kebaikan apa saja yang kamu perbuat untuk dirimu niscaya kamu memperoleh (balasan)nya di sisi Allah sebagai balasan yang paling baik dan yang paling besar pahalanya. Dan mohonlah ampunan kepada Allah; sungguh, Allah Maha Pengampun, Maha Penyayang."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5495",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5495.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5495.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Jalan lurus menuju Tuhan mungkin dirasakan berat bagi sementara orang, maka ayat ini memberi petunjuk solusinya. Sesungguhnya Tuhanmu senantiasa mengetahui bahwa engkau, wahai Nabi Muhammad, terkadang berdiri untuk mengerjakan salat kurang dari dua pertiga malam, atau seperdua malam atau sepertiganya dan demikian pula segolongan dari orang-orang yang bersamamu yaitu para sahabat yang mengikutimu. Allah menetapkan ukuran malam dan siang. Allah mengetahui bahwa kamu tidak dapat menentukan batas-batas waktu itu secara pasti dan rinci dalam melaksanakan salat, maka Dia memberi keringanan kepadamu menyangkut apa yang telah ditetapkan-Nya sebelum ini, karena itu bacalah apa yang mudah bagimu dari Al-Qur’an. Dia mengetahui bahwa akan ada di antara kamu orang-orang yang sakit sehingga akan sulit melaksanakan salat malam seperti yang diperintahkan, dan ada juga yang berjalan di bumi yaitu bepergian jauh untuk mencari sebagian karunia Allah baik urusan perniagaan atau menuntut ilmu. dan Allah mengetahui juga akan ada yang lain berperang di jalan Allah, maka bacalah apa yang mudah bagimu dari Al-Qur’an dan laksanakanlah salat secara baik dan berkesinambungan, tunaikanlah zakat secara sempurna dan berikanlah pinjaman kepada Allah pinjaman yang baik yaitu segala pemberian di jalan Allah di luar kewajiban zakat. Kebaikan apa saja yang kamu perbuat untuk dirimu niscaya kamu memperoleh balasan-nya di sisi Allah sebagai balasan yang paling baik dan yang paling besar pahalanya. Dan di samping amalan tersebut maka mohonlah ampunan kepada Allah. sungguh, Allah Maha Pengampun, Maha Penyayang.",
+                        "long": "Dalam ayat-ayat yang lalu, Allah memerintahkan kepada Nabi Muhammad untuk salat malam, maka dalam ayat ini, Allah menunjukkan kemahapengasihan-Nya kepada hamba-hamba-Nya. Dia memberikan keringanan pada hamba-Nya dengan tidak mewajibkan salat Tahajud setiap malam.\n\nTuhan menegaskan bahwa Dia mengetahui sebagian kaum muslimin bersama Nabi mengerjakan salat malam itu sepanjang 2/3 malam, atau 1/2-nya atau 1/3-nya. Waktu itu masih merupakan perintah wajib yang tentu saja terkadang-kadang terasa berat.\n\nKetika ayat pertama Surah al-Muzzammil turun, para sahabat mengerjakan salat sesuai dengan petunjuk dalam ayat 2 sampai dengan 4. Hal itu kadang-kadang memberatkan, sekalipun salat Tahajud itu khusus difardukan atau diwajibkan kepada Rasulullah saw, dan disunatkan bagi umatnya. Banyak di antara para sahabat tidak mengetahui dengan pasti berapa ukuran 1/2 atau 1/3 malam itu, hingga karena takut luput dari waktu salat malam yang diperintahkan itu, sehingga ada di antara mereka yang berjaga-jaga sepanjang malam. Hal ini sangat melelahkan badan mereka, sebab mereka bangun sampai fajar. Tentu saja bangun dan berjaga-jaga demikian melemahkan fisik. Untuk meringankan itu, Allah menurunkan ayat ini:\n\n¦Allah mengetahui bahwa kamu tidak dapat menentukan batas-batas waktu itu, maka Dia memberi keringanan kepadamu¦ (al-Muzzammil/73: 20)\n\nDari ayat 20 ini dapat pula diambil pelajaran bahwa mengerjakan perintah fardu itu tidak boleh melebihi batas ukuran yang ditentukan agar tidak memberatkan diri sendiri. Oleh karena itu, Allah memerintahkan bagi yang biasa salat malam apabila terasa agak memberatkan boleh dikurangi waktunya, sehingga dikerjakan tidak dalam keadaan terpaksa. Begitulah Allah memudahkan sesuatu yang berat menjadi ringan, agar seseorang selalu mengerjakan yang mudah itu.\n\nBegitu pula dalam bacaan salat malam (termasuk Magrib dan Isya), hendaklah dibaca ayat-ayat yang pendek-pendek, sebagaimana yang diriwayatkan oleh al-Baihaqi dan ad-Daruquthni dari Qais bin hazim bahwa ia salat berjamaah yang diimami oleh Ibnu 'Abbas. Qais mengatakan bahwa Ibnu 'Abbas membaca beberapa ayat dari permulaan Surah al-Baqarah setelah al-Fatihah. Selesai salat, Ibnu 'Abbas mengajarkan kepada yang mengikutinya:\n\nSelesai salat, Ibnu 'Abbas menghampiri kami seraya berkata, Allah berfirman \"Bacalah olehmu mana yang mudah dari (ayat-ayat Al-Qur'an itu)\" (Riwayat al-Baihaqi dan ad-Daruquthni)\n\nBerapa ukuran ayat-ayat yang mudah itu tidak dijelaskan lebih lanjut, demikian pula apakah untuk salat fardu atau salat Tahajud dan sunah-sunah lainnya. Boleh jadi membaca mana yang mudah dari ayat-ayat Al-Qur'an berlaku untuk beberapa salat wajib dan beberapa salat sunah (seperti salat Tahajud).\n\nKemudian disebutkan pula uzur (halangan) yang kedua yakni karena sakit, sehingga diringankan tuntutan mengerjakan salat malam. Uzur yang ketiga adalah karena sibuk mencari rezeki di siang hari. Keempat karena sedang berjuang dengan senjata (fisik) membela dan mempertahankan agama Allah dari serangan musuh.\n\nFaktor sakit, sibuk mencari rezeki, dan sedang berjihad di jalan Allah menyebabkan seseorang sulit baginya untuk bangun pada malam hari mengerjakan salat Tahajud. Demikianlah pula ternyata ayat ini tidak membeda-bedakan usaha berjihad mengangkat senjata melawan musuh dengan berusaha mencari rezeki, sebab keduanya bermanfaat bagi kaum muslimin, asal dikerjakan menurut perintah Allah. Berjuang berarti mempertahankan agama, sedang berdagang atau berusaha dapat membiayai keluarga dan kegiatan agama (dengan zakat, sedekah, dan lain-lain).\n\nSetelah menyebutkan tiga sebab yang mendatangkan rukhsah (keringanan) dalam beribadah pada malam hari yang berarti pula terhapusnya kewajiban salat malam (mansukh), maka ayat ini menyebutkan pula apa yang mereka kerjakan setelah mendapat keringanan tersebut yakni hendaklah membaca Al-Qur'an dalam salat mana yang mudah-mudah saja.\n\nSelanjutnya Allah memerintahkan untuk menegakkan salat dan mengeluarkan zakat. Selain itu dianjurkan pula untuk memberikan pinjaman kepada Allah, dalam bentuk memberikan nafkah (bantuan) bagi kepentingan sabilillah, baik sendiri-sendiri maupun secara bersama-sama. Dengan qiradh (pinjaman) itulah agama ini bisa ditegakkan, dan urusan sosial kemasyarakatan dapat ditegakkan. Dalam ayat lain dinyatakan:\n\nBarang siapa meminjami Allah dengan pinjaman yang baik maka Allah melipatgandakan ganti kepadanya dengan banyak. Allah menahan dan melapangkan (rezeki) dan kepada-Nyalah kamu dikembalikan. (al-Baqarah/2: 245)\n\nKemudian Tuhan menganjurkan supaya memperbanyak sedekah (memberikan harta kepada yang memerlukannya di luar zakat yang wajib) dan memperbanyak amal saleh. Apa yang dinafkahkan dan dikorbankan dengan bersedekah di jalan Allah, adalah lebih baik dibandingkan dengan apa yang dihabiskan untuk kepentingan duniawi, dan dengan demikian seseorang semakin memperbesar persiapannya untuk menuju kampung yang kekal dan abadi. \n\nAyat ini diakhiri dengan anjuran agar kita memperbanyak istigfar (mohon ampun kepada Allah), karena dosa dan kesalahan yang kita kerjakan terlalu banyak. Istigfar yang diterima Allah itulah yang akan menutup aib seseorang tatkala diadakan perhitungan dan pertanggungjawaban amal manusia di hadapan-Nya kelak. Allah-lah Yang Maha Pengampun; Dialah yang menutupi dosa seseorang atau menguranginya. Dialah yang Maha Pengasih, yang seseorang tidak akan disiksa bilamana tobatnya telah diterima."
+                    }
+                }
+            }
+        ]
+    }
+}

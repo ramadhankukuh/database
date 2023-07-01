@@ -1,0 +1,3171 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 55,
+        "sequence": 97,
+        "numberOfVerses": 78,
+        "name": {
+            "short": "الرحمن",
+            "long": "سورة الرحمن",
+            "transliteration": {
+                "en": "Ar-Rahmaan",
+                "id": "Ar-Rahman"
+            },
+            "translation": {
+                "en": "The Beneficent",
+                "id": "Maha Pengasih"
+            }
+        },
+        "revelation": {
+            "arab": "مدينة",
+            "en": "Medinan",
+            "id": "Madaniyyah"
+        },
+        "tafsir": {
+            "id": "Surat Ar Rahmaan terdiri atas 78 ayat, termasuk golongan surat- surat Madaniyyah, diturunkan sesudah surat Ar Ra'du. Dinamai Ar Rahmaan (Yang Maha Pemurah), diambil dari perkataan Ar Rahmaan yang terdapat pada ayat pertama surat ini. Ar Rahmaan adalah salah satu dari nama-nama Allah. Sebagian besar dari surat ini menerangkan kepemurahan Allah s.w.t. kepada hamba-hamba-Nya, yaitu dengan memberikan nikmat-nikmat yang tidak terhingga baik di dunia maupun di akhirat nanti."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 4902,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الرَّحْمَٰنُ",
+                    "transliteration": {
+                        "en": "Ar Rahmaan"
+                    }
+                },
+                "translation": {
+                    "en": "The Most Merciful",
+                    "id": "(Allah) Yang Maha Pengasih,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4902",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4902.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4902.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Uraian pada akhir Surah al-Qamar tentang keagungan kuasa Allah dan kesempurnaan kodrat-Nya disusul dengan penjelasan mengenai limpahan rahmat Allah kepada makhluk-Nya, yang disebutkan dalam Surah ar-Rahmàn. Surah ini diawali dengan nama-Nya yang indah. Dialah Allah Yang Maha Pengasih kepada makhluk, baik jin, manusia, hewan, tumbuhan, dan lainnya dalam kehidupan mereka di dunia.",
+                        "long": "Pada ayat ini Allah yang Maha Pemurah menyatakan bahwa Dia telah mengajarkan Al-Qur'an kepada Muhammad saw yang selanjutnya diajarkannya ke umatnya. Ayat ini turun sebagai bantahan bagi penduduk Mekah yang mengatakan: \n\nSesungguhnya Al-Qur'an itu hanya diajarkan oleh seorang manusia kepadanya (Muhammad). (an-Nahl/16: 103) \n\nOleh karena isi ayat ini mengungkapkan beberapa nikmat Allah atas hamba-Nya, maka surah ini dimulai dengan menyebut nikmat yang paling besar faedahnya dan paling banyak manfaatnya bagi hamba-Nya, yaitu nikmat mengajarkan Al-Qur'an kepada manusia. Hal itu karena manusia dengan mengikuti ajaran Al-Qur'an akan berbahagia di dunia dan di akhirat dan dengan berpegang teguh pada petunjuk-petunjuk-Nya akan tercapai tujuan di kedua tempat tersebut. Al-Qur'an adalah induk kitab-kitab samawi yang diturunkan melalui makhluk Allah yang terbaik di bumi ini yaitu Nabi Muhammad saw."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4903,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَلَّمَ الْقُرْآنَ",
+                    "transliteration": {
+                        "en": "'Allamal Quran"
+                    }
+                },
+                "translation": {
+                    "en": "Taught the Qur'an,",
+                    "id": "Yang telah mengajarkan Al-Qur'an."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4903",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4903.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4903.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menyebut rahmat-Nya yang paling agung. Dialah Tuhan Yang telah mengajarkan Al-Qur’an kepada siapa saja yang Dia kehendaki.",
+                        "long": "Pada ayat ini Allah yang Maha Pemurah menyatakan bahwa Dia telah mengajarkan Al-Qur'an kepada Muhammad saw yang selanjutnya diajarkannya ke umatnya. Ayat ini turun sebagai bantahan bagi penduduk Mekah yang mengatakan: \n\nSesungguhnya Al-Qur'an itu hanya diajarkan oleh seorang manusia kepadanya (Muhammad). (an-Nahl/16: 103) \n\nOleh karena isi ayat ini mengungkapkan beberapa nikmat Allah atas hamba-Nya, maka surah ini dimulai dengan menyebut nikmat yang paling besar faedahnya dan paling banyak manfaatnya bagi hamba-Nya, yaitu nikmat mengajarkan Al-Qur'an kepada manusia. Hal itu karena manusia dengan mengikuti ajaran Al-Qur'an akan berbahagia di dunia dan di akhirat dan dengan berpegang teguh pada petunjuk-petunjuk-Nya akan tercapai tujuan di kedua tempat tersebut. Al-Qur'an adalah induk kitab-kitab samawi yang diturunkan melalui makhluk Allah yang terbaik di bumi ini yaitu Nabi Muhammad saw."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4904,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "خَلَقَ الْإِنسَانَ",
+                    "transliteration": {
+                        "en": "Khalaqal insaan"
+                    }
+                },
+                "translation": {
+                    "en": "Created man,",
+                    "id": "Dia menciptakan manusia,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4904",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4904.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4904.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dia juga yang menciptakan manusia,",
+                        "long": "Pada ayat ini Allah menyebutkan nikmat-Nya yang lain yaitu penciptaan manusia. Nikmat itu merupakan landasan nikmat-nikmat yang lain. Sesudah Allah menyatakan nikmat mengajarkan Al-Qur'an pada ayat yang lalu, maka pada ayat ini Dia menciptakan jenis makhluk-Nya yang terbaik yaitu manusia dan diajari-Nya pandai mengutarakan apa yang tergores dalam hatinya dan apa yang terpikir dalam otaknya, karena kemampuan berpikir dan berbicara itulah Al-Qur'an bisa diajarkan kepada umat manusia. Manusia adalah makhluk Allah yang paling sempurna. Ia dijadikan-Nya tegak, sehingga tangannya lepas. Dengan tangan yang lepas, otak bebas berpikir, dan tangan dapat merealisasikan apa yang dipikirkan oleh otak. Otak menghasilkan ilmu pengetahuan, dan tangan menghasilkan teknologi. Ilmu dan teknologi adalah peradaban, dengan demikian hanya manusia yang memiliki peradaban. Lidah adalah organ yang terletak pada rongga mulut. Organ ini, yang merupakan struktur berotot yang terdiri atas tujuh belas otot yang memiliki beberapa fungsi. Fungsi pengecap rasa adalah salah satu fungsi lidah yang utama. Terdapat sekitar 10.000 titik pengecap di lidah. Lidah juga berfungsi untuk turut membantu mengatur bunyi untuk berkomunikasi. Lidah, dalam agama, hampir selalu dikaitkan dengan hati, dan digunakan untuk mengukur baik-buruknya perilaku seseorang. Manusia akan menjadi baik apabila keduanya baik. Dan manusia akan menjadi buruk, apabila keduanya buruk. Nabi Muhammad saw menunjuk lidah sebagai faktor utama yang membawa bencana bagi manusia, dan ia merupakan tolok ukur untuk bagian tubuh lainnya. Beliau bersabda dalam hadisnya: Bukankah manusia dijungkirbalikkan wajah mereka di neraka karena lidah mereka? (Riwayat at-Tirmidhi dan Ibnu Majah) Jika manusia bangun di pagi hari, maka seluruh anggota tubuhnya mengingatkan lidah dan berpesan, \"Bertakwalah kepada Allah menyangkut kami, karena kami tidak lain kecuali denganmu. Jika engkau lurus, kami pun lurus, dan jika engkau bengkok, kami pun bengkok.\" (Riwayat at-Tirmidhi) \n\nUntuk dapat mengeluarkan bunyi yang berbeda-beda, atau yang disebut berbicara, lidah bekerjasama dengan beberapa organ lainnya, seperti bibir, rongga mulut, paru-paru, kerongkongan, dan pita suara. Kita dapat berkomunikasi dengan berbicara, setelah seluruh masyarakat menyepakati arti dari satu bunyi. Kemudian bunyi-bunyi yang masing-masing sudah disepakati artinya tersebut digabungkan dalam susunan yang tepat untuk menjadi kalimat. Pada tahap selanjutnya, akan tercipta suatu bahasa. Bahasa diuraikan dalam salah satu ayat Allah demikian: \n\nDan di antara tanda-tanda (kebesaran)-Nya ialah penciptaan langit dan bumi, perbedaan bahasamu dan warna kulitmu. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda bagi orangorang yang mengetahui. (ar-Rum/30: 22)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4905,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَلَّمَهُ الْبَيَانَ",
+                    "transliteration": {
+                        "en": "'Allamalhul bayaan"
+                    }
+                },
+                "translation": {
+                    "en": "[And] taught him eloquence.",
+                    "id": "mengajarnya pandai berbicara."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4905",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4905.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4905.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "makhluk yang paling memerlukan tuntunan-Nya, dan kemudian mengajarnya pandai berbicara untuk mengungkapkan ide dalam benaknya.",
+                        "long": "Pada ayat ini Allah menyebutkan nikmat-Nya yang lain yaitu penciptaan manusia. Nikmat itu merupakan landasan nikmat-nikmat yang lain. Sesudah Allah menyatakan nikmat mengajarkan Al-Qur'an pada ayat yang lalu, maka pada ayat ini Dia menciptakan jenis makhluk-Nya yang terbaik yaitu manusia dan diajari-Nya pandai mengutarakan apa yang tergores dalam hatinya dan apa yang terpikir dalam otaknya, karena kemampuan berpikir dan berbicara itulah Al-Qur'an bisa diajarkan kepada umat manusia. Manusia adalah makhluk Allah yang paling sempurna. Ia dijadikan-Nya tegak, sehingga tangannya lepas. Dengan tangan yang lepas, otak bebas berpikir, dan tangan dapat merealisasikan apa yang dipikirkan oleh otak. Otak menghasilkan ilmu pengetahuan, dan tangan menghasilkan teknologi. Ilmu dan teknologi adalah peradaban, dengan demikian hanya manusia yang memiliki peradaban. Lidah adalah organ yang terletak pada rongga mulut. Organ ini, yang merupakan struktur berotot yang terdiri atas tujuh belas otot yang memiliki beberapa fungsi. Fungsi pengecap rasa adalah salah satu fungsi lidah yang utama. Terdapat sekitar 10.000 titik pengecap di lidah. Lidah juga berfungsi untuk turut membantu mengatur bunyi untuk berkomunikasi. Lidah, dalam agama, hampir selalu dikaitkan dengan hati, dan digunakan untuk mengukur baik-buruknya perilaku seseorang. Manusia akan menjadi baik apabila keduanya baik. Dan manusia akan menjadi buruk, apabila keduanya buruk. Nabi Muhammad saw menunjuk lidah sebagai faktor utama yang membawa bencana bagi manusia, dan ia merupakan tolok ukur untuk bagian tubuh lainnya. Beliau bersabda dalam hadisnya: Bukankah manusia dijungkirbalikkan wajah mereka di neraka karena lidah mereka? (Riwayat at-Tirmidhi dan Ibnu Majah) Jika manusia bangun di pagi hari, maka seluruh anggota tubuhnya mengingatkan lidah dan berpesan, \"Bertakwalah kepada Allah menyangkut kami, karena kami tidak lain kecuali denganmu. Jika engkau lurus, kami pun lurus, dan jika engkau bengkok, kami pun bengkok.\" (Riwayat at-Tirmidhi) \n\nUntuk dapat mengeluarkan bunyi yang berbeda-beda, atau yang disebut berbicara, lidah bekerjasama dengan beberapa organ lainnya, seperti bibir, rongga mulut, paru-paru, kerongkongan, dan pita suara. Kita dapat berkomunikasi dengan berbicara, setelah seluruh masyarakat menyepakati arti dari satu bunyi. Kemudian bunyi-bunyi yang masing-masing sudah disepakati artinya tersebut digabungkan dalam susunan yang tepat untuk menjadi kalimat. Pada tahap selanjutnya, akan tercipta suatu bahasa. Bahasa diuraikan dalam salah satu ayat Allah demikian: \n\nDan di antara tanda-tanda (kebesaran)-Nya ialah penciptaan langit dan bumi, perbedaan bahasamu dan warna kulitmu. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda bagi orangorang yang mengetahui. (ar-Rum/30: 22)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4906,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
+                    "transliteration": {
+                        "en": "Ashshamsu walqamaru bihusbaan"
+                    }
+                },
+                "translation": {
+                    "en": "The sun and the moon [move] by precise calculation,",
+                    "id": "Matahari dan bulan beredar menurut perhitungan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4906",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4906.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4906.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di antara tanda kekuasaan-Nya adalah bahwa matahari dan bulan beredar pada porosnya menurut perhitungan yang sangat teliti dan tepat tanpa cacat;",
+                        "long": "Allah menyebutkan bahwa matahari dan bulan yang termasuk di antara benda-benda angkasa yang terbesar, beredar dalam orbitnya masing-masing matahari dan bulan yang sangat pasti, karena adanya itu maka terjadilah perubahan musim-musim. Dengan memperhitungkan perubahan-perubahan tersebut manusia dapat mengatur pertanian, perdagangan, pendidikan dan sebagainya. Banyak ayat dalam Al-Qur'an menyebut dan menjelaskan tentang pasangan matahari dan bulan. Matahari sebagai sumber cahaya yang terang membara (wahhaj) akibat reaksi nuklir di dalamnya. Sementara bulan hanya sebagai pemantul cahaya yang diterimanya dari matahari memiliki permukaan yang cerah berbinar-binar (munir). Matahari dan bulan bersama benda-benda langit lainnya tidak diam. Mereka bergerak di angkasa pada jalan (garis edar) masingmasing sebagaimana Allah berfirman dalam Surah adhdzariyat/51:7. Jalan yang dimaksud adalah garis edar dari bendabenda langit, termasuk matahari dan bulan. Dalam fisika, garis edar benda langit disebut orbit merupakan jalan atau lintasan yang dilalui oleh suatu benda langit, di sekitar benda langit lainnya, di dalam pengaruh dari gaya-gaya tertentu. Orbit pertama kali dianalisa secara matematis oleh Johannes Kepler yang merumuskan hasil perhitungannya dalam hukum Kepler tentang gerak planet. Dia menemukan bahwa orbit dari planet dalam tata surya kita adalah berbentuk ellips dan bukan lingkaran atau episiklus seperti yang semula dipercaya. Pada tahun 1601 Kepler berusaha mencocokkan berbagai bentuk kurva geometri pada data-data posisi Planet Mars yang ada. Hingga tahun 1606, setelah hampir setahun menghabiskan waktunya hanya untuk mencari penyelesaian perbedaan sebesar 8 menit busur (mungkin bagi kebanyakan orang hal ini akan diabaikan), Kepler mendapatkan orbit Planet Mars. Menurut Kepler, lintasan berbentuk ellips adalah gerakan yang paling sesuai untuk orbit planet yang mengitari matahari. Pada tahun 1609 dia memublikasikan Astronomia Nova yang menyatakan dua hukum gerak planet. Pergerakan-pergerakan benda langit ini terkendali sepenuhnya dan semuanya harus bergerak dalam suatu orbit yang terhitung. Jika tidak yang akan terjadi adalah tabrakan yang berarti kehancuran yang fatal. Perlu diketahui bahwa bulan beredar mengitari bumi dalam waktu 29.53059 hari. Waktu ini adalah waktu edar bulan relatif terhadap bumi tanpa memasukkan unsur peredaran bumi terhadap matahari. Apabila dimasukkan unsur pergerakan relatif bulan dan matahari terhadap semua bintang di alam maka lama peredaran bumi bukan 24 jam tetapi 23 jam 56 menit 4 detik dan waktu edar bulan terhadap bumi adalah 27.321661 hari atau 86164.0906 detik. Suatu angka yang fantastic, Subhanallah. Hal ini dipertegas lagi dalam firman-Nya pada Surah Yasin 36: 38, 40 dan Surah alAnbiya'/21: 33. Bumi dan planet-planet lain di sistem tata surya ini bergerak pada orbitnya masing-masing mengelilingi matahari. Matahari di lintasan orbitnya juga bergerak mengelilingi sistem yang lebih besar lagi yakni galaksi Bimasakti, begitu seterusnya. Tetapi tidak satupun dari bintang, planet dan benda-benda langit lainnya di angkasa bergerak tidak terkendali atau memotong orbit lain ataupun saling berbenturan. Tampak jelas kecermatan takdir pada keserasian antara ciptaan dan gerakan. Di angkasa yang luas ini pergerakan setiap benda langit tidak ada yang melenceng sehelai rambut pun atau terlambat sedetikpun. Al-Qur'an mengisyaratkan pergerakan benda-benda langit di alam semesta ini secara serasi, hal tersebut diungkap dalam adhdzariyat/51:7"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4907,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+                    "transliteration": {
+                        "en": "Wannajmu washshajaru yasjudan"
+                    }
+                },
+                "translation": {
+                    "en": "And the stars and trees prostrate.",
+                    "id": "dan tetumbuhan dan pepohonan, keduanya tunduk (kepada-Nya)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4907",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4907.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4907.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan tetumbuhan tak berbatang dan pepohonan berbatang pun keduanya tunduk kepada ketentuan-Nya.",
+                        "long": "Allah menyatakan bahwa tanaman-tanaman perdu, dan pohon-pohon yang bercabang, kedua-duanya tunduk kepada kehendak-Nya secara naluri, sebagaimana tunduknya manusia menurut fitrahnya. Perbedaan antara tumbuh-tumbuhan dan pohonpohonan dalam bentuk dan rupa, warna dan rasa, semua itu adalah karena patuh dan tunduk kepada kekuasaan yang menciptakan-Nya"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4908,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+                    "transliteration": {
+                        "en": "Wassamaaa'a rafa'ahaa wa wada'al Meezan"
+                    }
+                },
+                "translation": {
+                    "en": "And the heaven He raised and imposed the balance",
+                    "id": "Dan langit telah ditinggikan-Nya dan Dia ciptakan keseimbangan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4908",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4908.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4908.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Dia telah menciptakan langit. Langit itu telah ditinggikan-Nya setelah sebelumnya menyatu dengan bumi dalam bentuk gumpalan, dan Dia ciptakan keseimbangan dengan mantap",
+                        "long": "Allah menyatakan bahwa Dia menciptakan langit tempat diturunkan perintah dan larangan-Nya kepada hamba-hamba-Nya, tempat malaikat-malaikat yang turun membawa wahyu-Nya kepada nabi-nabi-Nya, Di samping itu Dia menghendaki adanya keseimbangan dalam segala hal. Di antaranya adalah perimbangan akidah, yaitu mentauhidkan-Nya, karena tauhid adalah pertengahan antara mengingkari adanya Allah dengan mempersekutukan-Nya begitu saja, Perimbangan dalam ibadah, dalam beramal dan dalam budi pekerti, perimbangan dalam kekuatan rohani dan jasmani dan sebagainya. Demikianlah perimbangan dan keadilan yang dikehendaki-Nya dengan tidak membiarkan sesuatu karena kecilnya dan tidak pula mementingkan yang lain karena besarnya. Perimbangan-Nya mencakup semua yang ada di alam ini."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4909,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+                    "transliteration": {
+                        "en": "Allaa tatghaw fil meezaan"
+                    }
+                },
+                "translation": {
+                    "en": "That you not transgress within the balance.",
+                    "id": "agar kamu jangan merusak keseimbangan itu,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4909",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4909.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4909.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "agar kamu jangan merusak keseimbangan itu dengan berbuat melampaui batas,",
+                        "long": "Allah menyatakan bahwa Dia melakukan yang demikian itu agar manusia tidak melampaui dan melangkahi batas-batas keadilan dan kelancaran menjalankan sesuatu menurut neraca yang telah ditetapkan bagi segala sesuatu, maka dengan demikian keadaan manusia akan bertambah baik, akhlak dan amal perbuatan akan lebih mulia dan teratur."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4910,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+                    "transliteration": {
+                        "en": "Wa aqeemul wazna bilqisti wa laa tukhsirul meezaan"
+                    }
+                },
+                "translation": {
+                    "en": "And establish weight in justice and do not make deficient the balance.",
+                    "id": "dan tegakkanlah keseimbangan itu dengan adil dan janganlah kamu mengurangi keseimbangan itu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4910",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4910.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4910.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan karenanya tegakkanlah keseimbangan itu dalam segala bentuknya, termasuk kepada dirimu atau keluargamu, dengan adil sehingga menguntungkan semua pihak, dan janganlah kamu mengurangi keseimbangan itu dengan cara dan bentuk apa pun.",
+                        "long": "Allah memerintahkan manusia untuk menegakkan timbangan dengan adil dan jangan berlaku curang. Ini menunjukkan bahwa manusia harus memperhatikan timbangan yang adil dalam semua amal perbuatan dan ucapan-ucapannya. Dalam Al-Qur'an Allah tidak saja memberitahu manusia mengenai ciptaan-Nya, namun juga memberikan indikasi-indikasi untuk memanfaatkan semua ciptaan untuk kesejahteraan manusia. Dalam kaitan dengan matahari dan bulan, Allah memberikan petunjuk yang sangat jelas bahwa kedua benda langit tersebut akan sangat berguna untuk dijadikan patokan. Diberitahukan bahwa peredaran kedua benda langit itu mempunyai perhitungan. Ilmu pengetahuan kemudian menggunakan keteraturan itu untuk dijadikan penanda waktu atau kalender. Petunjuk itu juga ada pada dua ayat berikut: \n\nDan Dia telah menundukkan matahari dan bulan bagimu yang terusmenerus beredar (dalam orbitnya); dan telah menundukkan malam dan siang bagimu. (Ibrahim/14: 33) \n\nSesungguhnya jumlah bulan menurut Allah ialah dua belas bulan, (sebagaimana) dalam ketetapan Allah pada waktu Dia menciptakan langit dan bumi, di antaranya ada empat bulan haram. Itulah (ketetapan) agama yang lurus, maka janganlah kamu menzalimi dirimu dalam (bulan yang empat) itu, dan perangilah kaum musyrikin semuanya sebagaimana mereka pun memerangi kamu semuanya. Dan ketahuilah bahwa Allah beserta orang-orang yang takwa. (at-Taubah/9: 36) \n\nManusia telah diberikan petunjuk untuk membagi waktu dan penanggalan dengan jelas. Dalam astronomi modern, maka yang disebut satu tahun dalam perhitungan Kalender Matahari (Solar Calendar) adalah periode waktu yang diperlukan oleh bumi untuk melakukan satu putaran dalam orbitnya mengelilingi matahari. Waktu yang diperlukan adalah 365 hari, 5 jam, 48 menit, 46 detik. Atau sekitar 365,25 hari kurang 1 menit 14 detik. Apabila satu bulan Solar adalah sekitar 30 hari. Sedangkan satu tahun dalam perhitungan Kalender Bulan (Lunar Calendar) adalah satu periode dari 12 bulan Lunar. Jika satu bulan Lunar (periode yang diperlukan bulan untuk mengelilingi bumi) adalah 29,5 hari, maka satu tahun Lunar adalah 354 hari. Sejarah peradaban umat manusia dalam membuat kalender menunjukkan angka yang berbeda-beda. Bangsa Romawi kuno membagi satu tahun dalam 10 bulan. Pada masa Pra-Julius Caesar, dilakukan koreksi dan menjadi 12 bulan. Kemudian disempurnakan lagi oleh Paus Gregorius XIII (Gregorian Calendar) dan digunakan sebagai kalender modern yang digunakan saat ini. Kalender juga sudah digunakan pada peradaban yang lebih tua. Bangsa-bangsa Akkadia, Sumeria, Babilonia, Assiria, Yahudi, India dan Cina memberikan angka 12 bulan dalam setahunnya. Sedangkan Yunani menghitung 10 bulan dalam setahun. Bangsa Aztec, Maya dan Inca di Amerika Selatan, membagi satu tahun menjadi 13 bulan, dengan jumlah hari per bulannya sebanyak 20 hari. Pada salah satu ayat di atas ada kata \"menundukkan\". Ini mengisyaratkan agar manusia menggunakan akal dalam memanfaatkan kedua benda langit tersebut. Di sini dikandung perintah untuk mengembangkan teknologi. Salah satunya adalah menggunakan keteraturan orbit matahari dan bulan untuk pembuatan penanggalan dan pengaturan waktu. \n\nDialah yang menjadikan matahari bersinar dan bulan bercahaya, dan Dialah yang menetapkan tempat-tempat orbitnya, agar kamu mengetahui bilangan tahun, dan perhitungan (waktu). Allah tidak menciptakan demikian itu melainkan dengan benar. Dia menjelaskan tanda-tanda (kebesaran-Nya) kepada orang-orang yang mengetahui. (Yunus/10: 5) \n\nLintasan-lintasan orbit matahari, bulan dan bumi sudah sangat diketahui. Namun bahwa matahari juga memiliki lintasan orbitnya sendiri baru diketahui para ahli astronomi dan astrofisika modern pada paruh abad ke-20 yang lalu. Matahari mengorbit pusat galaksi di pinggiran piringan galaksi Bimasakti. Adapun garis tengah piringan galaksi ini adalah 3 x 107 km. Waktu yang diperlukan matahari untuk mengelilingi pusat galaksi adalah 250 juta tahun. Khusus untuk Surah at-Taubah/9 ayat 36 di atas, diingatkan akan empat bulan yang disucikan (bulan-bulan Muharam, Rajab, Zulkaidah, dan Zulhijah). Keempat bulan itu sudah disucikan masyarakat Timur Tengah sejak zaman Nabi Ibrahim."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4911,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+                    "transliteration": {
+                        "en": "Wal arda wada'ahaa lilanaame"
+                    }
+                },
+                "translation": {
+                    "en": "And the earth He laid [out] for the creatures.",
+                    "id": "Dan bumi telah dibentangkan-Nya untuk makhluk(-Nya),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4911",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4911.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4911.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Usai menjelaskan neraca keseimbangan di alam semesta, Allah kemudian berbicara tentang bumi. Dan di samping langit yang diatur dengan baik, bumi pun telah dibentangkan dan dihamparkan-Nya untuk kenyamanan semua makhluk yang menghuninya.",
+                        "long": "Allah menerangkan bahwa Dia mendatarkan bumi untuk tempat tinggal binatang, dan semua jenis yang mempunyai roh dan di bumi itu tempat kehidupan untuk dapat mengambil manfaat dari benda-benda di permukaan bumi dan yang berada di dalam perutnya,"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4912,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ",
+                    "transliteration": {
+                        "en": "Feehaa faakihatunw wan nakhlu zaatul akmaam"
+                    }
+                },
+                "translation": {
+                    "en": "Therein is fruit and palm trees having sheaths [of dates]",
+                    "id": "di dalamnya ada buah-buahan dan pohon kurma yang mempunyai kelopak mayang,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4912",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4912.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4912.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bumi tidak hanya dihamparkan. Di dalamnya ada buah-buahan dan pohon kurma yang mempunyai kelopak mayang,",
+                        "long": "Allah memberitahukan bahwa di bumi ini terdapat bermacam-macam bahan yang dapat dijadikan makanan dari aneka ragam buah-buahan, baik yang dimakan setelah masak dari pohonnya atau setelah dimasak dengan rapi, baik dari buah-buahan setelah dikeringkan maupun dalam keadaan masih basah. Seterusnya Allah menyatakan, pohon-pohon kurma yang mempunyai selodang pembungkus buahnya ketika ia keluar. Dikhususkan sebutan kurma ini karena ditanam di tanah Arab dan sangat banyak faedahnya. Buahnya baik dimakan di waktu masih muda maupun setelah ia matang, baik keadaan basah maupun setelah ia dikeringkan. Dari seluruh pohonnya dapat juga diambil faedah seperti daunnya untuk keranjang dan tikar, sabutnya untuk tali, pelepahnya untuk atap rumah, dan batangnya untuk tiang. Dari beberapa faedah yang disebutkan, jenis kurma dikhususkan dalam menyebutnya di antara buah-buahan yang lain."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4913,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ",
+                    "transliteration": {
+                        "en": "Walhabbu zul 'asfi war Raihaanu"
+                    }
+                },
+                "translation": {
+                    "en": "And grain having husks and scented plants.",
+                    "id": "dan biji-bijian yang berkulit dan bunga-bunga yang harum baunya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4913",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4913.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4913.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "tempat buah sebelum kemunculannya, dan ada pula biji-bijian yang berkulit pelindung dan bunga-bunga yang harum baunya.",
+                        "long": "Pada ayat ini Allah menyatakan bahwa semua biji-bijian yang dijadikan sebagai bahan makanan, seperti gandum, padi dan jelai mempunyai daun yang menutupi tandan-tandannya, begitu pula semua yang berbau harum dari tumbuh-tumbuhan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4914,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan"
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4914",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4914.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4914.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah memaparkan nikmat dan anugerah-Nya, Allah lalu menantang jin dan manusia, “Wahai manusia dan jin, nikmat-nikmat Allah begitu banyak, maka nikmat Tuhanmu yang manakah yang kamu dustakan, Apakah nikmat yang sudah disebutkan ataukah yang lainnya?",
+                        "long": "Allah menantang manusia dan jin; nikmat manakah dari nikmat-nikmat yang telah mereka rasakan itu yang mereka dustakan. Yang dimaksud dengan pendustaan nikmat-nikmat tersebut adalah kekafiran mereka terhadap Tuhan mereka, karena mempersekutukan tuhan-tuhan mereka dengan Allah. Dalam peribadatan adalah bukti tentang kekafiran mereka terhadap tuhan mereka, karena nikmat-nikmat itu harus disyukuri, sedangkan syukur artinya menyembah yang memberi nikmat-nikmat kepada mereka. Ayat tersebut diulang-ulang dalam surah ini tiga puluh satu kali banyaknya untuk memperkuat tentang adanya nikmat dan untuk memperingatkannya. Dari itu, sambil Allah menyebut satu persatu dari nikmat-nikmat tersebut Dia memisahkannya dengan kata-kata memperingati dan memperkuat tentang adanya nikmat-nikmat tersebut. Susunan kata serupa ini banyak terdapat dalam bahasa Arab, dari itu telah menjadi kebiasaan bahwa seorang mengatakan kepada temannya yang telah menerima kebaikannya, tetapi ia mengingkarinya. \"Bukankah engkau dahulu miskin, lalu aku menolongmu sehingga berkecukupan? Apakah engkau mengingkarinya? Bukankah engkau dahulu tidak berpakaian, maka aku memberi pakaian; apakah engkau mengingkarinya? Bukankah engkau dahulu tidak dikenal, maka aku mengangkat derajatmu, lalu engkau menjadi dikenal apakah engkau mengingkarinya?\" Seakan-akan Allah swt berkata, \"Bukankah Aku menciptakan manusia, mengajarnya pandai berbicara, Aku jadikan matahari dan bulan beredar menurut perhitungan. Aku jadikan bermacam-macam kayu-kayuan. Aku jadikan aneka ragam buah-buahan, baik di dusundusun maupun di bandar-bandar untuk mereka yang beriman dan kafir kepada-Ku, terkadang Aku menyiraminya dengan air hujan, adakalanya dengan air sungai dan alur-alur; apakah kamu hai manusia dan jin mengingkari yang demikian itu?\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4915,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "خَلَقَ الْإِنسَانَ مِن صَلْصَالٍ كَالْفَخَّارِ",
+                    "transliteration": {
+                        "en": "Khalaqal insaana min salsaalin kalfakhkhaari"
+                    }
+                },
+                "translation": {
+                    "en": "He created man from clay like [that of] pottery.",
+                    "id": "Dia menciptakan manusia dari tanah kering seperti tembikar,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4915",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4915.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4915.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah menjelaskan penciptaan langit dan bumi seisinya, Allah menjelaskan penciptaan manusia dan jin. Dia menciptakan jenis manusia dari tanah kering seperti tembikar,",
+                        "long": "Ayat ini menerangkan bahwa Allah menciptakan manusia pertama Nabi Adam dari tanah kering seperti tembikar, dan keras seperti tanah yang telah dipanggang. Di dalam Al-Qur'an banyak ayat yang menyebutkan bahwa manusia diciptakan dari tanah dan yang lain menyebutkan bahwa ia diciptakan dari tanah liat serta di sini disebutkan tanah kering seperti tembikar. Tanah liat yang dipanggang dengan bara yang panas untuk menjaga ia tetap bersatu, tidak bercerai berai. Demikian pula manusia mempunyai nafsu makan dan minum, mempunyai nafsu kawin agar badannya dapat terpelihara dan dapat melanjutkan hidupnya, serta mempunyai keturunan. Ia mempunyai nafsu marah yang menjadikannya berani dan kuat untuk menjaga kelangsungan hidupnya dan mempertahankan dirinya dari bahaya yang mengancamnya serta serbuan musuh-musuh yang berada di sekitarnya. Kekuatan manusia ini seolah-olah sama dengan tanah liat yang telah masak agar menjadi tanah kering yang bagian-bagiannya melekat dengan kuat. Apabila tidak ada hal-hal itu tentu dia tidak akan dapat mempertahankan dirinya dari bahaya dan musuhmusuhnya, dari manusia lain atau binatang-binatang buas, maka ia akan hancur berkeping-keping menjadi santapan burung-burung dan binatang-binatang, sebagaimana tanah yang belum dimasak bertaburan diterbangkan angin. Penciptaan manusia dari tanah telah banyak dibicarakan pada ayat-ayat sebelumnya, antara lain pada ayat-ayat: al-hijr/15: 26 (dari lumpur hitam), al- hijr/15: 28 (tanah liat kering), ar-Rum/30: 20 (dari tanah), Fathir/35: 11 (dari tanah), shad/38: 71 (tanah liat), Gafir/40 (dari tanah), sedangkan pada Surah al-Furqan/25: ayat 54 dinyatakan bahwa manusia diciptakan dari air. Dari berbagai pernyataan ayat-ayat di atas tentang bahan penciptaan manusia, maka terdapat dua bahan yaitu air dan tanah. Sedangkan macam tanah yang sering dijelaskan adalah tanah liat, suatu jenis tanah yang tersusun oleh partikel yang sangat halus, dengan ukuran diameter partikel kurang dari 2 mikron. Jenis tanah ini memiliki sifat-sifat fisik yang plastis bila mengandung air. Secara kimia, larutan tanah liat dalam air memiliki kapasitas tukar kation, yaitu dapat mengikat ion atau senyawa kimia lainnya yang bermuatan listrik, tetapi dengan ikatan yang tidak terlalu kuat sehingga ion yang terikat bisa berganti-ganti dengan mudah. Tanah jenis ini pulalah yang biasa dipakai sebagai bahan untuk membuat tembikar. Sementara proses penciptaannya amat sedikit diketahui (lihat Tafsir al-hijr/15: 26 dan 28)."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4916,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَخَلَقَ الْجَانَّ مِن مَّارِجٍ مِّن نَّارٍ",
+                    "transliteration": {
+                        "en": "Wa khalaqal jaaan mim maarijim min naar"
+                    }
+                },
+                "translation": {
+                    "en": "And He created the jinn from a smokeless flame of fire.",
+                    "id": "dan Dia menciptakan jin dari nyala api tanpa asap."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4916",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4916.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4916.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan Dia menciptakan jenis jin dari nyala api yang murni tanpa asap.",
+                        "long": "Dalam ayat ini Allah menerangkan bahwa bila manusia pertama dijadikan dari tanah, maka jin yang pertama atau iblis berbeda, ia dijadikan dari api (dari nyala api), dari nyala api yang bergabung dengan yang lain; dari nyala api yang berwarna kuningmerah dan kehijau-hijauan. Sebagaimana manusia dijadikan dari tanah yang bermacam-macam. Ayat-ayat tersebut mengingatkan bahwa Adam diciptakan melalui proses yang pertama dari tanah, kemudian lumpur yang dibentuk selanjutnya dari tanah kering seperti tembikar."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4917,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 531,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan"
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4917",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4917.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4917.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menunjukkan nikmat yang berlimpah-limpah yang diberikan Allah kepada makhluk-Nya baik itu dari kalangan jin maupun manusia, tetapi mengapa mereka mendustakan. Dalam hubungan ayat ini Ibnu 'Umar berkata: Rasulullah saw membaca Surah ar-Rahman atau surah itu dibacakan kepadanya, lalu beliau bersabda, \"Mengapa saya mendengar jin lebih baik jawabannya kepada Tuhannya dari kalian?\" Mereka bertanya, \"Apakah itu, wahai Rasulullah?\" Beliau menjelaskan tentang jawaban mereka (jin) apabila saya membaca firman Allah, \"Maka nikmat Tuhanmu yang manakah yang kamu dustakan?\" Maka mereka berkata, \"Tidak ada sesuatu pun dari nikmat Tuhan yang kami dustakan.\" (Riwayat Ibnu Jarir dari Ibnu 'Umar)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4918,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ",
+                    "transliteration": {
+                        "en": "Rabbul mashriqayni wa Rabbul maghribayni"
+                    }
+                },
+                "translation": {
+                    "en": "[He is] Lord of the two sunrises and Lord of the two sunsets.",
+                    "id": "Tuhan (yang memelihara) dua timur dan Tuhan (yang memelihara) dua barat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4918",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4918.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4918.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah Yang Maha Pencipta itu adalah Tuhan yang memelihara dan mengendalikan dua timur, yaitu dua tempat terbit matahari pada musim panas dan musim dingin, dan Dia pula Tuhan yang memelihara dan mengendalikan dua barat, yaitu tempat terbenamnya matahari pada kedua musim tersebut.",
+                        "long": "Ayat ini menjelaskan tentang peredaran matahari dan bulan, Bahwa Dialah yang menciptakan keduanya dan yang mengatur peredaran menurut perhitungan yang tepat. Tuhan memelihara dua tempat terbit, dua tempat terbenam matahari dan musim panas dan musim dingin. Atas perubahan\n\nIndeks 687 \n\nperubahan itu timbullah musim panas, musim dingin, musim semi dan musim gugur dan menimbulkan pula perubahan udara yang mengakibatkan perubahan pada curah hujan, perubahan pada pohon-pohonan dan tumbuh-tumbuhan serta sungai-sungai. \"Dua Timur\" dan \"Dua Barat\" yang tersurat dalam ayat di atas berkaitan dengan bulatnya bentuk bumi. Karena, hanya pada benda yang berbentuk seperti bola dapat terjadi hal yang demikian (dua timur dan dua barat). Secara kenyataan, memang bumi mempunyai dua titik tempat terbitnya matahari dan dua titik tempat terbenamnya matahari. Di sini, ayat Allah dan ilmu pengetahuan kembali saling bersetuju. Penjelasannya demikian: \"Ketika matahari terbit di satu titik di bagian sebelah bumi, maka pada waktu yang sama matahari akan terbenam di bagian sebelah bumi lainnya. Saat matahari terbenam di sebelah bagian bumi, kembali, pada waktu yang sama, di belahan bumi yang lain, matahari sedang terbit. Dengan demikian, pada kenyataannya, memang betul bahwa ada dua titik dimana matahari terbit, dan pada waktu yang sama, terdapat dua titik dimana matahari terbenam.\" Keadaan demikian ini dilaporkan oleh para antariksawan pada saat mereka memandang bumi dari ruang angkasa. Al-Qur'an menguraikan hal ini sedemikian rupa, seolah-olah konsep bumi yang seperti bola memang sudah dikenal manusia saat itu. Sedangkan sebenarnya tidaklah demikian. Bentuk bumi yang seperti bola juga dapat dilihat pada beberapa ayat lainnya, seperti dua ayat di bawah ini: \n\nTidakkah engkau memperhatikan, bahwa Allah memasukkan malam ke dalam siang dan memasukkan siang ke dalam malam dan Dia menundukkan matahari dan bulan, masing-masing beredar sampai kepada waktu yang ditentukan. Sungguh, Allah Mahateliti apa yang kamu kerjakan. (Luqman/31: 29) Dia menciptakan langit dan bumi dengan (tujuan) yang benar; Dia memasukkan malam atas siang dan memasukkan siang atas malam dan menundukkan matahari dan bulan, masing-masing berjalan menurut waktu yang ditentukan. Ingatlah! Dialah Yang Mahamulia, Maha Pengampun. (az-Zumar/39: 5) \n\nSaat ini, kita dapat melihat pada bola dunia (globe) gambaran tentang bumi yang mempunyai bentuk seperti bola. Sebenarnya, pada 1400 tahun yang lalu, Al-Qur'an telah memberikan indikasi yang demikian. Dua ayat di atas, dengan menggunakan perumpamaan, telah menjelaskan tentang bentuk bumi. Pada saat masyarakat di Eropa masih mempercayai bahwa bumi itu datar, maka para pelajar di universitas di dunia Islam sudah mempelajari bumi dengan menggunakan bola dunia. Karena Al-Quran diturunkan bukan sebagai ilmu pengetahuan (science), maka di dalamnya tidak ada pernyataan secara khusus bahwa bentuk bumi adalah bulat seperti bola. Akan tetapi, dari beberapa ayat, manusia mulai berpikir bahwa bentuk bumi seperti bola. Contohnya pada Surah Luqman/31 ayat 29. Ayat lainnya, Surah az-Zumar/39 ayat 5 menunjukkan bagaimana Allah \"menggulung\" siang dengan malam. Kata \"menggulung\" pada ayat di atas adalah terjemahan dari kata Arab \"kawwara\", yang digunakan untuk menggambarkan seorang sedang menggulungkan sorban di sekeliling kepalanya. Untuk dapat mengerti lebih jelas mengenai kedua ayat di atas, lakukanlah suatu percobaan di rumah. Alat yang diperlukan adalah bola dunia dan lampu senter. Bawa kedua alat ini ke kamar yang gelap. Sinari bola dunia dengan lampu senter dari salah satu sisinya. Sinar dari lampu senter ini akan berperan seperti sinar matahari. Maka akan tampak bahwa sebagian belahan dunia akan terang, dan belahan lainnya gelap. Lalu putarkan bola dunia secara perlahan, sebagaimana halnya bumi melakukan putaran pada sumbunya. Perhatikan saat bola dunia berputar, maka sinar matahari akan secara menerus mulai menerangi bagian bumi yang semula gelap. Demikian pula halnya gelap. Ia akan secara perlahan menggantikan terang di bagian bumi yang lain. Ayat di bawah ini juga berbicara mengenai bentuk bumi: \n\nTuhan (yang memelihara) dua timur dan Tuhan (yang memelihara) dua barat. Maka nikmat Tuhanmu yang manakah yang kamu dustakan? (ar-Rahman/55: 17-18) \n\nPada saat manusia mempercayai bahwa bumi datar dan menetap (tidak bergerak), Al-Qur'an sudah mengungkapkan, secara eksplisit maupun implisit, bahwa bumi itu bulat. Tidak hanya bulat, akan tetapi lebih rinci, yaitu bentuknya lebih seperti telur daripada bulat. Mengenai pemeliharaan tempat terbit dan tenggelamnya matahari. Ketika manusia memercayai bahwa bumi datar dan diam/tidak bergerak, maka Al Qur'an mengungkapkan bahwa bumi itu bulat, melalui firman-Nya dalam ayat tersebut di atas. Karena hanya pada benda berbentuk seperti bola peristiwa tersebut dapat terjadi, dua timur dan dua barat ? Sayyid Quthub berpendapat mungkin itu tempat terbitnya matahari dan bulan serta tempat terbenamnya matahari dan bulan. Tapi bisa juga maksudnya dua tempat terbit matahari yang berbeda posisinya pada musim panas dan musim dingin. Demikian pula dua tempat terbenamnya. Sementara Ilmu Pengetahuan berpendapat bahwa manakala matahari terbit di satu titik di belahan bumi, maka pada saat yang sama justru matahari tersebut akan terbenam dilihat dari titik belahan lainnya yang letaknya jauh ke arah timur. Begitu pula tatkala matahari terlihat terbenam di suatu titik di belahan bumi, maka pada saat yang bersamaan dari belahan bumi yang letaknya jauh ke sebelah barat, matahari tersebut dilihat sedang terbit. Fenomena ini yang diartikan dengan (seolah) ada dua titik di mana matahari terbit dan pada waktu yang sama ada dua titik tempat matahari terbenam. Apapun makna dari pesan tersebut, sesuatu yang penting untuk disyukuri adalah pemeliharaan Allah atas dua timur dan dua barat merupakan bagian dari nikmat-Nya di alam semesta ini? ("
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4919,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan"
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4919",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4919.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4919.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Dalam ayat ini Allah menantang manusia dan jin, nikmat Tuhan yang manakah yang mereka dustakan. Apakah mereka mengingkari hujan dan faedah-faedahnya? Ataukah mereka mengingkari manfaat adanya perubahan musim yang di dalamnya terdapat perubahan tanaman-tanaman yang harus ditanam pada musim panas atau musim dingin? Ataukah mereka mengingkari tentang keistimewaan yang terdapat pada perubahan udara yang mengatur perasaan manusia dan binatang. ("
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4920,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ",
+                    "transliteration": {
+                        "en": "Marajal bahrayni yalta qiyaani"
+                    }
+                },
+                "translation": {
+                    "en": "He released the two seas, meeting [side by side];",
+                    "id": "Dia membiarkan dua laut mengalir yang (kemudian) keduanya bertemu,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4920",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4920.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4920.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dia membiarkan bebas dua laut mengalir berdampingan yang kemudian keduanya bertemu pada permukaannya.",
+                        "long": "Ayat-ayat ini menerangkan bahwa Allah mengalirkan air yang asin dari air yang tawar berdekatan yang kemudian berkumpul menjadi satu, masing-masing tidak mempengaruhi yang lain, yang asin tidak mempengaruhi yang tawar sehingga yang tawar menjadi asin dan yang asin menjadi tawar. Allah telah membatasi di antara keduanya dengan batas yang telah diciptakan dengan kekuasaan-Nya atau dibatasinya dengan batas yang berupa tanah. Firman Allah: \n\nDan Dialah yang membiarkan dua laut mengalir (berdampingan); yang ini tawar dan segar dan yang lain sangat asin lagi pahit; dan Dia jadikan antara keduanya dinding dan batas yang tidak tembus. (al-Furqan/25: 53) \n\nPeristiwa di atas dapat dilihat seperti sungai-sungai yang mengalir dari gunung-gunung yang akhirnya masuk ke dalam laut dan rasanya menjadi asin sedang air sungainya tetap tawar. Menurut kajian ilmiah, laut mempunyai sifat fisika dan kimia yang tidak homogen. Ketidak homogenan ini yang menyebabkan laut bergerak dinamis. Proses yang memicu pergerakan ini sangat kompleks dan melibatkan tenaga dari luar seperti angin, rotasi bumi, topografi dasar laut maupun hubungan satu sama lain antar laut. Distribusi rapat massa yang tergantung pada tingkat kegaraman, temperatur dan tekanan udara juga mempunyai peranan penting. Aliran arus permukaan yang hangat dari kawasan tropis mengalir melintasi khatulistiwa menuju Lautan Atlantik Utara dan Laut Norwegia, untuk kemudian mengalami pendinginan. Akibat pendinginan ini terjadi peningkatan rapat massa dan laut bergerak ke bawah sebagai aliran arus bawah dan bergerak menuju Lautan Atlantik Selatan, Lautan Hindia dan menuju Lautan Pasifik. Gerakan aliran arus bawah ini dikenal sebagai pola sirkulasi thermohalin yang gerakannya sering diidentikan dengan conveyor belt yang menggerakan air, temperatur dan sifat-sifat lainnya dan materimateri di lautan. Apa yang digambarkan di atas adalah gambaran global mengenai pergerakan arus laut. Dalam kenyataannya pergerakan arus laut adalah lebih kompleks. Sebagai contoh adalah apa yang digambarkan oleh Djamil (2004) yang menyebutkan bahwa di bawah garis khatulistiwa di Lautan Pasifik, Atlantik dan Lautan Hindia terdapat arus yang bergerak melawan arus permukaannya dan dikenal sebagai Pacific Equatorial Undercurrent atau disebut juga sebagai Cromwell Current. Arus ini bergerak ke timur, yang menentang arus Pacific South Equatorial Current yang bergerak ke barat. Arus yang mempunyai ketebalan 150 m dan panjang 402 km, dan batas atasnya antara 42-91 m, selalu bergerak di bawah khatulistiwa. Air laut yang bergerak dalam aliran arus Cromwell ini yang bergerak ke timur menentang aliran arus ke barat dan antar keduanya terdapat batas. Batas antara dua lautan ini tidak hanya sebatas wilayah yang disebutkan di atas tetapi juga di temui di Selat Gibraltar, maupun di sebelah timur Jepang. ("
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4921,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+                    "transliteration": {
+                        "en": "Bainahumaa barzakhul laa yabghiyaan"
+                    }
+                },
+                "translation": {
+                    "en": "Between them is a barrier [so] neither of them transgresses.",
+                    "id": "di antara keduanya ada batas yang tidak dilampaui oleh masing-masing."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4921",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4921.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4921.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di antara keduanya ada batas yang diciptakan Allah sehingga batas itu tidak dilampaui oleh masing-masing.",
+                        "long": "Ayat-ayat ini menerangkan bahwa Allah mengalirkan air yang asin dari air yang tawar berdekatan yang kemudian berkumpul menjadi satu, masing-masing tidak mempengaruhi yang lain, yang asin tidak mempengaruhi yang tawar sehingga yang tawar menjadi asin dan yang asin menjadi tawar. Allah telah membatasi di antara keduanya dengan batas yang telah diciptakan dengan kekuasaan-Nya atau dibatasinya dengan batas yang berupa tanah. Firman Allah: \n\nDan Dialah yang membiarkan dua laut mengalir (berdampingan); yang ini tawar dan segar dan yang lain sangat asin lagi pahit; dan Dia jadikan antara keduanya dinding dan batas yang tidak tembus. (al-Furqan/25: 53) \n\nPeristiwa di atas dapat dilihat seperti sungai-sungai yang mengalir dari gunung-gunung yang akhirnya masuk ke dalam laut dan rasanya menjadi asin sedang air sungainya tetap tawar. Menurut kajian ilmiah, laut mempunyai sifat fisika dan kimia yang tidak homogen. Ketidak homogenan ini yang menyebabkan laut bergerak dinamis. Proses yang memicu pergerakan ini sangat kompleks dan melibatkan tenaga dari luar seperti angin, rotasi bumi, topografi dasar laut maupun hubungan satu sama lain antar laut. Distribusi rapat massa yang tergantung pada tingkat kegaraman, temperatur dan tekanan udara juga mempunyai peranan penting. Aliran arus permukaan yang hangat dari kawasan tropis mengalir melintasi khatulistiwa menuju Lautan Atlantik Utara dan Laut Norwegia, untuk kemudian mengalami pendinginan. Akibat pendinginan ini terjadi peningkatan rapat massa dan laut bergerak ke bawah sebagai aliran arus bawah dan bergerak menuju Lautan Atlantik Selatan, Lautan Hindia dan menuju Lautan Pasifik. Gerakan aliran arus bawah ini dikenal sebagai pola sirkulasi thermohalin yang gerakannya sering diidentikan dengan conveyor belt yang menggerakan air, temperatur dan sifat-sifat lainnya dan materimateri di lautan. Apa yang digambarkan di atas adalah gambaran global mengenai pergerakan arus laut. Dalam kenyataannya pergerakan arus laut adalah lebih kompleks. Sebagai contoh adalah apa yang digambarkan oleh Djamil (2004) yang menyebutkan bahwa di bawah garis khatulistiwa di Lautan Pasifik, Atlantik dan Lautan Hindia terdapat arus yang bergerak melawan arus permukaannya dan dikenal sebagai Pacific Equatorial Undercurrent atau disebut juga sebagai Cromwell Current. Arus ini bergerak ke timur, yang menentang arus Pacific South Equatorial Current yang bergerak ke barat. Arus yang mempunyai ketebalan 150 m dan panjang 402 km, dan batas atasnya antara 42-91 m, selalu bergerak di bawah khatulistiwa. Air laut yang bergerak dalam aliran arus Cromwell ini yang bergerak ke timur menentang aliran arus ke barat dan antar keduanya terdapat batas. Batas antara dua lautan ini tidak hanya sebatas wilayah yang disebutkan di atas tetapi juga di temui di Selat Gibraltar, maupun di sebelah timur Jepang. ("
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4922,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan"
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4922",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4922.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4922.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Keduanya tidak bercampur atau melampaui batas tersebut. Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Pada ayat ini Allah swt menantang jin dan manusia agar mengemukakan suatu nikmat yang tidak berasal daripada-Nya. Cobalah mereka bayangkan seandainya air yang asin mempengaruhi yang tawar sehingga menjadi asin pula, maka tentu tidak akan ada air yang dapat diminum manusia dan binatang, tidak ada air untuk menyirami tumbuh-tumbuhan sehingga tumbuh-tumbuhan itu mati, manusia dan binatang pun mati kehausan dan kelaparan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4923,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ",
+                    "transliteration": {
+                        "en": "Yakhruju minhumal lu 'lu u wal marjaanu"
+                    }
+                },
+                "translation": {
+                    "en": "From both of them emerge pearl and coral.",
+                    "id": "Dari keduanya keluar mutiara dan marjan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4923",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4923.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4923.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demikianlah Allah membiarkan kedua laut itu mengalir berdampingan. Dari keduanya keluar atau ditemukan mutiara dan marjan yang indah.",
+                        "long": "Ayat ini menerangkan bahwa di dalam laut itu terdapat barang-barang yang sangat berharga, misalnya mutiara dan marjan dari laut yang asin dan tawar. Keduanya dapat dijadikan sebagai perhiasan yang tinggi nilainya dan mahal harganya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4924,
+                    "inSurah": 23
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan"
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4924",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4924.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4924.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Allah swt menantang jin dan manusia jika ada nikmat yang bukan berasal dari Dia yang berada di laut, tentu jin dan manusia tidak akan mendustakannya, terutama nikmat yang berupa mutiara dan marjan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4925,
+                    "inSurah": 24
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَهُ الْجَوَارِ الْمُنشَآتُ فِي الْبَحْرِ كَالْأَعْلَامِ",
+                    "transliteration": {
+                        "en": "Wa lahul jawaaril mun sha'aatu fil bahri kal a'laam"
+                    }
+                },
+                "translation": {
+                    "en": "And to Him belong the ships [with sails] elevated in the sea like mountains.",
+                    "id": "Milik-Nyalah kapal-kapal yang berlayar di lautan bagaikan gunung-gunung."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4925",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4925.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4925.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Hanya milik-Nyalah kapal-kapal yang berlayar di lautan yang tampak bagaikan gunung-gunung yang menjulang tinggi.",
+                        "long": "Ayat ini menerangkan bahwa Allah-lah yang menguasai bahtera-bahtera yang tinggi layarnya laksana gunung-gunung di lautan, ia berlayar di lautan dan memberikan manfaat kepada manusia guna mengangkut barang-barang dagangan dari suatu negeri ke negeri lain, makanan-makanan yang banyak terdapat pada suatu tempat dan tempat yang lain kekurangan bahan-bahan tersebut, dan lain sebagainya. Dengan demikian, terlaksana pertukaran barang-barang dagangan dan terpenuhi keperluankeperluan manusia tentang makanan dan minuman."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4926,
+                    "inSurah": 25
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 466,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4926",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4926.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4926.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menantang jin dan mansuia agar menerangkan nikmat yang mereka dustakan sebagai berikut: Siapakah yang menciptakan bahan-bahan pembuatan bahtera itu? Atau bagaimanakah membuatnya? Apakah mereka kira bahwa iman kepada Allah sudah cukup dengan hanya bersyukur atas nikmatnikmat yang telah diberikan-Nya kepada mereka? Apakah matahari, bulan dan bintang, pohon-pohonan, tumbuh-tumbuhan, dan bijibijian, sungai-sungai dan lautan-lautan, mutiara dan marjan dijadikan-Nya untuk orang-orang yang tidak berakal? Atau dijadikanNya bagi orang-orang yang pandai bersyukur kepada-Nya atas nikmat-nikmat yang diberikan-Nya? Dan bagaimanakah mereka akan bersyukur kepada-Nya bila mereka tidak mengetahuinya?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4927,
+                    "inSurah": 26
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+                    "transliteration": {
+                        "en": "Kullu man 'alaihaa faan"
+                    }
+                },
+                "translation": {
+                    "en": "Everyone upon the earth will perish,",
+                    "id": "Semua yang ada di bumi itu akan binasa,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4927",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4927.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4927.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Usai menjelaskan anugerah-Nya bagi kelangsungan hidup makhluk di bumi, Allah mengingatkan bahwa semua itu tidak akan membuat mereka kekal. Semua yang ada di bumi itu akan binasa,",
+                        "long": "Ayat-ayat ini menerangkan bahwa semua yang ada di bumi dan di langit akan rusak binasa dan yang kekal hanyalah Zat Allah yang Mahabesar dan Mahamulia. Dialah yang tetap hidup selamanya dan tidak akan mati. Oleh karena itu manusia jangan terpesona dengan kenikmatankenikmatan yang ada di dunia, sebab semuanya akan punah dan lenyap, manusia akan dimintakan pertanggungjawaban atas segala nikmat yang telah diperolehnya. Firman Allah: \n\nDan jangan (pula) engkau sembah tuhan yang lain selain Allah. Tidak ada tuhan (yang berhak disembah) selain Dia. Segala sesuatu pasti binasa, kecuali Allah. Segala keputusan menjadi wewenangNya, dan hanya kepada-Nya kamu dikembalikan. (al-Qasas/28: 88)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4928,
+                    "inSurah": 27
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+                    "transliteration": {
+                        "en": "Wa yabqaa wajhu rabbika zul jalaali wal ikraam"
+                    }
+                },
+                "translation": {
+                    "en": "And there will remain the Face of your Lord, Owner of Majesty and Honor.",
+                    "id": "tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4928",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4928.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4928.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "mati dan meninggalkan dunia ini, tetapi wajah atau Zat Tuhanmu yang memiliki kebesaran dan kemuliaan itu tetap kekal.",
+                        "long": "Ayat-ayat ini menerangkan bahwa semua yang ada di bumi dan di langit akan rusak binasa dan yang kekal hanyalah Zat Allah yang Mahabesar dan Mahamulia. Dialah yang tetap hidup selamanya dan tidak akan mati. Oleh karena itu manusia jangan terpesona dengan kenikmatankenikmatan yang ada di dunia, sebab semuanya akan punah dan lenyap, manusia akan dimintakan pertanggungjawaban atas segala nikmat yang telah diperolehnya. Firman Allah: \n\nDan jangan (pula) engkau sembah tuhan yang lain selain Allah. Tidak ada tuhan (yang berhak disembah) selain Dia. Segala sesuatu pasti binasa, kecuali Allah. Segala keputusan menjadi wewenangNya, dan hanya kepada-Nya kamu dikembalikan. (al-Qasas/28: 88)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4929,
+                    "inSurah": 28
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4929",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4929.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4929.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Dalam ayat ini Allah menantang jin dan manusia agar mengungkapkan nikmat-Nya yang mereka dustakan. Cobalah mereka bayangkan, tidaklah kebinasaan itu melainkan merupakan pintu bagi kehidupan yang kekal. Apabila tidak ada yang mati, maka akan terhalanglah kehidupan di akhirat. Lihatlah kehidupan manusia, apabila mereka beranak terus sepanjang masa, tidak ada yang mati, maka akan penuhlah bumi ini dengan manusia sehingga binatang, tumbuh-tumbuhan, dan makanan tidak akan mencukupi keperluannya lagi dan akhirnya tidak ada jalan lagi bagi mereka kecuali sedang membunuh sesamaanya yang akhirnya dunia ini akan penuh dengan bangkai-bangkai manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4930,
+                    "inSurah": 29
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَسْأَلُهُ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ",
+                    "transliteration": {
+                        "en": "Yas'aluhoo man fissamaawaati walard; kulla ywmin huwa fee shaan"
+                    }
+                },
+                "translation": {
+                    "en": "Whoever is within the heavens and earth asks Him; every day He is bringing about a matter.",
+                    "id": "Apa yang di langit dan di bumi selalu meminta kepada-Nya. Setiap waktu Dia dalam kesibukan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4930",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4930.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4930.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dalam kehidupan ini, apa saja yang ada di langit dan di bumi selalu meminta kepada-Nya untuk memenuhi hajat hidup mereka. Karenanya, setiap waktu Dia terus berada dalam kesibukan mengatur dan memenuhi kebutuhan makhluk-Nya.",
+                        "long": "Allah senantiasa menghidupkan dan mematikan, serta memberi rezeki, memuliakan dan menghinakan, memberi sakit dan menyembuhkan, menyuruh dan melarang, mengampuni dan menghukum, mengasihi dan memarahi terhadap makhluk-Nya. Dan Dia pula memberikan apa-apa yang diminta oleh semua yang ada di langit dan di bumi, seperti yang diungkapkan dalam hadis ini: Dari 'Abdullah bin Munib, ia berkata, \"Rasulullah membacakan kepada kami ayat ini, lalu kami berkata, Ya Rasulullah, apakah yang dimaksud dengan 'urusan? Rasulullah bersabda, 'Mengampuni dosa, melapangkan kesusahan, meninggikan satu golongan dan merendahkan golongan yang lain (Riwayat alBazzar, Ibnu Jarir, ath-thabrani dan Ibnu 'Asakir)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4931,
+                    "inSurah": 30
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4931",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4931.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4931.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhan-mu yang manakah yang kamu dustakan?",
+                        "long": "Dalam ayat ini, Allah menantang jin dan manusia agar mengungkapkan nikmat-Nya yang mereka dustakan. Berapa banyak permohonan yang telah dikabulkan-Nya. Berapa banyak hal-hal yang baru diciptakan-Nya. Dan berapa banyak orang yang lemah ditolongNya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4932,
+                    "inSurah": 31
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ",
+                    "transliteration": {
+                        "en": "Sanafrughu lakum ayyuhas saqalaan"
+                    }
+                },
+                "translation": {
+                    "en": "We will attend to you, O prominent beings.",
+                    "id": "Kami akan memberi perhatian sepenuhnya kepadamu wahai (golongan) manusia dan jin!"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4932",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4932.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4932.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kami bersama para malaikat akan memberi perhatian sepenuhnya kepadamu, wahai golongan manusia dan jin. Kami akan melakukan perhitungan secara cermat atas semua perbuatanmu.",
+                        "long": "Allah menerangkan bahwa Dia akan memperhatikan dan membalas segala amal perbuatan sekalian manusia dan jin, ayat ini merupakan ancaman yang sangat menakutkan, bagi seluruh hambaNya agar ingat pada hari pembalasan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4933,
+                    "inSurah": 32
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4933",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4933.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4933.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Allah swt menantang jin dan manusia, agar mengungkapkan nikmat yang manakah yang mereka dustakan. Adakah yang mereka dustakan itu balasan-balasan yang akan mereka terima pada hari Kiamat nanti baik berupa pahala maupun berupa siksaan pada hari itu tidak ada kedustaan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4934,
+                    "inSurah": 33
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ إِنِ اسْتَطَعْتُمْ أَن تَنفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانفُذُوا ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَانٍ",
+                    "transliteration": {
+                        "en": "Yaa ma'sharal jinni wal insi inis tata'tum an tanfuzoo min aqtaaris samaawaati wal ardi fanfuzoo; laa tanfuzoona illaa bisultaan"
+                    }
+                },
+                "translation": {
+                    "en": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah].",
+                    "id": "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4934",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4934.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4934.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menegaskan bahwa manusia dan jin tidak akan dapat menghindar dari pertanggung jawaban. Wahai golongan jin dan manusia! Jika kamu sanggup menembus atau melintasi penjuru langit dan bumi untuk menghindari pertanggung jawaban dan balasan yang akan menimpamu, maka keluar dan tembuslah keduanya. Ketauhilah, kamu tidak akan mampu menembusnya kecuali dengan kekuatan, sedangkan kamu sama sekali tidak mempunyai kekuatan itu.",
+                        "long": "Ayat ini menyeru jin dan manusia jika mereka sanggup menembus, melintasi penjuru langit dan bumi karena takut akan siksaan dan hukuman Allah, mereka boleh mencoba melakukannya, mereka tidak akan dapat berbuat demikian. Mereka tidak mempunyai kekuatan sedikit pun dalam menghadapi kekuatan Allah swt. Menurut sebagian ahli tafsir, pengertian sulthan pada ayat ini adalah ilmu pengetahuan. Hal ini menunjukkan bahwa dengan ilmu manusia dapat menembus ruang angkasa."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4935,
+                    "inSurah": 34
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4935",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4935.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4935.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Dalam ayat ini Allah bertanya kepada jin dan manusia yang berbuat jahat kemudian bertobat, lalu diterima oleh Allah tobatnya, bukankah itu merupakan nikmat? Sebelum itu Allah mengancam orang-orang yang berbuat jahat. Karenanya nikmat Allah yang mana lagi yang kamu dustakan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4936,
+                    "inSurah": 35
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+                    "transliteration": {
+                        "en": "Yursalu 'alaikumaa shuwaazum min naarifiw-wa nuhaasun falaa tantasiraan"
+                    }
+                },
+                "translation": {
+                    "en": "There will be sent upon you a flame of fire and smoke, and you will not defend yourselves.",
+                    "id": "Kepada kamu (jin dan manusia), akan dikirim nyala api dan cairan tembaga (panas) sehingga kamu tidak dapat menyelamatkan diri (darinya)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4936",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4936.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4936.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai jin dan manusia, bila kamu berupaya menembus langit dan bumi, maka kepada kamu akan dikirim nyala api dan cairan tembaga panas yang meleleh sehingga kamu tidak dapat menyelamatkan diri dari-nya.",
+                        "long": "Ayat ini menerangkan bahwa kepada jin dan manusia akan ditimpakan bermacam-macam bentuk azab yaitu sambaran nyala api atau cairan yang bercampur dengan tembaga. Mereka tidak dapat melarikan diri daripadanya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4937,
+                    "inSurah": 36
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4937",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4937.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4937.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Allah swt menantang jin dan manusia, apakah mereka tetap mendustakan nikmat Tuhan. Di antara nikmat itu tentang ancaman siksa yang tercantum pada ayat 35 di atas telah diberitakan di dunia ini. Jika kamu di dunia ini berkesempatan berbuat baik dan terhindar dari siksa itu, itulah merupakan kenikmatan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4938,
+                    "inSurah": 37
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِذَا انشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ",
+                    "transliteration": {
+                        "en": "Fa-izan shaqqatis samaaa'u fakaanat wardatan kaddihaan"
+                    }
+                },
+                "translation": {
+                    "en": "And when the heaven is split open and becomes rose-colored like oil -",
+                    "id": "Maka apabila langit telah terbelah dan menjadi merah mawar seperti (kilauan) minyak."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4938",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4938.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4938.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Usai menjelaskan ketidakmampuan manusia menghindar dari pertanggung jawaban, Allah menguraikan keadaan pada hari kemudian. Maka apabila langit telah terbelah karena takut dengan balasan Allah dan menjadi merah mawar seperti kilauan minyak akibat panas yang menerpanya.",
+                        "long": "Ayat ini menerangkan bahwa apabila datang hari Kiamat, terbelahlah langit dan warnanya menjadi merah mawar seperti kilapan minyak. Maka rusaklah peraturan-peraturan alam dan bertebaranlah bintang-bintang serta segala apa-apa yang ada di langit, pindah dari tempatnya karena dahsyatnya hari itu. Dalam ayat-ayat lain Allah berfirman: \n\nApabila langit terbelah, dan apabila bintang-bintang jatuh berserakan. (al-Infithar/82: 1-2) \n\nApabila langit terbelah, dan patuh kepada Tuhannya, dan sudah semestinya patuh. (al-Insyiqaq/84: 1-2). \n\nDan terbelahlah langit, karena pada hari itu langit menjadi rapuh. (al-haqqah/69: 16) \n\nAyat di atas berbicara mengenai alam semesta. Alam semesta diperkirakan berumur antara 15 sampai 18 miliar tahun. Batuan tertua yang pernah ditemukan di bumi berumur sekitar 4,6 miliar tahun. Kehidupan tertua di bumi ditemukan berumur 3,8 juta tahun yang lalu. Sedangkan manusia mulai menghuni bumi baru sekitar 100.000 tahun yang lalu. Apapun yang mengakibatkan terbentuknya alam semesta, yang pasti, ia sangat besar dan hebat, dan tidak mungkin tercipta secara kebetulan. Apa yang diungkap oleh Al-Qur'an tersebut, nampaknya mustahil dikemukakan oleh seseorang yang hidup 1400 tahun yang lalu. Teori mengenai \"lahirnya\" alam semesta ini, hanya dapat dijelaskan oleh seseorang yang paham sekali dengan ilmu \"fisika nuklir\" (nuclear physics). Suatu bidang keilmuan yang baru berkembang dalam beberapa dekade terakhir. Bagaimana mungkin seorang Muhammad pada saat itu dapat menyatakan bahwa asal bumi dan seluruh isi langit dari materi \"asap\" yang sama. Sangat mustahil. Ayat 37 Surah ar-Rahman di atas menggambarkan ledakan sebuah bintang. Gambaran mengenai ledakan bintang tersebut dikonfirmasi oleh ilmu pengetahuan modern. Ledakan bintang yang demikian ini tidak dapat dilihat dengan mata telanjang. Fenomena alam ini juga tidak dapat ditangkap dengan menggunakan teropong bintang biasa. Diperlukan teropong bintang super canggih sekaliber \"Huble Space Super Telescope\" yang dimiliki oleh NASA, suatu lembaga antariksa Amerika Serikat. Namun hal ini sudah digambarkan dalam Al-Quran secara sangat jelas pada 1400 tahun yang lalu. Dengan kemajuan teknologi, ternyata apa yang diuraikan dalam Al-Qur'an, terbukti secara detail. Ledakan yang terjadi memang sangat mirip dengan bunga mawar merah yang sedang berkembang. Ledakan bintang atau disebut dengan istilah supernova, adalah sebuah bintang raksasa yang \"menghancurkan diri sendiri\" dalam ledakan dahsyat. Materi intinya akan bertebaran ke seluruh penjuru. Cahaya yang dihasilkan dalam peristiwa ini ribuan kali lebih terang daripada keadaan normal. Para ilmuwan masa kini menganggap bahwa supernova memainkan peran penting dalam penciptaan alam semesta. Ledakan ini menyebabkan unsur atau materi yang berbeda-benda berpencar dan berpindah ke bagian lain alam semesta. Diasumsikan bahwa materi yang dilontarkan ledakan ini kemudian bergabung untuk membentuk galaksi atau bintang baru di bagian lain alam semesta. Menurut hipotesis ini, tata surya kita, matahari dan planetnya termasuk bumi, merupakan produk supernova yang terjadi dahulu kala. Meskipun supernova tampak seperti ledakan biasa, pada kenyataannya, ledakan tersebut sangat terstruktur dalam setiap detailnya. Jarak antar supernova, dan bahkan antar semua bintang, sangat penting untuk alasan yang lain. Jarak antar bintang dalam galaksi kita adalah sekitar 30 juta tahun cahaya. Jika jarak ini lebih dekat, orbit planet-planet akan tidak stabil. Jika lebih jauh, maka debu hasil supernova akan tersebar begitu acak sehingga sistem planet seperti tata surya kita tidak mungkin pernah terbentuk. Jika alam semesta menjadi rumah bagi kehidupan, maka kedipan supernova harus terjadi pada laju yang sangat tepat dan jarak ratarata di antaranya harus sangat dekat dengan jarak yang teramati sekarang. Perbandingan antara supernova dan jarak antar bintang hanyalah dua rincian yang sangat selaras pada alam semesta yang penuh keajaiban. Mengamati lebih teliti alam semesta, maka pengaturannya akan terlihat begitu indah, baik dalam rancangan maupun susunannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4939,
+                    "inSurah": 38
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny? -",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4939",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4939.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4939.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini Allah menantang jin dan manusia apakah mereka masih mendustakan nikmat-Nya. Allah mengabarkan segala sesuatu yang dapat mengakibatkan manusia menghindari segala kejahatan, sehingga akhirnya ia selamat dari ancaman, itulah nikmat Tuhan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4940,
+                    "inSurah": 39
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَيَوْمَئِذٍ لَّا يُسْأَلُ عَن ذَنبِهِ إِنسٌ وَلَا جَانٌّ",
+                    "transliteration": {
+                        "en": "Fa-yawma'izil laa yus'alu 'an zambiheee insunw wa laa jaann"
+                    }
+                },
+                "translation": {
+                    "en": "Then on that Day none will be asked about his sin among men or jinn.",
+                    "id": "Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4940",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4940.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4940.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka pada hari ketika langit terbelah itu manusia dan jin tidak ditanya tentang dosanya, melainkan ditanya untuk diminta pertanggung jawabannya.",
+                        "long": "Ayat ini menerangkan bahwa pada saat hari kebangkitan mereka tidak ditanyai tentang dosa, sebab mereka yang berdosa dapat terlihat besar kecil dosanya oleh ciri tertentu, tatkala keluar dari kuburnya dan digiring ke Padang Mahsyar. Firman Allah: \n\nInilah hari, saat mereka tidak dapat berbicara, dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan. (alMursalat/77: 35- 36) \n\nKemudian mereka akan ditanyai tentang perbuatan-perbuatan mereka dengan firman-Nya: \n\nMaka demi Tuhanmu, Kami pasti akan menanyai mereka semua, tentang apa yang telah mereka kerjakan dahulu. (al-hijr/15: 92-9"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4941,
+                    "inSurah": 40
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 532,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4941",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4941.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4941.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa pada saat itu Allah bertanya tentang nikmat mana lagi yang kamu dustakan, terutama nikmat yang telah Allah berikan pada hari ini. Allah juga mengingatkan tentang kabar derita dan peringatan pedih yang telah disampaikanNya, yaitu agar manusia meninggalkan dan menjauhi perbuatan dosa."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4942,
+                    "inSurah": 41
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ",
+                    "transliteration": {
+                        "en": "Yu'raful mujrimoona biseemaahum fa'yu'khazu binna waasi wal aqdaam"
+                    }
+                },
+                "translation": {
+                    "en": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet.",
+                    "id": "Orang-orang yang berdosa itu diketahui dengan tanda-tandanya, lalu direnggut ubun-ubun dan kakinya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4942",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4942.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4942.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Orang-orang yang berdosa itu diketahui dengan tanda-tandanya, lalu dengan mudah mereka direnggut ubun-ubun dan kakinya untuk dilempar ke neraka. Ini merupakan peringatan keras Allah kepada para jin dan manusia.",
+                        "long": "Ayat ini menerangkan bahwa orang-orang yang berdosa dapat dikenal dari tanda-tanda yang membedakan mereka dengan orang yang lain yaitu: wajahnya hitam pekat, matanya membelalak karena takut. Pada hari hisab tidak akan didengar alasan-alasan dan keterangan yang mereka kemukakan. Ubun-ubun dan kaki mereka dipegang sebagai penghinaan, lalu diseret, dimasukkan ke dalam api neraka Jahanam."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4943,
+                    "inSurah": 42
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4943",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4943.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4943.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa pada saat itu Allah bertanya mengenai nikmat mana lagi yang kamu dustakan, terutama nikmat yang telah Allah berikan pada hari ini. Allah juga mengingatkan tentang kabar derita dan peringatan pedih yang telah disampaikanNya, yaitu agar manusia meninggalkan dan menjauhi perbuatan dosa."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4944,
+                    "inSurah": 43
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هَٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ",
+                    "transliteration": {
+                        "en": "Haazihee jahannamul latee yukazzibu bihal mujrimoon"
+                    }
+                },
+                "translation": {
+                    "en": "This is Hell, which the criminals deny.",
+                    "id": "Inilah neraka Jahanam yang didustakan oleh orang-orang yang berdosa."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4944",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4944.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4944.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kepada mereka dikatakan, “Inilah neraka Jahanam yang selalu di dustakan oleh orang-orang yang berdosa, termasuk olehmu.”",
+                        "long": "Allah membuktikan janji-janji-Nya kepada mereka yang berbuat jahat bahwa sekarang telah mereka saksikan dan telah mereka lihat dengan mata mereka sendiri azab Tuhan yang mereka tunggu-tunggu; supaya mereka merasakan siksaan api neraka Jahanam dan meminum air yang mendidih, yang dapat menghancurkan usus dan isi perut siapa yang meminumnya. Mereka berkeliling di antara api dan air mendidih yang sangat panas. Tegasnya, apabila mereka minta tolong supaya dikeluarkan dari api neraka, maka mereka dipindahkan ke suatu tempat minuman air yang lebih tinggi suhu panasnya. Seperti diungkapkan dalam firman Allah sebagai berikut: \n\nKetika belenggu dan rantai dipasang di leher mereka, seraya mereka diseret, ke dalam air yang sangat panas, kemudian mereka dibakar dalam api (Gafir/40: 71-72)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4945,
+                    "inSurah": 44
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ",
+                    "transliteration": {
+                        "en": "Yatoofoona bainahaa wa baina hameemim aan"
+                    }
+                },
+                "translation": {
+                    "en": "They will go around between it and scalding water, heated [to the utmost degree].",
+                    "id": "Mereka berkeliling di sana dan di antara air yang mendidih."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4945",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4945.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4945.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka ber-keliling berulang kali di sana, di antara neraka itu, dan di antara air yang mendidih karena panas api neraka.",
+                        "long": "Allah membuktikan janji-janji-Nya kepada mereka yang berbuat jahat bahwa sekarang telah mereka saksikan dan telah mereka lihat dengan mata mereka sendiri azab Tuhan yang mereka tunggu-tunggu; supaya mereka merasakan siksaan api neraka Jahanam dan meminum air yang mendidih, yang dapat menghancurkan usus dan isi perut siapa yang meminumnya. Mereka berkeliling di antara api dan air mendidih yang sangat panas. Tegasnya, apabila mereka minta tolong supaya dikeluarkan dari api neraka, maka mereka dipindahkan ke suatu tempat minuman air yang lebih tinggi suhu panasnya. Seperti diungkapkan dalam firman Allah sebagai berikut: \n\nKetika belenggu dan rantai dipasang di leher mereka, seraya mereka diseret, ke dalam air yang sangat panas, kemudian mereka dibakar dalam api (Gafir/40: 71-72)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4946,
+                    "inSurah": 45
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 467,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4946",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4946.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4946.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa pada saat itu Allah bertanya mengenai nikmat mana lagi yang kamu dustakan, terutama nikmat yang telah Allah berikan pada hari ini. Allah juga mengingatkan tentang kabar derita dan peringatan pedih yang telah disampaikanNya, yaitu agar manusia meninggalkan dan menjauhi perbuatan dosa."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4947,
+                    "inSurah": 46
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
+                    "transliteration": {
+                        "en": "Wa liman khaafa maqaama rabbihee jannataan"
+                    }
+                },
+                "translation": {
+                    "en": "But for he who has feared the position of his Lord are two gardens -",
+                    "id": "Dan bagi siapa yang takut akan saat menghadap Tuhannya ada dua surga."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4947",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4947.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4947.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Selain menyediakan siksa bagi pendurhaka, Allah juga menjanjikan pahala bagi orang yang bertakwa. Dan bagi siapa yang takut akan keagungan dan kekuasaan-Nya pada saat menghadap Tuhannya sehingga ia terdorong untuk beramal saleh, baginya ada dua surga.",
+                        "long": "Ayat ini menerangkan bahwa Allah menyediakan dua surga bagi orang yang takut akan Tuhannya dan berkeyakinan bahwa mereka akan mendapat balasan atas perbuatannya. Bila tergerak hatinya akan berbuat maksiat, maka ia ingat akan Tuhan yang mengetahui segala sesuatu baik yang kelihatan maupun yang tersembunyi. Karena itu ia meninggalkan perbuatan itu, takut akan azab dan hukuman yang akan diterimanya. Mereka berbuat baik dan mengajak manusia berbuat baik pula. Dua surga itu ialah: 1. Surga rohani di mana mereka mendapat keridaan Allah. Firman Allah: \n\nDan keridaan Allah lebih besar. Itulah kemenangan yang agung. (at-Taubah/9: 72) 2. Surga jasmani yang mereka peroleh sesuai dengan amal saleh yang mereka perbuat di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4948,
+                    "inSurah": 47
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny? -",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4948",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4948.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4948.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa Allah menyediakan dua surga bagi orang yang takut akan Tuhannya dan berkeyakinan bahwa mereka akan mendapat balasan atas perbuatannya. Bila tergerak hatinya akan berbuat maksiat, maka ia ingat akan Tuhan yang mengetahui segala sesuatu baik yang kelihatan maupun yang tersembunyi. Karena itu ia meninggalkan perbuatan itu, takut akan azab dan hukuman yang akan diterimanya. Mereka berbuat baik dan mengajak manusia berbuat baik pula. Dua surga itu ialah: 1. Surga rohani di mana mereka mendapat keridaan Allah. Firman Allah: \n\nDan keridaan Allah lebih besar. Itulah kemenangan yang agung. (at-Taubah/9: 72) 2. Surga jasmani yang mereka peroleh sesuai dengan amal saleh yang mereka perbuat di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4949,
+                    "inSurah": 48
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ذَوَاتَا أَفْنَانٍ",
+                    "transliteration": {
+                        "en": "Zawaataaa afnaan"
+                    }
+                },
+                "translation": {
+                    "en": "Having [spreading] branches.",
+                    "id": "kedua surga itu mempunyai aneka pepohonan dan buah-buahan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4949",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4949.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4949.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kedua surga yang Allah janjikan kepada orang yang bertakwa itu mempunyai aneka pepohonan yang rindang dan buah-buahan yang beraneka ragam dan menyenangkan",
+                        "long": "Ayat ini menerangkan bahwa kedua surga itu mempunyai pohon-pohon yang rindang dan buah-buahan yang beraneka ragam coraknya, yang membuat mereka tambah bernafsu, tambah berselera untuk memakannya. Kemudian Allah berkata, \"Apakah kamu, hai manusia dan jin, mengingi"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4950,
+                    "inSurah": 49
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4950",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4950.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4950.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa pada saat itu Allah bertanya mengenai nikmat mana lagi yang kamu dustakan, terutama nikmat yang telah Allah berikan pada hari ini. Kabar derita dan peringatan pedih yang telah disampaikan-Nya, yaitu agar manusia meninggalkan dan menjauhi perbuatan dosa. Maka nikmat Tuhan kamu yang manakah yang kamu dustakan, hai manusia dan jin? Masing-masing mendapat ganjaran sebagaimana yang diterangkan Allah. Bukankah itu nikmat yang besar dan bagi kamu sekalian. ("
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4951,
+                    "inSurah": 50
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+                    "transliteration": {
+                        "en": "Feehimaa 'aynaani tajriyaan"
+                    }
+                },
+                "translation": {
+                    "en": "In both of them are two springs, flowing.",
+                    "id": "Di dalam kedua surga itu ada dua buah mata air yang memancar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4951",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4951.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4951.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tidak hanya pepohonan dengan buahnya yang beraneka ragam, di dalam kedua surga itu ada pula dua buah mata air yang memancar, mengeluarkan air yang jernih.",
+                        "long": "Ayat ini menerangkan bahwa di kedua surga itu ada dua mata air mengalir, menyirami pohon-pohon yang bermacam-macam jenisnya. Air itu dialirkan ke mana saja mereka kehendaki. Salah satu dari mata air itu bernama at-tasnim dan satu lagi nama as-salsabil, sebagaimana firman Allah: \n\nDan campurannya dari tasnim, (yaitu) mata air yang diminum oleh mereka yang dekat dengan Allah. (al-Muthaffifin/83: 27-28) \n\nDan firman-Nya: Dan di sana mereka diberi segelas minuman bercampur jahe. (Yang didatangkan dari) sebuah mata air (di surga) yang dinamakan Salsabil. (al-Insan/76: 17-18)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4952,
+                    "inSurah": 51
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4952",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4952.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4952.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa pada saat itu Allah bertanya mengenai nikmat mana lagi yang kamu dustakan, terutama nikmat yang telah Allah berikan pada hari ini. Kabar derita dan peringatan pedih yang telah disampaikan-Nya, yaitu agar manusia meninggalkan dan menjauhi perbuatan dosa. Maka nikmat Tuhan kamu yang manakah yang kamu dustakan, hai manusia dan jin? Masing-masing mendapat ganjaran sebagaimana yang diterangkan Allah. Bukankah itu nikmat yang besar dan bagi kamu sekalian. Oleh karena itu nikmat Tuhan mana lagi yang kamu dustakan hai jin dan manusia? Karena itu merupakan kenyataan yang tak dapat dipungkiri dan merupakan nikmat yang sungguh besar."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4953,
+                    "inSurah": 52
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِيهِمَا مِن كُلِّ فَاكِهَةٍ زَوْجَانِ",
+                    "transliteration": {
+                        "en": "Feehimaa min kulli faakihatin zawjaan"
+                    }
+                },
+                "translation": {
+                    "en": "In both of them are of every fruit, two kinds.",
+                    "id": "Di dalam kedua surga itu terdapat aneka buah-buahan yang berpasang-pasangan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4953",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4953.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4953.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Selain itu, di dalam kedua surga itu terdapat aneka buah-buahan yang berpasang-pasangan.",
+                        "long": "Ayat ini menerangkan bahwa pada kedua surga itu terdapat bermacam-macam buah-buahan basah dan kering, kedua-duanya sama lezatnya, berlainan dengan buah-buahan di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4954,
+                    "inSurah": 53
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4954",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4954.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4954.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa pada saat itu Allah bertanya nikmat mana lagi yang kamu dustakan, terutama nikmat yang telah Allah berikan pada hari ini. Kabar derita dan peringatan pedih yang telah disampaikan-Nya, yaitu agar manusia meninggalkan dan menjauhi perbuatan dosa. Maka nikmat Tuhan kamu yang manakah yang kamu dustakan, hai manusia dan jin? Masing-masing mendapat ganjaran sebagaimana yang diterangkan Allah. Bukankah itu nikmat yang besar bagi kamu sekalian."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4955,
+                    "inSurah": 54
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مُتَّكِئِينَ عَلَىٰ فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى الْجَنَّتَيْنِ دَانٍ",
+                    "transliteration": {
+                        "en": "Muttaki'eena 'alaa furushim bataaa'inuhaa min istabraq; wajanal jannataini daan"
+                    }
+                },
+                "translation": {
+                    "en": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
+                    "id": "Mereka bersandar di atas permadani yang bagian dalamnya dari sutera tebal. Dan buah-buahan di kedua surga itu dapat (dipetik) dari dekat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4955",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4955.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4955.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Para penghuni surga itu sangat menikmati anugerah Allah. Mereka bersandar dengan santai di atas permadani yang bagian dalamnya terbuat dari sutera tebal. Dan buah-buahan di kedua surga itu sangat dekat sehingga dapat dipetik dari dekat, tanpa perlu beranjak dari tempat mereka bersandar.",
+                        "long": "Ayat ini menerangkan tentang permadani atau kasur-kasur. Mereka duduk santai tidur di atas kasur yang sebelah dalamnya dari sutra yang tebal. Apabila keadaan sebelah dalamnya demikian indahnya, maka bayangkanlah bagaimana keadaan sebelah luarnya. Firman Allah: \n\nMaka tidak seorang pun mengetahui apa yang disembunyikan untuk mereka yaitu (bermacam-macam nikmat) yang menyenangkan hati sebagai balasan terhadap apa yang mereka kerjakan. (as-Sajdah/32: 17) Ibnu 'Abbas mengatakan bahwa Ini menunjukkan bagaimana bagusnya permadani-permadani dan besarnya kesenangan yang abadi yang mereka terima dari pahala-pahala yang diberikan kepada mereka. Buah-buahan dari kedua surga itu dekat kepada mereka bila mereka ingin memetiknya sebagaimana yang diutarakan oleh ayat-ayat lain yang sama-sama maksudnya: \n\nBuah-buahannya dekat. (al-haqqah/69: 23) \n\nDan firman-Nya: \n\nDan naungan (pepohonan)nya dekat di atas mereka dan dimudahkan semudah-mudahnya untuk memetik (buah)nya. (al-Insan/76: 14) \n\nBuah-buahannya tidak akan menghindar, bahkan akan merendah agar mudah dipetik."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4956,
+                    "inSurah": 55
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4956",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4956.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4956.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa pada saat itu Allah bertanya nikmat mana lagi yang kamu dustakan, terutama nikmat yang telah Allah berikan pada hari ini. Kabar derita dan peringatan pedih yang telah disampaikan-Nya, yaitu agar manusia meninggalkan dan menjauhi perbuatan dosa. Maka nikmat Tuhan kamu yang manakah yang kamu dustakan, hai manusia dan jin? Masing-masing mendapat ganjaran sebagaimana yang diterangkan Allah. Bukankah itu nikmat yang besar bagi kamu sekalian."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4957,
+                    "inSurah": 56
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِيهِنَّ قَاصِرَاتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+                    "transliteration": {
+                        "en": "Feehinna qaasiratut tarfi lam yatmishunna insun qablahum wa laa jaaann"
+                    }
+                },
+                "translation": {
+                    "en": "In them are women limiting [their] glances, untouched before them by man or jinni -",
+                    "id": "Di dalam surga itu ada bidadari-bidadari yang membatasi pandangan, yang tidak pernah disentuh oleh manusia maupun jin sebelumnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4957",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4957.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4957.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tidak saja buah-buahan, di dalam surga itu ada bidadari-bidadari yang menjadi pasangan para pria penghuni surga, dan bagi wanita ada pula pasangannya, yang amat santun sehingga membatasi pandangan dan tidak menoleh kecuali kepada pasangannya. Mereka itu perawan yang tidak pernah disentuh oleh manusia maupun jin sebelumnya.",
+                        "long": "Dalam ayat ini diterangkan bahwa di dalam surga ada bidadari-bidadari sopan yang menundukkan pandangannya, tidak mau memandang orang lain selain suaminya; tak akan ada manusia lebih baik dari mereka. Mereka masih gadis, perawan yang tidak pernah disentuh oleh manusia atau pun jin, sebelum penghunipenghuni surga yang masuk ke dalamnya menjadi suami mereka. Kalau demikian, maka nikmat Tuhan kamu yang manakah yang kamu dustakan? ("
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4958,
+                    "inSurah": 57
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny? -",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4958",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4958.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4958.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa pada saat itu Allah bertanya mengenai nikmat mana lagi yang kamu dustakan, terutama nikmat yang telah Allah berikan pada hari ini. Kabar derita dan peringatan pedih yang telah disampaikan-Nya, yaitu agar manusia meninggalkan dan menjauhi perbuatan dosa. Maka nikmat Tuhan kamu yang manakah yang kamu dustakan, hai manusia dan jin? Masing-masing mendapat ganjaran sebagaimana yang diterangkan Allah. Bukankah itu nikmat yang besar bagi kamu sekalian."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4959,
+                    "inSurah": 58
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ",
+                    "transliteration": {
+                        "en": "ka annahunnal yaaqootu wal marjaan"
+                    }
+                },
+                "translation": {
+                    "en": "As if they were rubies and coral.",
+                    "id": "Seakan-akan mereka itu permata yakut dan marjan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4959",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4959.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4959.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Para bidadari itu demikian cantik dan sedap dipandang seakan-akan mereka itu permata yakut dan marjan.",
+                        "long": "Ayat ini menerangkan bahwa bidadari itu bening sebagai permata yakut dan putih sebagai mutiara dan marjan. Ini adalah ungkapan dalam bahasa Arab yang maksudnya menyatakan bahwa bidadari itu sangat cantik dan rupawan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4960,
+                    "inSurah": 59
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4960",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4960.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4960.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa pada saat itu Allah bertanya nikmat mana lagi yang kamu dustakan, terutama nikmat yang telah Allah berikan pada hari ini. Kabar derita dan peringatan pedih yang telah disampaikan-Nya, yaitu agar manusia meninggalkan dan menjauhi perbuatan dosa. Maka nikmat Tuhan manakah yang kamu dustakan, hai manusia dan jin? Masing-masing mendapat ganjaran sebagaimana yang diterangkan Allah. Bukankah itu nikmat yang besar bagi kamu sekalian."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4961,
+                    "inSurah": 60
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
+                    "transliteration": {
+                        "en": "Hal jazaaa'ul ihsaani illal ihsaan"
+                    }
+                },
+                "translation": {
+                    "en": "Is the reward for good [anything] but good?",
+                    "id": "Tidak ada balasan untuk kebaikan selain kebaikan (pula)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4961",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4961.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4961.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tidak ada balasan untuk amal kebaikan selain anugerah Ilahi yang berupa kebaikan pula.",
+                        "long": "Dalam ayat ini Allah mengungkapkan bahwa tidak ada ganjaran bagi perbuatan yang baik kecuali kebaikan pula. Dalam ayat lain yang sama maksudnya Allah berfirman: \n\nBagi orang-orang yang berbuat baik, ada pahala yang terbaik (surga) dan tambahannya (kenikmatan melihat Allah). Dan wajah mereka tidak ditutupi debu hitam dan tidak (pula) dalam kehinaan. Mereka itulah penghuni surga, merek a kekal di dalamnya. (Yunus/10: 26) \n\nSehubungan dengan ayat 60 ini Ibnu Abi hatim\n\nDari Anas bin Malik bahwa Rasulullah membaca ayat (yang artinya), \"Tidak ada balasan kebaikan selain kebaikan,\" kemudian beliau bertanya, \"Apakah yang kalian ketahui dari firman Tuhan tersebut?\" Mereka menjawab, \"Allah dan Rasul-Nya lebih mengetahui.\" Nabi menjawab, \"Allah berfirman, 'Tidak ada balasan kebaikan bagi mereka yang Kuberi nikmat dengan mengesakan (Aku) kecuali surga.\" (Riwayat Ibnu Abi hatim, Ibnu Mardawaih, dan al-Baihaqi)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4962,
+                    "inSurah": 61
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4962",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4962.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4962.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa pada saat itu Allah bertanya tentang nikmat mana lagi yang kamu dustakan, terutama nikmat yang telah Allah berikan pada hari ini. Allah juga mengingatkan tentang kabar derita dan peringatan pedih yang telah disampaikanNya, yaitu agar manusia meninggalkan dan menjauhi perbuatan dosa. Maka nikmat Tuhan kamu yang manakah yang kamu dustakan, hai manusia dan jin? Masing-masing mendapat ganjaran sebagaimana yang diterangkan Allah. Bukankah itu nikmat yang besar bagi kamu sekalian."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4963,
+                    "inSurah": 62
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمِن دُونِهِمَا جَنَّتَانِ",
+                    "transliteration": {
+                        "en": "Wa min doonihimaa jannataan"
+                    }
+                },
+                "translation": {
+                    "en": "And below them both [in excellence] are two [other] gardens -",
+                    "id": "Dan selain dari dua surga itu ada dua surga lagi."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4963",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4963.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4963.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bila pada ayat yang lalu Allah menjelaskan keadaan surga, pada ayat ini Dia menerangkan suasana surga yang lain lagi. Dan selain dari dua surga yang telah dijelaskan itu masih ada dua surga lagi.",
+                        "long": "Dalam ayat ini Allah menerangkan bahwa selain dua surga yang tersebut terdahulu ada lagi dua surga yang disediakan untuk orang-orang mukmin dari golongan Ashsabul-yamin. Yaitu dua surga yang terdahulu diperuntukkan bagi golongan orang-orang yang terdahulu beriman dan dua surga yang lain diperuntukkan bagi golongan Ashabul-yamin dari orang yang beriman kemudian. Hal ini sesuai dengan sabda Rasulullah dalam hadisnya: Dua surga dari emas untuk Muqarrabin dan dua buah lagi surga dari perak untuk Ashabul-yamin.\" (Riwayat Ibnu Jarir, Ibnu Abi hatim, Ibnu Mardawaih dari Abu Musa) \n\nMaka nikmat Tuhan yang manakah yang masih didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4964,
+                    "inSurah": 63
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny? -",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4964",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4964.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4964.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Dalam ayat ini Allah menerangkan bahwa selain dua surga yang tersebut terdahulu ada lagi dua surga yang disediakan untuk orang-orang mukmin dari golongan Ashsabul-yamin. Yaitu dua surga yang terdahulu diperuntukkan bagi golongan orang-orang yang terdahulu beriman dan dua surga yang lain diperuntukkan bagi golongan Ashabul-yamin dari orang yang beriman kemudian. Hal ini sesuai dengan sabda Rasulullah dalam hadisnya: Dua surga dari emas untuk Muqarrabin dan dua buah lagi surga dari perak untuk Ashabul-yamin.\" (Riwayat Ibnu Jarir, Ibnu Abi hatim, Ibnu Mardawaih dari Abu Musa) \n\nMaka nikmat Tuhan yang manakah yang masih didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4965,
+                    "inSurah": 64
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مُدْهَامَّتَانِ",
+                    "transliteration": {
+                        "en": "Mudhaaammataan"
+                    }
+                },
+                "translation": {
+                    "en": "Dark green [in color].",
+                    "id": "kedua surga itu (kelihatan) hijau tua warnanya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4965",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4965.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4965.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kedua surga yang lain itu tampak hijau tua warnanya karena lebat-nya pepohonan.",
+                        "long": "Di dalam dua surga yang lain itu terdapat tumbuhtumbuhan dan bunga-bungaan yang hijau tua warnanya. Maka nikmat Tuhan yang manakah yang didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4966,
+                    "inSurah": 65
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4966",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4966.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4966.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Di dalam dua surga yang lain itu terdapat tumbuhtumbuhan dan bunga-bungaan yang hijau tua warnanya. Maka nikmat Tuhan yang manakah yang didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4967,
+                    "inSurah": 66
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+                    "transliteration": {
+                        "en": "Feehimaa 'aynaani nad daakhataan"
+                    }
+                },
+                "translation": {
+                    "en": "In both of them are two springs, spouting.",
+                    "id": "Di dalam keduanya (surga itu) ada dua buah mata air yang memancar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4967",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4967.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4967.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di dalam keduanya ada dua buah mata air yang memancar dan mengeluarkan air yang jernih dan segar.",
+                        "long": "Ayat ini mengungkapkan bahwa di dalam surga ada dua mata air yang memancarkan air, berbeda dengan air pada surga yang terdahulu. Maka nikmat Tuhan yang manakah yang didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4968,
+                    "inSurah": 67
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 533,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4968",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4968.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4968.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini mengungkapkan bahwa di dalam surga ada dua mata air yang memancarkan air, berbeda dengan air pada surga yang terdahulu. Maka nikmat Tuhan yang manakah yang didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4969,
+                    "inSurah": 68
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 534,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+                    "transliteration": {
+                        "en": "Feehimaa faakihatunw wa nakhlunw wa rummaan"
+                    }
+                },
+                "translation": {
+                    "en": "In both of them are fruit and palm trees and pomegranates.",
+                    "id": "Di dalam kedua surga itu ada buah-buahan, kurma dan delima."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4969",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4969.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4969.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di dalam kedua surga itu juga ada buah-buahan, kurma, dan delima yang lezat dan manis.",
+                        "long": "Ayat ini menerangkan bahwa pada kedua surga tersebut terdapat buah-buahan yang beraneka ragam cita rasanya di antaranya kurma dan delima. Disebutkannya kurma dan delima walaupun keduanya termasuk ke dalam jenis buah-buahan, karena ada perbedaan dengan buah-buahan yang lain sebab keduanya terdapat pada musim gugur dan musim dingin. Di samping itu kurma adalah buah-buahan bergizi, dan delima dapat dijadikan obat. Maka nikmat Allah yang manakah yang didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4970,
+                    "inSurah": 69
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 534,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4970",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4970.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4970.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini menerangkan bahwa pada kedua surga tersebut terdapat buah-buahan yang beraneka ragam cita rasanya di antaranya kurma dan delima. Disebutkannya kurma dan delima walaupun keduanya termasuk ke dalam jenis buah-buahan, karena ada perbedaan dengan buah-buahan yang lain sebab keduanya terdapat pada musim gugur dan musim dingin. Di samping itu kurma adalah buah-buahan bergizi, dan delima dapat dijadikan obat. Maka nikmat Allah yang manakah yang didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4971,
+                    "inSurah": 70
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 534,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِيهِنَّ خَيْرَاتٌ حِسَانٌ",
+                    "transliteration": {
+                        "en": "Feehinna khairaatun hisaan"
+                    }
+                },
+                "translation": {
+                    "en": "In them are good and beautiful women -",
+                    "id": "Di dalam surga-surga itu ada bidadari-bidadari yang baik-baik dan jelita."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4971",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4971.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4971.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di dalam surga-surga itu juga ada bidadari-bidadari yang baik-baik dan cantik jelita sebagai pasangan para penghuninya.",
+                        "long": "Ayat ini mengungkapkan bahwa di dalam surga-surga ada bidadari-bidadari yang baik budi pekertinya dan cantik rupanya. Maka nikmat Tuhan yang manakah yang didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4972,
+                    "inSurah": 71
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 534,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny? -",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4972",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4972.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4972.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini mengungkapkan bahwa di dalam surga-surga ada bidadari-bidadari yang baik budi pekertinya dan cantik rupanya. Maka nikmat Tuhan yang manakah yang didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4973,
+                    "inSurah": 72
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 534,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "حُورٌ مَّقْصُورَاتٌ فِي الْخِيَامِ",
+                    "transliteration": {
+                        "en": "Hoorum maqsooraatun fil khiyaam"
+                    }
+                },
+                "translation": {
+                    "en": "Fair ones reserved in pavilions -",
+                    "id": "Bidadari-bidadari yang dipelihara di dalam kemah-kemah."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4973",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4973.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4973.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bidadari-bidadari yang terdapat dalam kedua surga itu dipelihara dan dijaga di dalam kemah-kemah.",
+                        "long": "Ayat ini mengungkapkan bahwa bidadari-bidadari itu adalah perempuan yang baik akhlaknya dan cantik rupanya dengan mempunyai mata yang indah, manis, putih, bersih sekeliling hitamnya, dipingit di dalam rumah, bukan yang berkeliaran di jalanjalan"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4974,
+                    "inSurah": 73
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 534,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny? -",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4974",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4974.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4974.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini mengungkapkan bahwa bidadari-bidadari itu adalah perempuan yang baik akhlaknya dan cantik rupanya dengan mempunyai mata yang indah, manis, putih, bersih sekeliling hitamnya, dipingit di dalam rumah, bukan yang berkeliaran di jalanjalan"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4975,
+                    "inSurah": 74
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 534,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+                    "transliteration": {
+                        "en": "Lam yatmis hunna insun qablahum wa laa jaaann"
+                    }
+                },
+                "translation": {
+                    "en": "Untouched before them by man or jinni -",
+                    "id": "Mereka tidak pernah disentuh oleh manusia maupun oleh jin sebelumnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4975",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4975.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4975.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Para bidadari itu terjaga dengan baik. Mereka tidak pernah disentuh oleh manusia maupun oleh jin sebelumnya.",
+                        "long": "Ayat ini mengungkapkan bahwa bidadari itu tidak pernah disentuh oleh manusia atau pun jin sebelum datang penghuni surga yang menjadi suami mereka. Hanya suami-suami mereka inilah yang berhak menyentuh mereka. Pengulangan pernyataan ini, dimana sebelumnya telah disebutkan dalam ayat 56 Surah ar-Rahman ini, adalah untuk menunjukkan bahwa mereka sungguh suci dan kesucian mereka terpelihara sangat baik. Oleh karena itu, maka nikmat Tuhan yang manakah yang didustakan oleh jin dan manusia? ("
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4976,
+                    "inSurah": 75
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 534,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny? -",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4976",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4976.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4976.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini mengungkapkan bahwa bidadari itu tidak pernah disentuh oleh manusia atau pun jin sebelum datang penghuni surga yang menjadi suami mereka. Hanya suami-suami mereka inilah yang berhak menyentuh mereka. Pengulangan pernyataan ini, dimana sebelumnya telah disebutkan dalam ayat 56 Surah ar-Rahman ini, adalah untuk menunjukkan bahwa mereka sungguh suci dan kesucian mereka terpelihara sangat baik. Oleh karena itu, maka nikmat Tuhan yang manakah yang didustakan oleh jin dan manusia? ("
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4977,
+                    "inSurah": 76
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 534,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مُتَّكِئِينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ",
+                    "transliteration": {
+                        "en": "Muttaki'eena 'alaa rafratin khudrinw wa 'abqariyyin hisaan"
+                    }
+                },
+                "translation": {
+                    "en": "Reclining on green cushions and beautiful fine carpets.",
+                    "id": "Mereka bersandar pada bantal-bantal yang hijau dan permadani-permadani yang indah."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4977",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4977.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4977.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka, para bidadari, bersandar pada bantal-bantal empuk yang berwarna hijau dan permadani-permadani yang indah.",
+                        "long": "Ayat ini mengungkapkan bahwa penghuni-penghuni surga itu duduk santai di atas bantal-bantal yang hijau, besar-besar dan permadani-permadani yang indah-indah, indah rupanya dan indah tenunannya, dan di sebelah dalamnya terbuat dari sutra. Maka nikmat Tuhan yang manakah yang didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4978,
+                    "inSurah": 77
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 534,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                    "transliteration": {
+                        "en": "Fabi ayyi aalaaa'i Rabbikumaa tukazzibaan."
+                    }
+                },
+                "translation": {
+                    "en": "So which of the favors of your Lord would you deny?",
+                    "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4978",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4978.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4978.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai manusia dan jin, nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                        "long": "Ayat ini mengungkapkan bahwa penghuni-penghuni surga itu duduk santai di atas bantal-bantal yang hijau, besar-besar dan permadani-permadani yang indah-indah, indah rupanya dan indah tenunannya, dan di sebelah dalamnya terbuat dari sutra. Maka nikmat Tuhan yang manakah yang didustakan oleh jin dan manusia?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4979,
+                    "inSurah": 78
+                },
+                "meta": {
+                    "juz": 27,
+                    "page": 534,
+                    "manzil": 7,
+                    "ruku": 468,
+                    "hizbQuarter": 213,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ",
+                    "transliteration": {
+                        "en": "Tabaarakasmu Rabbika Zil-Jalaali wal-Ikraam"
+                    }
+                },
+                "translation": {
+                    "en": "Blessed is the name of your Lord, Owner of Majesty and Honor.",
+                    "id": "Mahasuci nama Tuhanmu Pemilik Keagungan dan Kemuliaan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4979",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4979.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4979.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demikianlah nikmat-nikmat Tuhanmu, wahai manusia dan jin. Akhirnya, wahai Nabi Muhammad, Mahasuci nama Tuhanmu, pemilik keagungan dan kemuliaan.",
+                        "long": "Ayat ini mengungkapkan bahwa, hanya Allah-lah yang mempunyai kebesaran dan karunia atas segala nikmat yang diberikan-Nya, nikmat yang sangat banyak dan ganjaran yang sangat berharga. Ini adalah pelajaran bagi hamba-Nya bahwa semuanya itu adalah rahmat-Nya. Dia yang menjadikan langit dan bumi, surga dan neraka, menyiksa orang-orang berdosa, memberi pahala kepada orang-orang yang menaati-Nya."
+                    }
+                }
+            }
+        ]
+    }
+}

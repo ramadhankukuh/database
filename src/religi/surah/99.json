@@ -1,0 +1,371 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 99,
+        "sequence": 93,
+        "numberOfVerses": 8,
+        "name": {
+            "short": "الزلزلة",
+            "long": "سورة الزلزلة",
+            "transliteration": {
+                "en": "Az-Zalzala",
+                "id": "Az-Zalzalah"
+            },
+            "translation": {
+                "en": "The Earthquake",
+                "id": "Guncangan"
+            }
+        },
+        "revelation": {
+            "arab": "مدينة",
+            "en": "Medinan",
+            "id": "Madaniyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah diturunkan sesudah surat An Nisaa'. Nama Al Zalzalah diambil dari kata: Zilzaal yang terdapat pada ayat pertama surat ini yang berarti goncangan."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 6139,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 599,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+                    "transliteration": {
+                        "en": "Izaa zul zilatil ardu zil zaalaha"
+                    }
+                },
+                "translation": {
+                    "en": "When the earth is shaken with its [final] earthquake",
+                    "id": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6139",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6139.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6139.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Banyak kejadian dahsyat yang terjadi di bumi ketika kiamat tiba. Apabila bumi diguncangkan oleh malaikat atas perintah Allah dengan guncangan yang dahsyat setelah Israfil meniupkan sangkakala pertama,",
+                        "long": "Dalam ayat ini, Allah mengungkapkan bahwa bumi bergeletar dan berguncang sedahsyat-dahsyatnya, sebagaimana diterangkan firman Allah dalam ayat lain:\n\nWahai manusia! Bertakwalah kepada Tuhanmu; sungguh, guncangan (hari) Kiamat itu adalah suatu (kejadian) yang sangat besar. (al-hajj/22: 1)\n\nApabila bumi diguncangkan sedahsyat-dahsyatnya. (al-Waqi'ah/56: 4).\n\nKeterangan ini menunjukkan tentang dahsyatnya keadaan ketika itu. Hal itu dimaksudkan untuk menarik perhatian orang-orang kafir agar memikirkan dan merenungkannya. Seakan-akan dikatakan kepada mereka bahwa apabila bumi sebagai benda padat bisa bergeletar dengan dahsyat pada hari itu, maka mengapa mereka sendiri tidak mau sadar dari kelalaian dengan meninggalkan kekafirannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6140,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 599,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+                    "transliteration": {
+                        "en": "Wa akh rajatil ardu athqaalaha"
+                    }
+                },
+                "translation": {
+                    "en": "And the earth discharges its burdens",
+                    "id": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6140",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6140.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6140.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan bumi telah mengeluarkan beban-beban berat yang dikandung-nya, baik kekayaan yang ada di dalamnya atau mayat-mayat yang terkubur,",
+                        "long": "Dalam ayat ini, Allah menyatakan bahwa pada hari terjadi kegun-cangan itu, karena dahsyatnya, bumi menghamburkan isi perutnya yang terpendam berupa logam, harta simpanan, dan mayat-mayat dari kubur. Dalam ayat lain, Allah berfirman:\n\nDan apabila bumi diratakan, dan memuntahkan apa yang ada di dalamnya dan menjadi kosong. (al-Insyiqaq/84: 3-4)\n\nContohnya, sebagaimana terjadi dengan letusan gunung Krakatau pada tahun 1883, gempa dan tsunami di Aceh pada tahun 2004, lumpur panas di Sidoarjo Jawa Timur sejak tahun 2006, dan lain-lain yang begitu dahsyat sehingga mengeluarkan lava dan isi perut bumi. Guncangan pada hari kiamat jauh lebih dahsyat lagi."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6141,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 599,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَقَالَ الْإِنسَانُ مَا لَهَا",
+                    "transliteration": {
+                        "en": "Wa qaalal insaanu ma laha"
+                    }
+                },
+                "translation": {
+                    "en": "And man says, \"What is [wrong] with it?\" -",
+                    "id": "Dan manusia bertanya, “Apa yang terjadi pada bumi ini?”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6141",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6141.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6141.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan pada saat itu manusia bertanya dengan penuh kekalutan dan ketakutan, “Apa yang terjadi pada bumi ini? Mengapa bumi berguncang sedemikian dahsyat dan mengeluarkan apa saja yang dikandungnya? Apakah ini hari kiamat?”",
+                        "long": "Dalam ayat ini, Allah mengungkapkan bahwa orang-orang yang mengalami dan menyaksikan kejadian yang dahsyat dan membuat terperanjat orang-orang yang melihatnya, berkata, \"Apa gerangan yang terjadi pada bumi. Ini belum pernah terjadi sebelumnya?\" Dalam ayat lain, Allah berfirman:\n\nDan kamu melihat manusia dalam keadaan mabuk, padahal sebenarnya mereka tidak mabuk. (al-hajj/22: 2)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6142,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 599,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+                    "transliteration": {
+                        "en": "Yawmaa izin tuhad dithu akhbaaraha"
+                    }
+                },
+                "translation": {
+                    "en": "That Day, it will report its news",
+                    "id": "Pada hari itu bumi menyampaikan beritanya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6142",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6142.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6142.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada hari itu bumi menyampaikan beritanya kepada manusia, mengapa bumi berguncang dan mengeluarkan semua kandungannya. Pada hari itu pula bumi bersaksi kepada Allah dengan rinci apa saja yang telah manusia lakukan di atasnya: kebajikan atau keburukan, besar atau kecil.",
+                        "long": "Dalam ayat ini, Allah menyatakan bahwa ketika terjadinya keguncangan yang dahsyat itu, saat bumi bergetar dan mengalami kehancuran serta kerusakan, seakan-akan ia menjelaskan kepada manusia bahwa kejadian yang belum pernah terjadi ini tidak menurut ketentuan yang berlaku bagi alam semesta dalam keadaan biasa.\n\nAllah menjelaskan bahwa sebab terjadinya keguncangan tersebut adalah atas perintah-Nya semata. Ketika bumi diperintahkan hancur, maka bumi akan hancur luluh.\n\nPada dasarnya ayat 1-5 di atas berkenaan dengan hari kiamat. Namun dari sekala lebih kecil ayat-ayat tersebut dapat ditafsirkan dengan proses geologi terjadinya gempa, yang sudah barang tentu besarannya jauh lebih kecil dibanding kejadian kiamat kelak.\n\nSeperti telah dijelaskan sebelumnya menurut kajian ilmiah bahwa lempengan-lempengan kulit bumi bergerak dan saling berinteraksi satu sama lain. Pada tempat-tempat saling bertemu, pertemuan lempengan ini menimbulkan gempa bumi. Sebagai contoh adalah Indonesia yang merupakan tempat pertemuan tiga lempeng: Eurasia, Pasifik, dan Indo-Australia. Bila dua lempeng bertemu, maka terjadi tekanan (beban) yang terus menerus, dan bila lempengan tidak tahan lagi menahan tekanan (beban) tersebut, maka lepaslah beban yang telah terkumpul ratusan tahun itu, dan dikeluarkan dalam bentuk gempa bumi.\n\nPada hari itu bumi 'menceritakan beritanya. Beban berat yang dikeluarkan dalam bentuk gempa bumi, merupakan satu proses geologi yang berjalan bertahun-tahun. Begitu seterusnya, setiap selesai beban dilepaskan, kembali proses pengumpulan beban terjadi. Proses geologi atau berita geologi ini dapat direkam baik secara alami maupun dengan menggunakan peralatan geofisika ataupun geodesi (lihat juga an-Naml/27: 88, ath-thur/52: 6). Telaah tentang gempa bumi dapat dilihat pula pada Surah an-Naba'/78: 17-20."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6143,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 599,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+                    "transliteration": {
+                        "en": "Bi-anna rabbaka awhaa laha"
+                    }
+                },
+                "translation": {
+                    "en": "Because your Lord has commanded it.",
+                    "id": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6143",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6143.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6143.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bumi menyampaikan kepada manusia apa yang terjadi padanya dan bersaksi di hadapan Allah tentang apa saja yang manusia lakukan di atasnya karena sesungguhnya Tuhan­mu telah memerintahkan padanya untuk berbuat demikian.",
+                        "long": "Dalam ayat ini, Allah menyatakan bahwa ketika terjadinya keguncangan yang dahsyat itu, saat bumi bergetar dan mengalami kehancuran serta kerusakan, seakan-akan ia menjelaskan kepada manusia bahwa kejadian yang belum pernah terjadi ini tidak menurut ketentuan yang berlaku bagi alam semesta dalam keadaan biasa.\n\nAllah menjelaskan bahwa sebab terjadinya keguncangan tersebut adalah atas perintah-Nya semata. Ketika bumi diperintahkan hancur, maka bumi akan hancur luluh.\n\nPada dasarnya ayat 1-5 di atas berkenaan dengan hari kiamat. Namun dari sekala lebih kecil ayat-ayat tersebut dapat ditafsirkan dengan proses geologi terjadinya gempa, yang sudah barang tentu besarannya jauh lebih kecil dibanding kejadian kiamat kelak.\n\nSeperti telah dijelaskan sebelumnya menurut kajian ilmiah bahwa lempengan-lempengan kulit bumi bergerak dan saling berinteraksi satu sama lain. Pada tempat-tempat saling bertemu, pertemuan lempengan ini menimbulkan gempa bumi. Sebagai contoh adalah Indonesia yang merupakan tempat pertemuan tiga lempeng: Eurasia, Pasifik, dan Indo-Australia. Bila dua lempeng bertemu, maka terjadi tekanan (beban) yang terus menerus, dan bila lempengan tidak tahan lagi menahan tekanan (beban) tersebut, maka lepaslah beban yang telah terkumpul ratusan tahun itu, dan dikeluarkan dalam bentuk gempa bumi.\n\nPada hari itu bumi 'menceritakan beritanya. Beban berat yang dikeluarkan dalam bentuk gempa bumi, merupakan satu proses geologi yang berjalan bertahun-tahun. Begitu seterusnya, setiap selesai beban dilepaskan, kembali proses pengumpulan beban terjadi. Proses geologi atau berita geologi ini dapat direkam baik secara alami maupun dengan menggunakan peralatan geofisika ataupun geodesi (lihat juga an-Naml/27: 88, ath-thur/52: 6). Telaah tentang gempa bumi dapat dilihat pula pada Surah an-Naba'/78: 17-20."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6144,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 599,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ",
+                    "transliteration": {
+                        "en": "Yawma iziy yas durun naasu ash tatal liyuraw a'maalahum"
+                    }
+                },
+                "translation": {
+                    "en": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.",
+                    "id": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6144",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6144.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6144.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada hari itu manusia keluar dari kuburnya untuk menuju tempat hisab, atau beranjak dari tempat hisab itu, dalam keadaan berkelompok-kelompok. Kondisi mereka beragam; sebagian merasa tenang dan sebagian yang lain begitu gundah dan ketakutan. Mereka digiring dengan gegas ke surga atau neraka untuk diperlihatkan kepada mereka balasan semua perbuatannya yang telah Allah janjikan.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa pada hari terjadinya kerusakan dan kehancuran bagi bumi serta terjadinya alam baru dan hidup baru, muncullah manusia dalam keadaan yang berbeda-beda dan berkelompok. Orang-orang yang beramal baik tidak sama dengan orang-orang jahat. Orang-orang yang taat tidak sama dengan orang yang berbuat maksiat. Mereka muncul untuk diperlihatkan Allah kepada mereka apa yang telah mereka lakukan dan untuk memetik hasil usaha mereka selama hidup di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6145,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 599,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+                    "transliteration": {
+                        "en": "Famaiy ya'mal mithqala zarratin khai raiy-yarah"
+                    }
+                },
+                "translation": {
+                    "en": "So whoever does an atom's weight of good will see it,",
+                    "id": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6145",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6145.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6145.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada saat itu setiap manusia akan mengetahui nasib dirinya. Maka barang siapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihatnya dalam buku catatan amalnya lalu dia akan menerima pahala atasnya. Dia merasa senang dan bahagia karena perbuatannya tidak sia-sia.",
+                        "long": "Dalam ayat-ayat ini, Allah merincikan balasan amal masing-masing. Barang siapa beramal baik, walaupun hanya seberat atom niscaya akan diterima balasannya, dan begitu pula yang beramal jahat walaupun hanya seberat atom akan merasakan balasannya. Amal kebajikan orang-orang kafir tidak dapat menolong dan melepaskannya dari siksa karena kekafirannya. Mereka akan tetap sengsara selama-lamanya di dalam neraka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6146,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 599,
+                    "manzil": 7,
+                    "ruku": 541,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+                    "transliteration": {
+                        "en": "Wa maiy-y'amal mithqala zarratin sharraiy-yarah"
+                    }
+                },
+                "translation": {
+                    "en": "And whoever does an atom's weight of evil will see it.",
+                    "id": "dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6146",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6146.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6146.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sebaliknya, barang siapa mengerjakan kejahatan seberat zarrah dan menganggapnya remeh, niscaya dia akan melihatnya dalam buku catatan amalnya lalu dia pun akan menerima balasannya. Inilah bukti kemahaadilan Allah; Dia tidak menzalimi siapa pun.",
+                        "long": "Dalam ayat-ayat ini, Allah merincikan balasan amal masing-masing. Barang siapa beramal baik, walaupun hanya seberat atom niscaya akan diterima balasannya, dan begitu pula yang beramal jahat walaupun hanya seberat atom akan merasakan balasannya. Amal kebajikan orang-orang kafir tidak dapat menolong dan melepaskannya dari siksa karena kekafirannya. Mereka akan tetap sengsara selama-lamanya di dalam neraka."
+                    }
+                }
+            }
+        ]
+    }
+}

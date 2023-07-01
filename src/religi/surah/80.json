@@ -1,0 +1,1731 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 80,
+        "sequence": 24,
+        "numberOfVerses": 42,
+        "name": {
+            "short": "عبس",
+            "long": "سورة عبس",
+            "transliteration": {
+                "en": "Abasa",
+                "id": "'Abasa"
+            },
+            "translation": {
+                "en": "He frowned",
+                "id": "Bermuka Masam"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat 'Abasa terdiri atas 42 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Najm. Dinamai 'Abasa  diambil dari perkataan 'Abasa yang terdapat pada ayat pertama surat ini. Menurut riwayat, pada suatu ketika Rasulullah s.a.w. menerima dan berbicara dengan pemuka-pemuka Quraisy yang beliau harapkan agar mereka masuk Islam. Dalam pada itu datanglah Ibnu Ummi Maktum, seorang sahabat yang buta yang mengharap agar Rasulullah s.a.w. membacakan kepadanya ayat- ayat Al Quran yang telah diturunkan Allah. tetapi Rasulullah s.a.w. bermuka masam dan memalingkan muka dari Ibnu Ummi Maktum yang buta itu, lalu Allah menurunkan surat ini sebagai teguran atas sikap Rasulullah terhadap ibnu Ummi Maktum itu."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5759,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَبَسَ وَتَوَلَّىٰ",
+                    "transliteration": {
+                        "en": "'Abasa wa tawallaa."
+                    }
+                },
+                "translation": {
+                    "en": "The Prophet frowned and turned away",
+                    "id": "Dia (Muhammad) berwajah masam dan berpaling,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5759",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5759.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5759.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Jika bagian akhir Surah an-Nàzi‘àt menjelaskan tugas Nabi sebagai pemberi peringatan tentang hari kiamat, maka pada permulaan Surah ‘Abasa Allah menyebutkan siapa yang akan mendapatkan manfaat dari peringatan tersebut. Disebutkan bahwa seorang pria buta bernama ‘Abdullàh bin Ummi Maktùm, anak paman Khadìjah, menghadap Nabi untuk meminta petunjuk. Ketika itu Nabi tengah berdakwah kepada para pemuka Quraisy. Nabi kurang berkenan dengan kedatangannya. Muka Nabi menjadi masam. Atas perilaku tersebut Allah menegurnya dengan halus. Teguran ini menunjukkan bahwa Al-Qur’an bukanlah perkataan Nabi melainkan kalàmullah. Dengan teguran itu Allah menghendaki agar Nabi Muhammad melakukan hal yang lebih utama, yaitu memperhatikan orang yang sungguh-sungguh mencari kebenaran dan berpegang teguh dengan Islam. Dia, Nabi Muhammad, berwajah masam karena kedatangan Ibnu Ummi Maktùm, dan berpaling darinya untuk melanjutkan pembicaraan dengan pemuka Quraisy.",
+                        "long": "Pada permulaan Surah 'Abasa ini, Allah menegur Nabi Muhammad yang bermuka masam dan berpaling dari 'Abdullah bin Ummi Maktum yang buta, ketika sahabat ini menyela pembicaraan Nabi dengan beberapa tokoh Quraisy. Saat itu 'Abdullah bin Ummi Maktum bertanya dan meminta Nabi saw untuk membacakan dan mengajarkan beberapa wahyu yang telah diterima Nabi. Permintaan itu diulanginya beberapa kali karena ia tidak tahu Nabi sedang sibuk menghadapi beberapa pembesar Quraisy.\n\nSebetulnya Nabi saw sesuai dengan skala prioritas sedang menghadapi tokoh-tokoh penting yang diharapkan dapat masuk Islam karena hal ini akan mempunyai pengaruh besar pada perkembangan dakwah selanjutnya. Maka adalah manusiawi jika Nabi saw tidak memperhatikan pertanyaan 'Abdullah bin Ummi Maktum, apalagi telah ada porsi waktu yang telah disediakan untuk pembicaraan Nabi dengan para sahabat.\n\nTetapi Nabi Muhammad sebagai manusia terbaik dan contoh teladan utama bagi setiap orang mukmin (uswah hasanah), maka Nabi tidak boleh membeda-bedakan derajat manusia. Dalam menetapkan skala prioritas juga harus lebih memberi perhatian kepada orang kecil apalagi memiliki kelemahan seperti 'Abdullah bin Ummi Maktum yang buta dan tidak dapat melihat. Maka seharusnya Nabi lebih mendahulukan pembicaraan dengan 'Abdullah bin Ummi Maktum daripada dengan para tokoh Quraisy.\n\nDalam peristiwa ini Nabi saw tidak mengatakan sepatah katapun kepada 'Abdullah bin Ummi Maktum yang menyebabkan hatinya terluka, tetapi Allah melihat raut muka Nabi Muhammad saw yang masam itu dan tidak mengindahakan Ummi Maktum yang menyebabkan dia tersinggung.\n\nHikmah adanya teguran Allah kepada Nabi Muhammad juga memberi bukti bahwa Al-Qur'an bukanlah karangan Nabi, tetapi betul-betul firman Allah. Teguran yang sangat keras ini tidak mungkin dikarang sendiri oleh Nabi.\n\n'Abdullah bin Ummi Maktum adalah seorang yang bersih dan cerdas. Apabila mendengarkan hikmah, ia dapat memeliharanya dan membersihkan diri dari kebusukan kemusyrikan. Adapun para pembesar Quraisy itu sebagian besar adalah orang-orang yang kaya dan angkuh sehingga tidak sepatutnya Nabi terlalu serius menghadapi mereka untuk diislamkan. Tugas Nabi hanya sekadar menyampaikan risalah dan persoalan hidayah semata-mata berada di bawah kekuasaan Allah. Kekuatan manusia itu harus dipandang dari segi kecerdasan pikiran dan keteguhan hatinya serta kesediaan untuk menerima dan melaksanakan kebenaran. Adapun harta, kedudukan, dan pengaruh kepemimpinan bersifat tidak tetap, suatu ketika ada dan pada saat yang lain hilang sehingga tidak bisa diandalkan. \n\nNabi sendiri setelah ayat ini turun selalu menghormati 'Abdullah bin Ummi Maktum dan sering memuliakannya melalui sabda beliau, \"Selamat datang kepada orang yang menyebabkan aku ditegur oleh Allah. Apakah engkau mempunyai keperluan?\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5760,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَن جَاءَهُ الْأَعْمَىٰ",
+                    "transliteration": {
+                        "en": "An jaa-ahul 'a-maa"
+                    }
+                },
+                "translation": {
+                    "en": "Because there came to him the blind man, [interrupting].",
+                    "id": "karena seorang buta telah datang kepadanya (Abdullah bin Ummi Maktum)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5760",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5760.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5760.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Nabi kurang berkenan sehingga bermuka masam karena seorang buta telah datang kepadanya, yaitu ‘Abdullàh bin Ummi Maktùm. Allah menegur Nabi karena lebih mementingkan bertemu dengan pemuka Quraisy untuk mengajak mereka masuk Islam. Dalam pandangan Allah, semestinya Nabi lebih mementingkan siapa pun yang betul-betul ingin mengamalkan ajaran Islam, tidak peduli ia dari kalangan fakir miskin bahkan cacat. ‘Abdullàh terus memanggil-manggil Nabi, sedang dia karena kebutaannya tidak tahu bahwa beliau sedang bersama para pemuka Quraisy (Lihat: Surah al-An‘àm/6: 52; al-Kahf/18: 28).",
+                        "long": "Pada permulaan Surah 'Abasa ini, Allah menegur Nabi Muhammad yang bermuka masam dan berpaling dari 'Abdullah bin Ummi Maktum yang buta, ketika sahabat ini menyela pembicaraan Nabi dengan beberapa tokoh Quraisy. Saat itu 'Abdullah bin Ummi Maktum bertanya dan meminta Nabi saw untuk membacakan dan mengajarkan beberapa wahyu yang telah diterima Nabi. Permintaan itu diulanginya beberapa kali karena ia tidak tahu Nabi sedang sibuk menghadapi beberapa pembesar Quraisy.\n\nSebetulnya Nabi saw sesuai dengan skala prioritas sedang menghadapi tokoh-tokoh penting yang diharapkan dapat masuk Islam karena hal ini akan mempunyai pengaruh besar pada perkembangan dakwah selanjutnya. Maka adalah manusiawi jika Nabi saw tidak memperhatikan pertanyaan 'Abdullah bin Ummi Maktum, apalagi telah ada porsi waktu yang telah disediakan untuk pembicaraan Nabi dengan para sahabat.\n\nTetapi Nabi Muhammad sebagai manusia terbaik dan contoh teladan utama bagi setiap orang mukmin (uswah hasanah), maka Nabi tidak boleh membeda-bedakan derajat manusia. Dalam menetapkan skala prioritas juga harus lebih memberi perhatian kepada orang kecil apalagi memiliki kelemahan seperti 'Abdullah bin Ummi Maktum yang buta dan tidak dapat melihat. Maka seharusnya Nabi lebih mendahulukan pembicaraan dengan 'Abdullah bin Ummi Maktum daripada dengan para tokoh Quraisy.\n\nDalam peristiwa ini Nabi saw tidak mengatakan sepatah katapun kepada 'Abdullah bin Ummi Maktum yang menyebabkan hatinya terluka, tetapi Allah melihat raut muka Nabi Muhammad saw yang masam itu dan tidak mengindahakan Ummi Maktum yang menyebabkan dia tersinggung.\n\nHikmah adanya teguran Allah kepada Nabi Muhammad juga memberi bukti bahwa Al-Qur'an bukanlah karangan Nabi, tetapi betul-betul firman Allah. Teguran yang sangat keras ini tidak mungkin dikarang sendiri oleh Nabi.\n\n'Abdullah bin Ummi Maktum adalah seorang yang bersih dan cerdas. Apabila mendengarkan hikmah, ia dapat memeliharanya dan membersihkan diri dari kebusukan kemusyrikan. Adapun para pembesar Quraisy itu sebagian besar adalah orang-orang yang kaya dan angkuh sehingga tidak sepatutnya Nabi terlalu serius menghadapi mereka untuk diislamkan. Tugas Nabi hanya sekadar menyampaikan risalah dan persoalan hidayah semata-mata berada di bawah kekuasaan Allah. Kekuatan manusia itu harus dipandang dari segi kecerdasan pikiran dan keteguhan hatinya serta kesediaan untuk menerima dan melaksanakan kebenaran. Adapun harta, kedudukan, dan pengaruh kepemimpinan bersifat tidak tetap, suatu ketika ada dan pada saat yang lain hilang sehingga tidak bisa diandalkan. \n\nNabi sendiri setelah ayat ini turun selalu menghormati 'Abdullah bin Ummi Maktum dan sering memuliakannya melalui sabda beliau, \"Selamat datang kepada orang yang menyebabkan aku ditegur oleh Allah. Apakah engkau mempunyai keperluan?\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5761,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ",
+                    "transliteration": {
+                        "en": "Wa maa yudreeka la'allahu yaz zakkaa."
+                    }
+                },
+                "translation": {
+                    "en": "But what would make you perceive, [O Muhammad], that perhaps he might be purified",
+                    "id": "Dan tahukah engkau (Muhammad) barangkali dia ingin menyucikan dirinya (dari dosa),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5761",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5761.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5761.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi Muhammad, Kami menegur sikapmu yang demikian karena tahukah engkau barangkali dia datang menghadapmu untuk minta pengajaran darimu sebab dia ingin menyucikan dirinya dari dosa dan kesalahan masa lalunya?",
+                        "long": "Dalam ayat-ayat ini, Allah menegur Rasul-Nya, \"Apa yang memberitahukan kepadamu tentang keadaan orang buta ini? Boleh jadi ia ingin membersihkan dirinya dengan ajaran yang kamu berikan kepadanya atau ingin bermanfaat bagi dirinya dan ia mendapat keridaan Allah, sedangkan pengajaran itu belum tentu bermanfaat bagi orang-orang kafir Quraisy yang sedang kamu hadapi itu.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5762,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَىٰ",
+                    "transliteration": {
+                        "en": "Au yaz zak karu fatanfa 'ahuz zikraa."
+                    }
+                },
+                "translation": {
+                    "en": "Or be reminded and the remembrance would benefit him?",
+                    "id": "atau dia (ingin) mendapatkan pengajaran, yang memberi manfaat kepadanya?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5762",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5762.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5762.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Atau tahukah engkau bila dia datang karena dia ingin mendapatkan pengajaran Al-Qur’an dan ajaran Islam darimu, yang memberi manfaat kepadanya sehingga dia lebih tekun beribadah, beramal saleh, dan menjadi pengikut setiamu?",
+                        "long": "Dalam ayat-ayat ini, Allah menegur Rasul-Nya, \"Apa yang memberitahukan kepadamu tentang keadaan orang buta ini? Boleh jadi ia ingin membersihkan dirinya dengan ajaran yang kamu berikan kepadanya atau ingin bermanfaat bagi dirinya dan ia mendapat keridaan Allah, sedangkan pengajaran itu belum tentu bermanfaat bagi orang-orang kafir Quraisy yang sedang kamu hadapi itu.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5763,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَمَّا مَنِ اسْتَغْنَىٰ",
+                    "transliteration": {
+                        "en": "Amma manis taghnaa"
+                    }
+                },
+                "translation": {
+                    "en": "As for he who thinks himself without need,",
+                    "id": "Adapun orang yang merasa dirinya serba cukup (pembesar-pembesar Quraisy),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5763",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5763.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5763.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Adapun orang yang merasa dirinya serba cukup dengan apa yang dia punya, seperti kedudukan, status sosial, dan kekayaan; sehingga dia enggan beriman kepada Allah dan mengikuti ajaranmu,",
+                        "long": "Dalam ayat-ayat ini, Allah melanjutkan teguran-Nya, \"Adapun orang-orang kafir Mekah yang merasa dirinya serba cukup dan mampu, mereka tidak tertarik untuk beriman padamu, mengapa engkau bersikap terlalu condong pada mereka dan ingin sekali supaya mereka masuk Islam.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5764,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَنتَ لَهُ تَصَدَّىٰ",
+                    "transliteration": {
+                        "en": "Fa-anta lahu tasaddaa"
+                    }
+                },
+                "translation": {
+                    "en": "To him you give attention.",
+                    "id": "maka engkau (Muhammad) memberi perhatian kepadanya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5764",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5764.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5764.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "maka engkau justru memberi perhatian kepadanya secara penuh agar jika dia masuk Islam dan menjadi pelopor bagi pengikutnya. Dalam berdakwah kepada pemuka Quraiys, Nabi sebetulnya mempunyai niat yang mulia, tetapi Allah menegur perlakuan Nabi kepada ‘Abdullàh lebih karena Dia menginginkan Nabi melakukan sesuatu yang lebih baik.",
+                        "long": "Dalam ayat-ayat ini, Allah melanjutkan teguran-Nya, “Adapun orang-orang kafir Mekah yang merasa dirinya serba cukup dan mampu, mereka tidak tertarik untuk beriman padamu, mengapa engkau bersikap terlalu condong pada mereka dan ingin sekali supaya mereka masuk Islam.”"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5765,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+                    "transliteration": {
+                        "en": "Wa ma 'alaika allaa yaz zakka."
+                    }
+                },
+                "translation": {
+                    "en": "And not upon you [is any blame] if he will not be purified.",
+                    "id": "padahal tidak ada (cela) atasmu kalau dia tidak menyucikan diri (beriman)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5765",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5765.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5765.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi, mengapa engkau lebih mengutamakan pelayanan terhadap pemuka Quraisy itu, padahal tidak ada celaan atasmu kalau dia tidak menyucikan diri dengan beriman kepada Allah? Tugasmu hanyalah menyampaikan wahyu, dan setelah itu tidak ada dosa bagimu jika dia tetap berpaling dan enggan mengikuti petunjukmu. Lalu, mengapa engkau menomorduakan permintaan orang buta lagi fakir yang ingin belajar Islam darimu?",
+                        "long": "Dalam ayat-ayat ini, Allah melanjutkan teguran-Nya, \"Adapun orang-orang kafir Mekah yang merasa dirinya serba cukup dan mampu, mereka tidak tertarik untuk beriman padamu, mengapa engkau bersikap terlalu condong pada mereka dan ingin sekali supaya mereka masuk Islam.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5766,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَمَّا مَن جَاءَكَ يَسْعَىٰ",
+                    "transliteration": {
+                        "en": "Wa amma man jaa-aka yas'a"
+                    }
+                },
+                "translation": {
+                    "en": "But as for he who came to you striving [for knowledge]",
+                    "id": "Dan adapun orang yang datang kepadamu dengan bersegera (untuk mendapatkan pengajaran),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5766",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5766.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5766.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan adapun orang, yaitu ‘Abdullàh bin Ummi Maktùm, yang datang kepadamu dengan bersegera dan bersungguh-sungguh untuk mendapatkan pengajaran Islam darimu,",
+                        "long": "Dalam ayat-ayat ini, Allah mengingatkan Nabi Muhammad, \"Dan adapun orang seperti 'Abdullah bin Ummi Maktum yang datang kepadamu dengan bersegera untuk mendapat petunjuk dan rahmat dari Tuhannya, sedang ia takut kepada Allah jika ia jatuh ke dalam lembah kesesatan, maka kamu bersikap acuh tak acuh dan tidak memperhatikan permintaannya.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5767,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَهُوَ يَخْشَىٰ",
+                    "transliteration": {
+                        "en": "Wahuwa yakhshaa,"
+                    }
+                },
+                "translation": {
+                    "en": "While he fears [Allah],",
+                    "id": "sedang dia takut (kepada Allah),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5767",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5767.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5767.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "sedang dia takut akan siksa Allah jika tidak mematuhi-Nya,",
+                        "long": "Dalam ayat-ayat ini, Allah mengingatkan Nabi Muhammad, \"Dan adapun orang seperti 'Abdullah bin Ummi Maktum yang datang kepadamu dengan bersegera untuk mendapat petunjuk dan rahmat dari Tuhannya, sedang ia takut kepada Allah jika ia jatuh ke dalam lembah kesesatan, maka kamu bersikap acuh tak acuh dan tidak memperhatikan permintaannya.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5768,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+                    "transliteration": {
+                        "en": "Fa-anta 'anhu talah haa."
+                    }
+                },
+                "translation": {
+                    "en": "From him you are distracted.",
+                    "id": "engkau (Muhammad) malah mengabaikannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5768",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5768.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5768.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "engkau malah mengabaikannya, berpaling darinya, tidak menghiraukannya, dan bermuka masam kepadanya.",
+                        "long": "Dalam ayat-ayat ini, Allah mengingatkan Nabi Muhammad, \"Dan adapun orang seperti 'Abdullah bin Ummi Maktum yang datang kepadamu dengan bersegera untuk mendapat petunjuk dan rahmat dari Tuhannya, sedang ia takut kepada Allah jika ia jatuh ke dalam lembah kesesatan, maka kamu bersikap acuh tak acuh dan tidak memperhatikan permintaannya.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5769,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَلَّا إِنَّهَا تَذْكِرَةٌ",
+                    "transliteration": {
+                        "en": "Kalla innaha tazkirah"
+                    }
+                },
+                "translation": {
+                    "en": "No! Indeed, these verses are a reminder;",
+                    "id": "Sekali-kali jangan (begitu)! Sungguh, (ajaran-ajaran Allah) itu suatu peringatan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5769",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5769.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5769.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Menjelaskan tujuan utama dari teguran-Nya, Allah berfirman, “Sekali-kali jangan berbuat demikian! Sungguh, ajaran-ajaran Allah itu suatu peringatan bagi semua orang agar mereka kembali ke fitrah, yaitu mentauhidkan-Nya dan mengimani-Nya.”",
+                        "long": "Dalam ayat ini, Allah menegur Nabi-Nya agar tidak lagi mengulangi tindakan-tindakan seperti itu yaitu ketika ia menghadapi Ibnu Ummi Maktum dan al-Walid bin al-Mugirah beserta kawan-kawannya.\n\nSesungguhnya pengajaran Allah itu adalah suatu peringatan dan nasihat untuk menyadarkan orang-orang yang lupa atau tidak memperhatikan tanda-tanda kebesaran dan kekuasaan Tuhannya. Barang siapa yang menghendaki peringatan yang jelas dan gamblang, tentu ia memperhatikan dan beramal sesuai dengan kehendak hidayah itu. Apalagi jika diperhatikan bahwa hidayah itu berasal dari kitab-kitab yang mulia seperti diterangkan dalam ayat-ayat berikutnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5770,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَمَن شَاءَ ذَكَرَهُ",
+                    "transliteration": {
+                        "en": "Faman shaa a zakarah"
+                    }
+                },
+                "translation": {
+                    "en": "So whoever wills may remember it.",
+                    "id": "maka barangsiapa menghendaki, tentulah dia akan memperhatikannya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5770",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5770.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5770.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Perigatan-peringatan Allah sudah sangat jelas, maka barang siapa menghendaki untuk mempelajari dengan sungguh-sungguh, tentulah dia akan memperhatikannya, menghayatinya, lalu mengamalkannya. Tidak ada yang menghalangi seseorang memperoleh peringatan itu selain hati yang penuh kesombongan dan keingkaran.",
+                        "long": "Dalam ayat ini, Allah menegur Nabi-Nya agar tidak lagi mengulangi tindakan-tindakan seperti itu yaitu ketika ia menghadapi Ibnu Ummi Maktum dan al-Walid bin al-Mugirah beserta kawan-kawannya.\n\nSesungguhnya pengajaran Allah itu adalah suatu peringatan dan nasihat untuk menyadarkan orang-orang yang lupa atau tidak memperhatikan tanda-tanda kebesaran dan kekuasaan Tuhannya. Barang siapa yang menghendaki peringatan yang jelas dan gamblang, tentu ia memperhatikan dan beramal sesuai dengan kehendak hidayah itu. Apalagi jika diperhatikan bahwa hidayah itu berasal dari kitab-kitab yang mulia seperti diterangkan dalam ayat-ayat berikutnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5771,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِي صُحُفٍ مُّكَرَّمَةٍ",
+                    "transliteration": {
+                        "en": "Fi suhufim mukar rama,"
+                    }
+                },
+                "translation": {
+                    "en": "[It is recorded] in honored sheets,",
+                    "id": "di dalam kitab-kitab yang dimuliakan (di sisi Allah),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5771",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5771.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5771.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Peringatan-peringatan dalam ayat Al-Qur’an itu terdapat di dalam kitab-kitab yang dimuliakan karena berada di sisi Allah dan memuat kalam serta dan pesan-Nya yang sangat berharga.",
+                        "long": "Al-Qur'an adalah salah satu dari kitab-kitab yang diturunkan kepada para nabi. Ia merupakan kitab yang mulia dan tinggi nilai ajarannya dan disucikan dari segala macam bentuk pengaruh setan. Al-Qur'an diturunkan dengan perantaraan para penulis yaitu para malaikat yang sangat mulia lagi berbakti, sebagaimana dalam firman Allah:\n\nYang tidak durhaka kepada Allah terhadap apa yang Dia perintahkan kepada mereka dan selalu mengerjakan apa yang diperintahkan. (at-Tahrim/66: 6)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5772,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مَّرْفُوعَةٍ مُّطَهَّرَةٍ",
+                    "transliteration": {
+                        "en": "Marfoo'atim mutah hara,"
+                    }
+                },
+                "translation": {
+                    "en": "Exalted and purified,",
+                    "id": "yang ditinggikan (dan) disucikan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5772",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5772.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5772.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Itulah lembaran-lembaran mulia yang ditinggikan derajatnya dan disucikan; tidak ada yang bisa mengotori bahkan menjamahnya. Lembaran-lembaran itu dijauhkan dari segala kekurangan dan tidak ada pertentangan di antara ayat-ayatnya.",
+                        "long": "Al-Qur'an adalah salah satu dari kitab-kitab yang diturunkan kepada para nabi. Ia merupakan kitab yang mulia dan tinggi nilai ajarannya dan disucikan dari segala macam bentuk pengaruh setan. Al-Qur'an diturunkan dengan perantaraan para penulis yaitu para malaikat yang sangat mulia lagi berbakti, sebagaimana dalam firman Allah:\n\nYang tidak durhaka kepada Allah terhadap apa yang Dia perintahkan kepada mereka dan selalu mengerjakan apa yang diperintahkan. (at-Tahrim/66: 6)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5773,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "بِأَيْدِي سَفَرَةٍ",
+                    "transliteration": {
+                        "en": "Bi'aidee safara"
+                    }
+                },
+                "translation": {
+                    "en": "[Carried] by the hands of messenger-angels,",
+                    "id": "di tangan para utusan (malaikat),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5773",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5773.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5773.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Lembaran-lembaran itu berada di tangan para utusan, yaitu para malaikat, pesuruh Allah yang bertugas sebagai penyampai pesan-pesan-Nya.",
+                        "long": "Al-Qur'an adalah salah satu dari kitab-kitab yang diturunkan kepada para nabi. Ia merupakan kitab yang mulia dan tinggi nilai ajarannya dan disucikan dari segala macam bentuk pengaruh setan. Al-Qur'an diturunkan dengan perantaraan para penulis yaitu para malaikat yang sangat mulia lagi berbakti, sebagaimana dalam firman Allah:\n\nYang tidak durhaka kepada Allah terhadap apa yang Dia perintahkan kepada mereka dan selalu mengerjakan apa yang diperintahkan. (at-Tahrim/66: 6)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5774,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كِرَامٍ بَرَرَةٍ",
+                    "transliteration": {
+                        "en": "Kiraamim bararah."
+                    }
+                },
+                "translation": {
+                    "en": "Noble and dutiful.",
+                    "id": "yang mulia lagi berbakti."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5774",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5774.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5774.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Para malaikat penulis itu adalah makhluk Allah yang mulia lagi berbakti. Mereka tidak pernah durhaka kepada-Nya dan tidak pula melanggar titah-Nya.",
+                        "long": "Al-Qur'an adalah salah satu dari kitab-kitab yang diturunkan kepada para nabi. Ia merupakan kitab yang mulia dan tinggi nilai ajarannya dan disucikan dari segala macam bentuk pengaruh setan. Al-Qur'an diturunkan dengan perantaraan para penulis yaitu para malaikat yang sangat mulia lagi berbakti, sebagaimana dalam firman Allah:\n\nYang tidak durhaka kepada Allah terhadap apa yang Dia perintahkan kepada mereka dan selalu mengerjakan apa yang diperintahkan. (at-Tahrim/66: 6)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5775,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُتِلَ الْإِنسَانُ مَا أَكْفَرَهُ",
+                    "transliteration": {
+                        "en": "Qutilal-insanu maa akfarah."
+                    }
+                },
+                "translation": {
+                    "en": "Cursed is man; how disbelieving is he.",
+                    "id": "Celakalah manusia! Alangkah kufurnya dia!"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5775",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5775.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5775.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah telah menurunkan Al-Qur’an sebagai kitab yang penuh peringatan bagi manusia agar mereka mengikuti jalan Allah, tetapi celakalah manusia, alangkah jauh mereka dari rahmat Allah, alangkah kufurnya dia kepada peringatan Tuhan!",
+                        "long": "Dalam ayat-ayat ini, Allah memberi peringatan keras kepada manusia dengan kalimat-kalimat yang tegas, yaitu: binasalah manusia! Alangkah besar keingkarannya kepada nikmat-nikmat Allah yang telah dilimpahkan kepadanya sejak mulai lahir sampai matinya. Allah mengemukakan pertanyaan supaya dijadikan renungan oleh manusia untuk dapat menimbulkan kesadaran, yaitu dari apakah Allah menciptakannya?\n\nAllah memberi perincian tentang macam-macam nikmat yang telah diberikan kepada manusia dalam tiga masa, yaitu permulaan, pertengahan dan bagian akhir. Allah memberi isyarat kepada yang pertama dengan pertanyaan berikut ini: \"Dari apakah manusia diciptakan Allah?\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5776,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مِنْ أَيِّ شَيْءٍ خَلَقَهُ",
+                    "transliteration": {
+                        "en": "Min aiyyi shai-in Khalaq"
+                    }
+                },
+                "translation": {
+                    "en": "From what substance did He create him?",
+                    "id": "Dari apakah Dia (Allah) menciptakannya?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5776",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5776.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5776.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mengapa mereka ingkar? Tidakkah mereka sadar dari apakah Dia menciptakannya?",
+                        "long": "Dalam ayat-ayat ini, Allah memberi peringatan keras kepada manusia dengan kalimat-kalimat yang tegas, yaitu: binasalah manusia! Alangkah besar keingkarannya kepada nikmat-nikmat Allah yang telah dilimpahkan kepadanya sejak mulai lahir sampai matinya. Allah mengemukakan pertanyaan supaya dijadikan renungan oleh manusia untuk dapat menimbulkan kesadaran, yaitu dari apakah Allah menciptakannya?\n\nAllah memberi perincian tentang macam-macam nikmat yang telah diberikan kepada manusia dalam tiga masa, yaitu permulaan, pertengahan dan bagian akhir. Allah memberi isyarat kepada yang pertama dengan pertanyaan berikut ini: \"Dari apakah manusia diciptakan Allah?\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5777,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ",
+                    "transliteration": {
+                        "en": "Min nutfah; khalaqahu faqad-darah."
+                    }
+                },
+                "translation": {
+                    "en": "From a sperm-drop He created him and destined for him;",
+                    "id": "Dari setetes mani, Dia menciptakannya lalu menentukannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5777",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5777.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5777.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Manusia hanyalah makhluk yang sangat lemah. Allah menciptakannya dari sesuatu yang hina, yaitu setetes mani. Dia menciptakannya melalui berbagai tahapan, dari tahap alaqah yang menempel di dinding rahim, lalu berubah menjadi mudgah, kemudian tahap pembentukan tulang, kemudian tahap dibungkusnya tulang itu dengan daging, lalu Allah menentukannya dan mewujudkannya dalam bentuk yang sempurna, dilengkapi dengan panca indera, akal, dan sebagainya.",
+                        "long": "Sebagai jawaban dari pertanyaan di atas, Allah menjelaskan bahwa manusia diciptakan dari setetes mani yang hina. Allah lalu menentukan tahap-tahap kejadian, umur, rezeki, dan nasibnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5778,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ السَّبِيلَ يَسَّرَهُ",
+                    "transliteration": {
+                        "en": "Thummas sabeela yas-sarah"
+                    }
+                },
+                "translation": {
+                    "en": "Then He eased the way for him;",
+                    "id": "Kemudian jalannya Dia mudahkan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5778",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5778.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5778.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah mewujudkan manusia dalam bentuk yang sempurna, dengan kasih sayang-Nya kemudian jalannya Dia mudahkan dengan cara mengeluarkannya dari perut ibunya. Dia juga memberinya kemudahan untuk membedakan kebaikan dan keburukan agar dia memilih jalan hidupnya sendiri.",
+                        "long": "Pada ayat ini, Allah menjelaskan bahwa Dia telah memudahkan jalan manusia pada bagian pertengahan yaitu memberi kesempatan kepadanya untuk menempuh jalan yang benar atau jalan yang sesat. Sebenarnya manusia tidak pantas menyombongkan diri, apabila ia mengerti asal kejadiannya, sebagaimana firman Allah:\n\nYang memperindah segala sesuatu yang Dia ciptakan dan yang memulai penciptaan manusia dari tanah, kemudian Dia menjadikan keturunannya dari sari pati air yang hina (air mani). (as-Sajdah/32: 7-8)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5779,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ",
+                    "transliteration": {
+                        "en": "Thumma amatahu fa-aqbarah"
+                    }
+                },
+                "translation": {
+                    "en": "Then He causes his death and provides a grave for him.",
+                    "id": "kemudian Dia mematikannya lalu menguburkannya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5779",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5779.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5779.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kemudian setelah manusia menuntaskan hidupnya di dunia, Dia mematikannya dengan mencabut rohnya dan menguburkannya untuk menjalani kehidupan baru di alam barzakh. Manusia tidak bisa menolak kematian; sebagaiamana dia diciptakan dari tanah, dia akan kembali ke tanah.",
+                        "long": "Dalam dua ayat ini dijelaskan bahwa dalam tahap terakhir (penghabisan), Allah mematikan dan memasukkan manusia ke dalam kubur. Sampai saatnya nanti pada hari Kiamat, Allah membangkitkannya kembali dari kubur-kubur mereka. Firman Allah menjelaskan:\n\nDarinya (tanah) itulah Kami menciptakan kamu dan kepadanyalah Kami akan mengembalikan kamu dan dari sanalah Kami akan mengeluarkan kamu pada waktu yang lain. (thaha/20: 55)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5780,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ إِذَا شَاءَ أَنشَرَهُ",
+                    "transliteration": {
+                        "en": "Thumma iza shaa-a ansharah"
+                    }
+                },
+                "translation": {
+                    "en": "Then when He wills, He will resurrect him.",
+                    "id": "kemudian jika Dia menghendaki, Dia membangkitkannya kembali."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5780",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5780.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5780.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah manusia berada di alam barzakh sekian lama, kemudian jika Dia menghendaki, Dia akan membangkitkannya kembali di hari kebangkitan untuk mempertanggungjawabkan semua perbuatannya di dunia.",
+                        "long": "Dalam dua ayat ini dijelaskan bahwa dalam tahap terakhir (penghabisan), Allah mematikan dan memasukkan manusia ke dalam kubur. Sampai saatnya nanti pada hari Kiamat, Allah membangkitkannya kembali dari kubur-kubur mereka. Firman Allah menjelaskan:\n\nDarinya (tanah) itulah Kami menciptakan kamu dan kepadanyalah Kami akan mengembalikan kamu dan dari sanalah Kami akan mengeluarkan kamu pada waktu yang lain. (thaha/20: 55)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5781,
+                    "inSurah": 23
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+                    "transliteration": {
+                        "en": "Kalla lamma yaqdi maa amarah."
+                    }
+                },
+                "translation": {
+                    "en": "No! Man has not yet accomplished what He commanded him.",
+                    "id": "Sekali-kali jangan (begitu)! Dia (manusia) itu belum melaksanakan apa yang Dia (Allah) perintahkan kepadanya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5781",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5781.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5781.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah telah mencurahkan kasih sayang-Nya kepada manusia, namun banyak dari mereka enggan bersyukur, bahkan berbuat maksiat. Sungguh suatu hal yang mengherankan. Sekali-kali jangan berbuat demikian; dia itu belum melaksanakan apa yang Dia perintahkan kepadanya, yaitu beriman, beribadah, dan menaati aturan-Nya.",
+                        "long": "Dalam ayat ini, Allah mengulangi lagi peringatan-Nya akan kekafiran manusia terhadap nikmat-Nya dengan menyatakan bahwa setiap orang kafir itu sangat aneh. Semestinya mereka beriman dan mengagungkan Allah setelah merasakan nikmat yang dianugerahkan kepada mereka, tetapi mereka bersikap sebaliknya. Mereka mengingkari nikmat itu seakan-akan hanya hasil usaha mereka sendiri."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5782,
+                    "inSurah": 24
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَلْيَنظُرِ الْإِنسَانُ إِلَىٰ طَعَامِهِ",
+                    "transliteration": {
+                        "en": "Falyanzuril insanu ilaa ta-amih"
+                    }
+                },
+                "translation": {
+                    "en": "Then let mankind look at his food -",
+                    "id": "Maka hendaklah manusia itu memperhatikan makanannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5782",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5782.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5782.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Jika manusia bersikeras dengan keingkarannya, maka hendaklah manusia itu memperhatikan makanannya yang dia makan setiap hari; dari mana makanan itu berasal?",
+                        "long": "Dalam ayat ini, Allah menyuruh manusia untuk memperhatikan makanannya, bagaimana Ia telah menyiapkan makanan yang bergizi yang mengandung protein, karbohidrat, dan lain-lain sehingga memenuhi kebutuhan hidupnya. Manusia dapat merasakan kelezatan makanan dan minumannya yang juga menjadi pendorong bagi pemeliharaan tubuhnya sehingga tetap dalam keadaan sehat dan mampu menunaikan tugas yang dibebankan kepadanya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5783,
+                    "inSurah": 25
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا",
+                    "transliteration": {
+                        "en": "Anna sabab nalmaa-a sabba."
+                    }
+                },
+                "translation": {
+                    "en": "How We poured down water in torrents,",
+                    "id": "Kamilah yang telah mencurahkan air melimpah (dari langit),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5783",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5783.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5783.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kamilah yang menyediakan makanan itu bagi mereka melalui beberapa tahap. Kamilah yang telah mencurahkan air hujan yang melimpah dari arah langit, yang berasal dari uap air yang membentuk awan yang menggumpal dan saling bertumpuk.",
+                        "long": "Pada ayat ini dijelaskan bahwa sesungguhnya Allah telah mencurahkan air hujan dari langit dengan curahan yang cukup besar sehingga memenuhi kebutuhan semua makhluk-Nya, baik manusia, binatang, maupun tumbuh-tumbuhan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5784,
+                    "inSurah": 26
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+                    "transliteration": {
+                        "en": "Thumma sha qaqnal-arda shaqqa."
+                    }
+                },
+                "translation": {
+                    "en": "Then We broke open the earth, splitting [it with sprouts],",
+                    "id": "kemudian Kami belah bumi dengan sebaik-baiknya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5784",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5784.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5784.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kemudian setelah air hujan itu membasahi bumi, Kami belah bumi dengan sebaik-baiknya. Kami suburkan kembali bumi yang tadinya tandus. Biji-bijian di dalam tanah mulai hidup dan menyeruak ke atas, membelah permukaan tanah.",
+                        "long": "Kemudian Allah membukakan permukaan bumi dengan sebaik-baiknya agar supaya udara dan sinar matahari dapat masuk ke dalam bagian bumi, sehingga tanahnya menjadi subur untuk menumbuhkan berbagai tanaman."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5785,
+                    "inSurah": 27
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَنبَتْنَا فِيهَا حَبًّا",
+                    "transliteration": {
+                        "en": "Fa ambatna feeha habba"
+                    }
+                },
+                "translation": {
+                    "en": "And caused to grow within it grain",
+                    "id": "lalu di sana Kami tumbuhkan biji-bijian,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5785",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5785.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5785.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Lalu di sana Kami tumbuhkan biji-bijian dengan segala macam dan ragamnya, seperti biji padi dan gandum.",
+                        "long": "Dalam ayat ini dan selanjutnya Allah menyebutkan beberapa macam tumbuh-tumbuhan: pertama, Allah menumbuhkan di bumi biji-bijian seperti gandum, padi, dan lain-lainnya yang menjadi makanan pokok.\n\nKedua dan ketiga, Allah menumbuhkan pula buah anggur dan bermacam sayuran yang dapat dimakan secara langsung.\n\nKeempat dan kelima, buah zaitun dan pohon kurma.\n\nKeenam, kebun-kebun yang besar, tinggi, dan lebat buahnya. Tidak hanya buahnya yang dapat dimanfaatkan, tetapi pohonnya pun dapat dijadikan bahan bangunan dan alat-alat perumahan.\n\nKetujuh, bermacam-macam buah-buahan yang lain, seperti buah pir, apel, mangga, dan sebagainya.\n\nKedelapan, berbagai macam rumput-rumputan.\n\nAir yang turun dari langit dan perannya dalam \"menghidupkan tanah yang mati\" secara jelas diuraikan pada Surah al-Furqan/25: 48-49. Apa kandungan dari air hujan sehingga dapat digunakan untuk tumbuhnya tumbuhan ada pada Surah Qaf/50: 9. \n\nSedangkan uraian bagaimana bumi \"terbelah\", di samping ayat di atas, juga terdapat pada Surah Fussilat/41: 39, sebagaimana pada penggalannya: \"Dan di antara ayat-ayat-Nya adalah engkau melihat bumi kering tandus maka apabila telah Kami turunkan air di atasnya, niscaya ia bergerak dan mengembang.\"\n\nAyat tersebut menerangkan apa yang akan terjadi pada tanah yang kering apabila butiran hujan jatuh di atasnya. Ayat tersebut juga menjelaskan adanya tiga tahap bagaimana perkembangan tumbuhan sampai dengan menghasilkan buah.\n\nTingkat-tingkat perkembangan tumbuhan yang dijelaskan oleh ayat di atas adalah demikian:\n\nPertama: Bergeraknya tanah. Apa yang dimaksud dengan bergeraknya tanah adalah gerakan partikel tanah. Partikel ini terdiri dari lapisan-lapisan yang terdiri atas bahan silika dan alumina. Ketika air masuk ke lapisan-lapisan partikel, maka akan terjadi pembengkakan dari partikel-partikel pembentuk lumpur. Hal ini dapat dijelaskan demikian:\n\n1.Muatan listrik elektrostatis yang ada di permukaan partikel (yang terjadi setelah kehadiran air) akan mengakibatkan terganggunya stabilitas. Partikel ini akan bergerak terus, sebelum ada stabilisator yang berupa partikel yang bermuatan listrik yang berlawanan. Di sini kita seharusnya bersyukur, tentang bagaimana Allah telah menciptakan semuanya dalam pasangan-pasangan, sehingga mendatangkan suasana yang stabil dan sentosa. Termasuk dalam hal ini adalah muatan listrik\n\n2.Pergerakan partikel tanah juga disebabkan karena adanya tabrakan dengan partikel air. Pergerakan partikel air yang tidak teratur menyebabkan partikel tanah bergerak ke semua arah. Gerakan yang demikian ini ditemukan oleh seorang ahli tumbuhan bernama Robert Brown pada tahun 1828. Pergerakannya sangat tergantung pada kecepatan dan jumlah partikel air. Dengan demikian, pergerakan yang terjadi adalah interaksi langsung antara partikel tanah dan partikel air.\n\nKedua: Mengembangnya tanah. Apa yang dimaksud dengan mengembangnya tanah adalah mengembangnya partikel tanah. Partikel tanah akan bertambah tebal. Dengan demikian, tanah akan mengembang, sejalan dengan mengembangnya partikel tanah. Telah dikemukakan sebelumnya bahwa partikel tanah terdiri atas lapisan-lapisan yang berhubungan satu sama lain. Antara lapisan satu dan lainnya terdapat pori-pori. Ke dalam pori-pori inilah air dan ion-ion yang terlarut akan masuk. Dengan bentuk pori-pori yang sangat sempit dan adanya medan elektrostatis di permukaan lapisan, maka air seperti di taruh dalam botol, dan tidak mengalir ke luar. Dengan kata lain, air akan disimpan di pori-pori di setiap lapisan.\n\nKetiga: Tahap Perkecambahan. Tahap perkecambahan biji terjadi saat air sudah tersedia. Saat air sudah pada tahap cukup, maka embrio yang ada di dalam biji akan menjadi aktif dan menyerap matrial nutrisi yang sederhana (material nutrisi kompleks dipecah menjadi sederhana dengan bantuan enzim). Pada tahap ini, bakal akar tumbuh ke bawah, bergerak di antara partikel tanah untuk mencari kawasan yang memenuhi syarat dan memperoleh nutrisi yang diperlukannya. Kemudian bakal daun akan berkembang ke atas, menembus permukaan tanah, dan mengarahkan pada sumber sinar matahari.\n\nJadi, secara singkat, tahapan-tahapan di atas dapat dijelaskan demikian. Kata \"bergerak\" jelas mengindikasikan efek dari air terhadap partikel tanah. Efek ini dapat terjadi sebagai akibat adanya muatan listrik elektrostatis atau benturan langsung antara partikel-partikel air dan tanah. Sedangkan kata \"membengkak\" mengacu pada menebalnya partikel tanah karena terperangkapnya air di antara lapisan-lapisan pembentuk partikel tanah. Dengan demikian, partikel tanah berfungsi sebagai reservoar air, tempat menyimpan air. Ini sesuai dengan ayat berikut: \n\nDan Kami turunkan air dari langit dengan suatu ukuran; lalu Kami jadikan air itu menetap di bumi, dan pasti Kami berkuasa melenyapkannya. (al-Mu'minun/23: 18)\n\nKemudian bakal akar, dan disusul bakal daun, mulai tumbuh. Anak pohon akan muncul, terus tumbuh dan memberikan hasil untuk keperluan manusia. Apakah manusia masih tidak bersyukur?\n\nMaka perhatikanlah bekas-bekas rahmat Allah, bagaimana Allah menghidupkan bumi setelah mati (kering). Sungguh, itu berarti Dia pasti (berkuasa) menghidupkan yang telah mati. Dan Dia Mahakuasa atas segala sesuatu. (ar-Rum/30: 50)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5786,
+                    "inSurah": 28
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَعِنَبًا وَقَضْبًا",
+                    "transliteration": {
+                        "en": "Wa 'inabaw-wa qadba"
+                    }
+                },
+                "translation": {
+                    "en": "And grapes and herbage",
+                    "id": "dan anggur dan sayur-sayuran,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5786",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5786.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5786.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Kami tumbuhkan pula di sana anggur dan sayur-sayuran,",
+                        "long": "Dalam ayat ini dan selanjutnya Allah menyebutkan beberapa macam tumbuh-tumbuhan: pertama, Allah menumbuhkan di bumi biji-bijian seperti gandum, padi, dan lain-lainnya yang menjadi makanan pokok.\n\nKedua dan ketiga, Allah menumbuhkan pula buah anggur dan bermacam sayuran yang dapat dimakan secara langsung.\n\nKeempat dan kelima, buah zaitun dan pohon kurma.\n\nKeenam, kebun-kebun yang besar, tinggi, dan lebat buahnya. Tidak hanya buahnya yang dapat dimanfaatkan, tetapi pohonnya pun dapat dijadikan bahan bangunan dan alat-alat perumahan.\n\nKetujuh, bermacam-macam buah-buahan yang lain, seperti buah pir, apel, mangga, dan sebagainya.\n\nKedelapan, berbagai macam rumput-rumputan.\n\nAir yang turun dari langit dan perannya dalam \"menghidupkan tanah yang mati\" secara jelas diuraikan pada Surah al-Furqan/25: 48-49. Apa kandungan dari air hujan sehingga dapat digunakan untuk tumbuhnya tumbuhan ada pada Surah Qaf/50: 9. \n\nSedangkan uraian bagaimana bumi \"terbelah\", di samping ayat di atas, juga terdapat pada Surah Fussilat/41: 39, sebagaimana pada penggalannya: \"Dan di antara ayat-ayat-Nya adalah engkau melihat bumi kering tandus maka apabila telah Kami turunkan air di atasnya, niscaya ia bergerak dan mengembang.\"\n\nAyat tersebut menerangkan apa yang akan terjadi pada tanah yang kering apabila butiran hujan jatuh di atasnya. Ayat tersebut juga menjelaskan adanya tiga tahap bagaimana perkembangan tumbuhan sampai dengan menghasilkan buah.\n\nTingkat-tingkat perkembangan tumbuhan yang dijelaskan oleh ayat di atas adalah demikian:\n\nPertama: Bergeraknya tanah. Apa yang dimaksud dengan bergeraknya tanah adalah gerakan partikel tanah. Partikel ini terdiri dari lapisan-lapisan yang terdiri atas bahan silika dan alumina. Ketika air masuk ke lapisan-lapisan partikel, maka akan terjadi pembengkakan dari partikel-partikel pembentuk lumpur. Hal ini dapat dijelaskan demikian:\n\n1.Muatan listrik elektrostatis yang ada di permukaan partikel (yang terjadi setelah kehadiran air) akan mengakibatkan terganggunya stabilitas. Partikel ini akan bergerak terus, sebelum ada stabilisator yang berupa partikel yang bermuatan listrik yang berlawanan. Di sini kita seharusnya bersyukur, tentang bagaimana Allah telah menciptakan semuanya dalam pasangan-pasangan, sehingga mendatangkan suasana yang stabil dan sentosa. Termasuk dalam hal ini adalah muatan listrik\n\n2.Pergerakan partikel tanah juga disebabkan karena adanya tabrakan dengan partikel air. Pergerakan partikel air yang tidak teratur menyebabkan partikel tanah bergerak ke semua arah. Gerakan yang demikian ini ditemukan oleh seorang ahli tumbuhan bernama Robert Brown pada tahun 1828. Pergerakannya sangat tergantung pada kecepatan dan jumlah partikel air. Dengan demikian, pergerakan yang terjadi adalah interaksi langsung antara partikel tanah dan partikel air.\n\nKedua: Mengembangnya tanah. Apa yang dimaksud dengan mengembangnya tanah adalah mengembangnya partikel tanah. Partikel tanah akan bertambah tebal. Dengan demikian, tanah akan mengembang, sejalan dengan mengembangnya partikel tanah. Telah dikemukakan sebelumnya bahwa partikel tanah terdiri atas lapisan-lapisan yang berhubungan satu sama lain. Antara lapisan satu dan lainnya terdapat pori-pori. Ke dalam pori-pori inilah air dan ion-ion yang terlarut akan masuk. Dengan bentuk pori-pori yang sangat sempit dan adanya medan elektrostatis di permukaan lapisan, maka air seperti di taruh dalam botol, dan tidak mengalir ke luar. Dengan kata lain, air akan disimpan di pori-pori di setiap lapisan.\n\nKetiga: Tahap Perkecambahan. Tahap perkecambahan biji terjadi saat air sudah tersedia. Saat air sudah pada tahap cukup, maka embrio yang ada di dalam biji akan menjadi aktif dan menyerap matrial nutrisi yang sederhana (material nutrisi kompleks dipecah menjadi sederhana dengan bantuan enzim). Pada tahap ini, bakal akar tumbuh ke bawah, bergerak di antara partikel tanah untuk mencari kawasan yang memenuhi syarat dan memperoleh nutrisi yang diperlukannya. Kemudian bakal daun akan berkembang ke atas, menembus permukaan tanah, dan mengarahkan pada sumber sinar matahari.\n\nJadi, secara singkat, tahapan-tahapan di atas dapat dijelaskan demikian. Kata \"bergerak\" jelas mengindikasikan efek dari air terhadap partikel tanah. Efek ini dapat terjadi sebagai akibat adanya muatan listrik elektrostatis atau benturan langsung antara partikel-partikel air dan tanah. Sedangkan kata \"membengkak\" mengacu pada menebalnya partikel tanah karena terperangkapnya air di antara lapisan-lapisan pembentuk partikel tanah. Dengan demikian, partikel tanah berfungsi sebagai reservoar air, tempat menyimpan air. Ini sesuai dengan ayat berikut: \n\nDan Kami turunkan air dari langit dengan suatu ukuran; lalu Kami jadikan air itu menetap di bumi, dan pasti Kami berkuasa melenyapkannya. (al-Mu'minun/23: 18)\n\nKemudian bakal akar, dan disusul bakal daun, mulai tumbuh. Anak pohon akan muncul, terus tumbuh dan memberikan hasil untuk keperluan manusia. Apakah manusia masih tidak bersyukur?\n\nMaka perhatikanlah bekas-bekas rahmat Allah, bagaimana Allah menghidupkan bumi setelah mati (kering). Sungguh, itu berarti Dia pasti (berkuasa) menghidupkan yang telah mati. Dan Dia Mahakuasa atas segala sesuatu. (ar-Rum/30: 50)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5787,
+                    "inSurah": 29
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَزَيْتُونًا وَنَخْلًا",
+                    "transliteration": {
+                        "en": "Wa zaitoonaw wanakh la'"
+                    }
+                },
+                "translation": {
+                    "en": "And olive and palm trees",
+                    "id": "dan zaitun dan pohon kurma,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5787",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5787.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5787.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan demikian pula zaitun dan pohon kurma yang sangat bermanfaat bagi kesehatan.",
+                        "long": "Dalam ayat ini dan selanjutnya Allah menyebutkan beberapa macam tumbuh-tumbuhan: pertama, Allah menumbuhkan di bumi biji-bijian seperti gandum, padi, dan lain-lainnya yang menjadi makanan pokok.\n\nKedua dan ketiga, Allah menumbuhkan pula buah anggur dan bermacam sayuran yang dapat dimakan secara langsung.\n\nKeempat dan kelima, buah zaitun dan pohon kurma.\n\nKeenam, kebun-kebun yang besar, tinggi, dan lebat buahnya. Tidak hanya buahnya yang dapat dimanfaatkan, tetapi pohonnya pun dapat dijadikan bahan bangunan dan alat-alat perumahan.\n\nKetujuh, bermacam-macam buah-buahan yang lain, seperti buah pir, apel, mangga, dan sebagainya.\n\nKedelapan, berbagai macam rumput-rumputan.\n\nAir yang turun dari langit dan perannya dalam \"menghidupkan tanah yang mati\" secara jelas diuraikan pada Surah al-Furqan/25: 48-49. Apa kandungan dari air hujan sehingga dapat digunakan untuk tumbuhnya tumbuhan ada pada Surah Qaf/50: 9. \n\nSedangkan uraian bagaimana bumi \"terbelah\", di samping ayat di atas, juga terdapat pada Surah Fussilat/41: 39, sebagaimana pada penggalannya: \"Dan di antara ayat-ayat-Nya adalah engkau melihat bumi kering tandus maka apabila telah Kami turunkan air di atasnya, niscaya ia bergerak dan mengembang.\"\n\nAyat tersebut menerangkan apa yang akan terjadi pada tanah yang kering apabila butiran hujan jatuh di atasnya. Ayat tersebut juga menjelaskan adanya tiga tahap bagaimana perkembangan tumbuhan sampai dengan menghasilkan buah.\n\nTingkat-tingkat perkembangan tumbuhan yang dijelaskan oleh ayat di atas adalah demikian:\n\nPertama: Bergeraknya tanah. Apa yang dimaksud dengan bergeraknya tanah adalah gerakan partikel tanah. Partikel ini terdiri dari lapisan-lapisan yang terdiri atas bahan silika dan alumina. Ketika air masuk ke lapisan-lapisan partikel, maka akan terjadi pembengkakan dari partikel-partikel pembentuk lumpur. Hal ini dapat dijelaskan demikian:\n\n1.Muatan listrik elektrostatis yang ada di permukaan partikel (yang terjadi setelah kehadiran air) akan mengakibatkan terganggunya stabilitas. Partikel ini akan bergerak terus, sebelum ada stabilisator yang berupa partikel yang bermuatan listrik yang berlawanan. Di sini kita seharusnya bersyukur, tentang bagaimana Allah telah menciptakan semuanya dalam pasangan-pasangan, sehingga mendatangkan suasana yang stabil dan sentosa. Termasuk dalam hal ini adalah muatan listrik\n\n2.Pergerakan partikel tanah juga disebabkan karena adanya tabrakan dengan partikel air. Pergerakan partikel air yang tidak teratur menyebabkan partikel tanah bergerak ke semua arah. Gerakan yang demikian ini ditemukan oleh seorang ahli tumbuhan bernama Robert Brown pada tahun 1828. Pergerakannya sangat tergantung pada kecepatan dan jumlah partikel air. Dengan demikian, pergerakan yang terjadi adalah interaksi langsung antara partikel tanah dan partikel air.\n\nKedua: Mengembangnya tanah. Apa yang dimaksud dengan mengembangnya tanah adalah mengembangnya partikel tanah. Partikel tanah akan bertambah tebal. Dengan demikian, tanah akan mengembang, sejalan dengan mengembangnya partikel tanah. Telah dikemukakan sebelumnya bahwa partikel tanah terdiri atas lapisan-lapisan yang berhubungan satu sama lain. Antara lapisan satu dan lainnya terdapat pori-pori. Ke dalam pori-pori inilah air dan ion-ion yang terlarut akan masuk. Dengan bentuk pori-pori yang sangat sempit dan adanya medan elektrostatis di permukaan lapisan, maka air seperti di taruh dalam botol, dan tidak mengalir ke luar. Dengan kata lain, air akan disimpan di pori-pori di setiap lapisan.\n\nKetiga: Tahap Perkecambahan. Tahap perkecambahan biji terjadi saat air sudah tersedia. Saat air sudah pada tahap cukup, maka embrio yang ada di dalam biji akan menjadi aktif dan menyerap matrial nutrisi yang sederhana (material nutrisi kompleks dipecah menjadi sederhana dengan bantuan enzim). Pada tahap ini, bakal akar tumbuh ke bawah, bergerak di antara partikel tanah untuk mencari kawasan yang memenuhi syarat dan memperoleh nutrisi yang diperlukannya. Kemudian bakal daun akan berkembang ke atas, menembus permukaan tanah, dan mengarahkan pada sumber sinar matahari.\n\nJadi, secara singkat, tahapan-tahapan di atas dapat dijelaskan demikian. Kata \"bergerak\" jelas mengindikasikan efek dari air terhadap partikel tanah. Efek ini dapat terjadi sebagai akibat adanya muatan listrik elektrostatis atau benturan langsung antara partikel-partikel air dan tanah. Sedangkan kata \"membengkak\" mengacu pada menebalnya partikel tanah karena terperangkapnya air di antara lapisan-lapisan pembentuk partikel tanah. Dengan demikian, partikel tanah berfungsi sebagai reservoar air, tempat menyimpan air. Ini sesuai dengan ayat berikut: \n\nDan Kami turunkan air dari langit dengan suatu ukuran; lalu Kami jadikan air itu menetap di bumi, dan pasti Kami berkuasa melenyapkannya. (al-Mu'minun/23: 18)\n\nKemudian bakal akar, dan disusul bakal daun, mulai tumbuh. Anak pohon akan muncul, terus tumbuh dan memberikan hasil untuk keperluan manusia. Apakah manusia masih tidak bersyukur?\n\nMaka perhatikanlah bekas-bekas rahmat Allah, bagaimana Allah menghidupkan bumi setelah mati (kering). Sungguh, itu berarti Dia pasti (berkuasa) menghidupkan yang telah mati. Dan Dia Mahakuasa atas segala sesuatu. (ar-Rum/30: 50)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5788,
+                    "inSurah": 30
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَحَدَائِقَ غُلْبًا",
+                    "transliteration": {
+                        "en": "Wa hadaa-iqa ghulba"
+                    }
+                },
+                "translation": {
+                    "en": "And gardens of dense shrubbery",
+                    "id": "dan kebun-kebun (yang) rindang,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5788",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5788.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5788.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Kami tumbuhkan juga dengan air hujan itu kebun-kebun yang rindang dan menyejukkan pandangan, menjadi tempat tinggal ber-bagai binatang, dan memproduksi oksigen.",
+                        "long": "Dalam ayat ini dan selanjutnya Allah menyebutkan beberapa macam tumbuh-tumbuhan: pertama, Allah menumbuhkan di bumi biji-bijian seperti gandum, padi, dan lain-lainnya yang menjadi makanan pokok.\n\nKedua dan ketiga, Allah menumbuhkan pula buah anggur dan bermacam sayuran yang dapat dimakan secara langsung.\n\nKeempat dan kelima, buah zaitun dan pohon kurma.\n\nKeenam, kebun-kebun yang besar, tinggi, dan lebat buahnya. Tidak hanya buahnya yang dapat dimanfaatkan, tetapi pohonnya pun dapat dijadikan bahan bangunan dan alat-alat perumahan.\n\nKetujuh, bermacam-macam buah-buahan yang lain, seperti buah pir, apel, mangga, dan sebagainya.\n\nKedelapan, berbagai macam rumput-rumputan.\n\nAir yang turun dari langit dan perannya dalam \"menghidupkan tanah yang mati\" secara jelas diuraikan pada Surah al-Furqan/25: 48-49. Apa kandungan dari air hujan sehingga dapat digunakan untuk tumbuhnya tumbuhan ada pada Surah Qaf/50: 9. \n\nSedangkan uraian bagaimana bumi \"terbelah\", di samping ayat di atas, juga terdapat pada Surah Fussilat/41: 39, sebagaimana pada penggalannya: \"Dan di antara ayat-ayat-Nya adalah engkau melihat bumi kering tandus maka apabila telah Kami turunkan air di atasnya, niscaya ia bergerak dan mengembang.\"\n\nAyat tersebut menerangkan apa yang akan terjadi pada tanah yang kering apabila butiran hujan jatuh di atasnya. Ayat tersebut juga menjelaskan adanya tiga tahap bagaimana perkembangan tumbuhan sampai dengan menghasilkan buah.\n\nTingkat-tingkat perkembangan tumbuhan yang dijelaskan oleh ayat di atas adalah demikian:\n\nPertama: Bergeraknya tanah. Apa yang dimaksud dengan bergeraknya tanah adalah gerakan partikel tanah. Partikel ini terdiri dari lapisan-lapisan yang terdiri atas bahan silika dan alumina. Ketika air masuk ke lapisan-lapisan partikel, maka akan terjadi pembengkakan dari partikel-partikel pembentuk lumpur. Hal ini dapat dijelaskan demikian:\n\n1.Muatan listrik elektrostatis yang ada di permukaan partikel (yang terjadi setelah kehadiran air) akan mengakibatkan terganggunya stabilitas. Partikel ini akan bergerak terus, sebelum ada stabilisator yang berupa partikel yang bermuatan listrik yang berlawanan. Di sini kita seharusnya bersyukur, tentang bagaimana Allah telah menciptakan semuanya dalam pasangan-pasangan, sehingga mendatangkan suasana yang stabil dan sentosa. Termasuk dalam hal ini adalah muatan listrik\n\n2.Pergerakan partikel tanah juga disebabkan karena adanya tabrakan dengan partikel air. Pergerakan partikel air yang tidak teratur menyebabkan partikel tanah bergerak ke semua arah. Gerakan yang demikian ini ditemukan oleh seorang ahli tumbuhan bernama Robert Brown pada tahun 1828. Pergerakannya sangat tergantung pada kecepatan dan jumlah partikel air. Dengan demikian, pergerakan yang terjadi adalah interaksi langsung antara partikel tanah dan partikel air.\n\nKedua: Mengembangnya tanah. Apa yang dimaksud dengan mengembangnya tanah adalah mengembangnya partikel tanah. Partikel tanah akan bertambah tebal. Dengan demikian, tanah akan mengembang, sejalan dengan mengembangnya partikel tanah. Telah dikemukakan sebelumnya bahwa partikel tanah terdiri atas lapisan-lapisan yang berhubungan satu sama lain. Antara lapisan satu dan lainnya terdapat pori-pori. Ke dalam pori-pori inilah air dan ion-ion yang terlarut akan masuk. Dengan bentuk pori-pori yang sangat sempit dan adanya medan elektrostatis di permukaan lapisan, maka air seperti di taruh dalam botol, dan tidak mengalir ke luar. Dengan kata lain, air akan disimpan di pori-pori di setiap lapisan.\n\nKetiga: Tahap Perkecambahan. Tahap perkecambahan biji terjadi saat air sudah tersedia. Saat air sudah pada tahap cukup, maka embrio yang ada di dalam biji akan menjadi aktif dan menyerap matrial nutrisi yang sederhana (material nutrisi kompleks dipecah menjadi sederhana dengan bantuan enzim). Pada tahap ini, bakal akar tumbuh ke bawah, bergerak di antara partikel tanah untuk mencari kawasan yang memenuhi syarat dan memperoleh nutrisi yang diperlukannya. Kemudian bakal daun akan berkembang ke atas, menembus permukaan tanah, dan mengarahkan pada sumber sinar matahari.\n\nJadi, secara singkat, tahapan-tahapan di atas dapat dijelaskan demikian. Kata \"bergerak\" jelas mengindikasikan efek dari air terhadap partikel tanah. Efek ini dapat terjadi sebagai akibat adanya muatan listrik elektrostatis atau benturan langsung antara partikel-partikel air dan tanah. Sedangkan kata \"membengkak\" mengacu pada menebalnya partikel tanah karena terperangkapnya air di antara lapisan-lapisan pembentuk partikel tanah. Dengan demikian, partikel tanah berfungsi sebagai reservoar air, tempat menyimpan air. Ini sesuai dengan ayat berikut: \n\nDan Kami turunkan air dari langit dengan suatu ukuran; lalu Kami jadikan air itu menetap di bumi, dan pasti Kami berkuasa melenyapkannya. (al-Mu'minun/23: 18)\n\nKemudian bakal akar, dan disusul bakal daun, mulai tumbuh. Anak pohon akan muncul, terus tumbuh dan memberikan hasil untuk keperluan manusia. Apakah manusia masih tidak bersyukur?\n\nMaka perhatikanlah bekas-bekas rahmat Allah, bagaimana Allah menghidupkan bumi setelah mati (kering). Sungguh, itu berarti Dia pasti (berkuasa) menghidupkan yang telah mati. Dan Dia Mahakuasa atas segala sesuatu. (ar-Rum/30: 50)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5789,
+                    "inSurah": 31
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَفَاكِهَةً وَأَبًّا",
+                    "transliteration": {
+                        "en": "Wa faki hataw-wa abba."
+                    }
+                },
+                "translation": {
+                    "en": "And fruit and grass -",
+                    "id": "dan buah-buahan serta rerumputan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5789",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5789.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5789.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan dengan air hujan itu pula Kami tumbuhkan pohon penghasil buah-buahan yang beraneka warna serta rerumputan.",
+                        "long": "Dalam ayat ini dan selanjutnya Allah menyebutkan beberapa macam tumbuh-tumbuhan: pertama, Allah menumbuhkan di bumi biji-bijian seperti gandum, padi, dan lain-lainnya yang menjadi makanan pokok.\n\nKedua dan ketiga, Allah menumbuhkan pula buah anggur dan bermacam sayuran yang dapat dimakan secara langsung.\n\nKeempat dan kelima, buah zaitun dan pohon kurma.\n\nKeenam, kebun-kebun yang besar, tinggi, dan lebat buahnya. Tidak hanya buahnya yang dapat dimanfaatkan, tetapi pohonnya pun dapat dijadikan bahan bangunan dan alat-alat perumahan.\n\nKetujuh, bermacam-macam buah-buahan yang lain, seperti buah pir, apel, mangga, dan sebagainya.\n\nKedelapan, berbagai macam rumput-rumputan.\n\nAir yang turun dari langit dan perannya dalam \"menghidupkan tanah yang mati\" secara jelas diuraikan pada Surah al-Furqan/25: 48-49. Apa kandungan dari air hujan sehingga dapat digunakan untuk tumbuhnya tumbuhan ada pada Surah Qaf/50: 9. \n\nSedangkan uraian bagaimana bumi \"terbelah\", di samping ayat di atas, juga terdapat pada Surah Fussilat/41: 39, sebagaimana pada penggalannya: \"Dan di antara ayat-ayat-Nya adalah engkau melihat bumi kering tandus maka apabila telah Kami turunkan air di atasnya, niscaya ia bergerak dan mengembang.\"\n\nAyat tersebut menerangkan apa yang akan terjadi pada tanah yang kering apabila butiran hujan jatuh di atasnya. Ayat tersebut juga menjelaskan adanya tiga tahap bagaimana perkembangan tumbuhan sampai dengan menghasilkan buah.\n\nTingkat-tingkat perkembangan tumbuhan yang dijelaskan oleh ayat di atas adalah demikian:\n\nPertama: Bergeraknya tanah. Apa yang dimaksud dengan bergeraknya tanah adalah gerakan partikel tanah. Partikel ini terdiri dari lapisan-lapisan yang terdiri atas bahan silika dan alumina. Ketika air masuk ke lapisan-lapisan partikel, maka akan terjadi pembengkakan dari partikel-partikel pembentuk lumpur. Hal ini dapat dijelaskan demikian:\n\n1.Muatan listrik elektrostatis yang ada di permukaan partikel (yang terjadi setelah kehadiran air) akan mengakibatkan terganggunya stabilitas. Partikel ini akan bergerak terus, sebelum ada stabilisator yang berupa partikel yang bermuatan listrik yang berlawanan. Di sini kita seharusnya bersyukur, tentang bagaimana Allah telah menciptakan semuanya dalam pasangan-pasangan, sehingga mendatangkan suasana yang stabil dan sentosa. Termasuk dalam hal ini adalah muatan listrik\n\n2.Pergerakan partikel tanah juga disebabkan karena adanya tabrakan dengan partikel air. Pergerakan partikel air yang tidak teratur menyebabkan partikel tanah bergerak ke semua arah. Gerakan yang demikian ini ditemukan oleh seorang ahli tumbuhan bernama Robert Brown pada tahun 1828. Pergerakannya sangat tergantung pada kecepatan dan jumlah partikel air. Dengan demikian, pergerakan yang terjadi adalah interaksi langsung antara partikel tanah dan partikel air.\n\nKedua: Mengembangnya tanah. Apa yang dimaksud dengan mengembangnya tanah adalah mengembangnya partikel tanah. Partikel tanah akan bertambah tebal. Dengan demikian, tanah akan mengembang, sejalan dengan mengembangnya partikel tanah. Telah dikemukakan sebelumnya bahwa partikel tanah terdiri atas lapisan-lapisan yang berhubungan satu sama lain. Antara lapisan satu dan lainnya terdapat pori-pori. Ke dalam pori-pori inilah air dan ion-ion yang terlarut akan masuk. Dengan bentuk pori-pori yang sangat sempit dan adanya medan elektrostatis di permukaan lapisan, maka air seperti di taruh dalam botol, dan tidak mengalir ke luar. Dengan kata lain, air akan disimpan di pori-pori di setiap lapisan.\n\nKetiga: Tahap Perkecambahan. Tahap perkecambahan biji terjadi saat air sudah tersedia. Saat air sudah pada tahap cukup, maka embrio yang ada di dalam biji akan menjadi aktif dan menyerap matrial nutrisi yang sederhana (material nutrisi kompleks dipecah menjadi sederhana dengan bantuan enzim). Pada tahap ini, bakal akar tumbuh ke bawah, bergerak di antara partikel tanah untuk mencari kawasan yang memenuhi syarat dan memperoleh nutrisi yang diperlukannya. Kemudian bakal daun akan berkembang ke atas, menembus permukaan tanah, dan mengarahkan pada sumber sinar matahari.\n\nJadi, secara singkat, tahapan-tahapan di atas dapat dijelaskan demikian. Kata \"bergerak\" jelas mengindikasikan efek dari air terhadap partikel tanah. Efek ini dapat terjadi sebagai akibat adanya muatan listrik elektrostatis atau benturan langsung antara partikel-partikel air dan tanah. Sedangkan kata \"membengkak\" mengacu pada menebalnya partikel tanah karena terperangkapnya air di antara lapisan-lapisan pembentuk partikel tanah. Dengan demikian, partikel tanah berfungsi sebagai reservoar air, tempat menyimpan air. Ini sesuai dengan ayat berikut: \n\nDan Kami turunkan air dari langit dengan suatu ukuran; lalu Kami jadikan air itu menetap di bumi, dan pasti Kami berkuasa melenyapkannya. (al-Mu'minun/23: 18)\n\nKemudian bakal akar, dan disusul bakal daun, mulai tumbuh. Anak pohon akan muncul, terus tumbuh dan memberikan hasil untuk keperluan manusia. Apakah manusia masih tidak bersyukur?\n\nMaka perhatikanlah bekas-bekas rahmat Allah, bagaimana Allah menghidupkan bumi setelah mati (kering). Sungguh, itu berarti Dia pasti (berkuasa) menghidupkan yang telah mati. Dan Dia Mahakuasa atas segala sesuatu. (ar-Rum/30: 50)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5790,
+                    "inSurah": 32
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مَّتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ",
+                    "transliteration": {
+                        "en": "Mata'al-lakum wa li-an'amikum."
+                    }
+                },
+                "translation": {
+                    "en": "[As] enjoyment for you and your grazing livestock.",
+                    "id": "(Semua itu) untuk kesenanganmu dan untuk hewan-hewan ternakmu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5790",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5790.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5790.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kami tumbuhkan itu semua untuk kesenanganmu agar hidupmu makmur dan sejahtera, dan untuk kesenangan hewan-hewan ternakmu. Dengan itu semua kamu hidup tenang dan tidak bersusah payah. Kamu hanya perlu emanfaatkannya, menjaga kelestariannya, dan mengimani Penciptanya sebagai bentuk rasa syukurmu kepada-Nya.",
+                        "long": "Semua itu merupakan harta benda untuk kesenangan hidup manusia, dan merupakan makanan baginya dan bagi ternaknya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5791,
+                    "inSurah": 33
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِذَا جَاءَتِ الصَّاخَّةُ",
+                    "transliteration": {
+                        "en": "Faiza jaa-atis saakhah."
+                    }
+                },
+                "translation": {
+                    "en": "But when there comes the Deafening Blast",
+                    "id": "Maka apabila datang suara yang memekakkan (tiupan sangkakala yang kedua),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5791",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5791.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5791.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kenikmatan-kenikmatan itu kelak akan diminta pertanggungjawabannya pada hari kiamat. Maka apabila datang suara tiupan sangkakala kedua yang memekakkan telinga dan menjadi penanda bangkitnya manusia dari kubur,",
+                        "long": "Dalam ayat ini dijelaskan apabila datang hari Kiamat, ketika terdengar suara yang sangat dahsyat yang memekakkan telinga, yaitu tiupan Malaikat Israfil yang kedua kalinya, maka pada hari tersebut terasa kesedihan dan penyesalan bagi seluruh orang-orang yang kafir. Dalam ayat berikutnya diperinci kedahsyatan hari Kiamat itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5792,
+                    "inSurah": 34
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ",
+                    "transliteration": {
+                        "en": "Yauma yafir-rul mar-u min akheeh"
+                    }
+                },
+                "translation": {
+                    "en": "On the Day a man will flee from his brother",
+                    "id": "pada hari itu manusia lari dari saudaranya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5792",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5792.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5792.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "yaitu pada hari itu manusia lari dari orang yang dicintainya, seperti saudaranya,",
+                        "long": "Pada ayat-ayat ini diterangkan bahwa pada hari Kiamat, manusia lari dari saudara, ibu, dan bapaknya, bahkan dari istri dan anak-anaknya. Hal itu disebabkan seluruh pikiran hanya tertuju pada penyelamatan diri dari bencana yang sangat menakutkan, sehingga lupa pada orang tua, saudara, istri, dan anak-anak. Firman Allah:\n\nWahai manusia! Bertakwalah kepada Tuhanmu dan takutlah pada hari yang (ketika itu) seorang bapak tidak dapat menolong anaknya, dan seorang anak tidak dapat (pula) menolong bapaknya sedikit pun. Sungguh, janji Allah pasti benar, maka janganlah sekali-kali kamu terpedaya oleh kehidupan dunia, dan jangan sampai kamu terpedaya oleh penipu dalam (menaati) Allah. (Luqman/31: 33)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5793,
+                    "inSurah": 35
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأُمِّهِ وَأَبِيهِ",
+                    "transliteration": {
+                        "en": "Wa ummihee wa abeeh"
+                    }
+                },
+                "translation": {
+                    "en": "And his mother and his father",
+                    "id": "dan dari ibu dan bapaknya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5793",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5793.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5793.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan dari ibu dan bapaknya yang melindungi dan mengayominya,",
+                        "long": "Pada ayat-ayat ini diterangkan bahwa pada hari Kiamat, manusia lari dari saudara, ibu, dan bapaknya, bahkan dari istri dan anak-anaknya. Hal itu disebabkan seluruh pikiran hanya tertuju pada penyelamatan diri dari bencana yang sangat menakutkan, sehingga lupa pada orang tua, saudara, istri, dan anak-anak. Firman Allah:\n\nWahai manusia! Bertakwalah kepada Tuhanmu dan takutlah pada hari yang (ketika itu) seorang bapak tidak dapat menolong anaknya, dan seorang anak tidak dapat (pula) menolong bapaknya sedikit pun. Sungguh, janji Allah pasti benar, maka janganlah sekali-kali kamu terpedaya oleh kehidupan dunia, dan jangan sampai kamu terpedaya oleh penipu dalam (menaati) Allah. (Luqman/31: 33)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5794,
+                    "inSurah": 36
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَصَاحِبَتِهِ وَبَنِيهِ",
+                    "transliteration": {
+                        "en": "Wa sahi batihee wa baneeh."
+                    }
+                },
+                "translation": {
+                    "en": "And his wife and his children,",
+                    "id": "dan dari istri dan anak-anaknya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5794",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5794.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5794.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan dari istri dan anak-anaknya yang selalu bersamanya,",
+                        "long": "Pada ayat-ayat ini diterangkan bahwa pada hari Kiamat, manusia lari dari saudara, ibu, dan bapaknya, bahkan dari istri dan anak-anaknya. Hal itu disebabkan seluruh pikiran hanya tertuju pada penyelamatan diri dari bencana yang sangat menakutkan, sehingga lupa pada orang tua, saudara, istri, dan anak-anak. Firman Allah:\n\nWahai manusia! Bertakwalah kepada Tuhanmu dan takutlah pada hari yang (ketika itu) seorang bapak tidak dapat menolong anaknya, dan seorang anak tidak dapat (pula) menolong bapaknya sedikit pun. Sungguh, janji Allah pasti benar, maka janganlah sekali-kali kamu terpedaya oleh kehidupan dunia, dan jangan sampai kamu terpedaya oleh penipu dalam (menaati) Allah. (Luqman/31: 33)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5795,
+                    "inSurah": 37
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+                    "transliteration": {
+                        "en": "Likul limri-im-minuhm yaumaa-izin shaa nuy-yughneeh"
+                    }
+                },
+                "translation": {
+                    "en": "For every man, that Day, will be a matter adequate for him.",
+                    "id": "Setiap orang dari mereka pada hari itu mempunyai urusan yang menyibukkannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5795",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5795.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5795.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "maka setiap orang dari mereka pada hari itu mempunyai urusan yang menyibukkannya. Semua ingin menyelamatkan diri sendiri tanpa menghiraukan orang lain. Mereka takut dan cemas atas apa yang terjadi di hadapan mereka dan khawatir akan nasib mereka.",
+                        "long": "Setiap manusia pada hari Kiamat yang dahsyat itu mempunyai urusan masing-masing yang cukup menyibukkannya sehingga tidak sempat memperhatikan orang lain. Ketika masih di dunia, mereka saling memberikan pertolongan sampai menebus dengan harta bilamana diperlukan, apalagi jika bersangkutan dengan keselamatan anak-anaknya sendiri yang akan meneruskan generasinya yang akan datang atau mengenai kehormatan istrinya, orang yang paling dekat dan paling setia kepadanya.\n\nAkan tetapi pada hari akhirat nanti, tidak ada kesempatan lagi untuk memperhatikan anggota-anggota keluarganya itu karena kedahsyatan pada hari Kiamat yang sangat menyibukkan itu.\n\nPada hari itu manusia terbagi dua golongan: yang bahagia dan yang celaka, dan terhadap golongan yang pertama dinyatakan dalam ayat berikut ini."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5796,
+                    "inSurah": 38
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ",
+                    "transliteration": {
+                        "en": "Wujoo huny-yauma-izim-musfira;"
+                    }
+                },
+                "translation": {
+                    "en": "[Some] faces, that Day, will be bright -",
+                    "id": "Pada hari itu ada wajah-wajah yang berseri-seri,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5796",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5796.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5796.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada hari itu ada wajah-wajah yang berseri-seri. Itulah muka orang-orang yang pada saat di dunia beriman dan beramal saleh.",
+                        "long": "Banyak muka orang-orang mukmin pada hari itu berseri-seri dengan penuh kegembiraan karena mereka dapat menyaksikan sendiri apa yang dijanjikan oleh Allah kepada orang-orang yang beriman ternyata semuanya dapat terlaksana dengan penuh kebahagiaan. Mereka tertawa dan bergembira."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5797,
+                    "inSurah": 39
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ",
+                    "transliteration": {
+                        "en": "Dahi katum mustab shirah"
+                    }
+                },
+                "translation": {
+                    "en": "Laughing, rejoicing at good news.",
+                    "id": "tertawa dan gembira ria,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5797",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5797.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5797.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka tertawa dan bergembira ria bersama kaum mukmin yang lain. Mereka tidak takut dan khawatir akan nasib mereka karena yakin Allah akan memberi balasan dengan sebaik-baiknya.",
+                        "long": "Banyak muka orang-orang mukmin pada hari itu berseri-seri dengan penuh kegembiraan karena mereka dapat menyaksikan sendiri apa yang dijanjikan oleh Allah kepada orang-orang yang beriman ternyata semuanya dapat terlaksana dengan penuh kebahagiaan. Mereka tertawa dan bergembira."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5798,
+                    "inSurah": 40
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+                    "transliteration": {
+                        "en": "Wa wujoohuy yauma-izin 'alaiha ghabar a"
+                    }
+                },
+                "translation": {
+                    "en": "And [other] faces, that Day, will have upon them dust.",
+                    "id": "dan pada hari itu ada (pula) wajah-wajah yang tertutup debu (suram),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5798",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5798.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5798.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan di sisi yang lain pada hari itu ada pula wajah-wajah manusia yang tertutup debu,",
+                        "long": "Sebaliknya terhadap golongan kedua dinyatakan bahwa banyak pula muka orang-orang kafir pada hari itu tertutup debu penuh dengan sesal dan kesedihan. Mereka itu ditutup lagi oleh kegelapan karena ditimpa oleh kehinaan dan kesusahan. Mereka itulah orang-orang kafir yang amat durhaka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5799,
+                    "inSurah": 41
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "تَرْهَقُهَا قَتَرَةٌ",
+                    "transliteration": {
+                        "en": "Tarhaquha qatarah."
+                    }
+                },
+                "translation": {
+                    "en": "Blackness will cover them.",
+                    "id": "tertutup oleh kegelapan (ditimpa kehinaan dan kesusahan)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5799",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5799.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5799.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "pucat pasi, menghitam, dipenuhi kecemasan serta ketakutan yang sangat, tertutup oleh kegelapan akibat ditimpa kehinaan dan kesusahan.",
+                        "long": "Sebaliknya terhadap golongan kedua dinyatakan bahwa banyak pula muka orang-orang kafir pada hari itu tertutup debu penuh dengan sesal dan kesedihan. Mereka itu ditutup lagi oleh kegelapan karena ditimpa oleh kehinaan dan kesusahan. Mereka itulah orang-orang kafir yang amat durhaka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5800,
+                    "inSurah": 42
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 585,
+                    "manzil": 7,
+                    "ruku": 522,
+                    "hizbQuarter": 234,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+                    "transliteration": {
+                        "en": "Ulaa-ika humul-kafa ratul-fajarah."
+                    }
+                },
+                "translation": {
+                    "en": "Those are the disbelievers, the wicked ones.",
+                    "id": "Mereka itulah orang-orang kafir yang durhaka."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5800",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5800.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5800.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka itulah orang-orang kafir yang durhaka. Mereka tidak beriman, tidak bersyukur, dan tidak pula beribadah kepada-Nya, bahkan sering berbuat maksiat. Demikianlah kesudahan umat manusia di akhirat nanti.",
+                        "long": "Sebaliknya terhadap golongan kedua dinyatakan bahwa banyak pula muka orang-orang kafir pada hari itu tertutup debu penuh dengan sesal dan kesedihan. Mereka itu ditutup lagi oleh kegelapan karena ditimpa oleh kehinaan dan kesusahan. Mereka itulah orang-orang kafir yang amat durhaka."
+                    }
+                }
+            }
+        ]
+    }
+}
