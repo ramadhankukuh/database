@@ -44,13 +44,12 @@
 </div><br />
 <br />
 
-## Request
-Untuk request atau report bug bisa chat saya disini [`Whatsapp`](https://wa.me/qr/CTUJFCYWZHI6N1) Atau [`Telegram`](https://t.me/ramadhankukuh)
 
 ## Source Data
 
 * Gempa [`BMKG`](https://www.bmkg.go.id)
 * Kurs [`BI`](https://www.bi.go.id)
+* Hadits [`Tafsirq`](https://tafsirq.com)
 
 
 ## Thanks To
