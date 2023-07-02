@@ -49,6 +49,7 @@
 
 * Gempa [`BMKG`](https://www.bmkg.go.id)
 * Kurs [`BI`](https://www.bi.go.id)
+* Qur'an [`Kemenag`](https://quran.kemenag.go.id/)
 * Hadits [`Tafsirq`](https://tafsirq.com)
 
 
