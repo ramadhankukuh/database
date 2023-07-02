@@ -12,11 +12,17 @@
 
 <br />
 
+## Information
 |            Feature                 |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
 |       Info Gempa (Terkini)         | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/meteorologi-klimatologi-geofisika/gempa/gempa_terkini.json)  |
 |       Info Gempa (Dirasakan)       | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/meteorologi-klimatologi-geofisika/gempa/gempa_dirasakan.json)  |
 |       Info Kurs Mata Uang          | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/ekonomi/kurs.json)  |
+
+## Religi
+[`Qur'an`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/religi/quran.json)  |
+
+
 |       PP Couple                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/lainnya/ppcouple.json)  |   
 |       Asah Otak                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/games/asahotak.json)  |   
 |       Cak Lontong                  | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/games/caklontong.json)  |   
