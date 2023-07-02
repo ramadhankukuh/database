@@ -17,14 +17,14 @@
 |       Info Gempa (Terkini)         | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/meteorologi-klimatologi-geofisika/gempa/gempa_terkini.json)  |
 |       Info Gempa (Dirasakan)       | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/meteorologi-klimatologi-geofisika/gempa/gempa_dirasakan.json)  |
 |       Info Kurs Mata Uang          | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/ekonomi/kurs.json)  |
-
+<br /><br />
 |            Religi                  |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
 |       Qur'an                       | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/religi/quran.json)  |
 |       Asmaul Husna                 | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/religi/asmaulhusna.json)  |
 |       Surah                        | [`Klik`](https://github.com/ramadhankukuh/database/tree/master/src/religi/surah)  |
 |       Hadits                       | [`Klik`](https://github.com/ramadhankukuh/database/tree/master/src/religi/hadits)  |
-
+<br /><br />
 |            Games                   |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
 |       PP Couple                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/lainnya/ppcouple.json)  |   
@@ -44,7 +44,7 @@
 |       Tebak Lirik                  | [`Klik`]()  |  
 |       Tebak Tebakan                | [`Klik`]()  |  
 |       Teka Teki                    | [`Klik`]()  |  
-
+<br /><br />
 |            Kata-Kata               |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
 |       Bucin                        | [`Klik`]()  |  
