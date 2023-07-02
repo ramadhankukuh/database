@@ -1,11 +1,7 @@
-<h1 align="center">Welcome<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
-<p align="center">Database Scraper</p>
+<h1 align="center">Database Scraper<br></h1>
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/73922679?v=4" width="150" height="150" border="0" alt="PFFP">
 
-<br> Gunakan Dengan Bijak!
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
+[![Javascript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
 
   <a href="https://instagram.com/ramadhankukuh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://youtube.com/c/KukuhRamadhann"><img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" />
