@@ -28,30 +28,30 @@
 |            Games                   |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
 |       PP Couple                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/lainnya/ppcouple.json)  |   
-|       Asah Otak                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/asahotak.json)  |   
-|       Cak Lontong                  | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/caklontong.json)  |   
-|       Family100                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/family100.json)  |   
-|       Siapa Kah Aku?               | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/siapakahaku.json)  |   
-|       Susun Kata                   | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/susunkata.json)  |   
-|       Tebak Bendera V1             | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/tebakbendera.json)  |   
-|       Tebak Bendera V2             | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/tebakbendera2.json)  |  
-|       Tebak Gambar                 | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/tebakgambar.json)  |  
-|       Tebak Kabupaten              | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/tebakkabupaten.json)  |  
-|       Tebak Kalimat                | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/tebakkalimat.json)  |  
-|       Tebak Kata                   | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/tebakkata.json)  |  
-|       Tebak Kimia                  | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/tebakkimia.json)  |  
-|       Tebak Lagu                   | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/tebaklagu.json)  |  
-|       Tebak Lirik                  | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/tebaklirik.json)  |  
-|       Tebak Tebakan                | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/tebaktebakan.json)  |  
-|       Teka Teki                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/tekateki.json)  |  
+|       Asah Otak                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/asahotak.json)  |   
+|       Cak Lontong                  | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/caklontong.json)  |   
+|       Family100                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/family100.json)  |   
+|       Siapa Kah Aku?               | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/siapakahaku.json)  |   
+|       Susun Kata                   | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/susunkata.json)  |   
+|       Tebak Bendera V1             | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/tebakbendera.json)  |   
+|       Tebak Bendera V2             | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/tebakbendera2.json)  |  
+|       Tebak Gambar                 | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/tebakgambar.json)  |  
+|       Tebak Kabupaten              | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/tebakkabupaten.json)  |  
+|       Tebak Kalimat                | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/tebakkalimat.json)  |  
+|       Tebak Kata                   | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/tebakkata.json)  |  
+|       Tebak Kimia                  | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/tebakkimia.json)  |  
+|       Tebak Lagu                   | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/tebaklagu.json)  |  
+|       Tebak Lirik                  | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/tebaklirik.json)  |  
+|       Tebak Tebakan                | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/tebaktebakan.json)  |  
+|       Teka Teki                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/games/tekateki.json)  |  
 
 |            Kata-Kata               |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
-|       Bucin                        | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/kata-kata/bucin.json)  |  
-|       Motivasi                     | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/kata-kata/motivasi.json)  |  
-|       Renungan                     | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/kata-kata/renungan.json)  |  
-|       Truth                        | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/kata-kata/truth.json)  |  
-|       Dare                         | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/kata-kata/dare.json)  |  
+|       Bucin                        | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/kata-kata/bucin.json)  |  
+|       Motivasi                     | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/kata-kata/motivasi.json)  |  
+|       Renungan                     | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/kata-kata/renungan.json)  |  
+|       Truth                        | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/kata-kata/truth.json)  |  
+|       Dare                         | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/kata-kata/dare.json)  |  
 
 </div><br />
 <br />
