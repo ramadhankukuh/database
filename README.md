@@ -16,7 +16,7 @@
 | :---------------------------------:| :---------------------------------------:|
 |       Info Gempa (Terkini)         | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/meteorologi-klimatologi-geofisika/gempa/gempa_terkini.json)  |
 |       Info Gempa (Dirasakan)       | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/meteorologi-klimatologi-geofisika/gempa/gempa_dirasakan.json)  |
-|       Info Kurs Mata Uang          | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/ekonomi/kurs.json)  |
+|       Info Kurs Mata Uang          | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/kurs.json)  |
 
 |            Religi                  |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
@@ -27,8 +27,8 @@
 
 |            Games                   |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
-|       PP Couple                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/lainnya/ppcouple.json)  |   
-|       Asah Otak                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/games/asahotak.json)  |   
+|       PP Couple                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/lainnya/ppcouple.json)  |   
+|       Asah Otak                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/src/games/asahotak.json)  |   
 |       Cak Lontong                  | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/games/caklontong.json)  |   
 |       Family100                    | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/games/family100.json)  |   
 |       Siapa Kah Aku?               | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/databse/master/games/siapakahaku.json)  |   
