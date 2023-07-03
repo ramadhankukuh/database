@@ -59,6 +59,7 @@
 * Kurs [`BI`](https://www.bi.go.id)
 * Qur'an [`Kemenag`](https://quran.kemenag.go.id/)
 * Hadits [`Tafsirq`](https://tafsirq.com)
+* Wirid [`Islam NU`](https://islam.nu.or.id/post/read/79315/susunan-bacaan-wirid-sesudah-shalat-lima-waktu)
 
 
 ## Thanks To
