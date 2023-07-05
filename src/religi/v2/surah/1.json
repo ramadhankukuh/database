@@ -25,6 +25,8 @@
                 "inSurah": 1
             },
             "arab": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+            "latin": "Bismillaahir Rahmaanir Rahiim"
+            "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
             "translation": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.",
             "audio": {
                 "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
@@ -64,6 +66,7 @@
                 "inSurah": 2
             },
             "arab": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
+            "latin": "Alhamdu lillaahi Rabbil 'aalamiin",
             "translation": "Segala puji bagi Allah, Tuhan seluruh alam,",
             "audio": {
                 "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3",
@@ -103,6 +106,7 @@
                 "inSurah": 3
             },
             "arab": "الرَّحْمٰنِ الرَّحِيْمِۙ",
+            "latin": "Ar-Rahmaanir-Rahiim",
             "translation": "Yang Maha Pengasih, Maha Penyayang,",
             "audio": {
                 "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3.mp3",
@@ -142,6 +146,7 @@
                 "inSurah": 4
             },
             "arab": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
+            "latin": "Maaliki Yawmid-Diin",
             "translation": "Pemilik hari pembalasan.",
             "audio": {
                 "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4.mp3",
@@ -181,6 +186,7 @@
                 "inSurah": 5
             },
             "arab": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
+            "latin": "Iyyaaka na'budu wa lyyaaka nasta'iin",
             "translation": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan.",
             "audio": {
                 "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5.mp3",
@@ -220,6 +226,7 @@
                 "inSurah": 6
             },
             "arab": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ",
+            "latin" "Ihdinas-Siraatal-Mustaqiim",
             "translation": "Tunjukilah kami jalan yang lurus,",
             "audio": {
                 "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6.mp3",
@@ -259,6 +266,7 @@
                 "inSurah": 7
             },
             "arab": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
+            "latin": "Siraatal-laziina an'amta 'alaihim ghayril-maghduubi 'alaihim wa lad-daaalliin",
             "translation": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
             "audio": {
                 "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/7.mp3",
