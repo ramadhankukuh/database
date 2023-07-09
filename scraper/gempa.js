@@ -14,13 +14,15 @@ const fs = require('fs')
     let magnitudo = $(data).eq(4).text().trim()
     let kedalaman = $(data).eq(5).text().trim()
     let wilayah = $(data).eq(6).text().trim()
+    let map = $(data).eq(7).find('img').attr('src')
     result.push({
       waktu,
       lintang,
       bujur,
       magnitudo,
       kedalaman,
-      wilayah
+      wilayah,
+      map
     })
   }
   await fs.writeFileSync('./src/information/gempa_terkini.json', JSON.stringify(result, null, 2))
