@@ -14,15 +14,13 @@ const fs = require('fs')
     let magnitudo = $(data).eq(4).text().trim()
     let kedalaman = $(data).eq(5).text().trim()
     let wilayah = $(data).eq(6).text().trim()
-    let map = $(data).eq(7).find('img').attr('src')
     result.push({
       waktu,
       lintang,
       bujur,
       magnitudo,
       kedalaman,
-      wilayah,
-      map
+      wilayah
     })
   }
   await fs.writeFileSync('./src/information/gempa_terkini.json', JSON.stringify(result, null, 2))
@@ -43,6 +41,12 @@ const fs = require('fs')
     let warning = []
     let warning_jumlah = $(data).eq(5).html().match(/<span ?class=\"label label-warning\">/g)
     for (let j = 0; j < warning_jumlah.length; j++) warning.push($(data).eq(5).find('span').eq(j).text().replace('\t', ' ').trim())
+
+    let mapResponse = await fetch('https://www.bmkg.go.id' + $(data).eq(6).find('a').attr('href'));
+    let mapHTML = await mapResponse.text();
+    let map$ = cheerio.load(mapHTML);
+    let mapUrl = map$('img.shakemap').attr('src');
+    
     result.push({
       waktu, 
       lintang, 
@@ -50,7 +54,8 @@ const fs = require('fs')
       magnitudo,
       kedalaman,
       wilayah,
-      warning: warning.slice(0, warning.indexOf(''))
+      warning: warning.slice(0, warning.indexOf('')),
+      map: mapUrl
     })
   }
   await fs.writeFileSync('./src/information/gempa_dirasakan.json', JSON.stringify(result, null, 2))
