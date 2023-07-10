@@ -41,11 +41,6 @@ const fs = require('fs')
     let warning = []
     let warning_jumlah = $(data).eq(5).html().match(/<span ?class=\"label label-warning\">/g)
     for (let j = 0; j < warning_jumlah.length; j++) warning.push($(data).eq(5).find('span').eq(j).text().replace('\t', ' ').trim())
-
-    let mapResponse = await fetch('https://www.bmkg.go.id' + $(data).eq(6).find('a').attr('href'));
-    let mapHTML = await mapResponse.text();
-    let map$ = cheerio.load(mapHTML);
-    let mapUrl = map$('img.shakemap').attr('src');
     
     result.push({
       waktu, 
@@ -54,8 +49,7 @@ const fs = require('fs')
       magnitudo,
       kedalaman,
       wilayah,
-      warning: warning.slice(0, warning.indexOf('')),
-      map: mapUrl
+      warning: warning.slice(0, warning.indexOf(''))
     })
   }
   await fs.writeFileSync('./src/information/gempa_dirasakan.json', JSON.stringify(result, null, 2))
