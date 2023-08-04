@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "04/08/2023 07:31:41 WIB",
+    "lintang": "6.32 LS",
+    "bujur": "113.14 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "636 Km",
+    "wilayah": "Pusat gempa berada di laut 83 km Timur Laut Bangkalan",
+    "warning": [
+      "II Karangkates",
+      "II Denpasar",
+      "II Kuta",
+      "II Pacitan"
+    ]
+  },
+  {
     "waktu": "04/08/2023 04:27:54 WIB",
     "lintang": "2.06 LU",
     "bujur": "98.91 BT",
@@ -241,17 +255,6 @@
       "II Ciamis",
       "II Banjar",
       "III Nganjuk"
-    ]
-  },
-  {
-    "waktu": "23/07/2023 03:27:35 WIB",
-    "lintang": "1.96 LS",
-    "bujur": "99.93 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 35 km TimurLaut Pulau Sipora",
-    "warning": [
-      "II-III Padang"
     ]
   }
 ]
