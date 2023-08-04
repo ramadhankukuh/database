@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/08/2023 04:27:54 WIB",
+    "lintang": "2.06 LU",
+    "bujur": "98.91 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Tapanuli Utara",
+    "warning": [
+      "III Sipoholon"
+    ]
+  },
+  {
     "waktu": "03/08/2023 18:21:59 WIB",
     "lintang": "3.44 LS",
     "bujur": "119.03 BT",
@@ -241,18 +252,6 @@
     "wilayah": "Pusat gempa berada di laut 35 km TimurLaut Pulau Sipora",
     "warning": [
       "II-III Padang"
-    ]
-  },
-  {
-    "waktu": "22/07/2023 13:20:24 WIB",
-    "lintang": "1.69 LS",
-    "bujur": "120.43 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km timur Doda",
-    "warning": [
-      "III Tentena",
-      "II - III Poso"
     ]
   }
 ]
