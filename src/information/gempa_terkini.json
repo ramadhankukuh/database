@@ -1,11 +1,19 @@
 [
   {
+    "waktu": "29-08-23 11:34:46 WIB",
+    "lintang": "-5.54",
+    "bujur": "130.04",
+    "magnitudo": "6.4",
+    "kedalaman": "209 Km",
+    "wilayah": "275 km BaratDaya SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
     "waktu": "29-08-23 02:55:32 WIB",
-    "lintang": "-4.38",
-    "bujur": "116.90",
-    "magnitudo": "7.4",
-    "kedalaman": "10 Km",
-    "wilayah": "180 km Tenggara TANAHBUMBU-KALSEL"
+    "lintang": "-6.94",
+    "bujur": "116.57",
+    "magnitudo": "7.1",
+    "kedalaman": "525 Km",
+    "wilayah": "163 km TimurLaut LOMBOKUTARA-NTB"
   },
   {
     "waktu": "29-08-23 00:59:16 WIB",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "80 km TimurLaut SANANA-MALUT"
-  },
-  {
-    "waktu": "17-07-23 11:42:16 WIB",
-    "lintang": "-1.46",
-    "bujur": "126.42",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "79 km TimurLaut SANANA-MALUT"
   }
 ]
