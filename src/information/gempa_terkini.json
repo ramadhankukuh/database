@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30-08-23 09:17:02 WIB",
+    "lintang": "-6.04",
+    "bujur": "103.87",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "94 km BaratDaya PESISIRBARAT-LAMPUNG"
+  },
+  {
     "waktu": "29-08-23 11:34:46 WIB",
     "lintang": "-5.54",
     "bujur": "130.04",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "275 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "17-07-23 16:46:36 WIB",
-    "lintang": "-1.44",
-    "bujur": "126.41",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "80 km TimurLaut SANANA-MALUT"
   }
 ]
