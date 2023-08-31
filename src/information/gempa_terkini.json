@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31-08-23 17:29:30 WIB",
+    "lintang": "-9.69",
+    "bujur": "124.10",
+    "magnitudo": "6.1",
+    "kedalaman": "75 Km",
+    "wilayah": "36 km BaratLaut TIMORTENGAHSEL-NTT"
+  },
+  {
     "waktu": "30-08-23 09:17:02 WIB",
     "lintang": "-6.04",
     "bujur": "103.87",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "96 km TimurLaut MOROWALI-SULTENG"
-  },
-  {
-    "waktu": "17-07-23 22:35:27 WIB",
-    "lintang": "5.69",
-    "bujur": "124.14",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "275 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
