@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-09-23 01:25:35 WIB",
+    "lintang": "0.77",
+    "bujur": "95.58",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "208 km BaratDaya SINABANG-ACEH"
+  },
+  {
     "waktu": "31-08-23 17:29:30 WIB",
     "lintang": "-9.69",
     "bujur": "124.10",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "18 Km",
     "wilayah": "70 km BaratDaya KAB-JAYAPURA-PAPUA"
-  },
-  {
-    "waktu": "19-07-23 17:47:53 WIB",
-    "lintang": "-2.38",
-    "bujur": "122.71",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "96 km TimurLaut MOROWALI-SULTENG"
   }
 ]
