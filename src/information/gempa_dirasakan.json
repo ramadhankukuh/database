@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/10/2023 18:54:22 WIB",
+    "lintang": "9.1 LS",
+    "bujur": "124.93 BT",
+    "magnitudo": "3",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 6 Km Timur Laut Belu",
+    "warning": [
+      "II-III Belu"
+    ]
+  },
+  {
     "waktu": "04/10/2023 18:21:48 WIB",
     "lintang": "5.43 LU",
     "bujur": "126.27 BT",
@@ -227,17 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 29 km Timur Laut Paser",
     "warning": [
       "II-III Kab. Paser"
-    ]
-  },
-  {
-    "waktu": "23/09/2023 14:03:42 WIB",
-    "lintang": "0.59 LS",
-    "bujur": "135.87 BT",
-    "magnitudo": "4",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 22 km Timur Laut Supiori",
-    "warning": [
-      "II-III Kab. Supiori"
     ]
   }
 ]
