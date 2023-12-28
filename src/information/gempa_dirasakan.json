@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "28/12/2023 05:43:54 WIB",
+    "lintang": "8.11 LS",
+    "bujur": "107.89 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 80 km Barat Daya Kab. Pangandaran",
+    "warning": [
+      "IV Garut",
+      "III Cilacap",
+      "III Pelabuhan Ratu",
+      "III Sukabumi",
+      "II - III Bandung",
+      "III Cianjur",
+      "III Pangandaran",
+      "II-III Bogor"
+    ]
+  },
+  {
     "waktu": "28/12/2023 01:52:46 WIB",
     "lintang": "10.0 LS",
     "bujur": "123.78 BT",
@@ -231,17 +249,6 @@
       "II-III Brebes",
       "II-III Banjar",
       "II Subang"
-    ]
-  },
-  {
-    "waktu": "15/12/2023 10:23:23 WIB",
-    "lintang": "2.93 LS",
-    "bujur": "119.39 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Tenggara Mamasa",
-    "warning": [
-      "II Mamasa"
     ]
   }
 ]
