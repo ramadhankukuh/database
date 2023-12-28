@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/12/2023 07:41:53 WIB",
+    "lintang": "1.33 LU",
+    "bujur": "127.22 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 40 km barat laut Jailolo",
+    "warning": [
+      "III Halmahera Barat"
+    ]
+  },
+  {
     "waktu": "28/12/2023 05:43:54 WIB",
     "lintang": "8.11 LS",
     "bujur": "107.89 BT",
@@ -234,21 +245,6 @@
     "warning": [
       "II-III Majenang",
       "II-III Kuningan"
-    ]
-  },
-  {
-    "waktu": "15/12/2023 21:24:34 WIB",
-    "lintang": "7.15 LS",
-    "bujur": "108.86 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km barat daya Kab. Tegal",
-    "warning": [
-      "III Cirebon",
-      "II-III Tegal",
-      "II-III Brebes",
-      "II-III Banjar",
-      "II Subang"
     ]
   }
 ]
