@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "31/12/2023 11:52:34 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "107.87 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Garut 90 km Barat Daya Kabupaten Pangandaran",
+    "warning": [
+      "II-III Garut",
+      "II Banjar",
+      "II Cianjur",
+      "II Tasikmalaya",
+      "II-III Pangalengan"
+    ]
+  },
+  {
     "waktu": "31/12/2023 00:16:26 WIB",
     "lintang": "2.89 LS",
     "bujur": "139.44 BT",
@@ -231,17 +246,6 @@
       "II Padang Panjang",
       "III Pasaman Barat",
       "II Pasaman"
-    ]
-  },
-  {
-    "waktu": "23/12/2023 16:09:15 WIB",
-    "lintang": "0.41 LU",
-    "bujur": "125.47 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 102 km Tenggara Tutuyan",
-    "warning": [
-      "II Bolaang Mongondow"
     ]
   }
 ]
