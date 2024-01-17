@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-01-24 01:29:39 WIB",
+    "lintang": "-3.63",
+    "bujur": "140.46",
+    "magnitudo": "5.0",
+    "kedalaman": "62 Km",
+    "wilayah": "46 km BaratDaya KEEROM-PAPUA"
+  },
+  {
     "waktu": "17-01-24 01:03:51 WIB",
     "lintang": "1.41",
     "bujur": "126.39",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "12 Km",
     "wilayah": "206 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "07-12-23 09:09:22 WIB",
-    "lintang": "-1.15",
-    "bujur": "126.83",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "92 km BaratDaya LABUHA-MALUT"
   }
 ]
