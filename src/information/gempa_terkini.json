@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-01-24 08:29:46 WIB",
+    "lintang": "-6.16",
+    "bujur": "130.30",
+    "magnitudo": "5.9",
+    "kedalaman": "160 Km",
+    "wilayah": "230 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "23-01-24 11:07:21 WIB",
     "lintang": "-3.96",
     "bujur": "133.82",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "114 Km",
     "wilayah": "62 km TimurLaut PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "11-12-23 02:52:14 WIB",
-    "lintang": "-4.39",
-    "bujur": "139.67",
-    "magnitudo": "5.5",
-    "kedalaman": "72 Km",
-    "wilayah": "19 km TimurLaut YAHUKIMO-PAPUAPGNGN"
   }
 ]
