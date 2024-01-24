@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-01-24 21:39:19 WIB",
+    "lintang": "-4.04",
+    "bujur": "141.49",
+    "magnitudo": "5.2",
+    "kedalaman": "61 Km",
+    "wilayah": "111 km Tenggara KEEROM-PAPUA"
+  },
+  {
     "waktu": "24-01-24 08:29:46 WIB",
     "lintang": "-6.16",
     "bujur": "130.30",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "257 Km",
     "wilayah": "19 km BaratDaya KUANTANSINGINGI-RIAU"
-  },
-  {
-    "waktu": "11-12-23 11:33:32 WIB",
-    "lintang": "2.62",
-    "bujur": "128.23",
-    "magnitudo": "5.3",
-    "kedalaman": "114 Km",
-    "wilayah": "62 km TimurLaut PULAUDOI-MALUT"
   }
 ]
