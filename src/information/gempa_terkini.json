@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-01-24 19:24:13 WIB",
+    "lintang": "-8.26",
+    "bujur": "121.20",
+    "magnitudo": "5.6",
+    "kedalaman": "11 Km",
+    "wilayah": "47 km BaratLaut MBAY-NAGEKEO-NTT"
+  },
+  {
     "waktu": "24-01-24 21:39:19 WIB",
     "lintang": "-4.04",
     "bujur": "141.49",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "191 km Tenggara SUMBAWABARAT-NTB"
-  },
-  {
-    "waktu": "11-12-23 17:16:40 WIB",
-    "lintang": "-0.49",
-    "bujur": "101.36",
-    "magnitudo": "5.8",
-    "kedalaman": "257 Km",
-    "wilayah": "19 km BaratDaya KUANTANSINGINGI-RIAU"
   }
 ]
