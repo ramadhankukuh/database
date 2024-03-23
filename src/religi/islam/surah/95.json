@@ -1,0 +1,371 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 95,
+        "sequence": 28,
+        "numberOfVerses": 8,
+        "name": {
+            "short": "التين",
+            "long": "سورة التين",
+            "transliteration": {
+                "en": "At-Tin",
+                "id": "At-Tin"
+            },
+            "translation": {
+                "en": "The Fig",
+                "id": "Buah Tin"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Buruuj. Nama At Tiin diambil dari kata At Tiin yang terdapat pada ayat pertama surat ini yang artinya buah Tin."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 6099,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 597,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالتِّينِ وَالزَّيْتُونِ",
+                    "transliteration": {
+                        "en": "Wat teeni waz zaitoon"
+                    }
+                },
+                "translation": {
+                    "en": "By the fig and the olive",
+                    "id": "Demi (buah) Tin dan (buah) Zaitun,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6099",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6099.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6099.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi buah Tin dan Zaitun,",
+                        "long": "Dalam ayat ini, Allah bersumpah dengan tin dan zaitun. Ada yang berpendapat bahwa tin dan zaitun adalah nama buah yang dikenal sekarang, yang menunjukkan kelebihan kandungan yang dimiliki kedua buah itu. Ada pula yang berpendapat bahwa yang dimaksud adalah tempat banyaknya tin dan zaitun itu tumbuh, yaitu Yerusalem, tempat Nabi Isa lahir dan menerima wahyu.\n\nDua nama tumbuhan, ara (at-tin) dan zaitun (az-zaitun), dan dua tempat (Bukit Sinai”tempat Nabi Musa memerima wahyu; dan kota yang aman (Mekah)”tempat Nabi Muhammad menerima wahyu), digunakan Allah untuk menjadi semacam bukti kebenaran sumpah-Nya. Beberapa ulama menyatakan bahwa at-tin dan az-zaitun sebenarnya juga menunjuk pada dua tempat. At-Tin adalah bukit di sekitar Damaskus, Siria. Sementara az-zaitun adalah tempat Nabi Isa menerima wahyu.\n\nAda juga yang memahami at-tin dan az-zaitun sebagai jenis tumbuhan. Buah ara (at-tin) adalah buah dari sejenis pohon yang banyak tumbuh di kawasan Timur Tengah. Buahnya bila telah matang berwarna coklat, dan mempunyai biji seperti tomat. Rasanya manis dan dinilai memiliki gizi yang tinggi.\n\nPenelitian ilmiah menunjukkan bahwa buah ara memiliki kandungan serat yang sangat tinggi dibandingkan buah lainnya. Satu buah ara yang sudah dikeringkan mengandung 20% serat dari yang dianjurkan untuk dikonsumsi orang setiap harinya. Sebagaimana diketahui, penelitian yang dilakukan dalam beberapa dekade terakhir menunjukkan bahwa serat dari tumbuhan sangat penting agar alat pencernaan dapat berfungsi dengan baik. Serat akan membantu sistem pencernaan dan juga dapat mencegah seseorang terkena kanker usus.\n\nKandungan yang dimiliki oleh buah ara juga sangat menjanjikan. Buah ini mengandung antioksidan yang dapat mencegah timbulnya beberapa penyakit. Antioksidan berperan untuk menetralisir beberapa unsur yang merusak (free radicals), baik yang dihasilkan di dalam tubuh (karena beberapa reaksi kimia dalam pencernaan) atau masuk ke dalam tubuh dari luar. Kandungan Phenol pada buah ara juga tinggi. Bahan Phenol ini berfungsi sebagai antiseptik untuk membunuh mikroba.\n\nPenelitian di Universitas Rutgers di Amerika Serikat mengungkapkan bahwa kandungan yang tinggi dari omega-3, omega-6 dan phytosterol, maka buah ara sangat potensial untuk menurunkan kadar kolesterol dalam darah. Sebagaimana diketahui, omega-3 dan omega-6 tidak dapat diproduksi oleh tubuh. Keduanya hanya dapat diperoleh dari asupan makanan. Kedua jenis asam lemak ini juga sangat berpengaruh terhadap kinerja jantung, otak, dan sistem syaraf. Phytosterol sendiri berfungsi untuk menghilangkan kolesterol yang diperoleh dari daging, sebelum kolesterol tersebut masuk ke dalam sistem jaringan darah.\n\nPohon ara mengandung mineral yang cukup lengkap dibandingkan buah lainnya. Dari 40 gram buah ara mengandung 244 mg kalium (sebanyak 7% dari kebutuhan per hari), 53 mg kalsium (6% dari kebutuhan per hari), dan 1,2 mg besi (6% dari kebutuhan per hari). Tingginya kadar kalsium ini hanya dikalahkan oleh jeruk.\n\nBuah ara juga dipercaya mempercepat penyembuhan pada seseorang yang sedang sakit. Buah ini mengandung bahan-bahan yang diperlukan agar badan si pasien cepat segar dan berenergi. Komponen nutrisi utama yang dikandung buah ara adalah gula. Persentasenya cukup tinggi, yaitu sebanyak 51% sampai 74% dari seluruh bagian buah. \n\nDemikian pula halnya dengan zaitun. Sederetan penelitian telah mengungkapkan berbagai manfaat buah zaitun untuk kesehatan manusia. Zaitun, yang diberi pujian sebagai \"pohon yang penuh berkah\" dalam ayat 35 Surah an-Nur/24, adalah tumbuhan perdu. Jenis-jenisnya tersebar di kawasan sekitar Laut Tengah. Pohonnya dapat mencapai umur ratusan tahun. Buah zaitun dapat dipanen untuk masa yang sangat panjang.\n\nSebagai bahan makanan, buah zaitun mengandung beberapa unsur yang diperlukan manusia, seperti protein yang cukup tinggi, zat garam, besi dan fosfor, vitamin A dan B. Zaitun juga dikenal sebagai penghalus kulit dan digunakan dalam industri sabun. Minyaknya juga memiliki kelebihan-kelebihan yang tidak dimiliki minyak hewani atau minyak nabati lainnya. Diketahui bahwa minyak zaitun menyehatkan jantung dan pembuluh darah. \n\nBeberapa kegunaan minyak zaitun adalah untuk kesehatan jantung dan pembuluh darah, pencegahan kanker, arthistis, memperlambat proses penuaan, membantu pertumbuhan pada anak-anak, menurunkan tekanan darah tinggi, serta kegunaan lain bagi berbagai organ bagian dalam."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6100,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 597,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَطُورِ سِينِينَ",
+                    "transliteration": {
+                        "en": "Wa toori sineen"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] Mount Sinai",
+                    "id": "demi gunung Sinai,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6100",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6100.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6100.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "demi gunung Sinai,",
+                        "long": "Setelah itu, Allah bersumpah dengan Gunung Sinai, tempat Nabi Musa menerima wahyu (Taurat). Mengenai bahwa Nabi Musa menerima wahyu di tempat itu dikisahkan pula antara lain dalam Surah al-A'raf/7: 144. Allah berfirman: \n\n(Allah) berfirman, \"Wahai Musa! Sesungguhnya Aku memilih (melebihkan) engkau dari manusia yang lain (pada masamu) untuk membawa risalah-Ku dan firman-Ku, sebab itu berpegang-teguhlah kepada apa yang Aku berikan kepadamu dan hendaklah engkau termasuk orang-orang yang bersyukur.\" (al-A'raf/7: 144)\n\nDalam ayat sebelumnya dikisahkan bagaimana Nabi Musa naik bukit Sinai untuk menerima wahyu. Dalam ayat ini dinyatakan pengangkatan Musa sebagai nabi dan menerima wahyu yaitu kitab Taurat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6101,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 597,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+                    "transliteration": {
+                        "en": "Wa haazal balad-il ameen"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] this secure city [Makkah],",
+                    "id": "dan demi negeri (Mekah) yang aman ini."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6101",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6101.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6101.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan demi negeri Mekah yang aman ini. Buah Tin dan Zaitun banyak tumbuh di Syam dan Baitul makdis, tempat para nabi diutus, antara lain Nabi Isa. Gunung Sinai adalah tempat Nabi Musa bermunajat, sedangkan Mekah adalah tem­pat kelahiran dan pengutusan Nabi Muhammad. Ketiga nabi ini memiliki misi yang sama, yaitu mengajak manusia menuju tauhid.",
+                        "long": "Selanjutnya Allah bersumpah dengan \"negeri yang damai\". Maksudnya adalah Mekah, tempat Nabi Muhammad lahir dan menerima wahyu. Bahwa Mekah adalah tempat asal Nabi Muhammad dinyatakan pula antara lain dalam Surah Muhammad/47: 13:\n\nDan betapa banyak negeri yang (penduduknya) lebih kuat dari (penduduk) negerimu (Muhammad) yang telah mengusirmu itu. Kami telah membinasakan mereka; maka tidak ada seorang pun yang menolong mereka. (Muhammad/47: 13)\n\nDalam ayat ini terdapat informasi bahwa beliau telah dipaksa meninggalkan negeri asalnya, yaitu tempat kelahirannya (Mekah) dan hijrah ke Medinah. \n\nBerdasarkan ayat-ayat lain lebih tepat dipahami bahwa ketiga ayat di atas menyatakan tempat ketiga nabi itu lahir atau menerima tugas kenabian mereka. Di dalam ayat-ayat lain, ketiga nabi itu memang sering disebutkan bersamaan, misalnya dalam Surah as-saff/61: 5-6:\n\nDan (ingatlah) ketika Musa berkata kepada kaumnya, \"Wahai kaumku! Mengapa kamu menyakitiku, padahal kamu sungguh mengetahui bahwa sesungguhnya aku utusan Allah kepadamu?\" Maka ketika mereka berpaling (dari kebenaran), Allah memalingkan hati mereka. Dan Allah tidak memberi petunjuk kepada kaum yang fasik. Dan (ingatlah) ketika Isa putra Maryam berkata, \"Wahai Bani Israil! Sesungguhnya aku utusan Allah kepadamu, yang membenarkan kitab (yang turun) sebelumku, yaitu Taurat dan memberi kabar gembira dengan seorang rasul yang akan datang setelahku, yang namanya Ahmad (Muhammad).\" Namun ketika rasul itu datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka berkata, \"Ini adalah sihir yang nyata.\" (as-saff/61: 5-6)\n\nDalam Perjanjian Lama, Kitab Ulangan 33 ayat 2 juga dinyatakan tempat ketiga nabi itu, \"Tuhan telah datang dari Sina, dan terbit kepada mereka di Seir, kelihatan Dia dengan gemerlapan cahayanya dari Gunung Paran.\" Sina adalah Sinai tempat Nabi Musa menerima wahyu, Seir adalah pegunungan di Baitul Maqdis tempat Nabi Isa lahir dan menerima kenabian, dan pegunungan Paran adalah pegunungan Mekah, tempat Nabi Muhammad lahir dan menerima kenabiannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6102,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 597,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+                    "transliteration": {
+                        "en": "Laqad khalaqnal insaana fee ahsani taqweem"
+                    }
+                },
+                "translation": {
+                    "en": "We have certainly created man in the best of stature;",
+                    "id": "Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6102",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6102.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6102.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, Kami telah menciptakan manusia dalam bentuk fisik yang sebaik-baiknya, jauh lebih sempurna daripada hewan. Kami juga bekali mereka dengan akal dan sifat-sifat yang unggul. Dengan kelebihan-kelebihan itulah Kami amanati manusia sebagai khalifah di bumi.",
+                        "long": "Setelah bersumpah dengan buah-buahan yang bermanfaat atau tempat-tempat yang mulia itu, Allah menegaskan bahwa Dia telah menciptakan manusia dengan kondisi fisik dan psikis terbaik. Dari segi fisik, misalnya, hanya manusia yang berdiri tegak sehingga otaknya bebas berpikir, yang menghasilkan ilmu, dan tangannya juga bebas bergerak untuk merealisasikan ilmunya itu, sehingga melahirkan teknologi. Bentuk manusia adalah yang paling indah dari semua makhluk-Nya. Dari segi psikis, hanya manusia yang memiliki pikiran dan perasaan yang sempurna. Dan lebih-lebih lagi, hanya manusia yang beragama. Banyak lagi keistimewaan manusia dari segi fisik dan psikis itu yang tidak mungkin diuraikan di sini.\n\nPenegasan Allah bahwa Dia telah menciptakan manusia dengan kondisi fisik dan psikis terbaik itu mengandung arti bahwa fisik dan psikis manusia itu perlu dipelihara dan ditumbuhkembangkan. Fisik manusia dipelihara dan ditumbuhkembangkan dengan memberinya gizi yang cukup dan menjaga kesehatannya. Dan psikis manusia dipelihara dan ditumbuhkembangkan dengan memberinya agama dan pendidikan yang baik. Bila fisik dan psikis manusia dipelihara dan ditumbuhkembangkan, maka manusia akan dapat memberikan kemanfaatan yang besar kepada alam ini. Dengan demikianlah ia akan menjadi makhluk termulia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6103,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 597,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+                    "transliteration": {
+                        "en": "Thumma ra dad naahu asfala saafileen"
+                    }
+                },
+                "translation": {
+                    "en": "Then We return him to the lowest of the low,",
+                    "id": "kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6103",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6103.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6103.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya, yaitu ke neraka, bila mereka durhaka kepada Allah dan tidak menaati utusan-Nya. Ketika itu, kesempurnaan fisik, akal, dan sifat mereka tidak akan menyelamatkannya dari azab Allah.",
+                        "long": "Manusia yang paling baik dan sempurna kejadiannya itu akan menjadi tidak berguna bila tidak dijaga pertumbuhannya dan tidak dipelihara kesehatannya. Manusia yang paling sempurna rohaninya itu akan menjadi jahat dan merusak di muka bumi ini bila tidak diberi agama dan pendidikan yang baik. Manusia yang lemah akan menjadi beban, dan manusia yang jahat akan merusak masyarakatnya. Akhirnya di akhirat ia akan masuk neraka. Dengan demikian, manusia itu akan menjadi makhluk terhina."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6104,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 597,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+                    "transliteration": {
+                        "en": "Ill-lal lazeena aamanoo wa 'amilus saalihaati; falahum ajrun ghairu mamnoon"
+                    }
+                },
+                "translation": {
+                    "en": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted.",
+                    "id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan; maka mereka akan mendapat pahala yang tidak ada putus-putusnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6104",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6104.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6104.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kami masukkan manusia ke neraka, kecuali orang-orang yang benar-benar beriman dan mengerjakan kebajikan, baik spiritual maupun sosial, secara ikhlas dan sesuai syariat Islam; maka mereka akan mendapat pahala yang tidak ada putus-putusnya dan tidak pula berkurang. Kami selamatkan mereka dari neraka dan Kami berikan itu semua kepada mereka sebagai ganjaran dari Kami.",
+                        "long": "Yang terhindar dari kehinaan itu adalah orang-orang yang beriman dan berbuat baik. Dengan demikian, tolok ukur kemuliaan adalah iman dan perbuatan baik itu. Hal itu karena iman berarti mengakui adanya Allah dan nilai-nilai yang diajarkan-Nya. Pengakuan itu akan menjadi jalan hidup atau akidahnya, dan karena telah menjadi akidahnya, maka nilai-nilai itu akan dilaksanakannya dengan sepenuh hatinya. Karena nilai-nilai yang diajarkan Allah seluruhnya baik, maka manusia yang melaksanakannya akan menjadi manusia baik pula. Semakin tinggi akidah seseorang semakin baik perbuatannya, sehingga ia akan menjadi manusia terbaik dan termulia.\n\nManusia yang memiliki sikap hidup yang didasarkan atas iman dan perbuatan baik itu akan memperoleh balasan dari Allah tanpa putus-putusnya. Iman dan perbuatan baiknya itu akan berbuah di dunia, berupa kesentosaan hidup baginya dan bagi masyarakatnya, dan kebahagiaan hidup di akhirat di dalam surga."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6105,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 597,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+                    "transliteration": {
+                        "en": "Fama yu kaz zibuka b'adu bid deen"
+                    }
+                },
+                "translation": {
+                    "en": "So what yet causes you to deny the Recompense?",
+                    "id": "Maka apa yang menyebabkan (mereka) mendustakanmu (tentang) hari pembalasan setelah (adanya keterangan-keterangan) itu?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6105",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6105.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6105.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menciptakanmu dengan bentuk yang sempurna dari setetes mani yang menjadi janin, kemudian melewati berbagai tahap dari bayi, remaja, dewasa, tua, hingga meninggal. Itu merupakan dalil yang paling jelas tentang kekuasaan Allah; bahwa Dia kuasa untuk membang­kitkanmu dari kematian. Maka, apa yang menyebabkan mereka mendustakanmu tentang hari pembalasan yaitu hari kiamat setelah adanya keterangan-keterangan yang gamblang itu?",
+                        "long": "Allah mempertanyakan bila masih ada manusia yang menganggap bohong apa yang disampaikan-Nya kepada Nabi Muhammad bahwa kemuliaan manusia itu diukur dari imannya dan perbuatan baiknya. Hal itu karena iman itulah yang akan membuahkan perbuatan baik, sedangkan keingkaran hanya akan membuahkan kejahatan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6106,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 597,
+                    "manzil": 7,
+                    "ruku": 537,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+                    "transliteration": {
+                        "en": "Alai sal laahu bi-ahkamil haakimeen"
+                    }
+                },
+                "translation": {
+                    "en": "Is not Allah the most just of judges?",
+                    "id": "Bukankah Allah hakim yang paling adil?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6106",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6106.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6106.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bukankah Allah adalah hakim yang paling adil? Jangan kaukira Allah menciptakan manusia secara sia-sia dengan tidak memberinya perintah dan larangan. Allah telah menurunkan aturan syariat. Dia akan memberi putusan dengan adil; memberi pahala kepada orang yang taat dan menghukum orang yang bersalah.",
+                        "long": "Allah menegaskan bahwa menerapkan ketentuan tentang kemuliaan manusia itu didasarkan atas iman dan perbuatan baiknya, itu adalah bukti bahwa Allah Mahabijaksana. Hal itu karena iman itulah yang akan membuahkan perbuatan baik, sedangkan keingkaran hanya akan membuahkan kejahatan, sebagaimana disampaikan di atas. Bila kemuliaan diletakkan pada kekafiran dan kejahatan, itu akan menghancurkan alam ini."
+                    }
+                }
+            }
+        ]
+    }
+}

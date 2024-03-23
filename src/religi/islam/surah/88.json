@@ -1,0 +1,1091 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 88,
+        "sequence": 68,
+        "numberOfVerses": 26,
+        "name": {
+            "short": "الغاشية",
+            "long": "سورة الغاشية",
+            "transliteration": {
+                "en": "Al-Ghaashiya",
+                "id": "Al-Gasyiyah"
+            },
+            "translation": {
+                "en": "The Overwhelming",
+                "id": "Hari Kiamat"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 26 ayat, termasuk surat-surat Makkiyah, diturunkan sesudah surat Adz Dzaariat. Nama Ghaasyiyah diambil dari kata Al Ghaasyiyah yang terdapat pada ayat pertama surat ini yang  artinya peristiwa yang dahsyat, tapi yang dimaksud adalah hari kiamat. Surat ini adalah surat yang kerap kali dibaca Nabi pada rakaat kedua  pada shalat hari-hari Raya dan shalat Jum'at"
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5968,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+                    "transliteration": {
+                        "en": "Hal ataaka hadeesul ghaashiyah"
+                    }
+                },
+                "translation": {
+                    "en": "Has there reached you the report of the Overwhelming [event]?",
+                    "id": "Sudahkah sampai kepadamu berita tentang (hari Kiamat)?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5968",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5968.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5968.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Hari kiamat adalah rahasia besar. Wahai Nabi, sudahkah sampai kepadamu berita tentang hari kiamat yang penuh kengerian itu?",
+                        "long": "Allah menyindir penduduk neraka dengan mengatakan, \"Sudahkah sampai kepada kamu berita tentang hari Kiamat.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5969,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
+                    "transliteration": {
+                        "en": "Wujoohuny yawma 'izin khaashi'ah"
+                    }
+                },
+                "translation": {
+                    "en": "[Some] faces, that Day, will be humbled,",
+                    "id": "Pada hari itu banyak wajah yang tertunduk terhina,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5969",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5969.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5969.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada hari kiamat manusia terbagi menjadi dua, kelompok yang celaka dan kelompok yang berbahagia. Pada hari itu banyak wajah yang tertunduk hina. Mereka saat itu menyadari perilaku buruk mereka. Hati mereka terguncang dan sangat risau akan nasib mereka.",
+                        "long": "Kemudian Allah menjelaskan bahwa manusia ketika itu terbagi dua, yaitu golongan orang kafir dan golongan orang mukmin.\n\nGolongan orang kafir ketika melihat kedahsyatan yang terjadi ketika itu, menjadi tertunduk dan merasa terhina. Allah berfirman:\n\nDan (alangkah ngerinya), jika sekiranya kamu melihat orang-orang yang berdosa itu menundukkan kepalanya di hadapan Tuhannya, (mereka berkata), \"Ya Tuhan kami, kami telah melihat dan mendengar, maka kembalikanlah kami (ke dunia), niscaya kami akan mengerjakan kebajikan. Sungguh, kami adalah orang-orang yang yakin.\" (as-Sajdah/32: 12)\n\nDan firman Allah:\n\nDan kamu akan melihat mereka dihadapkan ke neraka dalam keadaan tertunduk karena (merasa) hina, mereka melihat dengan pandangan yang lesu. Dan orang-orang yang beriman berkata, \"Sesungguhnya orang-orang yang rugi ialah orang-orang yang merugikan diri mereka sendiri dan keluarganya pada hari Kiamat.\" Ingatlah, sesungguhnya orang-orang zalim itu berada dalam azab yang kekal. (asy-Syura/42: 45)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5970,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَامِلَةٌ نَّاصِبَةٌ",
+                    "transliteration": {
+                        "en": "'Aamilatun naasibah"
+                    }
+                },
+                "translation": {
+                    "en": "Working [hard] and exhausted.",
+                    "id": "(karena) bekerja keras lagi kepayahan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5970",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5970.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5970.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Raut wajah mereka kusut seperti orang yang telah bekerja keras lagi kepayahan karena beban berat yang menimpa mereka.",
+                        "long": "Allah menerangkan bahwa orang-orang kafir itu semasa hidup di dunia bekerja dengan rajin dan sungguh-sungguh. Akan tetapi, perbuatan mereka itu tidak diterima karena mereka tidak beriman kepada Allah dan Rasul-Nya, yang merupakan syarat utama untuk diterimanya perbuatan dan mendapat ganjaran-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5971,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "تَصْلَىٰ نَارًا حَامِيَةً",
+                    "transliteration": {
+                        "en": "Taslaa naaran haamiyah"
+                    }
+                },
+                "translation": {
+                    "en": "They will [enter to] burn in an intensely hot Fire.",
+                    "id": "mereka memasuki api yang sangat panas (neraka),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5971",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5971.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5971.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wajah-wajah dan tubuh-tubuh mereka akan memasuki api neraka yang sangat panas. Kadar panasnya tidak tergambarkan, jauh melebihi panas api dunia.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa orang-orang kafir akan dimasukkan ke dalam neraka. Bila mereka meminta air karena haus, maka mereka diberi air bersumber dari mata air yang sangat panas. Bila mereka meminta makan, maka diberi makanan yang jelek, yang tidak ada artinya. Allah berfirman:\n\nDan tidak ada makanan (baginya) kecuali dari darah dan nanah. (al-haqqah/69: 36)\n\nDan firman Allah:\n\nKemudian sesungguhnya kamu, wahai orang-orang yang sesat lagi mendustakan! pasti akan memakan pohon zaqqum. (al-Waqi'ah/56: 51-52)\n\nDalam ayat lain Allah berfirman:\n\nSungguh pohon zaqqum itu, makanan bagi orang yang banyak dosa. (ad-Dukhan/44: 43-44)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5972,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ",
+                    "transliteration": {
+                        "en": "Tusqaa min 'aynin aaniyah"
+                    }
+                },
+                "translation": {
+                    "en": "They will be given drink from a boiling spring.",
+                    "id": "diberi minum dari sumber mata air yang sangat panas."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5972",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5972.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5972.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Panas api neraka membuat mereka haus. Saat itulah mereka diberi minum dengan air dari sumber mata air yang sangat panas, membuat kerongkongan dan organ pencernaan mereka lebur.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa orang-orang kafir akan dimasukkan ke dalam neraka. Bila mereka meminta air karena haus, maka mereka diberi air bersumber dari mata air yang sangat panas. Bila mereka meminta makan, maka diberi makanan yang jelek, yang tidak ada artinya. Allah berfirman:\n\nDan tidak ada makanan (baginya) kecuali dari darah dan nanah. (al-haqqah/69: 36)\n\nDan firman Allah:\n\nKemudian sesungguhnya kamu, wahai orang-orang yang sesat lagi mendustakan! pasti akan memakan pohon zaqqum. (al-Waqi'ah/56: 51-52)\n\nDalam ayat lain Allah berfirman:\n\nSungguh pohon zaqqum itu, makanan bagi orang yang banyak dosa. (ad-Dukhan/44: 43-44)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5973,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+                    "transliteration": {
+                        "en": "Laisa lahum ta'aamun illaa min daree'"
+                    }
+                },
+                "translation": {
+                    "en": "For them there will be no food except from a poisonous, thorny plant",
+                    "id": "Tidak ada makanan bagi mereka selain dari pohon yang berduri,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5973",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5973.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5973.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tidak ada makanan bagi mereka selain dari pohon yang berduri, yang rasanya pahit, panas, menjijikkan, dan berbau tidak sedap. Para penghuni neraka itu memakannya, di samping memakan pohon Zaqqùm (Lihat: ad-Dukhàn/44: 43) dan “Gislìn” (Lihat: al-Ma‘àrij/70: 36).",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa orang-orang kafir akan dimasukkan ke dalam neraka. Bila mereka meminta air karena haus, maka mereka diberi air bersumber dari mata air yang sangat panas. Bila mereka meminta makan, maka diberi makanan yang jelek, yang tidak ada artinya. Allah berfirman:\n\nDan tidak ada makanan (baginya) kecuali dari darah dan nanah. (al-haqqah/69: 36)\n\nDan firman Allah:\n\nKemudian sesungguhnya kamu, wahai orang-orang yang sesat lagi mendustakan! pasti akan memakan pohon zaqqum. (al-Waqi'ah/56: 51-52)\n\nDalam ayat lain Allah berfirman:\n\nSungguh pohon zaqqum itu, makanan bagi orang yang banyak dosa. (ad-Dukhan/44: 43-44)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5974,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ",
+                    "transliteration": {
+                        "en": "Laa yusminu wa laa yughnee min joo'"
+                    }
+                },
+                "translation": {
+                    "en": "Which neither nourishes nor avails against hunger.",
+                    "id": "yang tidak menggemukkan dan tidak menghilangkan lapar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5974",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5974.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5974.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Itulah makanan yang sama sekali tidak memberi manfaat bagi pemakannya. Makanan itu tidak menggemukkan badan dan tidak pula menghilangkan rasa lapar.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa orang-orang kafir akan dimasukkan ke dalam neraka. Bila mereka meminta air karena haus, maka mereka diberi air bersumber dari mata air yang sangat panas. Bila mereka meminta makan, maka diberi makanan yang jelek, yang tidak ada artinya. Allah berfirman:\n\nDan tidak ada makanan (baginya) kecuali dari darah dan nanah. (al-haqqah/69: 36)\n\nDan firman Allah:\n\nKemudian sesungguhnya kamu, wahai orang-orang yang sesat lagi mendustakan! pasti akan memakan pohon zaqqum. (al-Waqi'ah/56: 51-52)\n\nDalam ayat lain Allah berfirman:\n\nSungguh pohon zaqqum itu, makanan bagi orang yang banyak dosa. (ad-Dukhan/44: 43-44)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5975,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+                    "transliteration": {
+                        "en": "Wujoohuny yawma 'izin naa'imah"
+                    }
+                },
+                "translation": {
+                    "en": "[Other] faces, that Day, will show pleasure.",
+                    "id": "Pada hari itu banyak (pula) wajah yang berseri-seri,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5975",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5975.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5975.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di sisi lain, para penghuni surga mendapat kebahagiaan yang tiada tara. Pada hari itu banyak pula wajah yang berseri-seri penuh kebahagiaan.",
+                        "long": "Allah menerangkan bahwa di dalam surga, muka orang mukmin berseri penuh kegembiraan. Mereka merasa senang melihat hasil usaha mereka yang mendapat keridaan Allah yang kemudian mendapat imbalan surga yang diidam-idamkan.\n\n(10-16) Dalam ayat-ayat berikut ini, Allah menerangkan keadaan surga:\n\n1.Surga tempatnya bernilai tinggi, lebih tinggi dari nilai tempat-tempat yang lain.\n\n2.Di dalamnya tidak terdengar perkataan yang tidak berguna, sebab tempat itu adalah tempat orang-orang yang dikasihi Allah.\n\n3.Di dalamnya terdapat mata air yang mengalirkan air bersih yang menarik pandangan bagi siapa saja yang melihatnya.\n\n4.Di dalamnya terdapat mahligai yang tinggi.\n\n5.Di dekat mereka tersedia gelas-gelas yang berisi minuman yang sudah siap diminum.\n\n6.Di dalamnya terdapat bantal-bantal tersusun yang dapat dipergunakan menurut selera mereka, duduk di atasnya atau dipakai untuk bersandar dan sebagainya.\n\n7.Di sana terdapat pula permadani yang indah dan terhampar pada setiap tempat.\n\n8.Terdapat segala macam kenikmatan rohani dan jasmani yang jauh dari yang dapat kita bayangkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5976,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِّسَعْيِهَا رَاضِيَةٌ",
+                    "transliteration": {
+                        "en": "Lisa'yihaa raadiyah"
+                    }
+                },
+                "translation": {
+                    "en": "With their effort [they are] satisfied",
+                    "id": "merasa senang karena usahanya (sendiri),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5976",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5976.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5976.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka merasa senang dan puas karena usahanya sendiri di dunia. Mereka beriman, beramal saleh, dan bermanfaat bagi orang lain. Hidup mereka penuh nilai ibadah. Usaha mereka ini tidak akan sia-sia.",
+                        "long": "Allah menerangkan bahwa di dalam surga, muka orang mukmin berseri penuh kegembiraan. Mereka merasa senang melihat hasil usaha mereka yang mendapat keridaan Allah yang kemudian mendapat imbalan surga yang diidam-idamkan.\n\n(10-16) Dalam ayat-ayat berikut ini, Allah menerangkan keadaan surga:\n\n1.Surga tempatnya bernilai tinggi, lebih tinggi dari nilai tempat-tempat yang lain.\n\n2.Di dalamnya tidak terdengar perkataan yang tidak berguna, sebab tempat itu adalah tempat orang-orang yang dikasihi Allah.\n\n3.Di dalamnya terdapat mata air yang mengalirkan air bersih yang menarik pandangan bagi siapa saja yang melihatnya.\n\n4.Di dalamnya terdapat mahligai yang tinggi.\n\n5.Di dekat mereka tersedia gelas-gelas yang berisi minuman yang sudah siap diminum.\n\n6.Di dalamnya terdapat bantal-bantal tersusun yang dapat dipergunakan menurut selera mereka, duduk di atasnya atau dipakai untuk bersandar dan sebagainya.\n\n7.Di sana terdapat pula permadani yang indah dan terhampar pada setiap tempat.\n\n8.Terdapat segala macam kenikmatan rohani dan jasmani yang jauh dari yang dapat kita bayangkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5977,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِي جَنَّةٍ عَالِيَةٍ",
+                    "transliteration": {
+                        "en": "Fee jannatin 'aaliyah"
+                    }
+                },
+                "translation": {
+                    "en": "In an elevated garden,",
+                    "id": "(mereka) dalam surga yang tinggi,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5977",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5977.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5977.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah akan memasukkan mereka ke dalam surga yang tinggi, istana yang sangat indah, yang mengalir di bawahnya sungai-sungai dengan jenis air yang bermacam-macam.",
+                        "long": "Dalam ayat-ayat berikut ini, Allah menerangkan keadaan surga:\n\n1.Surga tempatnya bernilai tinggi, lebih tinggi dari nilai tempat-tempat yang lain.\n\n2.Di dalamnya tidak terdengar perkataan yang tidak berguna, sebab tempat itu adalah tempat orang-orang yang dikasihi Allah.\n\n3.Di dalamnya terdapat mata air yang mengalirkan air bersih yang menarik pandangan bagi siapa saja yang melihatnya.\n\n4.Di dalamnya terdapat mahligai yang tinggi.\n\n5.Di dekat mereka tersedia gelas-gelas yang berisi minuman yang sudah siap diminum.\n\n6.Di dalamnya terdapat bantal-bantal tersusun yang dapat dipergunakan menurut selera mereka, duduk di atasnya atau dipakai untuk bersandar dan sebagainya.\n\n7.Di sana terdapat pula permadani yang indah dan terhampar pada setiap tempat.\n\n8.Terdapat segala macam kenikmatan rohani dan jasmani yang jauh dari yang dapat kita bayangkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5978,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَّا تَسْمَعُ فِيهَا لَاغِيَةً",
+                    "transliteration": {
+                        "en": "Laa tasma'u feehaa laaghiyah"
+                    }
+                },
+                "translation": {
+                    "en": "Wherein they will hear no unsuitable speech.",
+                    "id": "di sana (kamu) tidak mendengar perkataan yang tidak berguna."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5978",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5978.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5978.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di surga sana kamu tidak mendengar perkataan yang tidak berguna. Tidak ada perkataan kotor, umpatan, ungkapan kemarahan, dan semisalnya. Di sana mereka hanya mendengar hal-hal yang menyenangkan.",
+                        "long": "Dalam ayat-ayat berikut ini, Allah menerangkan keadaan surga:\n\n1.Surga tempatnya bernilai tinggi, lebih tinggi dari nilai tempat-tempat yang lain.\n\n2.Di dalamnya tidak terdengar perkataan yang tidak berguna, sebab tempat itu adalah tempat orang-orang yang dikasihi Allah.\n\n3.Di dalamnya terdapat mata air yang mengalirkan air bersih yang menarik pandangan bagi siapa saja yang melihatnya.\n\n4.Di dalamnya terdapat mahligai yang tinggi.\n\n5.Di dekat mereka tersedia gelas-gelas yang berisi minuman yang sudah siap diminum.\n\n6.Di dalamnya terdapat bantal-bantal tersusun yang dapat dipergunakan menurut selera mereka, duduk di atasnya atau dipakai untuk bersandar dan sebagainya.\n\n7.Di sana terdapat pula permadani yang indah dan terhampar pada setiap tempat.\n\n8.Terdapat segala macam kenikmatan rohani dan jasmani yang jauh dari yang dapat kita bayangkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5979,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِيهَا عَيْنٌ جَارِيَةٌ",
+                    "transliteration": {
+                        "en": "Feehaa 'aynun jaariyah"
+                    }
+                },
+                "translation": {
+                    "en": "Within it is a flowing spring.",
+                    "id": "Di sana ada mata air yang mengalir."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5979",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5979.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5979.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di surga sana ada mata air yang mengalir dengan deras, jernih, dan menyejukkan.",
+                        "long": "Dalam ayat-ayat berikut ini, Allah menerangkan keadaan surga:\n\n1.Surga tempatnya bernilai tinggi, lebih tinggi dari nilai tempat-tempat yang lain.\n\n2.Di dalamnya tidak terdengar perkataan yang tidak berguna, sebab tempat itu adalah tempat orang-orang yang dikasihi Allah.\n\n3.Di dalamnya terdapat mata air yang mengalirkan air bersih yang menarik pandangan bagi siapa saja yang melihatnya.\n\n4.Di dalamnya terdapat mahligai yang tinggi.\n\n5.Di dekat mereka tersedia gelas-gelas yang berisi minuman yang sudah siap diminum.\n\n6.Di dalamnya terdapat bantal-bantal tersusun yang dapat dipergunakan menurut selera mereka, duduk di atasnya atau dipakai untuk bersandar dan sebagainya.\n\n7.Di sana terdapat pula permadani yang indah dan terhampar pada setiap tempat.\n\n8.Terdapat segala macam kenikmatan rohani dan jasmani yang jauh dari yang dapat kita bayangkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5980,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+                    "transliteration": {
+                        "en": "Feehaa sururum marfoo'ah"
+                    }
+                },
+                "translation": {
+                    "en": "Within it are couches raised high",
+                    "id": "Di sana ada dipan-dipan yang ditinggikan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5980",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5980.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5980.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di surga sana ada dipan-dipan yang ditinggikan, baik posisinya maupun derajatnya, sebagai tempat mereka duduk dan berbaring.",
+                        "long": "Dalam ayat-ayat berikut ini, Allah menerangkan keadaan surga:\n\n1.Surga tempatnya bernilai tinggi, lebih tinggi dari nilai tempat-tempat yang lain.\n\n2.Di dalamnya tidak terdengar perkataan yang tidak berguna, sebab tempat itu adalah tempat orang-orang yang dikasihi Allah.\n\n3.Di dalamnya terdapat mata air yang mengalirkan air bersih yang menarik pandangan bagi siapa saja yang melihatnya.\n\n4.Di dalamnya terdapat mahligai yang tinggi.\n\n5.Di dekat mereka tersedia gelas-gelas yang berisi minuman yang sudah siap diminum.\n\n6.Di dalamnya terdapat bantal-bantal tersusun yang dapat dipergunakan menurut selera mereka, duduk di atasnya atau dipakai untuk bersandar dan sebagainya.\n\n7.Di sana terdapat pula permadani yang indah dan terhampar pada setiap tempat.\n\n8.Terdapat segala macam kenikmatan rohani dan jasmani yang jauh dari yang dapat kita bayangkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5981,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+                    "transliteration": {
+                        "en": "Wa akwaabum mawdoo 'ah"
+                    }
+                },
+                "translation": {
+                    "en": "And cups put in place",
+                    "id": "dan gelas-gelas yang tersedia (di dekatnya),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5981",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5981.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5981.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan di sana ada pula gelas-gelas berisi bermacam minuman yang tersedia di dekat mereka. Mereka tidak perlu beringsut untuk mengambilnya.",
+                        "long": "Dalam ayat-ayat berikut ini, Allah menerangkan keadaan surga:\n\n1.Surga tempatnya bernilai tinggi, lebih tinggi dari nilai tempat-tempat yang lain.\n\n2.Di dalamnya tidak terdengar perkataan yang tidak berguna, sebab tempat itu adalah tempat orang-orang yang dikasihi Allah.\n\n3.Di dalamnya terdapat mata air yang mengalirkan air bersih yang menarik pandangan bagi siapa saja yang melihatnya.\n\n4.Di dalamnya terdapat mahligai yang tinggi.\n\n5.Di dekat mereka tersedia gelas-gelas yang berisi minuman yang sudah siap diminum.\n\n6.Di dalamnya terdapat bantal-bantal tersusun yang dapat dipergunakan menurut selera mereka, duduk di atasnya atau dipakai untuk bersandar dan sebagainya.\n\n7.Di sana terdapat pula permadani yang indah dan terhampar pada setiap tempat.\n\n8.Terdapat segala macam kenikmatan rohani dan jasmani yang jauh dari yang dapat kita bayangkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5982,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَنَمَارِقُ مَصْفُوفَةٌ",
+                    "transliteration": {
+                        "en": "Wa namaariqu masfoofah"
+                    }
+                },
+                "translation": {
+                    "en": "And cushions lined up",
+                    "id": "dan bantal-bantal sandaran yang tersusun,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5982",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5982.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5982.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan di sana tersedia pula bantal-bantal sandaran yang tersusun. Mereka duduk bersandar pada bantal itu, menikmati suasana bahagia di surga.",
+                        "long": "Dalam ayat-ayat berikut ini, Allah menerangkan keadaan surga:\n\n1.Surga tempatnya bernilai tinggi, lebih tinggi dari nilai tempat-tempat yang lain.\n\n2.Di dalamnya tidak terdengar perkataan yang tidak berguna, sebab tempat itu adalah tempat orang-orang yang dikasihi Allah.\n\n3.Di dalamnya terdapat mata air yang mengalirkan air bersih yang menarik pandangan bagi siapa saja yang melihatnya.\n\n4.Di dalamnya terdapat mahligai yang tinggi.\n\n5.Di dekat mereka tersedia gelas-gelas yang berisi minuman yang sudah siap diminum.\n\n6.Di dalamnya terdapat bantal-bantal tersusun yang dapat dipergunakan menurut selera mereka, duduk di atasnya atau dipakai untuk bersandar dan sebagainya.\n\n7.Di sana terdapat pula permadani yang indah dan terhampar pada setiap tempat.\n\n8.Terdapat segala macam kenikmatan rohani dan jasmani yang jauh dari yang dapat kita bayangkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5983,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَزَرَابِيُّ مَبْثُوثَةٌ",
+                    "transliteration": {
+                        "en": "Wa zaraabiyyu mabsoosah"
+                    }
+                },
+                "translation": {
+                    "en": "And carpets spread around.",
+                    "id": "dan permadani-permadani yang terhampar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5983",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5983.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5983.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan di sana ada pula permadani-permadani yang terhampar, indah, dan berwarna-warni. Demikianlah ganjaran yang Allah berikan kepada mereka atas amal saleh mereka di dunia. Inilah bukti kemurahan dan kasih sayang Allah kepada hamba yang beriman dan bertakwa.",
+                        "long": "Dalam ayat-ayat berikut ini, Allah menerangkan keadaan surga:\n\n1.Surga tempatnya bernilai tinggi, lebih tinggi dari nilai tempat-tempat yang lain.\n\n2.Di dalamnya tidak terdengar perkataan yang tidak berguna, sebab tempat itu adalah tempat orang-orang yang dikasihi Allah.\n\n3.Di dalamnya terdapat mata air yang mengalirkan air bersih yang menarik pandangan bagi siapa saja yang melihatnya.\n\n4.Di dalamnya terdapat mahligai yang tinggi.\n\n5.Di dekat mereka tersedia gelas-gelas yang berisi minuman yang sudah siap diminum.\n\n6.Di dalamnya terdapat bantal-bantal tersusun yang dapat dipergunakan menurut selera mereka, duduk di atasnya atau dipakai untuk bersandar dan sebagainya.\n\n7.Di sana terdapat pula permadani yang indah dan terhampar pada setiap tempat.\n\n8.Terdapat segala macam kenikmatan rohani dan jasmani yang jauh dari yang dapat kita bayangkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5984,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+                    "transliteration": {
+                        "en": "Afalaa yanzuroona ilalibili kaifa khuliqat"
+                    }
+                },
+                "translation": {
+                    "en": "Then do they not look at the camels - how they are created?",
+                    "id": "Maka tidakkah mereka memperhatikan unta, bagaimana diciptakan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5984",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5984.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5984.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah memperlihatkan begitu banyak tanda kekuasaan-Nya di hadapan manusia. Maka, tidakkah mereka memperhatikan unta, bagaimana diciptakan? Unta diciptakan oleh Allah dengan bentuk tubuh dan anggota badan yang sesuai dengan lingkungan hidupnya di padang pasir. Air susunya dan dagingnya menjadi bahan makanan yang lezat, sedangkan kulitnya dapat dijadikan kemah dan sebagainya (Lihat pula: an-Nahl/16: 7, 81; Gàfir/40: 79–80).",
+                        "long": "Dalam ayat-ayat ini, Allah mempertanyakan apakah mereka tidak memperhatikan bagaimana unta, yang ada di depan mata mereka dan dipergunakan setiap waktu, diciptakan. Bagaimana pula langit yang berada di tempat yang tinggi tanpa tiang; bagaimana gunung-gunung dipancangkan dengan kukuh, tidak bergoyang dan dijadikan petunjuk bagi orang yang dalam perjalanan. Di atasnya terdapat danau dan mata air yang dapat dipergunakan untuk keperluan manusia, mengairi tumbuh-tumbuhan, dan memberi minum binatang ternak. Bagaimana pula bumi dihamparkan sebagai tempat tinggal bagi manusia.\n\nApabila mereka telah memperhatikan semua itu dengan seksama, tentu mereka akan mengakui bahwa penciptanya dapat membangkitkan manusia kembali pada hari Kiamat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5985,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ",
+                    "transliteration": {
+                        "en": "Wa ilas samaaa'i kaifa rufi'at"
+                    }
+                },
+                "translation": {
+                    "en": "And at the sky - how it is raised?",
+                    "id": "dan langit, bagaimana ditinggikan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5985",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5985.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5985.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan tidakkah pula mereka memperhatikan langit, bagaimana ditinggikan? Allah menjadikan langit sebagai atap bumi yang kukuh meski tanpa penopang. Di sana matahari, bulan, planet, dan berbagai benda langit beredar. Allah menghiasinya dengan bintang yang dapat menjadi petunjuk arah bagi para musafir. Dari langit itu pula turun hujan yang sangat bermanfaat bagi kehidupan di bumi.",
+                        "long": "Dalam ayat-ayat ini, Allah mempertanyakan apakah mereka tidak memperhatikan bagaimana unta, yang ada di depan mata mereka dan dipergunakan setiap waktu, diciptakan. Bagaimana pula langit yang berada di tempat yang tinggi tanpa tiang; bagaimana gunung-gunung dipancangkan dengan kukuh, tidak bergoyang dan dijadikan petunjuk bagi orang yang dalam perjalanan. Di atasnya terdapat danau dan mata air yang dapat dipergunakan untuk keperluan manusia, mengairi tumbuh-tumbuhan, dan memberi minum binatang ternak. Bagaimana pula bumi dihamparkan sebagai tempat tinggal bagi manusia.\n\nApabila mereka telah memperhatikan semua itu dengan seksama, tentu mereka akan mengakui bahwa penciptanya dapat membangkitkan manusia kembali pada hari Kiamat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5986,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
+                    "transliteration": {
+                        "en": "Wa ilal jibaali kaifa nusibat"
+                    }
+                },
+                "translation": {
+                    "en": "And at the mountains - how they are erected?",
+                    "id": "Dan gunung-gunung bagaimana ditegakkan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5986",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5986.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5986.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan tidakkah mereka memperhatikan gunung-gunung, bagaimana ditegakkan? Gunung, dengan akarnya yang menancap kukuh dan kuat di dalam perut bumi, berfungsi sebagai pasak yang menahan bumi agar tidak bergoncang dan dengan demikian bisa menjadi tempat tinggal yang nyaman (Lihat pula: an-Nahl/16: 15, 82).",
+                        "long": "Dalam ayat-ayat ini, Allah mempertanyakan apakah mereka tidak memperhatikan bagaimana unta, yang ada di depan mata mereka dan dipergunakan setiap waktu, diciptakan. Bagaimana pula langit yang berada di tempat yang tinggi tanpa tiang; bagaimana gunung-gunung dipancangkan dengan kukuh, tidak bergoyang dan dijadikan petunjuk bagi orang yang dalam perjalanan. Di atasnya terdapat danau dan mata air yang dapat dipergunakan untuk keperluan manusia, mengairi tumbuh-tumbuhan, dan memberi minum binatang ternak. Bagaimana pula bumi dihamparkan sebagai tempat tinggal bagi manusia.\n\nApabila mereka telah memperhatikan semua itu dengan seksama, tentu mereka akan mengakui bahwa penciptanya dapat membangkitkan manusia kembali pada hari Kiamat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5987,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
+                    "transliteration": {
+                        "en": "Wa ilal ardi kaifa sutihat"
+                    }
+                },
+                "translation": {
+                    "en": "And at the earth - how it is spread out?",
+                    "id": "Dan bumi bagaimana dihamparkan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5987",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5987.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5987.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan tidakkah mereka memperhatikan bumi, bagaimana dihamparkan? Di bumi itu manusia tinggal, beraktivitas, bercocok tanam, dan sebagainya. Di bumi Allah menciptakan beraneka flora, fauna, sungai, sumber air, dan lain sebagainya untuk kepentingan makhluk hidup.",
+                        "long": "Dalam ayat-ayat ini, Allah mempertanyakan apakah mereka tidak memperhatikan bagaimana unta, yang ada di depan mata mereka dan dipergunakan setiap waktu, diciptakan. Bagaimana pula langit yang berada di tempat yang tinggi tanpa tiang; bagaimana gunung-gunung dipancangkan dengan kukuh, tidak bergoyang dan dijadikan petunjuk bagi orang yang dalam perjalanan. Di atasnya terdapat danau dan mata air yang dapat dipergunakan untuk keperluan manusia, mengairi tumbuh-tumbuhan, dan memberi minum binatang ternak. Bagaimana pula bumi dihamparkan sebagai tempat tinggal bagi manusia.\n\nApabila mereka telah memperhatikan semua itu dengan seksama, tentu mereka akan mengakui bahwa penciptanya dapat membangkitkan manusia kembali pada hari Kiamat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5988,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ",
+                    "transliteration": {
+                        "en": "Fazakkir innama anta Muzakkir"
+                    }
+                },
+                "translation": {
+                    "en": "So remind, [O Muhammad]; you are only a reminder.",
+                    "id": "Maka berilah peringatan, karena sesungguhnya engkau (Muhammad) hanyalah pemberi peringatan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5988",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5988.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5988.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Semestinya dengan memperhatikan fenomena-fenomena itu manusia bersedia mengabdi kepada Allah. Allah meminta Nabi untuk terus berdakwah meski banyak manusia yang ingkar. Maka berilah peringatan kepada mereka yang tetap ingkar meski bukti-bukti tentang kekuasaan Allah mereka saksikan setiap hari. Ingatkanlah mereka karena sesungguhnya engkau hanyalah pemberi peringatan.",
+                        "long": "Dalam ayat ini, Allah memerintahkan Nabi Muhammad agar memberi peringatan dan petunjuk serta menyampaikan agama-Nya kepada umat manusia, karena tugasnya tidak lain hanyalah memberi peringatan dengan menyampaikan kabar gembira dan kabar yang menakutkan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5989,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+                    "transliteration": {
+                        "en": "Lasta 'alaihim bimusaitir"
+                    }
+                },
+                "translation": {
+                    "en": "You are not over them a controller.",
+                    "id": "Engkau bukanlah orang yang berkuasa atas mereka,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5989",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5989.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5989.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi, engkau bukanlah orang yang berkuasa atas mereka. Engkau tidak bisa memaksa mereka beriman, demikian juga para dai setelah dirimu, karena sesungguhnya hidayah adalah urusan Allah.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa Nabi Muhammad tidak berkuasa menjadikan seseorang beriman. Akan tetapi, Allah-lah yang berkuasa menjadikan manusia beriman. Sementara itu, barang siapa yang berpaling dengan mengingkari kebenaran petunjuk Nabi-Nya, niscaya Allah menghukumnya. Allah berfirman:\n\nDan jika Tuhanmu menghendaki, tentulah beriman semua orang di bumi seluruhnya. Tetapi apakah kamu (hendak) memaksa manusia agar mereka menjadi orang-orang yang beriman? (Yunus/10: 99)\n\nDan Allah berfirman:\n\nKami lebih mengetahui tentang apa yang mereka katakan, dan engkau (Muhammad) bukanlah seorang pemaksa terhadap mereka. Maka berilah peringatan dengan Al-Qur'an kepada siapa pun yang takut kepada ancaman-Ku. (Qaf/50: 45)\n\nBerkaitan dengan hal itu, para juru dakwah cukup menyampaikan pesan-pesan Al-Qur'an dan hadis Nabi sambil mengajak setiap manusia untuk beriman dan beramal saleh, serta masuk ke dalam agama Islam secara keseluruhan (kaffah). Penampilan dan metode dakwah perlu dengan cara yang baik dan tidak boleh bersikap memaksa, sebagaimana firman Allah:\n\nTidak ada paksaan dalam (menganut) agama (Islam), sesungguhnya telah jelas (perbedaan) antara jalan yang benar dengan jalan yang sesat. (al-Baqarah/2: 256)\n\nDan Allah berfirman:\n\nSerulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang baik. Sesungguhnya Tuhanmu, Dialah yang lebih mengetahui siapa yang sesat dari jalan-Nya dan Dialah yang lebih mengetahui siapa yang mendapat petunjuk. (an-Nahl/16: 125)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5990,
+                    "inSurah": 23
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+                    "transliteration": {
+                        "en": "Illaa man tawallaa wa kafar"
+                    }
+                },
+                "translation": {
+                    "en": "However, he who turns away and disbelieves -",
+                    "id": "kecuali (jika ada) orang yang berpaling dan kafir,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5990",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5990.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5990.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Engkau tidak kuasa memberi mereka hidayah, kecuali jika ada orang yang berpaling dari ajakanmu dan memilih untuk tetap kafir kepada Allah dan hari akhir,",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa Nabi Muhammad tidak berkuasa menjadikan seseorang beriman. Akan tetapi, Allah-lah yang berkuasa menjadikan manusia beriman. Sementara itu, barang siapa yang berpaling dengan mengingkari kebenaran petunjuk Nabi-Nya, niscaya Allah menghukumnya. Allah berfirman:\n\nDan jika Tuhanmu menghendaki, tentulah beriman semua orang di bumi seluruhnya. Tetapi apakah kamu (hendak) memaksa manusia agar mereka menjadi orang-orang yang beriman? (Yunus/10: 99)\n\nDan Allah berfirman:\n\nKami lebih mengetahui tentang apa yang mereka katakan, dan engkau (Muhammad) bukanlah seorang pemaksa terhadap mereka. Maka berilah peringatan dengan Al-Qur'an kepada siapa pun yang takut kepada ancaman-Ku. (Qaf/50: 45)\n\nBerkaitan dengan hal itu, para juru dakwah cukup menyampaikan pesan-pesan Al-Qur'an dan hadis Nabi sambil mengajak setiap manusia untuk beriman dan beramal saleh, serta masuk ke dalam agama Islam secara keseluruhan (kaffah). Penampilan dan metode dakwah perlu dengan cara yang baik dan tidak boleh bersikap memaksa, sebagaimana firman Allah:\n\nTidak ada paksaan dalam (menganut) agama (Islam), sesungguhnya telah jelas (perbedaan) antara jalan yang benar dengan jalan yang sesat. (al-Baqarah/2: 256)\n\nDan Allah berfirman:\n\nSerulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang baik. Sesungguhnya Tuhanmu, Dialah yang lebih mengetahui siapa yang sesat dari jalan-Nya dan Dialah yang lebih mengetahui siapa yang mendapat petunjuk. (an-Nahl/16: 125)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5991,
+                    "inSurah": 24
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
+                    "transliteration": {
+                        "en": "Fa yu'azzibuhul laahul 'azaabal akbar"
+                    }
+                },
+                "translation": {
+                    "en": "Then Allah will punish him with the greatest punishment.",
+                    "id": "maka Allah akan mengazabnya dengan azab yang besar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5991",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5991.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5991.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "maka Allah akan mengazabnya dengan azab yang besar dan tak tertahankan. Azab itu bukanlah bentuk kezaliman Allah karena Dia telah memaparkan kepada mereka bukti-bukti eksistensi dan keesaan Allah dan kebenaran risalah Nabi Muhammad, namun mereka masih ingkar dan membangkang, bahkan menantang dan menyakiti Nabi.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa Nabi Muhammad tidak berkuasa menjadikan seseorang beriman. Akan tetapi, Allah-lah yang berkuasa menjadikan manusia beriman. Sementara itu, barang siapa yang berpaling dengan mengingkari kebenaran petunjuk Nabi-Nya, niscaya Allah menghukumnya. Allah berfirman:\n\nDan jika Tuhanmu menghendaki, tentulah beriman semua orang di bumi seluruhnya. Tetapi apakah kamu (hendak) memaksa manusia agar mereka menjadi orang-orang yang beriman? (Yunus/10: 99)\n\nDan Allah berfirman:\n\nKami lebih mengetahui tentang apa yang mereka katakan, dan engkau (Muhammad) bukanlah seorang pemaksa terhadap mereka. Maka berilah peringatan dengan Al-Qur'an kepada siapa pun yang takut kepada ancaman-Ku. (Qaf/50: 45)\n\nBerkaitan dengan hal itu, para juru dakwah cukup menyampaikan pesan-pesan Al-Qur'an dan hadis Nabi sambil mengajak setiap manusia untuk beriman dan beramal saleh, serta masuk ke dalam agama Islam secara keseluruhan (kaffah). Penampilan dan metode dakwah perlu dengan cara yang baik dan tidak boleh bersikap memaksa, sebagaimana firman Allah:\n\nTidak ada paksaan dalam (menganut) agama (Islam), sesungguhnya telah jelas (perbedaan) antara jalan yang benar dengan jalan yang sesat. (al-Baqarah/2: 256)\n\nDan Allah berfirman:\n\nSerulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang baik. Sesungguhnya Tuhanmu, Dialah yang lebih mengetahui siapa yang sesat dari jalan-Nya dan Dialah yang lebih mengetahui siapa yang mendapat petunjuk. (an-Nahl/16: 125)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5992,
+                    "inSurah": 25
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ إِلَيْنَا إِيَابَهُمْ",
+                    "transliteration": {
+                        "en": "Innaa ilainaaa iyaabahum"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, to Us is their return.",
+                    "id": "Sungguh, kepada Kamilah mereka kembali,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5992",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5992.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5992.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Engkau tidak bisa memaksa manusia untuk beriman. Janganlah bersedih atas keingkaran mereka. Sungguh, setelah mereka mati, hanya kepada Kamilah mereka kembali. Kamilah yang akan membalas dan menentukan nasib mereka di akhirat nanti.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa mereka akan kembali kepada-Nya. Tidak ada jalan bagi mereka untuk lari daripada-Nya. Dialah yang akan menghisab mereka atas perbuatan yang telah mereka perbuat di dunia dan kemudian menjatuhkan hukuman-Nya. Ayat-ayat ini adalah penghibur hati bagi Nabi Muhammad dan sebagai obat bagi kesedihan dan kepedihan hatinya atas keingkaran orang-orang kafir itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5993,
+                    "inSurah": 26
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 530,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+                    "transliteration": {
+                        "en": "Summa inna 'alainaa hisaabahum"
+                    }
+                },
+                "translation": {
+                    "en": "Then indeed, upon Us is their account.",
+                    "id": "kemudian sesungguhnya (kewajiban) Kamilah membuat perhitungan atas mereka."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5993",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5993.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5993.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kemudian, sesungguhnya Kamilah pula yang akan membuat perhitungan atas mereka. Kami akan memberi mereka balasan sesuai tingkat kedurhakaan mereka supaya mereka tahu bahwa kehidupan ini bukan untuk bermain-main, melainkan harus dijalani dengan serius dan bertanggung jawab.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa mereka akan kembali kepada-Nya. Tidak ada jalan bagi mereka untuk lari daripada-Nya. Dialah yang akan menghisab mereka atas perbuatan yang telah mereka perbuat di dunia dan kemudian menjatuhkan hukuman-Nya. Ayat-ayat ini adalah penghibur hati bagi Nabi Muhammad dan sebagai obat bagi kesedihan dan kepedihan hatinya atas keingkaran orang-orang kafir itu."
+                    }
+                }
+            }
+        ]
+    }
+}

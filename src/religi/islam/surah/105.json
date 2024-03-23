@@ -1,0 +1,251 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 105,
+        "sequence": 19,
+        "numberOfVerses": 5,
+        "name": {
+            "short": "الفيل",
+            "long": "سورة الفيل",
+            "transliteration": {
+                "en": "Al-Fil",
+                "id": "Al-Fil"
+            },
+            "translation": {
+                "en": "The Elephant",
+                "id": "Gajah"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kaafirun. Nama Al Fiil diambil dari kata Al Fiil yang terdapat pada ayat pertama surat ini, artinya gajah. Surat Al Fiil mengemukakan cerita pasukan bergajah dari Yaman yang dipimpin oleh Abrahah yang ingin meruntuhkan Ka'bah di Mekah. Peristiwa ini terjadi pada tahun Nabi Muhammad s.a.w. dilahirkan."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 6189,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 601,
+                    "manzil": 7,
+                    "ruku": 547,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+                    "transliteration": {
+                        "en": "Alam tara kaifa fa'ala rabbuka bi ashaabil feel"
+                    }
+                },
+                "translation": {
+                    "en": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?",
+                    "id": "Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6189",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6189.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6189.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi Muhammad atau siapa saja, tidakkah engkau perhatikan bagaimana Tuhanmu telah bertindak terhadap tentara bergajah dengan menghancurkan mereka, yaitu tentara Abrahah dari Ethiopia yang hendak menghancurkan Kakbah?",
+                        "long": "Dalam surah ini, Allah mengingatkan Nabi Muhammad dan pengikutnya dengan suatu peristiwa yang menunjukkan betapa besarnya kekuasaan Allah. Peristiwa itu adalah penyerbuan tentara gajah yang dipimpin oleh panglima Abrahah dari Yaman untuk menundukkan penduduk Mekah dan meruntuhkan Ka'bah. Akan tetapi, Allah membinasakan mereka sebelum maksud yang jahat itu tercapai. Peristiwa Gajah adalah suatu peristiwa yang paling terkenal di kalangan bangsa Arab, sehingga peristiwa ini mereka jadikan patokan tanggal bagi peristiwa-peristiwa lainnya.\n\nKesimpulan riwayatnya adalah bahwa seorang panglima perang yang berkuasa di Yaman ingin menguasai Ka'bah dan menghancurkannya, dengan maksud melarang orang-orang Arab mengerjakan haji ke Ka'bah. Lalu bala tentaranya bergerak menuju Ka'bah disertai beberapa ekor gajah untuk menakut-nakuti. Ketika iring-iringan angkatan perang tersebut tiba di suatu tempat bernama Muqammas (suatu tempat yang berdekatan dengan Mekah), mereka beristirahat di sana. Panglima perang mengirim utusannya kepada penduduk Mekah untuk menyampaikan maksudnya, yaitu bukan untuk memerangi penduduk tetapi untuk menghancurkan Ka'bah. Penduduk Mekah menjadi ketakutan dan lari ke gunung-gunung di sekeliling Ka'bah untuk melihat dari jauh apa yang akan terjadi dan apa yang akan dilakukan oleh panglima perang tersebut.\n\nDalam surah ini pula Allah menjelaskan apa yang terjadi terhadap pasukan bergajah dalam bentuk pertanyaan bahwa Muhammad tidak mengetahui keadaan yang sangat aneh dan peristiwa yang sangat dahsyat yang membuktikan kekuasaan Allah, ilmu dan hikmah-Nya yang tinggi terhadap tentara gajah yang ingin menghancurkan Ka'bah. Kejadian itu berbeda dengan kejadian lainnya yang mempunyai sebab dan akibat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6190,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 601,
+                    "manzil": 7,
+                    "ruku": 547,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+                    "transliteration": {
+                        "en": "Alam yaj'al kai dahum fee tad leel"
+                    }
+                },
+                "translation": {
+                    "en": "Did He not make their plan into misguidance?",
+                    "id": "Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6190",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6190.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6190.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bukankah Dia telah menjadikan tipu daya dan usaha mereka menghancurkan Kakbah itu sia-sia, meski mereka datang dengan pasukan yang kuat dan persenjataan yang lengkap?",
+                        "long": "Dalam ayat ini, Allah menjelaskan bahwa Ia telah menggagalkan tipu muslihat mereka yang hendak menghancurkan Ka'bah.\n\nAllah mengungkapkan cara menggagalkan tipu daya mereka, yaitu dengan mengirimkan pasukan burung yang berbondong-bondong melempari mereka dengan batu-batu yang berasal dari tanah sehingga menjadikan mereka hancur-lebur dan daging mereka beterbangan ke mana-mana. Maka tentara gajah menjadi laksana daun-daun yang dimakan ulat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6191,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 601,
+                    "manzil": 7,
+                    "ruku": 547,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+                    "transliteration": {
+                        "en": "Wa arsala 'alaihim tairan abaabeel"
+                    }
+                },
+                "translation": {
+                    "en": "And He sent against them birds in flocks,",
+                    "id": "dan Dia mengirimkan kepada mereka burung yang berbondong-bondong,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6191",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6191.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6191.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah mempunyai cara untuk menggagalkan tipu daya mereka, dan Dia mengirimkan kepada mereka salah satu makhluk-Nya yang dijadikan bala tentara untuk menghancurkan mereka, yaitu burung yang berbondong-bondong dan tidak terhitung banyaknya.",
+                        "long": "Dalam ayat ini, Allah menjelaskan bahwa Ia telah menggagalkan tipu muslihat mereka yang hendak menghancurkan Ka'bah.\n\nAllah mengungkapkan cara menggagalkan tipu daya mereka, yaitu dengan mengirimkan pasukan burung yang berbondong-bondong melempari mereka dengan batu-batu yang berasal dari tanah sehingga menjadikan mereka hancur-lebur dan daging mereka beterbangan ke mana-mana. Maka tentara gajah menjadi laksana daun-daun yang dimakan ulat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6192,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 601,
+                    "manzil": 7,
+                    "ruku": 547,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+                    "transliteration": {
+                        "en": "Tar meehim bi hi jaaratim min sij jeel"
+                    }
+                },
+                "translation": {
+                    "en": "Striking them with stones of hard clay,",
+                    "id": "yang melempari mereka dengan batu dari tanah liat yang dibakar,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6192",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6192.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6192.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah mengirim burung-burung yang melempari mereka dengan batu yang berasal dari tanah liat yang terbakar.",
+                        "long": "Dalam ayat ini, Allah menjelaskan bahwa Ia telah menggagalkan tipu muslihat mereka yang hendak menghancurkan Ka'bah.\n\nAllah mengungkapkan cara menggagalkan tipu daya mereka, yaitu dengan mengirimkan pasukan burung yang berbondong-bondong melempari mereka dengan batu-batu yang berasal dari tanah sehingga menjadikan mereka hancur-lebur dan daging mereka beterbangan ke mana-mana. Maka tentara gajah menjadi laksana daun-daun yang dimakan ulat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6193,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 601,
+                    "manzil": 7,
+                    "ruku": 547,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+                    "transliteration": {
+                        "en": "Faja 'alahum ka'asfim m'akool"
+                    }
+                },
+                "translation": {
+                    "en": "And He made them like eaten straw.",
+                    "id": "sehingga mereka dijadikan-Nya seperti daun-daun yang dimakan (ulat)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6193",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6193.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6193.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Batu-batu yang dijatuhkan oleh burung-burung itu tepat mengenai tentara Abrahah sehingga mereka dijadikan-Nya bergelimpangan tak berdaya dan binasa seperti daun-daun yang dimakan ulat. Itulah balasan bagi orang yang angkuh dan hendak menghancurkan Kakbah, simbol agama Allah.",
+                        "long": "Dalam ayat ini, Allah menjelaskan bahwa Ia telah menggagalkan tipu muslihat mereka yang hendak menghancurkan Ka'bah.\n\nAllah mengungkapkan cara menggagalkan tipu daya mereka, yaitu dengan mengirimkan pasukan burung yang berbondong-bondong melempari mereka dengan batu-batu yang berasal dari tanah sehingga menjadikan mereka hancur-lebur dan daging mereka beterbangan ke mana-mana. Maka tentara gajah menjadi laksana daun-daun yang dimakan ulat."
+                    }
+                }
+            }
+        ]
+    }
+}

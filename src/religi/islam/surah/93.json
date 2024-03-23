@@ -1,0 +1,491 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 93,
+        "sequence": 11,
+        "numberOfVerses": 11,
+        "name": {
+            "short": "الضحى",
+            "long": "سورة الضحى",
+            "transliteration": {
+                "en": "Ad-Dhuhaa",
+                "id": "Ad-Duha"
+            },
+            "translation": {
+                "en": "The Morning Hours",
+                "id": "Duha"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 11 ayat, termasuk golongan surat Makiyyah dan diturunkan sesudah surat Al Fajr. Nama Adh Dhuhaa diambil dari kata yang terdapat pada ayat pertama, artinya : waktu matahari sepenggalahan naik."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 6080,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالضُّحَىٰ",
+                    "transliteration": {
+                        "en": "Wad duhaa"
+                    }
+                },
+                "translation": {
+                    "en": "By the morning brightness",
+                    "id": "Demi waktu duha (ketika matahari naik sepenggalah),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6080",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6080.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6080.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi waktu duha ketika matahari naik sepenggalah, atau demi waktu siang seluruhnya. Penyebutan waktu duha mengisyaratkan bahwa tenggang waktu ketika Nabi tidak menerima wahyu beberapa lama bagaikan malam yang gelap, sedangkan turunnya surah ini setelah itu bagaikan fajar yang menyingsing.",
+                        "long": "Dalam ayat-ayat ini, Allah bersumpah dengan dua macam tanda-tanda kebesaran-Nya, yaitu dhuha (waktu matahari naik sepenggalah) bersama cahayanya dan malam beserta kegelapan dan kesunyiannya, bahwa Dia tidak meninggalkan Rasul-Nya, Muhammad, dan tidak pula memarahinya, sebagaimana orang-orang mengatakannya atau perasaan Rasulullah sendiri."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6081,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَاللَّيْلِ إِذَا سَجَىٰ",
+                    "transliteration": {
+                        "en": "Wal laili iza sajaa"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the night when it covers with darkness,",
+                    "id": "dan demi malam apabila telah sunyi,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6081",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6081.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6081.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan demi malam apabila telah sunyi dan gelap. Ketika matahari bergeser ke tempat lain, belahan bumi yang ditinggalkannya beranjak tenang dan gelap, menjadi waktu yang tepat untuk istirahat.",
+                        "long": "Dalam ayat-ayat ini, Allah bersumpah dengan dua macam tanda-tanda kebesaran-Nya, yaitu dhuha (waktu matahari naik sepenggalah) bersama cahayanya dan malam beserta kegelapan dan kesunyiannya, bahwa Dia tidak meninggalkan Rasul-Nya, Muhammad, dan tidak pula memarahinya, sebagaimana orang-orang mengatakannya atau perasaan Rasulullah sendiri."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6082,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+                    "transliteration": {
+                        "en": "Ma wad da'aka rabbuka wa ma qalaa"
+                    }
+                },
+                "translation": {
+                    "en": "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].",
+                    "id": "Tuhanmu tidak meninggalkan engkau (Muhammad) dan tidak (pula) membencimu,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6082",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6082.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6082.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi, tidak adanya wahyu yang turun kepadamu dalam beberapa hari ini bukan karena Allah membencimu. Tuhanmu yang telah memilihmu sebagai nabi dan rasul tidak akan meninggalkan engkau sendirian dalam menyampaikan risalah dan tidak pula membencimu.",
+                        "long": "Dalam ayat-ayat ini, Allah bersumpah dengan dua macam tanda-tanda kebesaran-Nya, yaitu dhuha (waktu matahari naik sepenggalah) bersama cahayanya dan malam beserta kegelapan dan kesunyiannya, bahwa Dia tidak meninggalkan Rasul-Nya, Muhammad, dan tidak pula memarahinya, sebagaimana orang-orang mengatakannya atau perasaan Rasulullah sendiri."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6083,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ",
+                    "transliteration": {
+                        "en": "Walal-aakhiratu khairul laka minal-oola"
+                    }
+                },
+                "translation": {
+                    "en": "And the Hereafter is better for you than the first [life].",
+                    "id": "dan sungguh, yang kemudian itu lebih baik bagimu dari yang permulaan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6083",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6083.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6083.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sungguh, yang kemudian itu lebih baik bagimu dari yang permulaan. Akhirat beserta pahala yang Allah sediakan untukmu itu lebih baik daripada dunia ini. Kenikmatan akhirat bersifat abadi, sedangkan kehidupan dunia hanya sementara.",
+                        "long": "Dalam ayat ini, Allah mengungkapkan sesuatu yang melapangkan dada Nabi saw dan menenteramkan jiwanya, bahwa keadaan Nabi dalam kehidupannya di hari-hari mendatang akan lebih baik dibandingkan dengan hari-hari yang telah lalu. Kebesarannya akan bertambah dan namanya akan lebih dikenal. Allah akan selalu membimbingnya untuk mencapai kemuliaan dan untuk menuju kepada kebesaran.\n\nSeakan-akan Allah mengatakan kepada Rasul-Nya, \"Apakah engkau kira bahwa Aku akan meninggalkanmu? Bahkan kedudukanmu di sisi-Ku sekarang lebih kukuh dan lebih dekat dari masa yang sudah-sudah.\"\n\nJanji Allah kepada Nabi Muhammad terus terbukti karena sejak itu nama Nabi saw semakin terkenal, kedudukannya semakin bertambah kuat, sehingga mencapai tingkat yang tidak pernah dicapai oleh para rasul sebelumnya. Allah telah menjadikan Nabi Muhammad sebagai rahmat, petunjuk, dan cahaya untuk seluruh alam dan seluruh hamba-Nya. Allah menjadikan cinta kepada Nabi Muhammad termasuk cinta kepada-Nya juga; mengikuti Nabi dan mematuhinya adalah jalan untuk memperoleh nikmat-nikmat-Nya, serta menjadikan umat Nabi sebagai saksi-saksi untuk manusia seluruhnya. Nabi saw sendiri telah menyiarkan agama Allah sesuai dengan kehendak-Nya sehingga sampai ke pelosok-pelosok dunia.\n\nIni adalah suatu kebesaran yang tiada bandingnya, suatu keunggulan yang tiada taranya, dan suatu kemuliaan yang tidak ada yang dapat mengimbanginya. Semua itu adalah anugerah Allah yang diberikan kepada orang yang dikehendaki-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6084,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+                    "transliteration": {
+                        "en": "Wa la sawfa y'uteeka rabbuka fatarda"
+                    }
+                },
+                "translation": {
+                    "en": "And your Lord is going to give you, and you will be satisfied.",
+                    "id": "Dan sungguh, kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, sehingga engkau menjadi puas."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6084",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6084.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6084.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sungguh, kelak Tuhanmu pasti memberikan karunia-Nya yang berlimpah kepadamu, baik dalam urusan dunia seperti kesuksesan menyampaikan risalah, maupun di akhirat dengan pahala, hak memberi syafaat, dan sebagainya. Dia akan mencurahkan karunia kepadamu sehingga engkau menjadi puas karenanya.",
+                        "long": "Dalam ayat ini, Allah menyampaikan berita gembira kepada Nabi Muhammad, bahwa Dia akan terus-menerus melimpahkan anugerah-Nya kepada beliau, sehingga beliau menjadi senang dan bahagia. Di antara pemberian-Nya itu ialah turunnya wahyu terus-menerus setelah itu sebagai petunjuk bagi Nabi saw dan umatnya untuk mendapat kebahagiaan hidup di dunia dan hari akhirat. Dia akan memenangkan agama yang dibawa Nabi Muhammad atas seluruh agama lainnya dan Dia akan mengangkat kedudukannya di atas kedudukan manusia seluruhnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6085,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+                    "transliteration": {
+                        "en": "Alam ya jidka yateeman fa aawaa"
+                    }
+                },
+                "translation": {
+                    "en": "Did He not find you an orphan and give [you] refuge?",
+                    "id": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(mu),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6085",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6085.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6085.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bukankah Dia mendapatimu sebagai seorang yatim ketika kedua orang tuamu wafat, lalu Dia melindungimu dalam asuhan kakek dan pamanmu? Ayah Nabi wafat ketika beliau dalam kandungan dan ibunya wafat ketika beliau berumur 6 tahun. Allah melindungi Nabi dalam asuhan kakeknya, ‘Abdul Muttalib, sampai usia 8 tahun, dilanjutkan oleh pamannya, Abù Tàlib, hingga sang paman wafat.",
+                        "long": "Dalam ayat ini, Allah mengingatkan nikmat yang pernah diterima Nabi Muhammad dengan mengatakan, \"Bukankah engkau hai Muhammad seorang anak yatim, tidak mempunyai ayah yang bertanggung jawab atas pendidikanmu, menanggulangi kepentingan serta membimbingmu, tetapi Aku telah menjaga, melindungi, dan membimbingmu serta menjauhkanmu dari dosa-dosa perilaku orang-orang Jahiliah dan keburukan mereka, sehingga engkau memperoleh julukan Manusia sempurna.\"\n\nNabi saw hidup dalam keadaan yatim karena ayahnya meninggal dunia sedangkan ia masih dalam kandungan ibunya. Ketika lahir, Allah memelihara Muhammad saw dengan cara menjadikan kakeknya, Abdul Muththalib, mengasihi dan menyayanginya. Nabi Muhammad berada dalam asuhan dan bimbingannya sampai Abdul Muththalib wafat, sedang umur Nabi ketika itu delapan tahun. Dengan meninggalnya Abdul Muththalib, Nabi Muhammad menjadi tanggungan paman beliau, Abu thalib, berdasarkan wasiat dari Abdul Muththalib. Abu thalib telah mengerahkan semua perhatiannya untuk mengasuh Nabi saw, sehingga beliau meningkat dewasa dan diangkat menjadi rasul. Setelah Muhammad diangkat menjadi rasul, orang-orang Quraisy memusuhi dan menyakitinya, tetapi Abu thalib terus membelanya dari semua ancaman orang musyrik hingga Abu thalib wafat.\n\nDengan wafatnya Abu thalib, bangsa Quraisy mendapat peluang untuk menyakiti Nabi dengan perantaraan orang-orang jahat di kalangan mereka yang menyebabkan beliau terpaksa hijrah.\n\nBetapa hebatnya penggemblengan Allah dan asuhan-Nya terhadap Nabi Muhammad. Biasanya keyatiman seorang anak menjadi sebab kehancuran akhlaknya karena tidak ada pengasuh dan pembimbing yang bertanggung jawab. Apalagi suasana dan sikap penduduk Mekah lebih dari cukup untuk menyesatkan Nabi saw. akan tetapi, perlindungan Allah yang sangat rapi dapat mencegah beliau menemani mereka. Dengan demikian, jadilah beliau seorang pemuda yang sangat jujur, terpercaya, tidak pernah berdusta, dan tidak pernah berlumur dengan dosa orang-orang Jahiliah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6086,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+                    "transliteration": {
+                        "en": "Wa wa jadaka daal lan fahada"
+                    }
+                },
+                "translation": {
+                    "en": "And He found you lost and guided [you],",
+                    "id": "dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6086",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6086.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6086.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan bukankah Dia juga mendapatimu sebelum menjadi nabi sebagai seorang yang bingung karena belum mengetahui akidah dan hukum yang benar, lalu Dia memberikan petunjuk melalui wahyu dan membimbingmu sampai akhir hayatmu?",
+                        "long": "Dalam ayat ini, Allah mengungkapkan, bahwa Dia mendapatkan Nabi Muhammad dalam keadaan tidak mengerti tentang syariat dan tidak mengetahui tentang Al-Qur'an. Kemudian Allah memberikan petunjuk kepadanya.\n\nHal yang sangat membingungkan Nabi Muhammad adalah apa yang dilihatnya di kalangan bangsa Arab sendiri tentang kerendahan akidah, kelemahan pertimbangan disebabkan pengaruh dugaan-dugaan yang salah, kejelekan amal perbuatan, dan keadaan mereka yang terpecah-belah dan suka bermusuhan. Mereka menuju kepada kehancuran karena memakai orang-orang asing yang leluasa bertindak di kalangan mereka yang terdiri dari bangsa Persi, Habsyi, dan Romawi.\n\nJalan apakah yang harus ditempuh untuk membetulkan akidah-akidah mereka, membebaskan mereka dari pengaruh adat istiadat yang buruk itu, dan cara bagaimana yang harus dijalankan untuk membangunkan mereka dari tidur yang nyenyak itu?\n\nUmat-umat nabi lain pun tidak lebih baik keadaannya daripada umatnya. Tetapi walaupun begitu, Allah tidak membiarkan Nabi Muhammad menjalankan dakwah tanpa bantuan-Nya. Allah bahkan memberikan wahyu yang menjelaskan kepadanya jalan yang harus ditempuh dalam usaha memperbaiki keadaan kaumnya. Allah berfirman:\n\nDan demikianlah Kami wahyukan kepadamu (Muhammad) ruh (Al-Qur'an) dengan perintah Kami. Sebelumnya engkau tidaklah mengetahui apakah Kitab (Al-Qur'an) dan apakah iman itu, tetapi Kami jadikan Al-Qur'an itu cahaya, dengan itu Kami memberi petunjuk siapa yang Kami kehendaki di antara hamba-hamba Kami. (asy-Syura/42: 52)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6087,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+                    "transliteration": {
+                        "en": "Wa wa jadaka 'aa-ilan fa aghnaa"
+                    }
+                },
+                "translation": {
+                    "en": "And He found you poor and made [you] self-sufficient.",
+                    "id": "dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6087",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6087.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6087.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan bukankah Dia juga mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan kepadamu dengan mengelola dagangan Khadijah dan dengan harta lainnya, seperti ganimah, serta membekalimu dengan sifat kanaah dan kesabaran atas pemberian-Nya?",
+                        "long": "Dalam ayat ini, Allah menyatakan bahwa Nabi Muhammad adalah seorang yang miskin. Ayahnya tidak meninggalkan pusaka baginya kecuali seekor unta betina dan seorang hamba sahaya perempuan. Kemudian Allah memberinya harta benda berupa keuntungan yang amat besar dari memperdagangkan harta Khadijah dan ditambah pula dengan harta yang dihibahkan Khadijah kepadanya dalam perjuangan menegakkan agama Allah.\n\nDari keterangan-keterangan tersebut di atas, sesungguhnya Allah mengatakan kepada Nabi Muhammad bahwa Dialah yang memeliharanya dalam keadaan yatim, menghindarkannya dari kebingungan, dan menjadikannya berkecukupan. Allah tidak akan meninggalkan Nabi Muhammad selama hidupnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6088,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+                    "transliteration": {
+                        "en": "Fa am mal yateema fala taqhar"
+                    }
+                },
+                "translation": {
+                    "en": "So as for the orphan, do not oppress [him].",
+                    "id": "Maka terhadap anak yatim janganlah engkau berlaku sewenang-wenang."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6088",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6088.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6088.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dengan karunia Allah yang demikian agung itu, maka berbuat baiklah terhadap anak yatim dan janganlah engkau berlaku sewenang-wenang kepadanya, seperti mengambil hartanya, menghardiknya, dan menyakiti hatinya.",
+                        "long": "Sesudah menyatakan dalam ayat-ayat terdahulu tentang bermacam-macam nikmat yang diberikan kepada Nabi Muhammad, maka pada ayat ini, Allah meminta kepada Nabi-Nya agar mensyukuri nikmat-nikmat tersebut, serta tidak menghina anak-anak yatim dan memperkosa haknya.\n\nSebaliknya, Nabi Muhammad diminta mendidik mereka dengan adab dan sopan-santun, serta menanamkan akhlak yang mulia dalam jiwa mereka, sehingga mereka menjadi anggota masyarakat yang berguna, tidak menjadi bibit kejahatan yang merusak orang-orang yang bergaul dengannya. Nabi Muhammad bersabda:\n\nAku (kedudukanku) dan orang yang mengasuh anak yatim di surga (sangat dekat), seperti dua ini (dua jari, yaitu telunjuk dan jari tengah).(Riwayat at-Tirmidhi dari Sahl bin Sa'ad)\n\nBarang siapa yang telah merasa kepahitan hidup dalam serba kekurangan maka selayaknya ia dapat merasakan kepahitan itu pada orang lain. Allah telah menghindarkan Nabi Muhammad dari kesengsaraan dan kehinaan, maka selayaknya Nabi memuliakan semua anak yatim sebagai tanda mensyukuri nikmat-nikmat yang dilimpahkan Allah kepadanya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6089,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+                    "transliteration": {
+                        "en": "Wa am mas saa-ila fala tanhar"
+                    }
+                },
+                "translation": {
+                    "en": "And as for the petitioner, do not repel [him].",
+                    "id": "Dan terhadap orang yang meminta-minta janganlah engkau menghardik(nya)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6089",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6089.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6089.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan berbuat baiklah terhadap orang yang meminta-minta, baik meminta ilmu pengetahuan atau harta, dan janganlah engkau menghardiknya. Berilah mereka apa yang engkau mampu atau tolaklah dengan halus dan ramah.",
+                        "long": "Dalam ayat ini, Allah memerintahkan kepada Nabi Muhammad agar orang-orang yang meminta sesuatu kepadanya jangan ditolak dengan kasar dan dibentak, malah sebaliknya diberi sesuatu atau ditolak secara halus. Ada pendapat bahwa yang dimaksud dengan kata as-sa'il adalah orang yang memohon petunjuk, maka hendaknya pemohon ini dilayani dengan lemah lembut sambil memenuhi permohonannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6090,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 596,
+                    "manzil": 7,
+                    "ruku": 535,
+                    "hizbQuarter": 238,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+                    "transliteration": {
+                        "en": "Wa amma bi ni'mati rabbika fahad dith"
+                    }
+                },
+                "translation": {
+                    "en": "But as for the favor of your Lord, report [it].",
+                    "id": "Dan terhadap nikmat Tuhanmu hendaklah engkau nyatakan (dengan bersyukur)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6090",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6090.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6090.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan terhadap nikmat Tuhanmu hendaklah engkau nyatakan dengan dibarengi rasa bersyukur. Allah telah memberimu nikmat yang tiada tara, seperti nikmat kenabian dan turunnya Al-Qur’an kepadamu. Sampaikan dan perlihatkanlah nikmat-nikmat Allah itu kepada orang lain sebagai bentuk rasa syukurmu kepada-Nya.",
+                        "long": "Dalam ayat ini, Allah menegaskan lagi kepada Nabi Muhammad agar memperbanyak pemberiannya kepada orang-orang fakir dan miskin serta mensyukuri, menyebut, dan mengingat nikmat Allah yang telah dilimpahkan kepadanya. Menyebut-nyebut nikmat Allah yang telah dilimpahkan kepada kita bukanlah untuk membangga-banggakan diri, tetapi untuk mensyukuri dan mengharapkan orang lain mensyukuri pula nikmat yang telah diperolehnya. Dalam sebuah hadis, Nabi saw mengatakan:\n\nOrang yang tidak berterima kasih kepada manusia tidak mensyukuri Allah. (Riwayat Abu Dawud dan at-Tirmizi dari Abu Hurairah).\n\nKebiasaan orang-orang kikir sering menyembunyikan harta kekayaannya untuk menjadi alasan tidak bersedekah, dan mereka selalu memperdengarkan kekurangan. Sebaliknya, orang-orang dermawan senantiasa menampakkan pemberian dan pengorbanan mereka dari harta kekayaan yang dianugerahkan kepada mereka dengan menyatakan syukur dan terima kasih kepada Allah atas limpahan karunia-Nya itu."
+                    }
+                }
+            }
+        ]
+    }
+}

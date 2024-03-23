@@ -1,0 +1,731 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 86,
+        "sequence": 36,
+        "numberOfVerses": 17,
+        "name": {
+            "short": "الطارق",
+            "long": "سورة الطارق",
+            "transliteration": {
+                "en": "At-Taariq",
+                "id": "At-Tariq"
+            },
+            "translation": {
+                "en": "The Morning Star",
+                "id": "Yang Datang Di Malam Hari"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat Ath Thaariq terdiri atas 17 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Balad.  Dinamai Ath Thaariq (yang datang di malam hari) diambil dari  perkataan Ath Thaariq yang terdapat pada ayat 1 surat ini."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5932,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالسَّمَاءِ وَالطَّارِقِ",
+                    "transliteration": {
+                        "en": "Wassamaaa'i wattaariq"
+                    }
+                },
+                "translation": {
+                    "en": "By the sky and the night comer -",
+                    "id": "Demi langit dan yang datang pada malam hari."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5932",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5932.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5932.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi langit yang terbentang dengan kukuh tanpa penopang dan demi apa yang datang pada malam hari dan menghiasi langit.",
+                        "long": "Dalam ayat-ayat ini dan pada beberapa ayat lain, Allah bersumpah dengan langit, matahari, bulan, dan malam karena terdapat padanya hal-hal, bentuk-bentuk, perjalanan-perjalanan, terbit dan tenggelamnya; maka keadaan yang ajaib dan luar biasa ini adalah bukti bagi orang yang berpikir dan memperhatikan bahwa ada penciptanya Yang Mahakuasa, tidak ada sekutu dalam penciptaannya.\n\nDalam ayat-ayat ini, Allah bersumpah dengan langit dan bintang yang terbit pada malam hari. Sinarnya memecahkan kegelapan, dan menjadi petunjuk jalan kepada manusia pada waktu gelap di bumi dan di laut. Dari bintang itu, manusia dapat mengetahui musim hujan dan hal-hal lain yang diperlukannya dalam kehidupan. Ada beberapa arti yang dikemukakan oleh para mufasir mengenai bintang tersebut. Pendapat yang terbaik adalah yang mengartikannya sebagai bintang yang bercahaya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5933,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+                    "transliteration": {
+                        "en": "Wa maaa adraaka mattaariq"
+                    }
+                },
+                "translation": {
+                    "en": "And what can make you know what is the night comer?",
+                    "id": "Dan tahukah kamu apakah yang datang pada malam hari itu?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5933",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5933.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5933.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan wahai Nabi, tahukah kamu apakah yang datang pada malam hari itu?",
+                        "long": "Dalam ayat-ayat ini dan pada beberapa ayat lain, Allah bersumpah dengan langit, matahari, bulan, dan malam karena terdapat padanya hal-hal, bentuk-bentuk, perjalanan-perjalanan, terbit dan tenggelamnya; maka keadaan yang ajaib dan luar biasa ini adalah bukti bagi orang yang berpikir dan memperhatikan bahwa ada penciptanya Yang Mahakuasa, tidak ada sekutu dalam penciptaannya.\n\nDalam ayat-ayat ini, Allah bersumpah dengan langit dan bintang yang terbit pada malam hari. Sinarnya memecahkan kegelapan, dan menjadi petunjuk jalan kepada manusia pada waktu gelap di bumi dan di laut. Dari bintang itu, manusia dapat mengetahui musim hujan dan hal-hal lain yang diperlukannya dalam kehidupan. Ada beberapa arti yang dikemukakan oleh para mufasir mengenai bintang tersebut. Pendapat yang terbaik adalah yang mengartikannya sebagai bintang yang bercahaya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5934,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "النَّجْمُ الثَّاقِبُ",
+                    "transliteration": {
+                        "en": "Annajmus saaqib"
+                    }
+                },
+                "translation": {
+                    "en": "It is the piercing star -",
+                    "id": "(yaitu) bintang yang bersinar tajam,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5934",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5934.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5934.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Itulah bintang yang bersinar tajam dan cahayanya menembus kegelapan malam. Malam bagaikan tirai yang menyelubungi langit. Cahaya bintang menyeruak, menembus tirai itu sehingga tampak gemerlap.",
+                        "long": "Dalam ayat-ayat ini dan pada beberapa ayat lain, Allah bersumpah dengan langit, matahari, bulan, dan malam karena terdapat padanya hal-hal, bentuk-bentuk, perjalanan-perjalanan, terbit dan tenggelamnya; maka keadaan yang ajaib dan luar biasa ini adalah bukti bagi orang yang berpikir dan memperhatikan bahwa ada penciptanya Yang Mahakuasa, tidak ada sekutu dalam penciptaannya.\n\nDalam ayat-ayat ini, Allah bersumpah dengan langit dan bintang yang terbit pada malam hari. Sinarnya memecahkan kegelapan, dan menjadi petunjuk jalan kepada manusia pada waktu gelap di bumi dan di laut. Dari bintang itu, manusia dapat mengetahui musim hujan dan hal-hal lain yang diperlukannya dalam kehidupan. Ada beberapa arti yang dikemukakan oleh para mufasir mengenai bintang tersebut. Pendapat yang terbaik adalah yang mengartikannya sebagai bintang yang bercahaya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5935,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+                    "transliteration": {
+                        "en": "In kullu nafsil lammaa 'alaihaa haafiz"
+                    }
+                },
+                "translation": {
+                    "en": "There is no soul but that it has over it a protector.",
+                    "id": "setiap orang pasti ada penjaganya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5935",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5935.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5935.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi itu semua, setiap orang pasti ada malaikat yang ditugasi oleh Allah sebagai penjaganya. Malaikat itu mencatat apa saja yang dilakukan oleh setiap individu, baik itu kebaikan maupun keburukan. Catatan itu akan menjadi bukti pada hari perhitungan kelak.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa setiap orang ada penjaga dan pengatur keperluannya dalam seluruh perjalanan hidupnya hingga ajalnya tiba. Mengenai penjaga manusia ini, terdapat dua pengertian, yaitu:\n\n1.Penjaga dari malaikat yang memperhatikan dan menghitung perbuatan manusia, sebagaimana firman Allah:\n\nTidak ada suatu kata yang diucapkannya melainkan ada di sisinya malaikat pengawas yang selalu siap (mencatat). (Qaf/50: 18)\n\n1.Penjaga dari malaikat yang selalu mendampingi setiap saat dan memelihara kehidupan sehari-hari, sebagaimana firman Allah:\n\nBaginya (manusia) ada malaikat-malaikat yang selalu menjaganya bergiliran, dari depan dan belakangnya. Mereka menjaganya atas perintah Allah. (ar-Ra'd/13: 11)\n\nKata thariq, nama surah ke-86 ini, berasal dari akar kata tharaqa yang makna dasarnya adalah memukul dengan cukup keras untuk menimbulkan suara. Dengan mempertimbangkan akar kata yang dapat diartikan sebagai 'berdenyut/berdetak, 'memukul keras. Adapun tsaqib yang berasal dari kata tsaqaba memiliki arti melubangi atau menembus sesuatu yang padat. Al-Qur'an tampaknya mengarahkan kita pada sebuah kenyataan ilmiah penting, yakni menuju ke arah apa yang pada saat ini dikenal dengan bintang pulsar, yang diambil dari kata kerja bahasa Inggris to pulse, yang berarti bergetar, berdenyut dengan irama teratur. Dengan demikian, surah di atas berbunyi atau berarti sebuah bintang yang mengetuk di malam hari dan membuat lubang.\n\nMelalui penelitian oleh Jocelyn Bell Burnell, mahasiswa doktoral bersama pembimbingnya Antony Hewish di Universitas Cambridge pada tahun 1967, ditemukan adanya sinyal radio yang terpancar secara teratur dari luar angkasa. Namun demikian, pada saat itu belum diketahui benda langit mana yang menjadi sumber getaran tersebut. Jocelyn Bell (ketika itu belum menyandang nama Burnell, suaminya) menandai rekaman yang diperolehnya dengan LGM, kependekan dari Little Green Men, sebab sinyal tersebut seperti sebuah pesan datang dari sebuah pemancar yang disampaikan oleh makhluk cerdas (intellegent life). Tidak lama kemudian, pulsar ini diinterpretasikan berasal dari bintang neutron yang berotasi dan terisolasi. Massa bintang yang sedang menuju 'kematiannya ini sangat padat dimana digambarkan materi pulsar seukuran satu sendok teh memiliki berat 1 miliar ton, dan memiliki gravitasi yang demikian besar. Bintang-bintang ini, yang berubah menjadi pulsar melalui ledakan supernova, termasuk benda-benda langit yang paling terang dan bergerak paling cepat di ruang angkasa. Sejumlah pulsar berputar 600 kali per detik. Bila bintang ini terus menuju keruntuhannya, maka lahirlah apa yang dikenal sebagai black hole (lubang hitam).\n\nApabila teleskop radio ini dihubungkan dengan 'loud speaker maka akan terdengar seperti suara orang mengetuk pintu (ath-thariq), yang berasal dari bintang sedang membuat lubang, untuk kemudian menjadi lubang hitam.\n\nAkhirnya Allah mengingatkan bahwa setiap jiwa ada penjaganya. Bahwa apa yang difirmankan Allah sebelumnya, tentang bintang-bintang, adalah haqq, maka firman Allah bahwa setiap jiwa ada penjaganya adalah haqq. Ayat ini merupakan peringatan bagi manusia untuk selalu sadar bahwa Allah senantiasa mengamati."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5936,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ",
+                    "transliteration": {
+                        "en": "Fal yanzuril insaanu mimma khuliq"
+                    }
+                },
+                "translation": {
+                    "en": "So let man observe from what he was created.",
+                    "id": "Maka hendaklah manusia memperhatikan dari apa dia diciptakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5936",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5936.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5936.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, hari kebangkitan itu pasti akan terjadi. Maka, hendaklah manusia memperhatikan asal kejadiannya; dari apa dia diciptakan. Dengan demikian, dia akan mengetahui besarnya kekuasan Allah dan keterbatasan dirinya.",
+                        "long": "Pada ayat ini, Allah mengingatkan manusia agar memperhatikan dari apakah ia diciptakan. Hal ini berarti bahwa Allah memerintahkan manusia untuk berpikir dan memperhatikan dengan sungguh-sungguh dari apa ia dijadikan. Dengan demikian, ia dapat mengetahui kekuasaan penciptanya dan mengetahui pula bahwa bila penciptanya dapat menciptakannya dari bahan yang tidak memiliki tanda-tanda kehidupan sedikit pun, maka tentulah Ia akan lebih mudah menghidupkannya kembali."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5937,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "خُلِقَ مِن مَّاءٍ دَافِقٍ",
+                    "transliteration": {
+                        "en": "Khuliqa mim maaa'in daafiq"
+                    }
+                },
+                "translation": {
+                    "en": "He was created from a fluid, ejected,",
+                    "id": "Dia diciptakan dari air (mani) yang terpancar,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5937",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5937.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5937.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dia pada mulanya diciptakan dari air mani yang terpancar dari laki-laki dan perempuan.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa manusia dijadikan-Nya dari air yang terpancar, yang keluar dari antara tulang punggung (as-sulb) dan tulang dada laki-laki. Pernyataan Allah ini adalah sebagai jawaban atas pertanyaan pada ayat terdahulu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5938,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+                    "transliteration": {
+                        "en": "Yakhruju mim bainissulbi wat taraaa'ib"
+                    }
+                },
+                "translation": {
+                    "en": "Emerging from between the backbone and the ribs.",
+                    "id": "yang keluar dari antara tulang punggung (sulbi) dan tulang dada."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5938",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5938.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5938.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Itulah sperma yang keluar dari antara tulang punggung laki-laki dan ovum yang keluar dari antara tulang dada perempuan. Campuran keduanya kemudian melalui berbagai proses dan tahapan di dalam rahim menjadi janin, cikal bakal manusia.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa manusia dijadikan-Nya dari air yang terpancar, yang keluar dari antara tulang punggung (as-sulb) dan tulang dada laki-laki. Pernyataan Allah ini adalah sebagai jawaban atas pertanyaan pada ayat terdahulu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5939,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
+                    "transliteration": {
+                        "en": "Innahoo 'alaa raj'ihee laqaadir"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, Allah, to return him [to life], is Able.",
+                    "id": "Sungguh, Allah benar-benar kuasa untuk mengembalikannya (hidup setelah mati)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5939",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5939.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5939.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah kuasa menciptakan manusia dari ketiadaan, dari air yang memancar, maka sungguh Allah benar-benar kuasa pula untuk mengembalikannya menjadi hidup kembali sesudah mati. Mengembalikan sesuatu kepada kondisi semula, dalam perspektif manusia, tentu lebih mudah daripada menciptakannya untuk pertama kali. Namun, kedua hal itu sama mudahnya bagi Allah.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa Ia benar-benar berkuasa untuk mengembalikan manusia hidup sesudah mati. Allah berfirman:\n\nKatakanlah (Muhammad), \"Yang akan menghidupkannya ialah (Allah) yang menciptakannya pertama kali. Dan Dia Maha Mengetahui tentang segala makhluk. (Yasin/36: 79)\n\nDan Dialah yang memulai penciptaan, kemudian mengulanginya kembali, dan itu lebih mudah bagi-Nya. Dia memiliki sifat yang Mahatinggi di langit dan di bumi. Dan Dialah Yang Mahaperkasa, Mahabijaksana. (ar-Rum/30: 27)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5940,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَ تُبْلَى السَّرَائِرُ",
+                    "transliteration": {
+                        "en": "Yawma tublas saraaa'ir"
+                    }
+                },
+                "translation": {
+                    "en": "The Day when secrets will be put on trial,",
+                    "id": "Pada hari ditampakkan segala rahasia,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5940",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5940.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5940.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah akan membangkitkan manusia dari kubur mereka pada hari ditampakkan segala rahasia, seperti isi hati manusia, meliputi keyakinan, niat dan rahasia lain yang belum terkuak di dunia.",
+                        "long": "Dalam ayat-ayat ini diterangkan bahwa Allah akan membangkitkan manusia kembali pada hari yang ditampakkan segala rahasia, yaitu hari Kiamat. Ketika itu, tidak seorang pun dapat luput dari apa yang sudah ditentukan sebagai balasan atas perbuatannya, yaitu surga bagi yang beramal saleh dan neraka bagi yang durhaka dan melanggar perintah Allah.\n\nKetika di akhirat, semua manusia akan memperoleh balasan sesuai dengan perbuatan masing-masing. Jadi, setiap orang akan memperoleh sebagaimana amal yang telah dilakukan di dunia. Tidak ada satu kekuatan pun yang dapat mengubahnya dan tidak ada penolong yang dapat membantunya kecuali kekuasaan Allah semata, sebagaimana firman-Nya:\n\nDan tidak ada (lagi) baginya segolongan pun yang dapat menolongnya selain Allah; dan dia pun tidak akan dapat membela dirinya. (al-Kahf/18: 43)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5941,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَمَا لَهُ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+                    "transliteration": {
+                        "en": "Famaa lahoo min quwwatinw wa laa naasir"
+                    }
+                },
+                "translation": {
+                    "en": "Then man will have no power or any helper.",
+                    "id": "maka manusia tidak lagi mempunyai suatu kekuatan dan tidak (pula) ada penolong."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5941",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5941.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5941.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ketika semua persoalan terkuak di hadapan Allah maka manusia tidak lagi mempunyai suatu kekuatan dalam dirinya sendiri dan tidak pula ada penolong dari luar dirinya yang mengelakkan nya dari balasan Allah. Allah-lah penguasa tunggal pada hari itu.",
+                        "long": "Dalam ayat-ayat ini diterangkan bahwa Allah akan membangkitkan manusia kembali pada hari yang ditampakkan segala rahasia, yaitu hari Kiamat. Ketika itu, tidak seorang pun dapat luput dari apa yang sudah ditentukan sebagai balasan atas perbuatannya, yaitu surga bagi yang beramal saleh dan neraka bagi yang durhaka dan melanggar perintah Allah.\n\nKetika di akhirat, semua manusia akan memperoleh balasan sesuai dengan perbuatan masing-masing. Jadi, setiap orang akan memperoleh sebagaimana amal yang telah dilakukan di dunia. Tidak ada satu kekuatan pun yang dapat mengubahnya dan tidak ada penolong yang dapat membantunya kecuali kekuasaan Allah semata, sebagaimana firman-Nya:\n\nDan tidak ada (lagi) baginya segolongan pun yang dapat menolongnya selain Allah; dan dia pun tidak akan dapat membela dirinya. (al-Kahf/18: 43)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5942,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+                    "transliteration": {
+                        "en": "Wassamaaa'i zaatir raj'"
+                    }
+                },
+                "translation": {
+                    "en": "By the sky which returns [rain]",
+                    "id": "Demi langit yang mengandung hujan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5942",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5942.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5942.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi langit yang mengandung hujan yang turun kembali ke bumi. Dengan hujan bumi yang tandus menjadi subur. Inilah salah satu bukti kasih sayang Allah kepada makhluk-Nya.",
+                        "long": "Dalam ayat ini, Allah bersumpah dengan langit yang mengandung hujan yang sangat diharapkan manusia, karena hujanlah yang menjadikan tanah tandus menjadi subur, yang membuat makhluk yang berada di bumi hidup dan yang menjadikan udara panas menjadi sejuk."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5943,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+                    "transliteration": {
+                        "en": "Wal ardi zaatis sad'"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the earth which cracks open,",
+                    "id": "dan bumi yang mempunyai tumbuh-tumbuhan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5943",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5943.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5943.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan demi bumi yang mempunyai tumbuh-tumbuhan. Benih yang tersiram hujan akan mulai tumbuh dan menembus permukaan tanah untuk berkembang. Banyaknya tumbuhan dan pepohonan mendatangkan manfaat yang besar bagi makhluk hidup lainnya.",
+                        "long": "Allah bersumpah dengan bumi yang mempunyai tumbuh-tumbuhan dan buah-buahan yang sangat diperlukan untuk kehidupan manusia dan binatang ternak mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5944,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+                    "transliteration": {
+                        "en": "Innahoo laqawlun fasl"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, the Qur'an is a decisive statement,",
+                    "id": "sungguh, (Al-Qur'an) itu benar-benar firman pemisah (antara yang hak dan yang batil),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5944",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5944.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5944.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, Al-Quran yang didustakan oleh kaum kafir itu benar-benar firman yang menjadi pemisah antara perkara hak dan batil. Sulit bagi manusia untuk membedakan keduanya tanpa tuntunan Al-Qur’an. Al-Qur’an menjadi salah satu bukti kasih sayang Allah karena menjadi penerang jalan hidup dan pemberi solusi bagi persoalan manusia.",
+                        "long": "Allah menegaskan bahwa sumpah-Nya dengan langit dan bumi itu menyatakan bahwa sesungguhnya Al-Qur'an yang dibawa oleh Nabi Muhammad benar-benar firman Allah yang memisahkan antara yang hak dan yang batil, dan sama sekali bukanlah senda gurau. Dengan demikian, sudah seharusnya Al-Qur'an menjadi petunjuk bagi seluruh manusia. Allah menjelaskan di dalam Al-Qur'an tentang yang hak dan batil karena keterbatasan kemampuan akal manusia untuk mengetahuinya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5945,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا هُوَ بِالْهَزْلِ",
+                    "transliteration": {
+                        "en": "Wa maa huwa bil hazl"
+                    }
+                },
+                "translation": {
+                    "en": "And it is not amusement.",
+                    "id": "dan (Al-Qur'an) itu bukanlah sendagurauan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5945",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5945.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5945.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sebagai firman Allah, Al-Qur’an itu bukanlah sendagurauan. AlQur’an bukan sesuatu yang tidak bermakna, bukan pula dongeng masa lalu. Al-Qur’an adalah murni rahmat Tuhan yang Maha Pengasih bagi seluruh alam.",
+                        "long": "Allah menegaskan bahwa sumpah-Nya dengan langit dan bumi itu menyatakan bahwa sesungguhnya Al-Qur'an yang dibawa oleh Nabi Muhammad benar-benar firman Allah yang memisahkan antara yang hak dan yang batil, dan sama sekali bukanlah senda gurau. Dengan demikian, sudah seharusnya Al-Qur'an menjadi petunjuk bagi seluruh manusia. Allah menjelaskan di dalam Al-Qur'an tentang yang hak dan batil karena keterbatasan kemampuan akal manusia untuk mengetahuinya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5946,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+                    "transliteration": {
+                        "en": "Innahum yakeedoona kaidaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, they are planning a plan,",
+                    "id": "Sungguh, mereka (orang kafir) merencanakan tipu daya yang jahat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5946",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5946.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5946.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi, abaikanlah penentangan kaummu yang kafir dan teruslah menyampaikan risalah Tuhanmu karena Aku akan menjagamu. Sungguh, mereka merencanakan tipu daya yang jahat, baik terhadap dirimu dengan merencanakan pembunuhan atasmu, terhadap Al-Qur’an dengan menganggapnya dongeng masa lalu, rapalan pesihir, dan racauan orang gila; atau terhadap Islam dengan berupaya menghalangi tersebarnya agama ini.",
+                        "long": "Allah menerangkan bahwa orang kafir merencanakan tipu daya yang jahat dengan mengatakan tidak ada hari kebangkitan, sebagaimana diterangkan Allah dalam ayat-ayat berikut ini tentang apa-apa yang telah mereka katakan:\n\nDan tentu mereka akan mengatakan (pula), \"Hidup hanyalah di dunia ini, dan kita tidak akan dibangkitkan.\" (al-An'am/6: 29)\n\nDan dia membuat perumpamaan bagi Kami dan melupakan asal kejadiannya; dia berkata, \"Siapakah yang dapat menghidupkan tulang-belulang, yang telah hancur luluh?\" (Yasin/36: 78)\n\nTipu daya itu adakalanya berupa fitnah yang menyatakan bahwa Nabi Muhammad tukang sihir, penyair, atau gila. Pada puncaknya, mereka merencanakan untuk membunuh Nabi Muhammad, sebagaimana firman Allah:\n\nDan (ingatlah), ketika orang-orang kafir (Quraisy) memikirkan tipu daya terhadapmu (Muhammad) untuk menangkap dan memenjarakanmu atau membunuhmu, atau mengusirmu. Mereka membuat tipu daya dan Allah menggagalkan tipu daya itu. Allah adalah sebaik-baik pembalas tipu daya. (al-Anfal/8: 30)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5947,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَكِيدُ كَيْدًا",
+                    "transliteration": {
+                        "en": "Wa akeedu kaidaa"
+                    }
+                },
+                "translation": {
+                    "en": "But I am planning a plan.",
+                    "id": "Dan Aku pun membuat rencana (tipu daya) yang jitu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5947",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5947.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5947.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Aku pun membuat rencana yang jitu untuk membalas tipu daya mereka. Akan Aku biarkan mereka bergelimang dosa dan hidup dengan nyaman dan berkecukupan. Di akhirat nanti, Aku akan azab mereka dengan siksa yang pedih.",
+                        "long": "Ayat ini menerangkan bahwa Allah menghadapi rencana jahat mereka itu dengan menolong Rasul-Nya dan mengangkat agama-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5948,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 528,
+                    "hizbQuarter": 236,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+                    "transliteration": {
+                        "en": "Famahhilil kaafireena amhilhum ruwaidaa"
+                    }
+                },
+                "translation": {
+                    "en": "So allow time for the disbelievers. Leave them awhile.",
+                    "id": "Karena itu berilah penangguhan kepada orang-orang kafir itu. Berilah mereka itu kesempatan untuk sementara waktu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5948",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5948.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5948.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi, Allah telah berjanji demikian. Karena itu berilah penangguhan kepada orang-orang kafir itu. Berilah mereka itu kesempatan untuk sementara waktu dan jangan engkau terburu-buru meminta Allah membinasakan mereka. Biarkan mereka hidup di dunia ini beberapa tahun lagi bersama keingkaran mereka. Di akhirat nanti mereka akan menghadap Tuhan dalam keadaan hina dan dimurkai.",
+                        "long": "Allah menyuruh Nabi Muhammad agar meneruskan dakwahnya dan tidak mengharapkan agar orang kafir cepat-cepat mendapat siksa. Allah menangguhkan siksa-Nya agar dosa mereka bertambah banyak, sehingga bila Allah menurunkan azab-Nya nanti, tidak akan ada seorang pun lagi yang menaruh kasihan kepada mereka. Allah berfirman:\n\nKami biarkan mereka bersenang-senang sebentar, kemudian Kami paksa mereka (masuk) ke dalam azab yang keras. (Luqman/31: 24)"
+                    }
+                }
+            }
+        ]
+    }
+}

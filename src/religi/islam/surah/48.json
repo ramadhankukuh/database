@@ -1,0 +1,1211 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 48,
+        "sequence": 111,
+        "numberOfVerses": 29,
+        "name": {
+            "short": "الفتح",
+            "long": "سورة الفتح",
+            "transliteration": {
+                "en": "Al-Fath",
+                "id": "Al-Fath"
+            },
+            "translation": {
+                "en": "The Victory",
+                "id": "Kemenangan"
+            }
+        },
+        "revelation": {
+            "arab": "مدينة",
+            "en": "Medinan",
+            "id": "Madaniyyah"
+        },
+        "tafsir": {
+            "id": "Surat Al Fath terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Jum'ah. Dinamakan Al Fath (kemenangan) diambil dari perkataan Fat-han yang terdapat pada ayat pertama surat ini. Sebagian besar dari ayat-ayat surat ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad s.a.w. dalam peperangan-peperangannya. Nabi Muhammad s.a.w. sangat gembira dengan turunnya ayat pertama surat ini. Kegembiraan ini dinyatakan dalam sabda beliau yang diriwayatkan Bukhari; Sesungguhnya telah diturunkan kepadaku satu surat, yang surat itu benar-benar lebih aku cintai dari seluruh apa yang disinari matahari. Kegembiraan Nabi Muhammad s.a.w. itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Muhammad s.a.w. dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 4584,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 511,
+                    "manzil": 6,
+                    "ruku": 446,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
+                    "transliteration": {
+                        "en": "Innaa fatahnaa laka Fatham Mubeenaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, We have given you, [O Muhammad], a clear conquest",
+                    "id": "Sungguh, Kami telah memberikan kepadamu kemenangan yang nyata."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4584",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4584.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4584.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, Kami telah memberikan kepadamu kemenangan yang nyata yang tidak ada keraguan sedikitpun tentang kemenangan itu.",
+                        "long": "Para ahli tafsir berbeda pendapat tentang maksud dari kata \"kemenangan\" (fath) dalam ayat ini. Sebagian mereka berpendapat penaklukan Mekah. Ada yang berpendapat, penaklukan negeri-negeri yang waktu itu berada di bawah kekuasaan bangsa Romawi, dan ada pula yang berpendapat, Perdamaian Hudaibiyyah. Kebanyakan ahli tafsir mengikuti pendapat terakhir ini. Di antaranya ialah:\n\n1.Menurut pendapat Ibnu 'Abbas, kemenangan dalam ayat ini adalah Perdamaian Hudaibiyyah karena perdamaian itu menjadi sebab terjadinya penaklukan Mekah.\n\n2.Diriwayatkan dari Ibnu Mas'ud bahwa ia berkata, \"Kalian berpendapat bahwa yang dimaksud dengan kemenangan dalam ayat ini ialah penaklukan Mekah, sedangkan kami berpendapat Perdamaian Hudaibiyyah. Pada riwayat yang lain diterangkan bahwa Surah al-Fath ini diturunkan pada suatu tempat yang terletak antara Mekah dan Medinah, setelah terjadi Perdamaian Hudaibiyyah, mulai dari permulaan sampai akhir surah.\n\n3.Az-Zuhri mengatakan, \"Tidak ada kemenangan yang lebih besar daripada kemenangan yang ditimbulkan oleh Perdamaian Hudaibiyyah dalam sejarah penyebaran agama Islam pada masa Rasulullah. Sejak terjadinya perdamaian itu, terjadilah hubungan yang langsung antara orang-orang Muslim dan orang-orang musyrik Mekah. Orang Muslim dapat menginjak kembali kampung halaman dan bertemu dengan keluarga mereka yang telah lama ditinggalkan. Dalam hubungan dan pergaulan yang demikian itu, orang-orang kafir telah mendengar secara langsung percakapan kaum Muslimin, baik yang dilakukan sesama kaum Muslimin, maupun yang dilakukan dengan orang kafir sehingga dalam masa tiga tahun, banyak di antara mereka yang masuk Islam. Demikianlah proses itu berlangsung sampai saat penaklukan Mekah, kaum Muslimin dapat memasuki kota itu tanpa pertumpahan darah.\n\nHudaibiyyah adalah nama sebuah desa, kira-kira 30 km di sebelah barat kota Mekah. Nama itu berasal dari nama sebuah perigi yang ada di desa tersebut. Nama desa itu kemudian dijadikan sebagai nama suatu perjanjian antara kaum Muslimin dengan orang-orang kafir Mekah, yang terjadi pada bulan Zulkaidah tahun 6 H (Februari 628 M) di desa itu.\n\nPada tahun keenam Hijriah, Nabi Muhammad beserta kaum Muslimin yang berjumlah hampir 1.500 orang memutuskan untuk berangkat ke Mekah untuk melepaskan rasa rindu mereka kepada Baitullah kiblat mereka, dengan melakukan umrah dan untuk melepaskan rasa rindu kepada sanak keluarga yang telah lama mereka tinggalkan. Untuk menghilangkan prasangka yang tidak benar dari orang kafir Mekah, maka kaum Muslimin mengenakan pakaian ihram, membawa hewan-hewan untuk disembelih yang akan disedekahkan kepada penduduk Mekah. Mereka pun berangkat tidak membawa senjata, kecuali sekedar senjata yang biasa dibawa orang dalam perjalanan jauh.\n\nSesampainya di Hudaibiyyah, rombongan besar kaum Muslimin itu bertemu dengan Basyar bin Sufyan al-Ka'bi. Basyar mengatakan kepada Rasulullah bahwa orang-orang Quraisy telah mengetahui kedatangan beliau dan kaum Muslimin. Oleh karena itu, mereka telah mempersiapkan bala tentara dan senjata untuk menyambut kedatangan kaum Muslimin. Mereka sedang berkumpul di dzi thuwa. Rasulullah saw lalu mengutus 'Utsman bin 'Affan menemui pimpinan dan pembesar Quraisy untuk menyampaikan maksud kedatangan beliau beserta kaum Muslimin. Maka berangkatlah 'Utsman. \n\nKaum Muslimin menunggu-nunggu kepulangan 'Utsman, tetapi ia tidak juga kunjung kembali. Hal itu terjadi karena 'Utsman ditahan oleh pembesar-pembesar Quraisy. Kemudian tersiar berita di kalangan kaum Muslimin bahwa 'Utsman telah mati dibunuh oleh para pembesar Quraisy. Mendengar berita itu, banyak kaum Muslimin yang telah hilang kesabarannya. Rasulullah bersumpah akan memerangi kaum kafir Quraisy. Menyaksikan hal itu, kaum Muslimin membaiat beliau bahwa mereka akan berperang bersama Nabi melawan kaum kafir. Hanya satu orang yang tidak membaiat, yaitu Jadd bin Qais al-Ansari. Baiat para sahabat itu diridai Allah sebagaimana disebutkan dalam ayat 18 surah ini. Oleh karena itu, baiat itu disebut Bai'atur-Ridhwan yang berarti \"baiat yang diridai\".\n\nBai'atur-Ridhwan ini menggetarkan hati orang-orang musyrik Mekah karena takut kaum Muslimin akan menuntut balas bagi kematian 'Utsman, sebagaimana yang mereka duga. Oleh karena itu, mereka mengirimkan utusan yang menyatakan bahwa berita tentang pembunuhan 'Utsman itu tidak benar dan mereka datang untuk berunding dengan Rasulullah saw. Perundingan itu menghasilkan perdamaian yang disebut Perjanjian Hudaibiyyah (Sulhul-Hudaibiyyah).\n\nIsi perdamaian itu ialah:\n\n1. Menghentikan peperangan selama 10 tahun.\n\n2. Setiap orang Quraisy yang datang kepada Rasulullah saw tanpa seizin wali yang mengurusnya, harus dikembalikan, tetapi setiap orang Islam yang datang kepada orang Quraisy, tidak dikembalikan kepada walinya.\n\n3. Kabilah-kabilah Arab boleh memilih antara mengadakan perjanjian dengan kaum Muslimin atau dengan orang musyrik Mekah. Sehubungan dengan ini, maka kabilah Khuza'ah memilih kaum Muslimin, sedangkan golongan Bani Bakr memilih kaum musyrik Mekah.\n\n4. Nabi Muhammad dan rombongan tidak boleh masuk Mekah pada tahun perjanjian itu dibuat, tetapi baru dibolehkan pada tahun berikutnya dalam masa tiga hari. Selama tiga hari itu, orang-orang Quraisy akan mengosongkan kota Mekah. Nabi Muhammad dan kaum Muslimin tidak boleh membawa senjata lengkap memasuki kota Mekah.\n\nSetelah perjanjian itu, Rasulullah saw beserta kaum Muslimin kembali ke Medinah. Perjanjian perdamaian itu ditentang oleh sebagian sahabat karena mereka menganggap perjanjian itu merugikan kaum Muslimin dan lebih menguntungkan orang-orang musyrik Mekah. Apabila dilihat sepintas lalu, memang benar anggapan sebagian para sahabat itu, seperti yang tersebut pada butir dua dan butir empat. Dalam perjanjian itu ditetapkan bahwa setiap orang musyrik yang datang kepada nabi tanpa seizin walinya harus dikembalikan, sebaliknya kalau orang Muslimin datang kepada orang Quraisy tidak dikembalikan. Di samping itu, kaum Muslimin dilarang masuk kota Mekah pada tahun itu. Sekalipun dibolehkan pada tahun berikutnya, namun hanya dalam waktu tiga hari, sedang kota Mekah adalah kampung halaman mereka sendiri. Pada waktu itu, kaum Muslimin merasa telah mempunyai kekuatan yang cukup untuk memerangi dan mengalahkan orang-orang musyrik, mengapa tidak langsung saja memerangi mereka?\n\nLain halnya dengan Rasulullah saw dan para sahabat yang lain, yang memandangnya dari segi politik dan mempunyai pandangan yang jauh ke depan. Sesuai dengan ilham dari Allah, beliau yakin bahwa perjanjian itu akan merupakan titik pangkal kemenangan yang akan diperoleh kaum Muslimin pada masa-masa yang akan datang. Sekalipun butir dua dan empat dari perjanjian itu seakan-akan merugikan kaum Muslimin, beliau yakin bahwa tidak akan ada kaum Muslimin yang menjadi kafir kembali, karena mereka telah banyak mendapat ujian dari Tuhan mereka. Keyakinan beliau itu tergambar dalam sikap beliau setelah terjadinya perjanjian itu.\n\nJika dipelajari, maka apa yang diyakini oleh Rasulullah saw dapat dipahami, di antaranya ialah:\n\n1. Dengan adanya Perjanjian Hudaibiyyah, berarti orang-orang musyrik Mekah secara tidak langsung telah mengaku secara de facto pemerintahan kaum Muslimin di Medinah. Selama ini, mereka menyatakan bahwa Nabi dan kaum Muslimin tidak lebih dari sekelompok pemberontak yang ingin memaksakan kehendaknya kepada mereka.\n\n2. Dengan dibolehkannya Rasulullah saw bersama kaum Muslimin memasuki kota Mekah pada tahun yang akan datang untuk melaksanakan ibadah di sekitar Ka'bah, terkandung pengertian bahwa orang-orang musyrik Mekah telah mengakui agama Islam sebagai agama yang berhak menggunakan Ka'bah sebagai rumah ibadah mereka dan hal ini juga berarti bahwa mereka telah mengakui agama Islam sebagai salah satu dari agama-agama yang ada di dunia.\n\n3. Dengan terjadinya perjanjian itu, berarti kaum muslimin telah memperoleh jaminan keamanan dari orang-orang musyrik Mekah. Hal ini memungkinkan mereka menyusun dan membina masyarakat Islam dan melakukan dakwah Islamiyah ke seluruh penjuru tanah Arab, tanpa mendapat gangguan dari orang-orang musyrik Mekah. Selama ini, setiap usaha Rasulullah saw selalu mendapat rintangan dan gangguan dari mereka. Sejak itu pula, Rasulullah dapat mengirim surat untuk mengajak raja-raja yang berada di kawasan Jazirah Arab dan sekitarnya untuk masuk Islam, seperti Kisra Persia, Muqauqis dari Mesir, Heraklius kaisar Romawi, raja Gassan, pembesar-pembesar Yaman, raja Najasyi (Negus) dari Ethiopia dan sebagainya.\n\nPada tahun kedelapan Hijriah, orang Quraisy menyerang Bani Khuza'ah, sekutu kaum Muslimin. Dalam Perjanjian Hudaibiyyah disebutkan bahwa penyerangan kepada salah satu dari sekutu kaum Muslimin berarti penyerangan kepada kaum Muslimin. Hal ini berarti bahwa pihak yang menyerang telah melanggar secara sepihak perjanjian yang telah dibuat. Oleh karena itu, pada tahun kedelapan Hijriah tanggal 10 Ramadan, berangkatlah Rasulullah bersama 10.000 kaum Muslimin menuju Mekah. Setelah mendengar kedatangan kaum Muslimin dalam jumlah yang demikian besar, maka orang-orang Quraisy menjadi gentar dan takut, sehingga Abu Sufyan, pemimpin Quraisy waktu itu, segera menemui Rasulullah di luar kota Mekah. Ia menyatakan kepada Rasulullah saw bahwa ia dan seluruh kaumnya menyerahkan diri kepada beliau dan ia sendiri menyatakan masuk Islam saat itu juga. Dengan pernyataan Abu Sufyan itu, maka Rasulullah saw bersama kaum Muslimin memasuki kota Mekah dengan suasana aman, damai, dan tenteram, tanpa pertumpahan darah. Dengan demikian, sempurnalah kemenangan Rasulullah saw dan kaum Muslimin, yang terjadi dua tahun setelah Perjanjian Hudaibiyyah. Sejak itu pula, agama Islam tersebar dengan mudah ke segala penjuru Jazirah Arab. Sejak itu pula, pemerintahan Islam mulai melebarkan sayapnya ke daerah-daerah yang dikuasai oleh negara-negara besar pada waktu itu, seperti daerah-daerah kerajaan Romawi dan kerajaan Persia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4585,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 511,
+                    "manzil": 6,
+                    "ruku": 446,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِّيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِن ذَنبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُّسْتَقِيمًا",
+                    "transliteration": {
+                        "en": "Liyaghfira lakal laahu maa taqaddama min zambika wa maa ta akhkhara wa yutimma ni'matahoo 'alaika wa yahdiyaka siraatam mustaqeema"
+                    }
+                },
+                "translation": {
+                    "en": "That Allah may forgive for you what preceded of your sin and what will follow and complete His favor upon you and guide you to a straight path",
+                    "id": "Agar Allah memberikan ampunan kepadamu (Muhammad) atas dosamu yang lalu dan yang akan datang serta menyempurnakan nikmat-Nya atasmu dan menunjukimu ke jalan yang lurus,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4585",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4585.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4585.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Agar Allah memberikan ampunan kepadamu, wahai Nabi Muhammad atas dosamu, yakni kekeliruan yang dapat dianggap sebagai dosa sesuai dengan kedudukanmu yang mulia, baik kekeliruan yang terjadi di masa yang lalu dan yang akan datang serta menyempurnakan nikmat-Nya atasmu dengan meluhurkan agamamu dan menunjukimu ke jalan yang lurus yang membimbingmu kepada keridaan Tuhan,",
+                        "long": "Ayat ini menerangkan bahwa dengan terjadinya Perjanjian Hudaibiyyah, berarti Allah telah menyempurnakan nikmat-Nya yang tiada terhingga kepada Rasulullah saw. Nikmat-nikmat itu ialah:\n\n1. Mengampuni dosa-dosa Rasulullah saw yang dilakukan sebelum dan sesudah terjadi Perjanjian Hudaibiyyah. Tentu saja yang dimaksud dosa dalam ayat ini ialah yang tidak mengurangi atau merusak fungsi kenabiannya karena Muhammad saw sebagai nabi dan rasul terpelihara dari perbuatan dosa besar.\n\n2. Tersebarnya agama Islam ke seluruh Jazirah Arab, bahkan ke beberapa daerah kerajaan Romawi. Hal itu menjadikan Rasulullah saw sebagai orang yang bertanggung jawab mengurus persoalan agama dan juga sebagai kepala negara. Dalam sejarah, jarang terjadi hal yang demikian. Di antara nabi dan rasul yang merangkap sebagai kepala negara, hanya Nabi Daud dan putra beliau, Nabi Sulaiman.\n\n3. Membimbing Rasulullah saw ke jalan yang lurus dan diridai-Nya.\n\n4. Menolong Rasulullah dari gangguan dan serangan musuh sehingga tidak satu pun yang dapat menyerang dan membunuhnya.\n\nMenurut Mujahid, Sufyan ats-sauri, Ibnu Jarir, al-Wahidi, dan beberapa ulama lain, yang dimaksud dengan memberi pengampunan dalam ayat ini ialah mengampuni dosa-dosa Rasulullah saw sebelum dan sesudah beliau diangkat menjadi rasul.\n\nAz-Zamakhsyari, dalam tafsir al-Kasysyaf, mengatakan, \"Allah menjadikan penaklukan kota Mekah itu sebagai sebab bagi pengampunan dosa Muhammad, karena Allah menjadikannya sebagai penyebab Rasulullah mendapat empat hal, yaitu: pengampunan dosa, penyempurnaan nikmat, petunjuk ke jalan yang lurus, dan kemenangan yang gemilang.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4586,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 511,
+                    "manzil": 6,
+                    "ruku": 446,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيَنصُرَكَ اللَّهُ نَصْرًا عَزِيزًا",
+                    "transliteration": {
+                        "en": "Wa yansurakal laahu nasran 'azeezaa"
+                    }
+                },
+                "translation": {
+                    "en": "And [that] Allah may aid you with a mighty victory.",
+                    "id": "dan agar Allah menolongmu dengan pertolongan yang kuat (banyak)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4586",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4586.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4586.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan agar Allah menolongmu terhadap musuh-musuhmu dengan pertolongan yang kuat yang tidak dapat dikalahkan oleh siapa pun.",
+                        "long": "Ayat ini menerangkan bahwa dengan terjadinya Perjanjian Hudaibiyyah, berarti Allah telah menyempurnakan nikmat-Nya yang tiada terhingga kepada Rasulullah saw. Nikmat-nikmat itu ialah:\n\n1. Mengampuni dosa-dosa Rasulullah saw yang dilakukan sebelum dan sesudah terjadi Perjanjian Hudaibiyyah. Tentu saja yang dimaksud dosa dalam ayat ini ialah yang tidak mengurangi atau merusak fungsi kenabiannya karena Muhammad saw sebagai nabi dan rasul terpelihara dari perbuatan dosa besar.\n\n2. Tersebarnya agama Islam ke seluruh Jazirah Arab, bahkan ke beberapa daerah kerajaan Romawi. Hal itu menjadikan Rasulullah saw sebagai orang yang bertanggung jawab mengurus persoalan agama dan juga sebagai kepala negara. Dalam sejarah, jarang terjadi hal yang demikian. Di antara nabi dan rasul yang merangkap sebagai kepala negara, hanya Nabi Daud dan putra beliau, Nabi Sulaiman.\n\n3. Membimbing Rasulullah saw ke jalan yang lurus dan diridai-Nya.\n\n4. Menolong Rasulullah dari gangguan dan serangan musuh sehingga tidak satu pun yang dapat menyerang dan membunuhnya.\n\nMenurut Mujahid, Sufyan ats-sauri, Ibnu Jarir, al-Wahidi, dan beberapa ulama lain, yang dimaksud dengan memberi pengampunan dalam ayat ini ialah mengampuni dosa-dosa Rasulullah saw sebelum dan sesudah beliau diangkat menjadi rasul.\n\nAz-Zamakhsyari, dalam tafsir al-Kasysyaf, mengatakan, \"Allah menjadikan penaklukan kota Mekah itu sebagai sebab bagi pengampunan dosa Muhammad, karena Allah menjadikannya sebagai penyebab Rasulullah mendapat empat hal, yaitu: pengampunan dosa, penyempurnaan nikmat, petunjuk ke jalan yang lurus, dan kemenangan yang gemilang.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4587,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 511,
+                    "manzil": 6,
+                    "ruku": 446,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هُوَ الَّذِي أَنزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوا إِيمَانًا مَّعَ إِيمَانِهِمْ ۗ وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+                    "transliteration": {
+                        "en": "Huwal lazeee anzalas sakeenata fee quloobil mu'mineena liyazdaadooo eemaanamma'a eemaanihim; wa lillaahi junoodus samawaati wal ard; wa kaanal laahu 'Aleeman Hakeemaa"
+                    }
+                },
+                "translation": {
+                    "en": "It is He who sent down tranquillity into the hearts of the believers that they would increase in faith along with their [present] faith. And to Allah belong the soldiers of the heavens and the earth, and ever is Allah Knowing and Wise.",
+                    "id": "Dialah yang telah menurunkan ketenangan ke dalam hati orang-orang mukmin untuk menambah keimanan atas keimanan mereka (yang telah ada). Dan milik Allah-lah bala tentara langit dan bumi, dan Allah Maha Mengetahui, Mahabijaksana;"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4587",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4587.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4587.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dialah yang telah menurunkan yakni mewujudkan dan memantapkan ketenangan ke dalam hati orang-orang mukmin sehingga mereka tidak gentar menghadapi dan memerangi musuh untuk menambah keimanan atas keimanan mereka tentang kebesaran Allah. Dan milik Allah-lah bala tentara langit dan bumi, yang senantiasa patuh melaksanakan perintah-Nya untuk dan memberikan pertolongan kepada orang beriman. Dan Allah Maha Mengetahui keadaan makhluk-Nya, Mahabijaksana dalam pengaturan dan perbuatan-Nya.",
+                        "long": "Allah menganugerahkan nikmat-Nya dengan menanamkan ketenangan dalam hati orang-orang yang beriman, terutama dalam hati para sahabat yang ikut bersama Rasulullah saw dalam Perjanjian Hudaibiyyah. Dengan ketenangan hati itu, para sahabat patuh kepada hukum Allah dan keputusan Rasul-Nya. Dengan ketenangan hati itu juga, Allah menambah iman para sahabat.\n\nImam al-Bukhari menetapkan kesimpulan berdasarkan ayat ini bahwa iman itu tidak sama kadarnya dalam setiap hati orang beriman, ada yang tebal, ada yang sedang, dan ada pula yang tipis. Di samping itu, iman dapat pula bertambah dan berkurang pada diri seseorang.\n\nSebagian ahli tafsir berpendapat bahwa yang dimaksud dengan menurunkan ketenangan dalam hati orang-orang yang beriman ialah menghilangkan perbedaan pendapat yang terjadi di antara para sahabat Rasulullah saw tentang Perjanjian Hudaibiyyah. Dengan timbulnya ketenangan hati, semua sahabat Nabi akhirnya mengikuti keputusan Rasulullah. Diriwayatkan bahwa 'Umar bin al-Khaththab termasuk di antara sahabat yang tidak menyetujui Perjanjian Hudaibiyyah sehingga beliau berkata, \"Bukankah kita pada jalan yang hak, sedangkan mereka di jalan yang batil?\" Dengan rahmat Allah, perbedaan pendapat itu hilang. Para sahabat menyadari kebenaran pendapat Rasulullah saw, termasuk 'Umar bin al-Khaththab yang akhirnya menyetujui pendapat Rasulullah.\n\nAyat ini dapat berarti umum dan dapat pula berarti khusus. Dalam arti umum, ayat ini berarti bahwa Allah akan menanamkan ketenangan hati, kesabaran, dan ketabahan bagi setiap orang yang beriman sehingga tidak ada lagi perbedaan pendapat di antara mereka yang dapat menimbulkan perpecahan. Hanya orang-orang yang kurang imannya saja yang mudah berselisih dengan orang yang beriman lainnya. Sedangkan arti khususnya adalah bahwa Allah menimbulkan ketenangan hati pada setiap orang yang bersama Rasulullah saw dalam menghadapi Perjanjian Hudaibiyyah. Arti khusus inilah yang dimaksud dalam ayat ini karena ini yang sesuai dengan sebab turunnya.\n\nAllah menerangkan bahwa Dialah yang mengatur dan menguasai langit dan bumi. Dia mempunyai \"tentara langit\" dan \"tentara bumi\", yang dapat melaksanakan segala sesuatu yang dikehendaki-Nya. Tidak ada satu pun dari tentara-Nya yang mengingkari perintah-Nya. Di antara \"tentara-tentara\" itu ada yang berupa malaikat, binatang, angin topan, gempa yang dahsyat, banjir, aneka rupa penyakit, dan sebagainya. Jika Allah menghendaki, Dia dapat menghancurkan segala sesuatu dengan satu macam tentara-Nya saja termasuk menghancurkan setan. Tetapi Dia tidak berbuat demikian, bahkan Dia memerintahkan kepada kaum Muslimin agar berjihad dan berperang di jalan-Nya. Semuanya itu ditetapkan sesuai dengan hikmah, tujuan, dan kemaslahatan yang diketahui-Nya, sedangkan manusia boleh jadi tidak mengetahuinya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4588,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 511,
+                    "manzil": 6,
+                    "ruku": 446,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِّيُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّئَاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ اللَّهِ فَوْزًا عَظِيمًا",
+                    "transliteration": {
+                        "en": "Liyudkhilal mu'mineena walmu'minaati jannaatin tajree min tahtihal anhaaru khaalideena feehaa wa yukaffira 'anhum saiyi aatihim; wa kaana zaalika 'indal laahi fawzan 'azeemaa"
+                    }
+                },
+                "translation": {
+                    "en": "[And] that He may admit the believing men and the believing women to gardens beneath which rivers flow to abide therein eternally and remove from them their misdeeds - and ever is that, in the sight of Allah, a great attainment -",
+                    "id": "Agar Dia masukkan orang-orang mukmin laki-laki dan perempuan ke dalam surga yang mengalir di bawahnya sungai-sungai. Mereka kekal di dalamnya dan Dia akan menghapus kesalahan-kesalahan mereka. Dan yang demikian itu menurut Allah suatu keuntungan yang besar,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4588",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4588.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4588.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Agar Dia masukkan orang-orang mukmin laki-laki dan perempuan ke dalam surga untuk tinggal di sana selama-lamanya yang mengalir di bawah istananya sungai-sungai. Mereka kekal di dalamnya dan Dia akan menghapus kesalahan-kesalahan yang pernah mereka lakukan agar mereka masuk ke dalam surga tanpa noda. Dan yang demikian itu, yakni surga dan ampunan Allah menurut Allah suatu keuntungan yang besar.",
+                        "long": "Diriwayatkan oleh Imam Ahmad dan al-Bukhari bahwa Anas bin Malik bertanya kepada Rasulullah saw mengenai turunnya ayat 1 sampai dengan ayat 3 surah ini, dalam perjalanan pulang ke Medinah, setelah Perjanjian Hudaibiyyah. Rasulullah saw berkata, \"Sesungguhnya telah turun kepadaku ayat yang lebih aku suka daripada apa yang ada di permukaan bumi ini.\" Kemudian beliau membacanya. Para sahabat berkata, \"Alangkah baiknya ya Rasulullah, sesungguhnya telah diterangkan apa yang akan dianugerahkan kepada engkau, tetapi apakah yang akan dianugerahkan Allah kepada kami?\" Maka turunlah ayat ini, yang menerangkan anugerah yang akan diterima oleh orang-orang yang beriman.\n\nKaum Muslimin yang membaiat Nabi Muhammad dan menerima Perjanjian Hudaibiyyah memperoleh tambahan nikmat dari Allah yang lebih besar lagi dengan menghapus dosa kesalahan-kesalahan yang telah mereka perbuat dan menyediakan tempat yang penuh kebahagiaan bagi mereka di surga. Hal itu merupakan kemenangan yang besar bagi mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4589,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 511,
+                    "manzil": 6,
+                    "ruku": 446,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيُعَذِّبَ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ الظَّانِّينَ بِاللَّهِ ظَنَّ السَّوْءِ ۚ عَلَيْهِمْ دَائِرَةُ السَّوْءِ ۖ وَغَضِبَ اللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا",
+                    "transliteration": {
+                        "en": "Wa yu'azzibal munaafiqeena walmunaafiqaati wal mushrikeena walmushrikaatiz zaaanneena billaahi zannas saw'; 'alaihim daaa'iratus saw'i wa ghadibal laahu 'alaihim wa la'anahum wa a'adda lahum jahannama wa saaa' at maseeraa"
+                    }
+                },
+                "translation": {
+                    "en": "And [that] He may punish the hypocrite men and hypocrite women, and the polytheist men and polytheist women - those who assume about Allah an assumption of evil nature. Upon them is a misfortune of evil nature; and Allah has become angry with them and has cursed them and prepared for them Hell, and evil it is as a destination.",
+                    "id": "dan Dia mengazab orang-orang munafik laki-laki dan perempuan, dan (juga) orang-orang musyrik laki-laki dan perempuan yang berprasangka buruk terhadap Allah. Mereka akan mendapat giliran (azab) yang buruk dan Allah murka kepada mereka dan mengutuk mereka serta menyediakan neraka Jahanam bagi mereka. Dan (neraka Jahanam) itu seburuk-buruk tempat kembali."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4589",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4589.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4589.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan Dia, yakni Allah Yang Maha Kuasa, mengazab orang-orang munafik laki-laki dan perempuan, dan juga orang-orang musyrik laki-laki dan perempuan dengan azab di dunia dan akhirat. Mereka adalah orang-orang yang berprasangka buruk terhadap Allah dan menyangka bahwa Allah tidak menepati janji-Nya memberikan pertolongan kepada orang-orang mukmin. Mereka akan mendapat giliran azab kebinasaan yang buruk dan Allah murka kepada mereka dan mengutuk mereka sehingga mereka tersiksa di dunia ini serta menyediakan kelak di akhirat neraka Jahanam bagi mereka. Dan neraka Jahanam itu seburuk-buruk tempat kembali.",
+                        "long": "Baiat kaum Muslimin kepada Nabi, dan penerimaan Perjanjian Hudaibiyyah, dijadikan Allah sebagai alasan untuk:\n\n1.Mengazab orang-orang munafik dan orang-orang musyrik, baik laki-laki maupun perempuan, berupa kekalahan di dunia di samping timbulnya kebingungan, ketakutan, dan kesedihan pada diri mereka karena melihat kemenangan kaum Muslimin atas mereka, ditawannya sebagian mereka oleh orang-orang yang beriman, terbunuhnya sebagian keluarga mereka dalam peperangan, dan sebagainya. Semula mereka menyangka pasti akan menang dan mengalahkan kaum Muslimin, bahkan sanggup membunuh semuanya. Mereka pada waktu itu yakin bahwa keadaan mereka lebih baik daripada keadaan kaum Muslimin. Tetapi yang terjadi adalah sebaliknya dan segala macam penyesalan mereka itu tidak ada gunanya.\n\n2.Memurkai mereka sehingga kehidupan mereka celaka di dunia dan di akhirat.\n\n3.Melaknat mereka sehingga mereka tersiksa hidup di dunia.\n\n4.Memasukkan mereka ke dalam neraka Jahanam.\n\nDalam ayat ini, \"orang-orang munafik\" disebut lebih dahulu daripada \"orang-orang musyrik\". Hikmahnya ialah untuk menekankan bahwa orang-orang munafik lebih banyak menimbulkan kerugian bagi orang-orang yang beriman, dibandingkan dengan orang-orang musyrik. Orang munafik merupakan musuh yang tidak tampak dan sukar dihadapi, sedangkan orang-orang musyrik adalah musuh yang tampak dengan jelas sehingga mudah menghadapinya. Sehubungan dengan sikap orang-orang munafik ini, Allah berfirman:\n\nBahkan (semula) kamu menyangka bahwa Rasul dan orang-orang mukmin sekali-kali tidak akan kembali lagi kepada keluarga mereka selama-lamanya dan dijadikan terasa indah yang demikian itu di dalam hatimu, dan kamu telah berprasangka dengan prasangka yang buruk, karena itu kamu menjadi kaum yang binasa. (al-Fath/48: 12)\n\nDi samping bencana, orang-orang munafik dan orang-orang musyrik juga akan menerima kemurkaan Allah, dijauhkan dari rahmat-Nya, dan disediakan neraka Jahanam yang membakar hangus mereka di akhirat nanti. Neraka Jahanam itu adalah tempat paling buruk yang disediakan bagi mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4590,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 511,
+                    "manzil": 6,
+                    "ruku": 446,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا",
+                    "transliteration": {
+                        "en": "Wa lillaahi junoodus samaawaati wal ard; wa kaanal laahu 'azeezan hakeema"
+                    }
+                },
+                "translation": {
+                    "en": "And to Allah belong the soldiers of the heavens and the earth. And ever is Allah Exalted in Might and Wise.",
+                    "id": "Dan milik Allah bala tentara langit dan bumi. Dan Allah Mahaperkasa, Mahabijaksana."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4590",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4590.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4590.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan milik Allah-lah bala tentara langit dan bumi, yang terdiri dari para malaikat, jin dan manusia, tanda-tanda alam seperti petir dan gempa yang jika Allah memerintahkan mereka untuk membinasakan musuh-musuh Allah niscaya mereka patuh melaksanakan perintah-Nya. Dan Allah Maha Mengetahui keadaan makhluk-Nya, Mahabijaksana dalam pengaturan dan perbuatan-Nya.",
+                        "long": "Diriwayatkan bahwa setelah Perjanjian Hudaibiyyah, Ibnu Ubay berkata, \"Apakah Muhammad mengira bahwa setelah terjadi perdamaian Hudaibiyyah, ia tidak mempunyai musuh lagi? Bukankah masih ada kerajaan Persia dan Romawi?\" Maka turunlah ayat ini yang menerangkan bahwa Allah mempunyai tentara langit dan bumi, yang dapat mengalahkan tentara atau kekuatan apa pun jika Dia menghendakinya.\n\nOrang-orang munafik dan orang-orang musyrik tidak akan dapat menantang kekuasaan dan kehendak Allah karena Dia mempunyai tentara yang kuat di langit dan di bumi, yang terdiri dari malaikat, jin, manusia, petir yang dahsyat, angin kencang, banjir, gempa yang dahsyat, dan sebagainya. Semuanya itu dapat dikerahkan Allah kapan saja Dia kehendaki untuk menghancurkan orang-orang yang ingkar kepada-Nya.\n\nDalam ayat 4 telah diterangkan pula bahwa Allah mempunyai tentara di langit dan di bumi. Dalam ayat ini diulang lagi perkataan tersebut. Fungsinya ialah untuk menjelaskan bahwa Allah mempunyai tentara untuk menyampaikan rahmat dan menurunkan azab-Nya. Ayat 4 menerangkan tentara yang menyampaikan nikmat, sedangkan ayat ini menerangkan tentara yang menurunkan azab.\n\nPada akhir ayat ini diterangkan bahwa Allah Mahaperkasa, tidak ada sesuatu pun yang dapat mengalahkan dan menandingi-Nya. Dia Mahabijaksana melakukan segala macam tindakan sesuai dengan faedah dan manfaatnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4591,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 511,
+                    "manzil": 6,
+                    "ruku": 446,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+                    "transliteration": {
+                        "en": "Innaaa arsalnaaka shaahi danw wa mubashshiranw wa nazeera"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, We have sent you as a witness and a bringer of good tidings and a warner",
+                    "id": "Sesungguhnya Kami mengutus engkau (Muhammad) sebagai saksi, pembawa berita gembira dan pemberi peringatan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4591",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4591.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4591.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh Kami mengutus engkau wahai Nabi Muhammad sebagai saksi atas kebenaran, pembawa berita gembira bahwa mereka akan memperoleh surga apabila mereka beriman dan pemberi peringatan bahwa mereka akan disiksa apabila mereka membangkang.",
+                        "long": "Allah menyatakan bahwa sesungguhnya Dia mengutus Muhammad sebagai saksi atas umatnya mengenai kebenaran Islam dan keberhasilan dakwah yang beliau kerjakan. Nabi bertugas menyampaikan agama Allah kepada semua manusia, serta menyampaikan kabar gembira kepada orang- orang yang mau mengikuti agama yang disampaikannya. Mereka yang mengikuti ajakan Rasul akan diberi pahala yang berlipat ganda berupa surga di akhirat. Nabi juga bertugas memberikan peringatan kepada orang-orang yang mengingkari seruannya untuk mengikuti agama Allah bahwa mereka akan dimasukkan ke dalam neraka sebagai akibat dari keingkaran itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4592,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 511,
+                    "manzil": 6,
+                    "ruku": 446,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِّتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+                    "transliteration": {
+                        "en": "Litu minoo billaahi wa Rasoolihee wa tu'azziroohu watuwaqqiroohu watusabbi hoohu bukratanw wa aseelaa"
+                    }
+                },
+                "translation": {
+                    "en": "That you [people] may believe in Allah and His Messenger and honor him and respect the Prophet and exalt Allah morning and afternoon.",
+                    "id": "agar kamu semua beriman kepada Allah dan Rasul-Nya, menguatkan (agama)-Nya, membesarkan-Nya, dan bertasbih kepada-Nya pagi dan petang."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4592",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4592.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4592.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Aku mengutusmu dengan membawa pesan ini agar kamu semua beriman kepada Allah dan Rasul-Nya dengan menaati perintah-Nya, me-nguatkan agama-Nya menghadapi segala musuhnya, dan membesarkan-Nya dengan sungguh-sungguh, dan bertasbih menyucikan kepada-Nya di waktu pagi dan petang, yakni sepanjang waktu.",
+                        "long": "Allah melakukan yang demikian agar manusia beriman kepada-Nya dan kepada Muhammad saw, sebagai rasul yang diutus-Nya; membela dan menegakkan agama-Nya dengan menyampaikan kepada manusia yang lain; mengagungkan-Nya dengan membesarkan nama-Nya; dan bertasbih dengan memuji dan menyucikan-Nya dari sifat-sifat yang tidak layak bagi-Nya pada setiap pagi dan petang."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4593,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 512,
+                    "manzil": 6,
+                    "ruku": 446,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+                    "transliteration": {
+                        "en": "Innal lazeena yubaayi'oonaka innamaa yubaayi'oonal laaha yadul laahi fawqa aydehim; faman nakasa fainnamaa yuankusu 'alaa nafsihee wa man awfaa bimaa 'aahada 'alihul laaha fasa yu'teehi ajran 'azeemaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, those who pledge allegiance to you, [O Muhammad] - they are actually pledging allegiance to Allah. The hand of Allah is over their hands. So he who breaks his word only breaks it to the detriment of himself. And he who fulfills that which he has promised Allah - He will give him a great reward.",
+                    "id": "Bahwasanya orang-orang yang berjanji setia kepadamu (Muhammad), sesungguhnya mereka hanya berjanji setia kepada Allah. Tangan Allah di atas tangan mereka, maka barangsiapa melanggar janji, maka sesungguhnya dia melanggar atas (janji) sendiri; dan barangsiapa menepati janjinya kepada Allah maka Dia akan memberinya pahala yang besar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4593",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4593.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4593.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bahwa orang-orang yang berjanji setia kepadamu, wahai Nabi Muhammad, sesungguhnya mereka pada hakikatnya hanya berjanji setia kepada Allah. Karena tujuan berjanji setia kepada Rasul adalah untuk menaati perintah Allah. Tangan Allah, yakni kekuasaan-Nya, di atas tangan-tangan mereka, Dia akan menolong orang yang berjanji itu dalam melaksanakan janjinya. Maka barangsiapa melanggar janji yang telah diucapkan kepada Nabi maka sesungguhnya dia melanggar atas janji sendiri, dan akibat pelanggaran itu akan menimpa diri sendiri; dan barangsiapa menepati janjinya kepada Allah, dan menunaikannya dengan sempurna, maka Dia akan memberinya pahala yang besar, yaitu surga.",
+                        "long": "Ayat ini menerangkan pernyataan Allah terhadap baiat yang dilakukan para sahabat kepada Rasulullah saw bahwa hal itu juga berarti mengadakan baiat kepada Allah. Baiat ialah suatu janji setia atau ikrar yang dilakukan oleh seseorang atau beberapa orang yang berisi pengakuan untuk menaati seseorang misalnya karena ia diangkat menjadi pemimpin atau khalifah.\n\nYang dimaksud dengan baiat dalam ayat ini ialah Bai'atur Ridhwan yang terjadi di Hudaibiyyah yang dilakukan para sahabat di bawah pohon Samurah. Para sahabat waktu itu berjanji kepada Rasulullah saw bahwa mereka tidak akan lari dari medan pertempuran serta akan bertempur sampai titik darah penghabisan memerangi orang-orang musyrik Mekah, seandainya kabar yang disampaikan kepada mereka bahwa 'Utsman bin 'Affan yang diutus Rasulullah itu benar telah mati dibunuh orang musyrik Mekah.\n\nDiriwayatkan oleh al-Bukhari dari Qatadah bahwa ia berkata kepada Sa'id bin al-Musayyab, \"Berapa jumlah orang yang ikut Bai'ah ar-Ridhwan?\" Sa'id menjawab, \"Seribu lima ratus orang.\" Ada pula yang berpendapat jumlahnya seribu empat ratus orang.\n\nDalam ayat ini, diterangkan cara baiat yang dilakukan para sahabat kepada Rasulullah saw yaitu dengan meletakkan tangan Rasul di atas tangan orang-orang yang berjanji. Dalam posisi demikian, diucapkanlah kata baiat.\n\nMaksud kalimat \"tangan Allah di atas tangan mereka\" ialah untuk menyatakan bahwa berjanji dengan Rasulullah saw sama hukumnya dengan berjanji kepada Allah. Tangan Allah dalam konteks ayat ini merupakan arti kiasan, karena Allah Mahasuci dari segala sifat yang menyerupai makhluk-Nya. Oleh karena itu, ada ahli tafsir yang mengartikan tangan di sini dengan kekuasaan.\n\nKemudian diterangkan akibat yang akan dialami orang-orang yang mengingkari perjanjian itu, yaitu mereka akan memikul dosa yang besar. Dosa besar itu diberlakukan terhadap mereka karena tidak mau membaiat Nabi saw, sedangkan kaum Muslimin membaiat beliau secara pribadi. Sebaliknya diterangkan pula pahala yang akan diperoleh orang-orang yang menepati baiatnya. Mereka akan memperoleh pahala yang berlipat ganda di akhirat dan tempat mereka adalah surga yang penuh dengan kenikmatan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4594,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 512,
+                    "manzil": 6,
+                    "ruku": 447,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "سَيَقُولُ لَكَ الْمُخَلَّفُونَ مِنَ الْأَعْرَابِ شَغَلَتْنَا أَمْوَالُنَا وَأَهْلُونَا فَاسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِي قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ اللَّهِ شَيْئًا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًا ۚ بَلْ كَانَ اللَّهُ بِمَا تَعْمَلُونَ خَبِيرًا",
+                    "transliteration": {
+                        "en": "Sa yaqoolu lakal mukhal lafoona minal-A'raabi shaighalatnaaa amwaalunaa wa ahloonaa fastaghfir lanaa; yaqooloona bi alsinatihim maa laisa fee quloobihim; qul famany yamliku lakum minal laahi shai'an in araada bikum darran aw araada bikum naf'aa; bal kaanal laahu bimaa ta'maloona Khabeeraa"
+                    }
+                },
+                "translation": {
+                    "en": "Those who remained behind of the bedouins will say to you, \"Our properties and our families occupied us, so ask forgiveness for us.\" They say with their tongues what is not within their hearts. Say, \"Then who could prevent Allah at all if He intended for you harm or intended for you benefit? Rather, ever is Allah, with what you do, Acquainted.",
+                    "id": "Orang-orang Badui yang tertinggal (tidak turut ke Hudaibiyah) akan berkata kepadamu, “Kami telah disibukkan oleh harta dan keluarga kami, maka mohonkanlah ampunan untuk kami.” Mereka mengucapkan sesuatu dengan mulutnya apa yang tidak ada dalam hatinya. Katakanlah, “Maka siapakah yang dapat menghalang-halangi kehendak Allah jika Dia menghendaki bencana terhadap kamu atau jika Dia menghendaki keuntungan bagimu? Sungguh, Allah Mahateliti dengan apa yang kamu kerjakan.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4594",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4594.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4594.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Orang-orang Badui yang tertinggal di Madinah, yaitu mereka yang tidak turut serta bersama Nabi pergi ke Hudaibiyah, akan berbohong dan berkata kepadamu, wahai Nabi Muhammad, “Kami telah disibukkan oleh upaya memelihara harta dan keluarga kami, jika kami pergi maka harta kami akan lenyap dan keluarga kami akan terlantar. Maka mohonkanlah ampunan untuk kami atas kesalahan kami.” Menanggapi kebohongan itu, Allah menegaskan bahwa mereka mengucapkan sesuatu dengan mulutnya apa yang tidak ada dalam hatinya. Bahwa alasan mere-ka tidak ikut pergi ke Hudaibiyah adalah alasan yang dibuat-buat saja. Maka Katakanlah kepada mereka yang berbohong itu, “Maka siapa-kah yang dapat menghalang-halangi kehendak Allah jika Dia menghendaki bencana terhadap kamu, dengan melenyapkan hartamu dan membinasakan keluargamu, atau jika Dia menghendaki keuntungan bagimu, de-ngan menyelamatkan hartamu dan keluagamu, walaupun kamu tidak menjaganya secara langsung? Sungguh, Allah Mahateliti dengan apa yang kamu kerjakan.” Dia mengetahui bahwa alasan yang kamu yang kamu nyatakan itu adalah kebohongan belaka sebagai dalih untuk mengelak dari kecaman.",
+                        "long": "Allah menjelaskan kepada Rasulullah saw bahwa beberapa kabilah Arab penduduk padang pasir yang tidak turut pergi ke Mekah untuk mengerjakan umrah akan berkata kepada beliau, \"Kami tidak ikut bersama engkau ke Mekah mengerjakan umrah karena kami sedang sibuk mengurus pekerjaan, harta, dan keluarga kami. Sedangkan kami tidak mempunyai pembantu yang akan membantu kami mengurus semuanya itu sepeninggal kami pergi beserta engkau. Oleh karena itu, mohonkanlah ampunan untuk kami kepada Tuhan engkau, dengan alasan kesibukan kami itu.\"\n\nSewaktu Rasulullah saw memutuskan akan pergi untuk mengerjakan umrah ke Mekah pada tahun keenam Hijrah, beliau mengajak kaum Muslimin ikut bersama-sama beliau. Semakin banyak yang ikut bersama beliau, semakin besar pula artinya karena dengan jumlah kaum Muslimin yang banyak itu akan menimbulkan rasa gentar dalam hati orang-orang musyrik Mekah sehingga mereka menerima kaum Muslimin masuk ke Mekah, dan umrah dapat dilaksanakan dalam suasana yang aman. Di antara kaum Muslimin yang diajak terdapat kabilah-kabilah Arab yang tinggal di padang pasir sekitar kota Medinah, seperti kabilah-kabilah Juhainah, Muzainah, Gifar, Asyja', ad-Dil, dan Aslam. Rasulullah saw menyatakan kepada mereka bahwa tujuan ke Mekah itu semata-mata untuk mengerjakan ibadah umrah dan untuk melihat keluarga yang telah lama ditinggalkan. Oleh karena itu, kepergian ke Mekah tidak dengan senjata lengkap sebagaimana untuk pergi perang, kecuali membawa senjata-senjata yang biasa dibawa oleh para musafir. Di samping itu, dibawa juga binatang-binatang ternak untuk makanan dalam perjalanan dan untuk dihadiahkan kepada penduduk Mekah. Sekalipun demikian, ajakan Rasulullah itu tetap mereka tolak dengan alasan yang mereka kemukakan di atas, padahal mereka menyembunyikan alasan yang sebenarnya.\n\nSekalipun orang-orang Arab penduduk padang pasir berusaha menyembunyikan alasan mereka yang sebenarnya, Allah Maha Mengetahui segala sesuatu. Oleh karena itu, Allah memberitahukan hal itu kepada Rasulullah. Alasan mereka yang sebenarnya adalah dugaan mereka bahwa Rasulullah saw dan kaum Muslimin akan kalah dan ditumpas habis oleh orang-orang musyrik Mekah. Jika mereka ikut bersama Rasulullah, tentu mereka akan kalah dan tertumpas habis pula. Alasan dan isi hati mereka itu disampaikan Allah kepada Rasulullah saw sebelum mereka menghadap beliau untuk memohon dimintakan ampunan kepada Allah atas penolakan mereka. Dengan demikian, Rasulullah telah mengetahui isi hati mereka yang sebenarnya pada saat mereka menghadap.\n\nAllah kemudian mengajarkan kepada Rasulullah jawaban tepat yang akan disampaikan kepada mereka pada waktu mereka minta agar beliau memohonkan ampunan kepada Allah atas dosa mereka. Allah mengajarkan Nabi dengan memerintahkan beliau untuk mengatakan kepada orang-orang Arab penduduk padang pasir itu sebagai penolakan terhadap permintaan mereka, \"Hai orang-orang Arab penduduk padang pasir, kamu menolak ajakanku pergi ke Mekah semata-mata karena kamu mau menghindari bencana dan malapetaka yang kamu duga akan menimpa dirimu. Siapakah di antara kamu yang sanggup melawan kekuasaan Allah jika Dia berkehendak menimpakan bencana dan malapetaka atas dirimu dan siapa pula yang menghindarkan sesuatu yang akan diberikan-Nya kepada seseorang, jika Dia menghendaki-Nya? Tidak seorang pun yang sanggup melakukannya. Oleh karena itu, tidaklah patut kamu mengemukakan alasan bahwa kamu sibuk mengurus urusan, harta, serta menjaga keluargamu sebagai alasan tidak ikut pergi bersamaku ke Mekah. Jika Allah hendak membinasakan semua yang kamu miliki itu, tidak seorang pun yang dapat mempertahankannya, walaupun yang menjaga itu adalah kamu sendiri.\"\n\nAyat ini juga merupakan peringatan kepada orang-orang yang selalu mengemukakan \"kesibukan duniawi\" sebagai alasan meninggalkan kewajiban agama yang telah dibebankan Allah kepada mereka dan untuk melanggar larangan Allah yang telah diperingatkan kepada mereka. Hendaklah kaum Muslimin benar-benar yakin bahwa kesibukan duniawi itu hanyalah untuk mencapai kesenangan dunia yang sifatnya sementara, sedang jihad fi sabilillah akan menghasilkan kebahagiaan hidup abadi di akhirat.\n\nPada akhir ayat ini, Allah menegaskan bahwa Dia Maha Mengetahui segala sesuatu yang dikerjakan oleh hamba-hamba-Nya, termasuk alasan-alasan palsu yang dikemukakan oleh seseorang untuk menghindarkan diri dari perintah Allah. Oleh karena itu, Dia akan memberikan balasan yang adil dan setimpal kepada setiap manusia terhadap segala dosa dan perbuatan yang telah dikerjakan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4595,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 512,
+                    "manzil": 6,
+                    "ruku": 447,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ الرَّسُولُ وَالْمُؤْمِنُونَ إِلَىٰ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ السَّوْءِ وَكُنتُمْ قَوْمًا بُورًا",
+                    "transliteration": {
+                        "en": "Bal zanantum al lany yanqalibar Rasoolu walmu'minoona ilaaa ahleehim abadanw wa zuyyina zaalika fee quloobikum wa zanantum zannnas saw'i wa kuntum qawmam booraa"
+                    }
+                },
+                "translation": {
+                    "en": "But you thought that the Messenger and the believers would never return to their families, ever, and that was made pleasing in your hearts. And you assumed an assumption of evil and became a people ruined.\"",
+                    "id": "Bahkan (semula) kamu menyangka bahwa Rasul dan orang-orang mukmin sekali-kali tidak akan kembali lagi kepada keluarga mereka selama-lamanya dan dijadikan terasa indah yang demikian itu di dalam hatimu, dan kamu telah berprasangka dengan prasangka yang buruk, karena itu kamu menjadi kaum yang binasa."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4595",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4595.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4595.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sebenarnya tidak ikut sertanya kamu pergi ke Mekah bukan karena sebab yang kamu nyatakan. Sesungguhnya kamu menyangka akan terjadi peperangan, bahkan semula kamu menyangka bahwa Rasul dan orang-orang mukmin sekali-kali tidak akan kembali lagi kepada keluarga mereka di Madinah selama-lamanya, karena terbunuh dalam peperang-an dengan orang-orang musyrik di Mekah. Sangkaan itu keliru dan dijadikan oleh setan terasa indah yang demikian itu di dalam hatimu, sehingga kamu memandangnya benar. Kamu menyangka bahwa Rasul dan orang-orang mukmin akan terbunuh dalam peperangan dengan orang-orang musyrik dan kamu, dengan sangkaan yang demikian itu, telah berprasangka dengan prasangka yang buruk, karena itu kamu menjadi kaum yang binasa, bejat hatinya dan tidak pantas untuk memperoleh kebaikan.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa orang-orang Arab padang pasir telah termakan oleh tipu daya setan. Anggapan bahwa Rasulullah saw dan para sahabatnya akan hancur, benar-benar telah ditanamkan setan dalam hatinya, sehingga telah menjadi pendapat dan keyakinan mereka. Oleh karena itu, mereka sangat takut pergi bersama Rasulullah ke Mekah. Padahal jika mereka memikirkannya secara mendalam, maka keengganan mereka itu sebenarnya akan menjadi sebab kebinasaan mereka di dunia, apalagi di akhirat. Tempat yang disediakan bagi mereka adalah neraka yang menyala-nyala."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4596,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 512,
+                    "manzil": 6,
+                    "ruku": 447,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَن لَّمْ يُؤْمِن بِاللَّهِ وَرَسُولِهِ فَإِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَعِيرًا",
+                    "transliteration": {
+                        "en": "Wa mal lam yu'mim billaahi wa Rasoolihee fainnaaa a'tadnaa lilkaafireena sa'eeraa"
+                    }
+                },
+                "translation": {
+                    "en": "And whoever has not believed in Allah and His Messenger - then indeed, We have prepared for the disbelievers a Blaze.",
+                    "id": "Dan barangsiapa tidak beriman kepada Allah dan Rasul-Nya, maka sesungguhnya Kami telah menyediakan untuk orang-orang kafir itu neraka yang menyala-nyala."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4596",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4596.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4596.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan barang siapa tidak beriman kepada Allah dan Rasul-Nya, tidak membenarkan perkataan Allah dan Rasul-Nya dan tidak beramal se-suai dengan perintah Allah dan Rasul-Nya, maka sesungguhnya Kami telah menyediakan untuk orang-orang kafir itu neraka yang menyala-nyala sebagai balasan atas kekafirannya. Dan barang siapa yang beriman secara benar kepada Allah dan Rasul-Nya, maka Allah menyediakan untuknya pahala yang besar.",
+                        "long": "Dalam ayat ini dinyatakan bahwa barang siapa yang tidak beriman kepada Allah dan Rasul-Nya, maka Allah akan menyediakan baginya api neraka yang menyala-nyala sebagai balasan terhadap keingkaran mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4597,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 512,
+                    "manzil": 6,
+                    "ruku": 447,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ ۚ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا",
+                    "transliteration": {
+                        "en": "Wa lillaahii mulkus samaawaati wal ard; yaghfiru limany yashaaa'u wa yu'azzibu many yashaaa'; wa kaanal laahu Ghafoorar Raheemaa"
+                    }
+                },
+                "translation": {
+                    "en": "And to Allah belongs the dominion of the heavens and the earth. He forgives whom He wills and punishes whom He wills. And ever is Allah Forgiving and Merciful.",
+                    "id": "Dan hanya milik Allah kerajaan langit dan bumi. Dia mengampuni siapa yang Dia kehendaki dan akan mengazab siapa yang Dia kehendaki. Dan Allah Maha Pengampun, Maha Penyayang."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4597",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4597.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4597.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan hanya milik Allah kerajaan langit dan bumi. Dia memeliharanya dan mengaturnya sesuai ketentuan-Nya. Dia mengampuni siapa yang Dia kehendaki, tanpa ada yang menghalangi kehendak-Nya dan akan mengazab siapa yang Dia kehendaki, tanpa ada siapa pun yang dapat menolaknya. Dan Allah senatiasa Maha Pengampun lagi Maha Penyayang kepada orang yang mau bertobat dan kembali kepada-Nya.",
+                        "long": "Ancaman Allah akan mengazab orang-orang kafir bukan ancaman yang dibuat-buat dan sukar dilaksanakan, tetapi sesuatu yang benar-benar akan terjadi dan mudah pelaksanaannya bagi Allah karena hanya Dialah penguasa langit dan bumi beserta semua isinya. Hanya Dialah yang memiliki, mengatur, mengurus, menetapkan hukum-hukum yang berlaku baginya, dan menjaga kelangsungan wujudnya dengan hikmah-hikmah yang sempurna. Dia pulalah yang berhak mengampuni, menolong, dan mengazab siapa yang dikehendaki-Nya. Dialah Allah yang Maha Pengampun dan Mahakekal rahmat-Nya.\n\nAyat ini mengisyaratkan bahwa sekalipun orang-orang Arab penduduk padang pasir itu telah menolak dan mengingkari ajakan Rasulullah saw untuk pergi ke Mekah dan mengada-adakan alasan tentang sebab ketidakpergian mereka, namun Allah Maha Pengampun kepada hamba-hamba yang mau bertobat kepada-Nya dengan tobat yang sebenar-benarnya. Oleh karena itu, tergantung kepada mereka sendiri apakah mereka mau bertobat pada kesempatan yang telah diberikan Allah atau mereka akan tetap kafir. Dia akan melimpahkan rahmat yang tidak terhingga banyaknya kepada setiap orang yang ikhlas beribadah kepada-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4598,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 512,
+                    "manzil": 6,
+                    "ruku": 447,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "سَيَقُولُ الْمُخَلَّفُونَ إِذَا انطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا كَلَامَ اللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ اللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا لَا يَفْقَهُونَ إِلَّا قَلِيلًا",
+                    "transliteration": {
+                        "en": "Sa yaqoolul mukhalla foona izan talaqtum ilaa maghaanima litaakhuzoohaa zaroonaa nattabi'kum yureedoona any yubaddiloo Kalaamallaah; qul lan tattabi'oonaa kazaalikum qaalal laahu min qablu fasa yaqooloona bal tahsudoonanna; bal kaanoo laa yafqahoona illaa qaleela"
+                    }
+                },
+                "translation": {
+                    "en": "Those who remained behind will say when you set out toward the war booty to take it, \"Let us follow you.\" They wish to change the words of Allah. Say, \"Never will you follow us. Thus did Allah say before.\" So they will say, \"Rather, you envy us.\" But [in fact] they were not understanding except a little.",
+                    "id": "Apabila kamu berangkat untuk mengambil barang rampasan, orang-orang Badui yang tertinggal itu akan berkata, “Biarkanlah kami mengikuti kamu.” Mereka hendak mengubah janji Allah. Katakanlah, “Kamu sekali-kali tidak (boleh) mengikuti kami. Demikianlah yang telah ditetapkan Allah sejak semula.” Maka mereka akan berkata, “Sebenarnya kamu dengki kepada kami.” Padahal mereka tidak mengerti melainkan sedikit sekali."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4598",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4598.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4598.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Apabila kamu wahai Nabi Muhammad, berangkat menuju ke Khaibar bersama-sama dengan rombongan yang pergi ke Hudaibiyah untuk mengambil barang rampasan, orang-orang Badui yang tertinggal di Madinah itu akan berkata, “Biarkanlah kami mengikuti kamu untuk mengambil harta rampasan itu.” Mereka hendak mengubah janji Allah, bahwa harta rampasan perang di Khaibar hanya diperuntukkan bagi rombongan yang ikut ke Hudaibiyah. Katakanlah, wahai Nabi Muhammad, “Kamu, wahai orang-orang Badui yang tidak ikut pergi ke Hudaibiyah, sekali-kali tidak boleh mengikuti kami untuk mengambil harta rampasan di Khaibar. Demikianlah ketentuan yang telah ditetapkan Allah sejak semula, yakni sejak lama sebelum diucapkan permintaanmu untuk pergi bersama kami. Mendengar keputusan itu maka mereka akan berkata, “Itu bukan keputusan Allah, melainkan kehendakmu. Sebenarnya kamu dengki kepada kami, kalau kami memperoleh harta rampasan itu.” Bukan karena kedengkian, melainkan karena mereka tidak mengerti perkara agama atau latar belakang keputusan itu melainkan sedikit sekali. Kalau mereka mengetahuinya niscaya mereka tidak mengatakan kepada Rasul ucapan yang demikian itu.",
+                        "long": "Orang-orang Arab Badui yang tidak ikut mengerjakan umrah ke Mekah bersama Rasulullah saw berkata kepada Nabi Muhammad saw pada waktu beliau akan pergi ke Khaibar, \"Hai Muhammad, berilah kesempatan kepada kami untuk ikut bersamamu ke Khaibar.\" Kesediaan mereka untuk pergi ke Khaibar itu karena mereka yakin bahwa Perang Khaibar akan dimenangkan oleh kaum Muslimin, sehingga akan memperoleh harta rampasan yang banyak dalam peperangan itu.\n\nRasulullah saw bersama sahabat pergi ke medan Perang Khaibar pada bulan Muharram tahun ketujuh, sekembali beliau dari Perjanjian Hudaibiyyah. Dalam peperangan itu, kaum Muslimin mendapat kemenangan dan memperoleh harta rampasan yang banyak dari orang Yahudi.\n\nDalam satu hadis sahih, diterangkan bahwa Allah telah menjanjikan kepada para sahabat yang ikut bersama Rasulullah saw ke Hudaibiyyah bahwa mereka akan mendapat kemenangan di Perang Khaibar dan harta rampasan yang banyak. Janji ini secara tidak langsung menolak kesediaan orang-orang Arab Badui yang ingin ikut berperang bersama Rasulullah saw karena perang ini khusus diikuti oleh kaum Muslimin yang ikut ke Hudaibiyyah.\n\nKarena maksud mereka yang tidak baik, maka Allah memerintahkan kepada Rasul untuk mengatakan kepada orang-orang yang bersedia ikut ke Khaibar, tetapi tidak ikut ke Hudaibiyyah, \"Kamu tidak perlu ikut dengan kami ke Khaibar karena kamu telah mengenal kami. Kamu hanya mau ikut jika akan memperoleh keuntungan diri sendiri, sedangkan jika tidak ada keuntungan bahkan yang ada hanya kesengsaraan dan malapetaka, maka kamu tidak mau pergi bersama kami, bahkan mengemukakan alasan yang bermacam-macam. Demikianlah Allah telah membukakan rahasia hatimu kepada kami sebelum kami kembali dari Hudaibiyyah dan Allah telah menyatakan kepada kami bahwa rampasan Khaibar hanya akan diterima oleh orang-orang yang ikut ke Hudaibiyyah saja, itulah sebabnya kamu tidak boleh ikut bersama kami.\"\n\nOrang-orang Arab Badui menjawab, \"Wahai Muhammad, kamu mengadakan kebohongan terhadap kami. Sebenarnya Allah tidak mengatakan demikian. Kamu mengadakan kebohongan itu semata-mata karena rasa dengki yang timbul dalam hatimu terhadap kami.\" Pada akhir ayat ini diterangkan bahwa orang-orang munafik Arab Badui yang mengatakan hal itu adalah orang yang tidak mengetahui agama Allah. Mereka juga tidak mengetahui tujuan perintah jihad. Allah memerintahkan jihad bukan karena Dia tidak mampu menghancurkan mereka, melainkan untuk membedakan siapa di antara mereka yang beriman dan siapa pula yang kafir."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4599,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 513,
+                    "manzil": 6,
+                    "ruku": 447,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُل لِّلْمُخَلَّفِينَ مِنَ الْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُولِي بَأْسٍ شَدِيدٍ تُقَاتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا يُؤْتِكُمُ اللَّهُ أَجْرًا حَسَنًا ۖ وَإِن تَتَوَلَّوْا كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا",
+                    "transliteration": {
+                        "en": "Qul lilmukhallafeena minal A'raabi satud'awna ilaa qawmin ulee baasin shadeedin tuqaati loonahum aw yuslimoona fa in tutee'oo yu'tikumul laahu ajran hasananw wa in tatawallaw kamaa tawallaitum min qablu yu'azzibkum 'azaaban aleemaa"
+                    }
+                },
+                "translation": {
+                    "en": "Say to those who remained behind of the bedouins, \"You will be called to [face] a people of great military might; you may fight them, or they will submit. So if you obey, Allah will give you a good reward; but if you turn away as you turned away before, He will punish you with a painful punishment.\"",
+                    "id": "Katakanlah kepada orang-orang Badui yang tertinggal, “Kamu akan diajak untuk (memerangi) kaum yang mempunyai kekuatan yang besar, kamu harus memerangi mereka kecuali mereka menyerah. Jika kamu patuhi (ajakan itu) Allah akan memberimu pahala yang baik, tetapi jika kamu berpaling seperti yang kamu perbuat sebelumnya, Dia akan mengazab kamu dengan azab yang pedih.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4599",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4599.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4599.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Katakanlah kepada orang-orang Badui yang tertinggal, yaitu mereka yang tidak ikut pergi ke Hudaibiyah, “Kamu akan diajak untuk pergi menuju suatu kaum yang mempunyai kekuatan yang besar dan keberanian yang luar biasa. Ketika itu kamu harus memerangi mereka kecuali mereka menyerah dan masuk Islam. Jika kamu patuhi ajakan itu Allah akan memberimu pahala yang baik, berupa kemuliaan dan harta rampasan di dunia, dan di akhirat berupa surga. Tetapi jika kamu berpaling seperti yang kamu perbuat sebelumnya, yakni ketika Nabi mengajakmu ke Hudaibiyah Dia akan mengazab kamu dengan azab yang pedih, berupa kehinaan di dunia dan neraka di akhirat.”",
+                        "long": "Ayat ini seakan-akan menguji isi hati dan kemauan orang-orang munafik Arab Badui, dengan memerintahkan Rasulullah agar mengatakan bahwa jika mereka benar-benar ingin bergabung dengan barisan kaum Muslimin, maka mereka akan diajak memerangi orang-orang yang mempunyai kekuatan yang besar. Mereka diharuskan untuk memerangi musuh itu kecuali kalau mereka menyerah dan memeluk agama Islam. \n\nKemudian kepada orang-orang Arab Badui itu dijanjikan bahwa jika mereka ikut berjihad, Allah akan melimpahkan nikmat-Nya kepada mereka, baik di dunia berupa kemenangan dan harta rampasan, maupun di akhirat berupa surga yang penuh kenikmatan. Sebaliknya jika mereka menyalahi perintah Allah, tidak mau berjihad, dan melaksanakan perintah itu, mereka akan menerima azab yang pedih di akhirat.\n\nDengan ayat ini, seakan-akan Allah memberikan kesempatan bertobat kepada mereka dengan menerima ajakan jihad itu. Akan tetapi, di wajah mereka tampak keingkaran dan ketakutan untuk menerima ajakan dan kesempatan bertobat itu.\n\nMaksud \"kaum yang mempunyai kekuatan\" di sini ialah orang-orang kafir Mekah. Sedangkan menurut sebagian yang lain mengartikan suku Hawazin dan Bani hanifah di Nejed."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4600,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 513,
+                    "manzil": 6,
+                    "ruku": 447,
+                    "hizbQuarter": 204,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَّيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ ۗ وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا",
+                    "transliteration": {
+                        "en": "Laisa 'alal a'maa harajunw wa laa 'alal a'raji harajunw wa laa 'alal mareedi haraj' wa many yutil'il laaha wa Rasoolahoo yudkhilhu jannaatin tajree min tahtihal anhaaru wa many yatawalla yu'azzibhu 'azaaban aleemaa"
+                    }
+                },
+                "translation": {
+                    "en": "There is not upon the blind any guilt or upon the lame any guilt or upon the ill any guilt [for remaining behind]. And whoever obeys Allah and His Messenger - He will admit him to gardens beneath which rivers flow; but whoever turns away - He will punish him with a painful punishment.",
+                    "id": "Tidak ada dosa atas orang-orang yang buta, atas orang-orang yang pincang, dan atas orang-orang yang sakit (apabila tidak ikut berperang). Barangsiapa taat kepada Allah dan Rasul-Nya, Dia akan memasukkannya ke dalam surga yang mengalir di bawahnya sungai-sungai; tetapi barangsiapa berpaling, Dia akan mengazabnya dengan azab yang pedih."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4600",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4600.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4600.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tidak ada dosa atas orang-orang yang buta apabila mereka tidak memenuhi ajakan itu, demikian juga atas orang-orang yang pincang, yakni cacat, dan atas orang-orang yang sakit apa pun jenis penyakitnya, apabila tidak ikut berperang. Barang siapa taat kepada Allah dan Rasul-Nya, melaksanakan perintah dan menjauhi larangan-Nya, Dia akan memasukkannya ke dalam surga yang mengalir di bawahnya sungai-sungai; tetapi barangsiapa berpaling mengabaikan perintah dan larangan-Nya Dia akan mengazabnya dengan azab yang pedih.",
+                        "long": "Diriwayatkan dari Ibnu 'Abbas bahwa waktu ayat yang mengancam orang-orang yang tidak mau ikut berjihad bersama Rasulullah turun, maka orang-orang yang lumpuh berkata, \"Bagaimana dengan kami ya Rasulullah?\" Sebagai jawabannya turunlah ayat ini.\n\nDalam ayat ini, Allah menerangkan bahwa alasan-alasan yang dibolehkan bagi seseorang untuk tidak ikut berperang adalah karena buta, pincang, cacat jasmani, atau sakit. Muqatil berkata, \"Nabi saw membenarkan alasan orang-orang yang sakit untuk tidak ikut bersama Rasulullah ke Hudaibiyyah dengan alasan ayat ini.\"\n\nKemudian Allah memberikan dorongan dan semangat kepada orang-orang beriman bahwa barang siapa yang menaati Allah dan Rasul-Nya, serta memenuhi panggilan jihad di jalan-Nya, akan diberi balasan berupa surga yang penuh kenikmatan. Sebaliknya orang-orang yang mengingkari Allah dan Rasul-Nya serta tidak mau ikut berjihad bersama kaum Muslimin yang lain, Allah akan mengazabnya dengan azab yang pedih."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4601,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 513,
+                    "manzil": 6,
+                    "ruku": 448,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "۞ لَّقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا",
+                    "transliteration": {
+                        "en": "Laqad radiyal laahu 'anil mu'mineena iz yubaayi 'oonaka tahtash shajarati fa'alima maa fee quloobihim fa anzalas sakeenata 'alaihim wa asaa bahum fat han qareebaa"
+                    }
+                },
+                "translation": {
+                    "en": "Certainly was Allah pleased with the believers when they pledged allegiance to you, [O Muhammad], under the tree, and He knew what was in their hearts, so He sent down tranquillity upon them and rewarded them with an imminent conquest",
+                    "id": "Sungguh, Allah telah meridai orang-orang mukmin ketika mereka berjanji setia kepadamu (Muhammad) di bawah pohon, Dia mengetahui apa yang ada dalam hati mereka lalu Dia memberikan ketenangan atas mereka dan memberi balasan dengan kemenangan yang dekat,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4601",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4601.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4601.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, Allah telah meridai orang-orang mukmin, yaitu para sahabat Nabi ketika mereka berjanji setia kepadamu wahai Nabi Muhammad untuk meluhurkan agama Islam dan memerangi musuh-musuhnya. Janji setia itu berlangsung di di bawah pohon di tempat bernama Hudaibiyah, ketika Nabi dan para Sahabat dihalangi oleh kaum musyrik Mekah melaksanakan umrah. Dia mengetahui apa yang ada dalam hati mereka menyangkut keteguhan iman dan keikhlasan berbaiat, lalu Dia memberikan ketenangan atas mereka dan ketabahan dalam menghadapi musuh dan memberi balasan dengan kemenangan yang dekat, yaitu dalam peperangan di Khaibar, tidak lama sesudah mereka kembali dari Hudaibiyah.",
+                        "long": "Allah menyampaikan kepada Rasulullah saw bahwa Dia telah meridai baiat yang telah dilakukan para sahabat kepada beliau pada waktu Bai'ah ar-Ridhwan. Para sahabat yang ikut baiat pada waktu itu lebih kurang 1.400 orang. Menurut riwayat, ada seorang yang ikut bersama Rasulullah saw, tetapi tidak ikut baiat, yaitu Jadd bin Qais al-Ansari. Dia adalah seorang munafik.\n\nPara sahabat yang melakukan baiat itu telah berjanji akan menepati semua janji yang telah mereka ucapkan walaupun akan berakibat kematian diri mereka sendiri. Hal itu tersebut dalam hadis yang diriwayatkan al-Bukhari dari Salamah bin al-Akwa', bahwa ia berkata:\n\nAku telah melakukan baiat kepada Rasulullah saw kemudian aku berjalan menuju bayangan pohon (Samurah). Ketika orang-orang mulai sedikit, Nabi saw berkata, \"Wahai Ibnu al-Akwa', tidakkah kamu ikut melakukan baiat.\" Aku berkata, \"Wahai Rasulullah, aku sudah melakukan baiat.\" Rasulullah berkata, \"Yang ini juga.\" Maka aku melakukan baiat untuk kedua kalinya. Aku (Yazid bin Abu 'Ubaid, salah seorang sanad hadis ini) bertanya pada Salamah bin al-Akwa', \"Wahai Abu Muslim (panggilan Salamah), untuk apa kalian melakukan baiat pada hari itu?\" Ia menjawab, \"Untuk mati.\" (Riwayat al-Bukhari dari Salamah bin al-Akwa')\n\nAllah menjanjikan balasan berupa surga yang penuh kenikmatan kepada orang-orang yang ikut baiat itu. Hal ini ditegaskan pula dalam hadis Rasulullah saw yang diriwayatkan Ahmad, Muslim, Abu Dawud, dan at-Tirmidhi dari Jabir r.a., Rasulullah saw bersabda:\n\nTidak seorang pun akan masuk neraka dari orang-orang yang ikut baiat di bawah pohon (Samurah) itu. \n\nMenurut Nafi', ketika 'Umar bin al-Khaththab mendengar bahwa para sahabat sering berdatangan mengunjungi pohon itu untuk mengenang dan memperingati peristiwa Bai'ah ar-Ridhwan, maka beliau memerintahkan untuk menebang pohon itu. Umar memerintahkan agar pohon dan tempat itu tidak dikeramatkan dan dipuja oleh orang-orang yang datang kemudian sehingga menjadi tempat timbulnya syirik. Perbuatan Umar tersebut adalah sebagai saddu dhari'ah (menutupi celah atau kesempatan agar tidak terjadi syirik di kemudian hari).\n\nSelanjutnya Allah menerangkan bahwa Dia mengetahui isi hati dan kebulatan tekad kaum Muslimin yang melakukan baiat itu. Oleh karena itu, Allah menanamkan dalam hati mereka ketenangan, kesabaran, dan ketaatan kepada keputusan Rasulullah saw. Allah menjanjikan pula kepada mereka kemenangan pada Perang Khaibar yang terjadi dalam waktu yang dekat. Dengan demikian, ayat ini termasuk ayat yang menerangkan peristiwa yang terjadi pada masa yang akan datang, yaitu kemenangan kaum Muslimin pada Perang Khaibar. Dan peristiwa itu benar-benar terjadi."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4602,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 513,
+                    "manzil": 6,
+                    "ruku": 448,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا",
+                    "transliteration": {
+                        "en": "Wa maghaanima kaseera tany yaakhuzoonahaa; wa kaanal laahu 'Azeezan Hakeemaa"
+                    }
+                },
+                "translation": {
+                    "en": "And much war booty which they will take. And ever is Allah Exalted in Might and Wise.",
+                    "id": "dan harta rampasan perang yang banyak yang akan mereka peroleh. Dan Allah Mahaperkasa, Mahabijaksana."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4602",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4602.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4602.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan kepada mereka dianugerahkan harta rampasan perang yang banyak yang akan mereka peroleh dalam peperangan itu. Dan Allah Mahaperkasa, tidak ada yang dapat menghalangi kehendak-Nya Mahabijaksana dalam segala ketetapan-Nya.",
+                        "long": "Ayat ini menerangkan bahwa pada Perang Khaibar yang akan terjadi, kaum Muslimin akan memperoleh kemenangan atas kaum kafir dan memperoleh harta rampasan yang banyak. Harta rampasan itu khusus diberikan kepada kaum Muslimin yang ikut Bai'ah ar-Ridhwan.\n\nPada akhir ayat ini, Allah mengulang ancaman-Nya kepada orang-orang munafik Arab Badui yang tidak mau ikut bersama Rasulullah saw ke Mekah. Allah akan memberlakukan sesuatu atas makhluk-Nya sesuai dengan hikmah dan faedahnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4603,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 513,
+                    "manzil": 6,
+                    "ruku": 448,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَعَدَكُمُ اللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَٰذِهِ وَكَفَّ أَيْدِيَ النَّاسِ عَنكُمْ وَلِتَكُونَ آيَةً لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَاطًا مُّسْتَقِيمًا",
+                    "transliteration": {
+                        "en": "Wa'adakumul laahu ma ghaanima kaseeratan taakhuzoo nahaa fa'ajjala lakum haazihee wa kaffa aydiyan naasi 'ankum wa litakoona aayatal lilmu'mineena wa yahdiyakum siraatam mustaqeema"
+                    }
+                },
+                "translation": {
+                    "en": "Allah has promised you much booty that you will take [in the future] and has hastened for you this [victory] and withheld the hands of people from you - that it may be a sign for the believers and [that] He may guide you to a straight path.",
+                    "id": "Allah menjanjikan kepadamu harta rampasan perang yang banyak yang dapat kamu ambil, maka Dia segerakan (harta rampasan perang) ini untukmu dan Dia menahan tangan manusia dari (membinasakan)mu (agar kamu mensyukuri-Nya) dan agar menjadi bukti bagi orang-orang mukmin dan agar Dia menunjukkan kamu ke jalan yang lurus."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4603",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4603.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4603.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menjanjikan kepadamu harta rampasan perang yang banyak yang dapat kamu ambil dari negeri-negeri yang kamu taklukkan di masa yang akan datang. Akan tetapi Allah tidak membiarkan kamu sekalian menunggu berlama-lama, maka Dia segerakan harta rampasan perang ini untukmu yaitu dalam perang Khaibar. Dan Dia menahan tangan manusia dari membinasa­kanmu agar kamu mensyukuri-Nya dan agar menjadi bukti bagi orang-orang mukmin bahwa Allah senantiasa menjaga dan menolong mereka atas musuh-musuh-Nya dan agar Dia oleh karena ketaatanmu kepada Allah dan Rasul-Nya menunjukkan kamu ke jalan yang lurus.",
+                        "long": "Allah menjanjikan kemenangan dan harta rampasan yang banyak bagi kaum Muslimin dari orang-orang kafir secara berangsur-angsur pada masa yang akan datang. Allah akan segera memberikan kemenangan dan harta rampasan pada Perang Khaibar. Allah juga menjamin dan menghentikan orang-orang Yahudi yang ada di Medinah untuk mengganggu dan merusak harta kaum Muslimin sewaktu mereka pergi ke Mekah dan ke Khaibar. Peristiwa-peristiwa tersebut hendaklah mereka syukuri dan dijadikan sebagai bukti atas kebenaran Nabi Muhammad sebagai rasul yang diutus Allah kepada manusia. Allah membantu dan menolong kaum Muslimin dari ancaman dan serangan musuh-musuh, baik diketahui kedatangannya maupun yang tidak, dalam jumlah besar ataupun kecil. Allah membimbing kaum Muslimin menempuh jalan yang lurus dan diridai-Nya.\n\nMenurut Ibnu Jarir, yang dimaksud dengan perkataan, \"Allah menahan tangan manusia yang akan membinasakan Rasulullah dan kaum Muslimin\" ialah keinginan dan usaha penduduk Khaibar dan kabilah-kabilah lain yang bersekutu dengan mereka, karena dalam hati mereka masih terdapat rasa dengki dan sakit hati. Kabilah yang bersekutu dengan penduduk Khaibar itu ialah kabilah Asad dan Gathafan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4604,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 513,
+                    "manzil": 6,
+                    "ruku": 448,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأُخْرَىٰ لَمْ تَقْدِرُوا عَلَيْهَا قَدْ أَحَاطَ اللَّهُ بِهَا ۚ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرًا",
+                    "transliteration": {
+                        "en": "Wa ukhraa lam taqdiroo 'alaihaa qad ahaatal laahu bihaa; wa kaanal laahu 'alaa kulli shai'in qadeera"
+                    }
+                },
+                "translation": {
+                    "en": "And [He promises] other [victories] that you were [so far] unable to [realize] which Allah has already encompassed. And ever is Allah, over all things, competent.",
+                    "id": "Dan (kemenangan-kemenangan) atas negeri-negeri lain yang tidak dapat kamu perkirakan, tetapi sesungguhnya Allah telah menentukannya. Dan Allah Mahakuasa atas segala sesuatu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4604",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4604.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4604.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Allah telah menjanjikan pula harta rampasan yang lain yang kamu peroleh dari kemenangan-kemenangan atas negeri-negeri lain yang tidak dapat kamu perkirakan, seperti kemenangan atas negeri Persia dan Romawi, tetapi sesungguhnya Allah telah menentukannya dengan ilmu-Nya dan kekuasaan-Nya. Dan Allah Mahakuasa atas segala sesuatu, tidak ada yang menghalangi kehendak-Nya.",
+                        "long": "Di samping kemenangan dan jaminan keamanan, Allah juga menjanjikan bahwa kaum Muslimin akan menaklukkan negeri-negeri lain yang belum dapat ditaklukkan. Negeri-negeri itu telah dipastikan Allah akan dapat dikuasai oleh kaum Muslimin dan dijaga dari kemungkinan untuk ditaklukkan oleh orang lain. Kebenaran janji Allah itu terbukti di kemudian hari, dengan ditaklukkannya negeri-negeri di sekitar Jazirah Arab seperti Persia, dan sebagian kerajaan Romawi.\n\nPada akhir ayat ini, Allah menegaskan bahwa Dia mempunyai kekuasaan yang tidak dapat ditandingi oleh siapa pun, dan tidak ada sesuatu yang sukar bagi-Nya. Seakan-akan dengan ayat ini, Allah menyatakan bahwa memenangkan kaum Muslimin atas kaum kafir itu bukanlah suatu hal yang sukar bagi-Nya. Jika Dia menghendaki yang demikian, pasti terjadi."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4605,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 513,
+                    "manzil": 6,
+                    "ruku": 448,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَوْ قَاتَلَكُمُ الَّذِينَ كَفَرُوا لَوَلَّوُا الْأَدْبَارَ ثُمَّ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+                    "transliteration": {
+                        "en": "Wa law qaatalakumul lazeena kafaroo la wallawul adbaara summa laa yajidoona waliyanw-wa laa naseeraa"
+                    }
+                },
+                "translation": {
+                    "en": "And if those [Makkans] who disbelieve had fought you, they would have turned their backs [in flight]. Then they would not find a protector or a helper.",
+                    "id": "Dan sekiranya orang-orang yang kafir itu memerangi kamu pastilah mereka akan berbalik melarikan diri (kalah) dan mereka tidak akan mendapatkan pelindung dan penolong."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4605",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4605.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4605.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sekiranya orang-orang yang kafir itu yakni kaum musyrik Mekah yang telah menandatangani perjanjian Hudaibiyah memerangi kamu, pastilah mereka akan berbalik melarikan diri karena takut kepadamu dan mereka tidak akan mendapatkan pelindung yang melindungi mereka dari kebinasaan dan penolong dapat menolong mereka dari kekalahan.",
+                        "long": "Dalam ayat ini, Allah memberikan kabar gembira kepada kaum Muslimin bahwa sekiranya orang-orang Quraisy menyerang kaum Muslimin di Hudaibiyyah, pasti Ia akan menolong mereka, dan menghancurkan pasukan musyrikin. Allah juga menyatakan bahwa kaum Muslimin akan dapat menaklukkan Mekah dalam waktu yang dekat. Hal itu tergambar dalam firman-Nya, \"Hai kaum Muslimin, sekiranya orang-orang Mekah memerangimu dan tidak mau menerima Perjanjian Hudaibiyyah, pastilah Kami dapat mengalahkan mereka dan mereka akan mundur dan lari tunggang-langgang, karena tidak mempunyai pembantu dan pelindung yang akan membela mereka mempertahankan diri. Tetapi kamu, hai kaum Muslimin, mempunyai pembantu dan pelindung untuk memperoleh kemenangan.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4606,
+                    "inSurah": 23
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 513,
+                    "manzil": 6,
+                    "ruku": 448,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "سُنَّةَ اللَّهِ الَّتِي قَدْ خَلَتْ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا",
+                    "transliteration": {
+                        "en": "Sunnatal laahil latee qad khalat min qablu wa lan tajida lisunnatil laahi tabdeelaa"
+                    }
+                },
+                "translation": {
+                    "en": "[This is] the established way of Allah which has occurred before. And never will you find in the way of Allah any change.",
+                    "id": "(Demikianlah) hukum Allah, yang telah berlaku sejak dahulu, kamu sekali-kali tidak akan menemukan perubahan pada hukum Allah itu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4606",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4606.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4606.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demikianlah hukum Allah, yakni ketetapan Allah senantiasa menolong orang-orang yang beriman dan membinasakan orang-orang yang mendustakan-Nya. Itu adalah kebiasaan yang telah berlaku sejak dahulu, kamu sekali-kali tidak akan menemukan perubahan pada hukum Allah itu.",
+                        "long": "Ayat ini menegaskan bahwa memenangkan keimanan atas kekafiran dan menghapus yang batil dengan yang hak telah menjadi sunah (hukum) Allah yang berlaku bagi seluruh makhluk ciptaan-Nya sejak dahulu sampai sekarang, dan untuk masa yang akan datang. Tidak ada satu pun dari makhluk yang ada di alam semesta ini yang dapat mengubah sunah-Nya itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4607,
+                    "inSurah": 24
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 514,
+                    "manzil": 6,
+                    "ruku": 448,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَهُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِن بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ اللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+                    "transliteration": {
+                        "en": "Wa Huwal lazee kaffa aydiyahum 'ankum wa aydiyakum 'anhum bibatni Makkata mim ba'di an azfarakum 'alaihim; wa kaanal laahu bimaa ta'maloona Baseera"
+                    }
+                },
+                "translation": {
+                    "en": "And it is He who withheld their hands from you and your hands from them within [the area of] Makkah after He caused you to overcome them. And ever is Allah of what you do, Seeing.",
+                    "id": "Dan Dialah yang mencegah tangan mereka dari (membinasakan) kamu dan (mencegah) tangan kamu dari (membinasakan) mereka di tengah (kota) Mekah setelah Allah memenangkan kamu atas mereka. Dan Allah Maha Melihat apa yang kamu kerjakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4607",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4607.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4607.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Dialah yang mencegah tangan mereka yakni orang-orang musyrik Mekah yang berangkat untuk menyerbu tentara Rasulullah di Hudaibiyah, dari membinasakan kamu dan mencegah tangan kamu dari membinasakan mereka ketika kamu berada di tengah kota Mekah setelah Allah memenangkan kamu atas mereka, yakni menjadikan kamu memperoleh apa yang kamu inginkan dari mereka melalui Perjanjian Hudaibiyah. Dan Allah Maha Melihat apa yang kamu kerjakan.",
+                        "long": "Diriwayatkan oleh Ahmad, Ibnu Abi Syaibah, 'Abd bin humaid, Muslim, Abu Dawud, dan an-Nasa'i, dari Anas bin Malik, bahwa ia berkata, \"Pada Perang Hudaibiyyah, 80 orang musyrik Mekah dengan bersenjata lengkap telah menyerbu perkemahan Rasulullah dan para sahabat dari bukit Tan'im. Berkat doa Rasulullah saw, serangan itu dapat dipatahkan dan semua penyerbu itu dapat ditawan. Kemudian Rasulullah saw membebaskan dan memaafkan mereka maka turunlah ayat ini.\"\n\nAllah yang menahan dan menghambat serbuan orang-orang musyrik yang menyerbu perkemahan Rasulullah di Hudaibiyyah dan Allah pula yang menjanjikan kemenangan bagi Rasulullah saw dan kaum Muslimin. Kemudian Dia pula yang menimbulkan dalam hati Rasulullah saw rasa iba dan kasih sayang sehingga beliau membebaskan orang-orang kafir yang ditawan. Tidak seorang pun di antara mereka yang dibunuh, sekalipun kaum Muslimin telah berhasil memperoleh kemenangan.\n\nPada akhir ayat ini, Allah menegaskan bahwa Dia Maha Mengetahui semua yang dikerjakan oleh makhluk-Nya, tidak ada suatu apa pun yang tersembunyi bagi-Nya. Oleh karena itu, Dia akan memberi balasan segala amal perbuatan mereka dengan balasan yang setimpal dan adil."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4608,
+                    "inSurah": 25
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 514,
+                    "manzil": 6,
+                    "ruku": 448,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هُمُ الَّذِينَ كَفَرُوا وَصَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ وَالْهَدْيَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُ ۚ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَاءٌ مُّؤْمِنَاتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَئُوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌ بِغَيْرِ عِلْمٍ ۖ لِّيُدْخِلَ اللَّهُ فِي رَحْمَتِهِ مَن يَشَاءُ ۚ لَوْ تَزَيَّلُوا لَعَذَّبْنَا الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابًا أَلِيمًا",
+                    "transliteration": {
+                        "en": "Humul lazeena kafaroo wa saddookum 'anil-Masjidil-Haraami walhadya ma'koofan any yablugha mahillah; wa law laa rijaalum mu'minoona wa nisaaa'um mu'minaatul lam ta'lamoohum an tata'oohum fatuseebakum minhum ma'arratum bighairi 'ilmin liyud khilal laahu fee rahmatihee many yashaaa'; law tazayyaloo la'azzabnal lazeena kafaroo minhum 'azaaban aleema"
+                    }
+                },
+                "translation": {
+                    "en": "They are the ones who disbelieved and obstructed you from al-Masjid al-Haram while the offering was prevented from reaching its place of sacrifice. And if not for believing men and believing women whom you did not know - that you might trample them and there would befall you because of them dishonor without [your] knowledge - [you would have been permitted to enter Makkah]. [This was so] that Allah might admit to His mercy whom He willed. If they had been apart [from them], We would have punished those who disbelieved among them with painful punishment",
+                    "id": "Merekalah orang-orang kafir yang menghalang-halangi kamu (masuk) Masjidilharam dan menghambat hewan-hewan kurban sampai ke tempat (penyembelihan)nya. Dan kalau bukanlah karena ada beberapa orang beriman laki-laki dan perempuan yang tidak kamu ketahui, tentulah kamu akan membunuh mereka yang menyebabkan kamu ditimpa kesulitan tanpa kamu sadari. Karena Allah hendak memasukkan siapa yang Dia kehendaki ke dalam rahmat-Nya. Sekiranya mereka terpisah, tentu Kami akan mengazab orang-orang yang kafir di antara mereka dengan azab yang pedih."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4608",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4608.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4608.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Merekalah orang-orang kafir yang menghalang-halangi kamu memasuki Masjidilharam untuk melaksanakan umrah dan menghambat hewan-hewan kurban sebanyak 70 onta yang akan kamu sembelih dan dagingnya kamu bagikan kepada fakir miskin untuk sampai ke tempat penyembelihannya yang paling utama di Marwah. Dan kalau bukanlah karena ada beberapa orang beriman laki-laki dan perempuan yang kesemuanya menetap di kota Mekah yang tidak kamu ketahui sosoknya secara pasti dan mereka bertempat tinggal berbaur dengan orang-orang Mekah yang sebagian masih kafir, tentulah kamu akan membunuh mereka yang menyebabkan kamu ditimpa kesulitan seperti penyesalan dan kewajiban membayar diyat akibat membunuh mereka tanpa kamu sadari bahwa mereka adalah saudaramu seiman. Bahwa Allah mencegah tanganmu dari membinasakan mereka adalah karena Allah hendak memasukkan siapa yang Dia kehendaki ke dalam rahmat-Nya dengan memeluk Islam. Sekiranya mereka terpisah, tidak bercampur baur antara yang mukmin dan yang kafir tentu Kami akan mengazab orang-orang yang kafir di antara mereka, penduduk Mekah itu, dengan azab yang pedih, dengan membunuhnya atau menjadikan mereka sebagai tawanan dan merampas harta bendanya.",
+                        "long": "Ayat ini menerangkan bahwa orang-orang kafir menghalang-halangi kaum Muslimin mengerjakan umrah di Masjidilharam. Mereka juga menghalangi kaum Muslimin membawa dan menyembelih binatang kurban ke daerah sekitar Masjidilharam seperti di Mina dan sebagainya.\n\nSebagaimana telah diterangkan bahwa Rasulullah saw pada tahun keenam Hijrah berangkat ke Mekah bersama rombongan sahabat untuk melakukan ibadah umrah dan menyembelih kurban di daerah haram. Karena terikat dengan Perjanjian Hudaibiyyah, maka Rasulullah saw beserta sahabat tidak dapat melakukan maksudnya pada tahun itu. Rasul berusaha menepati Perjanjian Hudaibiyyah, namun ada serombongan kaum musyrik yang menyerbu perkemahan Rasulullah saw di Hudaibiyyah, tetapi serbuan itu dapat digagalkan oleh Allah. Sekalipun demikian, banyak di antara kaum Muslimin yang ingin membalas serbuan itu walaupun telah terikat dengan Perjanjian Hudaibiyyah. Allah melunakkan hati kaum Muslimin sehingga mereka menerima keputusan Rasulullah. Allah menerangkan bahwa Dia melunakkan hati kaum Muslimin sehingga tidak menyerbu Mekah dengan tujuan: pertama, untuk menyelamatkan kaum Muslimin di Mekah yang menyembunyikan keimanannya kepada orang-orang kafir. Mereka takut dibunuh atau dianiaya oleh orang-orang kafir seandainya mereka menyatakan keimanannya. Kaum Muslimin sendiri tidak dapat membedakan mereka dengan orang-orang kafir. Seandainya terjadi penyerbuan kota Mekah, niscaya orang-orang mukmin yang berada di Mekah akan terbunuh seperti terbunuhnya orang-orang kafir. Kalau terjadi demikian, tentu kaum Muslimin akan ditimpa keaiban dan kesukaran karena harus membayar kifarat. Orang-orang musyrik juga akan mengatakan, \"Sesungguhnya orang-orang Muslim telah membunuh orang-orang yang seagama dengan mereka.\" \n\nKedua, ada kesempatan bagi kaum Muslimin menyeru orang-orang musyrik untuk beriman. Dengan terjadinya Perjanjian Hudaibiyyah, kaum Muslimin telah dapat berhubungan langsung dengan orang-orang kafir. Dengan demikian, dapat terjadi pertukaran pikiran yang wajar antara mereka, tanpa mendapat tekanan dari pihak mana pun sehingga dapat diharapkan akan masuk Islam orang-orang tertentu yang diharapkan keislamannya atau diharapkan agar sikap mereka tidak lagi sekeras sikap sebelumnya. Diharapkan hal-hal itu terjadi sebelum kaum Muslimin melakukan umrah pada tahun yang akan datang.\n\nDari ayat ini dapat dipahami bahwa Allah selalu menjaga dan melindungi orang-orang yang benar-benar beriman kepada-Nya, di mana pun orang itu berada. Bahkan Dia tidak akan menimpakan suatu bencana kepada orang-orang kafir, sekiranya ada orang yang beriman yang akan terkena bencana itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4609,
+                    "inSurah": 26
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 514,
+                    "manzil": 6,
+                    "ruku": 448,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِذْ جَعَلَ الَّذِينَ كَفَرُوا فِي قُلُوبِهِمُ الْحَمِيَّةَ حَمِيَّةَ الْجَاهِلِيَّةِ فَأَنزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَىٰ وَكَانُوا أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا",
+                    "transliteration": {
+                        "en": "Iz ja'alal lazeena kafaroo fee quloobihimul hamiyyata hamiyyatal jaahiliyyati fa anzalal laahu sakeenatahoo 'alaa Rasoolihee wa 'alal mu mineena wa alzamahum kalimatat taqwaa wa kaanooo ahaqqa bihaa wa ahlahaa; wa kaanal laahu bikulli shai'in Aleema"
+                    }
+                },
+                "translation": {
+                    "en": "When those who disbelieved had put into their hearts chauvinism - the chauvinism of the time of ignorance. But Allah sent down His tranquillity upon His Messenger and upon the believers and imposed upon them the word of righteousness, and they were more deserving of it and worthy of it. And ever is Allah, of all things, Knowing.",
+                    "id": "Ketika orang-orang yang kafir menanamkan kesombongan dalam hati mereka (yaitu) kesombongan jahiliah, lalu Allah menurunkan ketenangan kepada Rasul-Nya, dan kepada orang-orang mukmin; dan (Allah) mewajibkan kepada mereka tetap taat menjalankan kalimat takwa dan mereka lebih berhak dengan itu dan patut memilikinya. Dan Allah Maha Mengetahui segala sesuatu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4609",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4609.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4609.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ayat yang lalu menyatakan bahwa Allah akan mengazab orang-orang kafir dengan siksaan yang pedih. Ayat ini menjelaskan kapan waktunya, yaitu ketika orang-orang yang kafir menanamkan kesombongan dalam hati mereka yaitu kesombongan jahiliah yang ditandai dengan menolak keesaan Allah, tidak percaya kepada diutusnya para Nabi dan perbuatan menghalangi orang beriman mengunjungi Baitullah maka Allah menurunkan ketenangan, kesabaran, dan ketenteraman, kepada Rasul-Nya, dan kepada orang-orang mukmin sehingga terlaksana Perjanjian Hudaibiyah dengan sempurna; dan Allah mewajibkan kepada mereka tetap taat menjalankan kalimat takwa, yaitu kalimat tauhid sehingga mereka terpelihara dari kemusyrikan, dan mereka lebih berhak dengan kalimat takwa itu dan patut memilikinya sebagaimana ditunjukkan oleh ucapan dan perbuatannya. Dan Allah Maha Mengetahui segala sesuatu.",
+                        "long": "Ayat ini mengingatkan kaum Muslimin akan timbulnya rasa angkuh dan sombong di hati orang-orang musyrik Mekah. Rasa itu timbul ketika mereka tidak setuju dituliskan \"Bismillahir-Rahmanir-Rahimi\" pada permulaan surat Perjanjian Hudaibiyyah.\n\nDiriwayatkan, tatkala Rasulullah saw bermaksud memerangi orang-orang musyrik, mereka mengutus Suhail bin 'Amr, Khuwaithib bin 'Abd al-'Uzza, dan Mikras bin Hafadz kepada beliau. Mereka menyampaikan permintaan kepada beliau agar mengurungkan maksudnya dan mereka menyetujui jika maksud itu dilakukan pada tahun yang akan datang. Dengan demikian, ada kesempatan bagi mereka untuk mengosongkan kota Mekah pada waktu kaum muslimin mengerjakan umrah dan tidak akan mendapat gangguan dari siapa pun. Maka dibuat suatu perjanjian. Rasulullah saw memerintahkan 'Ali bin Abi thalib menulis \"Bismillahir-Rahmanir-Rahimi\". Mereka menjawab, \"Kami tidak mengetahuinya.\" Rasulullah mengatakan bahwa perjanjian ini sebagai tanda perdamaian dari beliau kepada penduduk Mekah. Mereka berkata, \"Kalau kami mengakui bahwa engkau rasul Allah, kami tidak menghalangi engkau dan tidak akan memerangi engkau, dan tuliskanlah perjanjian ini sebagai tanda perdamaian dari Muhammad bin Abdullah kepada penduduk Mekah.\" Maka Rasulullah saw berkata kepada sahabat-sahabatnya, \"Tulislah sesuai dengan keinginan mereka.\"\n\nKarena sikap mereka, maka sebagian kaum Muslimin enggan menerima perjanjian itu, dan ingin menyerbu kota Mekah. Maka Allah menanamkan ketenangan dan sikap taat dan patuh pada diri para sahabat kepada keputusan Rasulullah saw.\n\nSemua yang terjadi itu, baik di kalangan orang yang beriman maupun di kalangan orang kafir, diketahui Allah, tidak ada sesuatu pun yang luput dari pengetahuannya. Oleh karena itu, Dia akan membalas setiap amal dan perbuatan hamba-Nya dengan seadil-adilnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4610,
+                    "inSurah": 27
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 514,
+                    "manzil": 6,
+                    "ruku": 449,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَّقَدْ صَدَقَ اللَّهُ رَسُولَهُ الرُّؤْيَا بِالْحَقِّ ۖ لَتَدْخُلُنَّ الْمَسْجِدَ الْحَرَامَ إِن شَاءَ اللَّهُ آمِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا",
+                    "transliteration": {
+                        "en": "Laqad sadaqal laahu Rasoolahur ru'yaa bilhaqq, latadkhulunnal Masjidal-Haraama in shaaa'al laahu aamineena muhalliqeena ru'oosakum wa muqassireena laa takhaafoona fa'alima maa lam ta'lamoo faja'ala min dooni zaalika fathan qareebaa"
+                    }
+                },
+                "translation": {
+                    "en": "Certainly has Allah showed to His Messenger the vision in truth. You will surely enter al-Masjid al-Haram, if Allah wills, in safety, with your heads shaved and [hair] shortened, not fearing [anyone]. He knew what you did not know and has arranged before that a conquest near [at hand].",
+                    "id": "Sungguh, Allah akan membuktikan kepada Rasul-Nya tentang kebenaran mimpinya bahwa kamu pasti akan memasuki Masjidilharam, jika Allah menghendaki dalam keadaan aman, dengan menggundul rambut kepala dan memendekkannya, sedang kamu tidak merasa takut. Maka Allah mengetahui apa yang tidak kamu ketahui dan selain itu Dia telah memberikan kemenangan yang dekat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4610",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4610.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4610.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, Allah akan membuktikan kepada Rasul-Nya yaitu Nabi Muhammad tentang kebenaran mimpinya yang diwahyukan Allah bahwa kamu, wahai sahabat-sahabat Nabi yang turut serta ke Hudaibiyah, pasti akan memasuki Masjidilharam pada tahun yang akan datang, jika Allah menghendaki dalam keadaan aman, yakni pada saat memasukinya kamu tidak dihalangi orang siapa pun. Sebagian dari kamu memasuki Masjidilharam dengan menggundul rambut kepala dan sebagian dari kamu dengan memendekkannya, sedang kamu tidak merasa takut kepada siapa pun. Maka Allah mengetahui apa yang tidak kamu ketahui dan selain itu Dia telah memberikan kemenangan yang dekat, yakni kemenangan di Hudaibiyah ini atau kemenangan di Khaibar segera sesudah terjadinya Perjanjian Hudaibiyah.",
+                        "long": "Allah menerangkan bahwa mimpi Rasulullah yang melihat dirinya dan para sahabatnya memasuki kota Mekah dengan aman dan tenteram serta beliau melihat pula di antara para sahabat ada yang menggunting dan mencukur rambutnya adalah mimpi yang benar dan pasti akan terjadi dalam waktu dekat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4611,
+                    "inSurah": 28
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 514,
+                    "manzil": 6,
+                    "ruku": 449,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+                    "transliteration": {
+                        "en": "Huwal lazeee arsala Rasoolahoo bilhudaa wa deenil haqqi liyuzhirahoo 'alad deeni kullih; wa kafaa billaahi Shaheeda"
+                    }
+                },
+                "translation": {
+                    "en": "It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion. And sufficient is Allah as Witness.",
+                    "id": "Dialah yang mengutus Rasul-Nya dengan membawa petunjuk dan agama yang benar agar dimenangkan-Nya terhadap semua agama. Dan cukuplah Allah sebagai saksi."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4611",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4611.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4611.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dialah yang mengutus Rasul-Nya, Nabi Muhammad, dengan membawa petunjuk, ilmu yang bermanfaat dan amal saleh, dan agama yang benar, yaitu agama Islam agar dimenangkan-Nya terhadap semua agama. Dan cukuplah Allah sebagai saksi bahwa Nabi Muhammad adalah utusan-Nya.",
+                        "long": "Dalam ayat ini ditegaskan kebenaran Muhammad saw sebagai rasul yang diutus Allah kepada manusia dengan menyatakan bahwa dia adalah rasul Allah yang diutus untuk membawa petunjuk dan agama Islam sebagai penyempurna terhadap agama-agama dan syariat yang telah dibawa oleh para rasul sebelumnya, menyatakan kesalahan dan kekeliruan akidah-akidah agama dan kepercayaan yang dianut manusia yang tidak berdasarkan agama, dan untuk menetapkan hukum-hukum yang berlaku bagi manusia sesuai dengan perkembangan zaman, perbedaan keadaan dan tempat. Hal ini juga berarti dengan datangnya agama Islam yang dibawa Muhammad saw, maka agama-agama yang lain tidak diakui lagi sebagai agama yang sah di sisi Allah.\n\nPada akhir ayat ini, dinyatakan bahwa semua yang dijanjikan Allah kepada Rasulullah saw dan kaum Muslimin itu pasti terjadi dan tidak ada sesuatu pun yang dapat menghalangi terjadinya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 4612,
+                    "inSurah": 29
+                },
+                "meta": {
+                    "juz": 26,
+                    "page": 515,
+                    "manzil": 6,
+                    "ruku": 449,
+                    "hizbQuarter": 205,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مُّحَمَّدٌ رَّسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ ۖ تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا ۖ سِيمَاهُمْ فِي وُجُوهِهِم مِّنْ أَثَرِ السُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ ۚ وَمَثَلُهُمْ فِي الْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ فَاسْتَغْلَظَ فَاسْتَوَىٰ عَلَىٰ سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ بِهِمُ الْكُفَّارَ ۗ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+                    "transliteration": {
+                        "en": "Muhammadur Rasoolul laah; wallazeena ma'ahooo ashiddaaa'u 'alal kuffaaari ruhamaaa'u bainahum taraahum rukka'an sujjadany yabtaghoona fadlam minal laahi wa ridwaanan seemaahum fee wujoohihim min asaris sujood; zaalika masaluhum fit tawraah; wa masaluhum fil Injeeli kazar'in akhraja shat 'ahoo fa 'aazarahoo fastaghlaza fastawaa 'alaa sooqihee yu'jibuz zurraa'a liyagheeza bihimul kuffaar; wa'adal laahul lazeena aamanoo wa 'amilus saalihaati minhum maghfiratanw wa ajran 'azeemaa"
+                    }
+                },
+                "translation": {
+                    "en": "Muhammad is the Messenger of Allah; and those with him are forceful against the disbelievers, merciful among themselves. You see them bowing and prostrating [in prayer], seeking bounty from Allah and [His] pleasure. Their mark is on their faces from the trace of prostration. That is their description in the Torah. And their description in the Gospel is as a plant which produces its offshoots and strengthens them so they grow firm and stand upon their stalks, delighting the sowers - so that Allah may enrage by them the disbelievers. Allah has promised those who believe and do righteous deeds among them forgiveness and a great reward.",
+                    "id": "Muhammad adalah utusan Allah dan orang-orang yang bersama dengan dia bersikap keras terhadap orang-orang kafir, tetapi berkasih sayang sesama mereka. Kamu melihat mereka rukuk dan sujud mencari karunia Allah dan keridaan-Nya. Pada wajah mereka tampak tanda-tanda bekas sujud. Demikianlah sifat-sifat mereka (yang diungkapkan) dalam Taurat dan sifat-sifat mereka (yang diungkapkan) dalam Injil, yaitu seperti benih yang mengeluarkan tunasnya, kemudian tunas itu semakin kuat lalu menjadi besar dan tegak lurus di atas batangnya; tanaman itu menyenangkan hati penanam-penanamnya karena Allah hendak menjengkelkan hati orang-orang kafir (dengan kekuatan orang-orang mukmin). Allah menjanjikan kepada orang-orang yang beriman dan mengerjakan kebajikan di antara mereka, ampunan dan pahala yang besar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/4612",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4612.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4612.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Nabi Muhammad adalah utusan Allah yang membawa rahmat bagi seluruh alam, dan orang-orang yang bersama dengan dia yakni sahabat-sahabat-Nya bersikap keras dan tegas terhadap orang-orang kafir yang menentang agama-Nya, tetapi berkasih sayang dan saling mencintai sesama mereka yang beriman. Kamu senantiasa melihat mereka rukuk dan sujud dan itu dilakukan semata-mata untuk mencari karunia Allah dan keridaan-Nya. Engkau saksikan pada wajah mereka tampak tanda-tanda bekas sujud berupa cahaya yang menunjukkan ketakwaan dan kesalehannya. Demikianlah sifat-sifat mereka yang sangat agung yang diungkapkan dalam Taurat yang diturunkan kepada Nabi Musa. Dan sifat-sifat me-reka yang diungkapkan dalam Injil, yaitu seperti benih yang mengeluarkan tunasnya, kemudian tunas itu semakin kuat lalu menjadi besar dan tegak lurus di atas batangnya. Demikian perumpamaan orang-orang mukmin pengikut Nabi Muhammad. Sesungguhnya mereka itu mula-mula sedikit saja, kemudian ia bertambah semakin banyak, bagaikan tunas yang menumbuhkan tanaman yang subur dan banyak buahnya. Tanaman itu menyenangkan hati penanam-penanamnya. Sifat-sifat yang luhur dan mulia dinyatakan karena Allah hendak menjengkelkan hati orang-orang kafir dengan menunjukkan semakin banyaknya jumlah orang-orang mukmin dan semakin besarnya kekuatan mereka dari masa ke masa. Demikianlah akhir Surah al-Fatë ini ditutup dengan janji Allah bahwa Allah menjanjikan kepada orang-orang yang beriman dan mengerjakan kebajikan di antara mereka, ampunan atas dosa dan kesalahan mereka dan pahala yang besar yaitu surga. Semoga kami termasuk orang-orang yang memperoleh anugerah yang agung itu.",
+                        "long": "Ayat ini menerangkan bahwa Muhammad saw adalah rasul Allah yang diutus kepada seluruh umat. Para sahabat dan pengikut Rasul bersikap keras terhadap orang-orang kafir, tetapi lemah lembut terhadap sesama mereka. Firman Allah: \n\nWahai orang-orang yang beriman! Barang siapa di antara kamu yang murtad (keluar) dari agamanya, maka kelak Allah akan mendatangkan suatu kaum, Dia mencintai mereka dan mereka pun mencintai-Nya, dan bersikap lemah lembut terhadap orang-orang yang beriman, tetapi bersikap keras terhadap orang-orang kafir, yang berjihad di jalan Allah. (al-Ma'idah/5: 54)\n\nRasulullah bersabda:\n\nPerumpamaan orang-orang mukmin dalam kasih mengasihi dan sayang-menyayangi antara mereka seperti tubuh yang satu; bila salah satu anggota badannya sakit demam, maka badan yang lain merasa demam dan terganggu pula. (Riwayat Muslim dan Ahmad dari an-Nu'man bin Basyir)\n\nOrang-orang yang beriman selalu mengerjakan salat dengan khusyuk, tunduk, dan ikhlas, mencari pahala, karunia, dan keridaan Allah. Tampak di wajah mereka bekas sujud. Maksudnya ialah air muka yang cemerlang, tidak ada gambaran kedengkian dan niat buruk kepada orang lain, penuh ketundukan dan kepatuhan kepada Allah, bersikap dan berbudi pekerti yang halus sebagai gambaran keimanan mereka.\n\nMengenai cahaya muka orang yang beriman, 'Utsman berkata, \"Adapun rahasia yang terpendam dalam hati seseorang; niscaya Allah menyatakannya pada raut mukanya dan lidahnya.\" Sifat-sifat yang demikian itu dilukiskan dalam Taurat dan Injil.\n\nPara sahabat dan pengikut Nabi semula sedikit dan lemah, kemudian bertambah dan berkembang dalam waktu singkat seperti biji yang tumbuh, mengeluarkan batangnya, lalu batang bercabang dan beranting, kemudian menjadi besar dan berbuah sehingga menakjubkan orang yang menanamnya, karena kuat dan indahnya, sehingga menambah panas hati orang-orang kafir. \n\nKemudian kepada pengikut Rasulullah saw itu, baik yang dahulu maupun yang sekarang, Allah menjanjikan pengampunan dosa-dosa mereka, memberi mereka pahala yang banyak, dan menyediakan surga sebagai tempat yang abadi bagi mereka. Janji Allah yang demikian pasti ditepati."
+                    }
+                }
+            }
+        ]
+    }
+}

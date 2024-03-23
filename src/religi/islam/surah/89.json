@@ -1,0 +1,1251 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 89,
+        "sequence": 10,
+        "numberOfVerses": 30,
+        "name": {
+            "short": "الفجر",
+            "long": "سورة الفجر",
+            "transliteration": {
+                "en": "Al-Fajr",
+                "id": "Al-Fajr"
+            },
+            "translation": {
+                "en": "The Dawn",
+                "id": "Fajar"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Lail. Nama Al Fajr diambil dari kata Al Fajr yang terdapat pada ayat pertama surat ini yang artinya fajar."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5994,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْفَجْرِ",
+                    "transliteration": {
+                        "en": "Wal-Fajr"
+                    }
+                },
+                "translation": {
+                    "en": "By the dawn",
+                    "id": "Demi fajar,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5994",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5994.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5994.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi fajar, yaitu awal mula terangnya bumi setelah kegelapan malam sirna. Pada waktu ini manusia memulai aktivitasnya. Di balik kemunculan fajar itu pasti ada Zat Yang Mahaperkasa.",
+                        "long": "Allah bersumpah dengan fajar. Fajar yang dimaksud adalah fajar yaumun-nahr (hari penyembelihan kurban), yaitu tanggal 10 Zulhijah, karena ayat berikutnya membicarakan \"malam yang sepuluh\", yaitu sepuluh hari pertama bulan itu. Akan tetapi, ada yang berpendapat bahwa fajar yang dimaksud adalah fajar setiap hari yang mulai menyingsing yang menandakan malam sudah berakhir dan siang sudah dimulai. Ada pula yang berpendapat bahwa fajar itu adalah fajar 1 Muharram sebagai awal tahun, atau fajar 1 Zulhijah sebagai bulan pelaksanaan ibadah haji."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5995,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَيَالٍ عَشْرٍ",
+                    "transliteration": {
+                        "en": "Wa layaalin 'ashr"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] ten nights",
+                    "id": "demi malam yang sepuluh,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5995",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5995.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5995.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi malam yang sepuluh, yaitu sepuluh hari pertama bulan Zulhijah. Mereka yang beramal saleh pada hari-hari tersebut akan mendapat pahala yang sangat agung.",
+                        "long": "Berikutnya Allah bersumpah dengan \"malam yang sepuluh\". Yang dimaksud adalah sepuluh hari pertama bulan Zulhijah, yang merupakan hari-hari yang sangat dimuliakan beramal pada hari-hari tersebut, sebagaimana diinformasikan hadis berikut:\n\nTidak ada hari apa pun berbuat baik lebih dicintai Allah padanya daripada hari-hari ini. (Riwayat al-Bukhari dari Ibnu 'Abbas)\n\nAkan tetapi, ada yang berpendapat bahwa yang dimaksud adalah sepuluh hari pertama bulan Muharram, atau sepuluh hari pertama bulan Ramadan, atau sepuluh hari pertama setiap bulan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5996,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالشَّفْعِ وَالْوَتْرِ",
+                    "transliteration": {
+                        "en": "Wash shaf'i wal watr"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the even [number] and the odd",
+                    "id": "demi yang genap dan yang ganjil,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5996",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5996.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5996.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi yang genap dan yang ganjil dari semua hal. Bisa juga dipahami bahwa yang genap itu adalah makhluk Allah, sedangkan yang ganjil adalah Allah. Dia Maha Esa dan tanpa bandingan. Allah tidak membutuhkan apa dan siapa pun, sedang makhluk sangat bergantung pada yang lain.",
+                        "long": "Berikutnya lagi Allah bersumpah dengan \"yang genap dan yang ganjil\". \"Yang genap adalah yaumun-nahr di atas, yaitu tanggal 10 Zulhijah, dan \"yang ganjil\" adalah hari 'Arafah, yaitu tanggal 9 Zulhijah. Itu adalah hari-hari yang dimuliakan juga. Tanggal 9 Zulhijah adalah hari wukuf di 'Arafah, yaitu hari dimulainya ibadah haji, dan tanggal 10 Zulhijah adalah hari mulai penyembelihan hewan kurban."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5997,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَاللَّيْلِ إِذَا يَسْرِ",
+                    "transliteration": {
+                        "en": "Wallaili izaa yasr"
+                    }
+                },
+                "translation": {
+                    "en": "And [by] the night when it passes,",
+                    "id": "demi malam apabila berlalu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5997",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5997.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5997.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demi malam apabila berlalu dan digantikan siang.",
+                        "long": "Selanjutnya Allah bersumpah dengan \"malam ketika berlalu\". Malam yang dimaksud adalah malam ketika jamaah haji sudah berlalu dari 'Arafah dan singgah di Muzdalifah dalam perjalanan menuju Mina dalam pelaksanaan ibadah haji.\n\nDemikianlah Allah bersumpah dengan hari-hari dalam pelaksanaan ibadah haji untuk menunjukkan bahwa ibadah haji itu besar maknanya dalam pandangan Allah. Hal itu karena ibadah haji itu mengingatkan manusia tentang adanya kematian. Dengan ingat kematian, manusia diharapkan beriman dan berbuat baik.\n\nAyat ini juga bisa ditafsirkan bahwa Allah bersumpah dengan hari-hari yang terus silih berganti untuk menunjukkan bahwa Allah Mahakuasa memelihara dan mengelola alam. Bila sudah tiba waktunya, yaitu hari Kiamat, Ia Mahakuasa pula menghancurkannya dan menghidupkannya kembali"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5998,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هَلْ فِي ذَٰلِكَ قَسَمٌ لِّذِي حِجْرٍ",
+                    "transliteration": {
+                        "en": "Hal fee zaalika qasamul lizee hijr"
+                    }
+                },
+                "translation": {
+                    "en": "Is there [not] in [all] that an oath [sufficient] for one of perception?",
+                    "id": "Adakah pada yang demikian itu terdapat sumpah (yang dapat diterima) bagi orang-orang yang berakal?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5998",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5998.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5998.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Adakah pada yang demikian itu terdapat sumpah yang dapat diterima bagi orang-orang yang berakal? Bagi mereka sumpah-sumpah tersebut sangat menggugah. Mereka tergugah untuk memikirkannya secara mendalam karena sumpah itu menunjukkan kekuasaan Allah dan anugerah-Nya yang besar bagi manusia.",
+                        "long": "Pesan yang ingin disampaikan Allah dengan bersumpah di atas adalah bahwa orang yang mau menggunakan akalnya harusnya mengerti bahwa Allah Mahakuasa mengadakan, memelihara, menghancurkan, dan menghidupkan kembali alam ini. Oleh karena itu, mereka seharusnya beriman dan berbuat baik. \n\nAyat ini merupakan peringatan bagi kaum kafir Mekah pada saat ayat ini turun, agar beriman kepada Allah dan hari kemudian, berbuat baik, dan meninggalkan perbuatan jahat mereka. Juga menjadi peringatan bagi seluruh umat manusia"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5999,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+                    "transliteration": {
+                        "en": "Alam tara kaifa fa'ala rabbuka bi'aad"
+                    }
+                },
+                "translation": {
+                    "en": "Have you not considered how your Lord dealt with 'Aad -",
+                    "id": "Tidakkah engkau (Muhammad) memperhatikan bagaimana Tuhanmu berbuat terhadap (kaum) ‘Ad?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5999",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5999.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5999.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tidakkah engkau, wahai Rasul dan kaum musyrik, memperhatikan dan merenungkan dengan pikiran jernih bagaimana Tuhanmu berbuat terhadap kaum ‘Ad? Allah mengazab mereka karena telah berbuat durhaka, meski mereka memiliki kekuatan yang luar biasa.",
+                        "long": "Allah bertanya kepada Nabi Muhammad, yang maksudnya untuk memberitahukan kepada beliau atau siapa saja untuk direnungkan, tentang kaum 'Ad. Kaum ini adalah umat Nabi Hud yang mendiami daerah yang disebut Ahqaf di daerah Hadramaut, Yaman. 'Ad adalah nama nenek moyang mereka, 'Ad bin Iram bin Sam bin Nuh. Mereka diberi nama dengan nama nenek moyang mereka itu. Mereka terkenal sebagai bangsa yang kuat dan memiliki tubuh yang tinggi, besar, dan perkasa. Bukti keperkasaan mereka adalah bahwa mereka telah mampu membangun kota yang disebut Iram dengan gedung-gedung yang kokoh, tinggi, dan megah untuk ukuran pada masa itu. Mereka juga menguasai bangsa-bangsa sekitarnya. Walaupun demikian perkasa dan memiliki peradaban yang tinggi, Allah tetap mampu menghancurkan mereka sehingga hanya tinggal nama. Semua itu akibat pembangkangan mereka kepada Allah dan kesewenang-wenangan mereka kepada manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6000,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِرَمَ ذَاتِ الْعِمَادِ",
+                    "transliteration": {
+                        "en": "Iramaa zaatil 'imaad"
+                    }
+                },
+                "translation": {
+                    "en": "[With] Iram - who had lofty pillars,",
+                    "id": "(yaitu) penduduk Iram (ibukota kaum ‘Ad) yang mempunyai bangunan-bangunan yang tinggi,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6000",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6000.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6000.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah hancurkan kaum ‘Ad, yaitu penduduk kota Iram yang mempunyai bangunan-bangunan yang tinggi dan bentuk fisik yang kuat.",
+                        "long": "Allah bertanya kepada Nabi Muhammad, yang maksudnya untuk memberitahukan kepada beliau atau siapa saja untuk direnungkan, tentang kaum 'Ad. Kaum ini adalah umat Nabi Hud yang mendiami daerah yang disebut Ahqaf di daerah Hadramaut, Yaman. 'Ad adalah nama nenek moyang mereka, 'Ad bin Iram bin Sam bin Nuh. Mereka diberi nama dengan nama nenek moyang mereka itu. Mereka terkenal sebagai bangsa yang kuat dan memiliki tubuh yang tinggi, besar, dan perkasa. Bukti keperkasaan mereka adalah bahwa mereka telah mampu membangun kota yang disebut Iram dengan gedung-gedung yang kokoh, tinggi, dan megah untuk ukuran pada masa itu. Mereka juga menguasai bangsa-bangsa sekitarnya. Walaupun demikian perkasa dan memiliki peradaban yang tinggi, Allah tetap mampu menghancurkan mereka sehingga hanya tinggal nama. Semua itu akibat pembangkangan mereka kepada Allah dan kesewenang-wenangan mereka kepada manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6001,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ",
+                    "transliteration": {
+                        "en": "Allatee lam yukhlaq misluhaa fil bilaad"
+                    }
+                },
+                "translation": {
+                    "en": "The likes of whom had never been created in the land?",
+                    "id": "yang belum pernah dibangun (suatu kota) seperti itu di negeri-negeri lain,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6001",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6001.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6001.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Itulah kota dengan bangunan-bangunan megah yang pada masanya belum pernah dibangun seperti itu megahnya di negeri-negeri lain.",
+                        "long": "Allah bertanya kepada Nabi Muhammad, yang maksudnya untuk memberitahukan kepada beliau atau siapa saja untuk direnungkan, tentang kaum 'Ad. Kaum ini adalah umat Nabi Hud yang mendiami daerah yang disebut Ahqaf di daerah Hadramaut, Yaman. 'Ad adalah nama nenek moyang mereka, 'Ad bin Iram bin Sam bin Nuh. Mereka diberi nama dengan nama nenek moyang mereka itu. Mereka terkenal sebagai bangsa yang kuat dan memiliki tubuh yang tinggi, besar, dan perkasa. Bukti keperkasaan mereka adalah bahwa mereka telah mampu membangun kota yang disebut Iram dengan gedung-gedung yang kokoh, tinggi, dan megah untuk ukuran pada masa itu. Mereka juga menguasai bangsa-bangsa sekitarnya. Walaupun demikian perkasa dan memiliki peradaban yang tinggi, Allah tetap mampu menghancurkan mereka sehingga hanya tinggal nama. Semua itu akibat pembangkangan mereka kepada Allah dan kesewenang-wenangan mereka kepada manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6002,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
+                    "transliteration": {
+                        "en": "Wa samoodal lazeena jaabus sakhra bil waad"
+                    }
+                },
+                "translation": {
+                    "en": "And [with] Thamud, who carved out the rocks in the valley?",
+                    "id": "dan (terhadap) kaum samud yang memotong batu-batu besar di lembah,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6002",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6002.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6002.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan tidakkah kamu perhatikan pula azab yang telah Allah timpakan atas kaum Šamud yang memotong dan memahat batu-batu besar di lembah untuk dijadikan kediaman mereka?",
+                        "long": "Begitu juga Allah telah menghancurleburkan kaum Samud, umat Nabi Saleh. Bangsa ini juga telah memiliki peradaban yang tinggi, yang ditunjukkan oleh kemampuan mereka membangun gedung-gedung megah di tempat-tempat datar dan memotong, memahat batu-batu di pegunungan untuk dibuat tempat-tempat peristirahatan, serta membuat relief-relief dan perhiasan-perhiasan dari batu atau marmer. Keahlian mereka itu diceritakan dalam ayat lain:\n\nDan kamu pahat dengan terampil sebagian gunung-gunung untuk dijadikan rumah-rumah. (asy-Syu'ara'/26: 149)\n\nWalaupun mereka sudah begitu maju, kuat, dan memiliki peradaban yang tinggi, Allah tetap kuasa menghancurkan mereka karena pembangkangan mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6003,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ",
+                    "transliteration": {
+                        "en": "Wa fir'awna zil awtaad"
+                    }
+                },
+                "translation": {
+                    "en": "And [with] Pharaoh, owner of the stakes? -",
+                    "id": "dan (terhadap) Fir‘aun yang mempunyai pasak-pasak (bangunan yang besar),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6003",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6003.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6003.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan tidakkah kamu juga memperhatikan azab Allah kepada Fir‘aun yang mempunyai pasak-pasak? Allah mengazabnya meski ia mampu membangun piramida-piramida yang besar dan mempunyai bala tentara yang banyak.",
+                        "long": "Allah juga telah menghancurkan Fir'aun. Ia terkenal sebagai raja yang zalim bahkan memandang dirinya tuhan bangsa Mesir. Bangsa ini di bawah Fir'aun juga telah mencapai peradaban yang tinggi, di antara buktinya adalah kemampuan mereka membangun piramid-piramid yang merupakan salah satu keajaiban dunia sampai sekarang. Mereka juga telah memiliki angkatan bersenjata yang besar. Akan tetapi, semuanya itu juga sudah dihancurleburkan Allah sehingga sekarang mereka hanya tinggal nama untuk dikenang."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6004,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
+                    "transliteration": {
+                        "en": "Allazeena taghaw fil bilaad"
+                    }
+                },
+                "translation": {
+                    "en": "[All of] whom oppressed within the lands",
+                    "id": "yang berbuat sewenang-wenang dalam negeri,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6004",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6004.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6004.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka itulah orang-orang yang berbuat sewenang-wenang dalam negeri dan berbuat zalim melewati batas kemanusiaan.",
+                        "long": "Semua bangsa yang telah disebutkan di atas, yaitu kaum 'Ad, Samud, dan Fir'aun telah melakukan kesewenang-wenangan di bumi ini, yaitu mempertuhankan manusia atau benda dan memperkosa hak-hak asasi manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6005,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
+                    "transliteration": {
+                        "en": "Fa aksaroo feehal fasaad"
+                    }
+                },
+                "translation": {
+                    "en": "And increased therein the corruption.",
+                    "id": "lalu mereka banyak berbuat kerusakan dalam negeri itu,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6005",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6005.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6005.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "lalu mereka dengan kezalimannya banyak berbuat kerusakan, dosa, dan maksiat dalam negeri itu.",
+                        "long": "Di samping itu, mereka telah melakukan kerusakan di muka bumi, seperti menindas kaum yang lemah bahkan membunuh siapa saja yang mereka kehendaki."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6006,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+                    "transliteration": {
+                        "en": "Fasabba 'alaihim Rabbuka sawta 'azaab"
+                    }
+                },
+                "translation": {
+                    "en": "So your Lord poured upon them a scourge of punishment.",
+                    "id": "karena itu Tuhanmu menimpakan cemeti azab kepada mereka,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6006",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6006.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6006.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Karena kesewenangan dan kezaliman mereka itu Tuhanmu menimpakan cemeti azab kepada mereka. Allah membinasakan kaum ‘Ad dengan topan yang sangat dingin selama tujuh malam berturut-turut; kaum Šamud dengan suara menggelegar dan petir yang menyambar (Lihat:Fussilat/41:16; al-Hàqqah:/69:6–7); dan Fir‘aun beserta tentaranya ditenggelamkan di Laut Merah.",
+                        "long": "Akhirnya Allah \"menumpahkan kepada mereka cemeti azab\", yang berarti bahwa azab itu dicurahkan seluruhnya kepada mereka sehebat-hebatnya, sehingga mereka hancur lebur tak bersisa dan yang tertinggal hanyalah nama untuk diingat orang. Yang menimpakan azab itu adalah \"Tuhanmu\" (ya, Muhammad!), yang berarti bahwa peristiwa-peristiwa itu hendaknya menjadi pelajaran bagi kaum kafir Mekah agar mereka tidak terus-menerus membangkang.\n\nBagaimana azab yang ditimpakan kepada bangsa-bangsa itu dinyatakan dalam ayat-ayat lain:\n\nMaka adapun kaum Samud, mereka telah dibinasakan dengan suara yang sangat keras, sedangkan kaum 'Ad, mereka telah dibinasakan dengan angin topan yang sangat dingin, Allah menimpakan angin itu kepada mereka selama tujuh malam delapan hari terus-menerus; maka kamu melihat kaum 'Ad pada waktu itu mati bergelimpangan seperti batang-batang pohon kurma yang telah kosong (lapuk). Maka adakah kamu melihat seorang pun yang masih tersisa di antara mereka? Kemudian datang Fir'aun dan orang-orang yang sebelumnya dan (penduduk) negeri-negeri yang dijungkirbalikkan karena kesalahan yang besar. Maka mereka mendurhakai utusan Tuhannya, Allah menyiksa mereka dengan siksaan yang sangat keras. (al-haqqah/69: 5-10)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6007,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+                    "transliteration": {
+                        "en": "Inna Rabbaka labil mirsaad"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, your Lord is in observation.",
+                    "id": "sungguh, Tuhanmu benar-benar mengawasi."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6007",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6007.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6007.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah timpakan azab kepada mereka karena sungguh, Tuhanmu benar-benar mengawasi gerak gerik dan perilaku mereka. Tidak seorang pun lepas dari pengawasan Allah. Kebinasaan tiga kaum itu hendaknya menjadi pelajaran bagi umat setelahnya, terutama kaum musyrik Mekah.",
+                        "long": "Allah menegaskan bahwa Ia sungguh amat kuat pengawasan-Nya terhadap makhluk-Nya. Tidak ada perbuatan sekecil apa pun yang tidak diketahui-Nya. Oleh karena itu, yang membangkang dan bergelimang dosa seharusnya sadar dan kemudian beriman dan tobat dari dosa-dosanya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6008,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
+                    "transliteration": {
+                        "en": "Fa ammal insaanu izaa mab talaahu Rabbuhoo fa akramahoo wa na' 'amahoo fa yaqoolu Rabbeee akraman"
+                    }
+                },
+                "translation": {
+                    "en": "And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, \"My Lord has honored me.\"",
+                    "id": "Maka adapun manusia, apabila Tuhan mengujinya lalu memuliakannya dan memberinya kesenangan, maka dia berkata, “Tuhanku telah memuliakanku.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6008",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6008.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6008.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ayat ini menjelaskan sifat dasar manusia kafir ketika mendapat kebahagiaan dan kesusahan, yakni bergembira berlebihan saat mendapat kenikmatan dan putus asa ketika tertimpa kesulitan. Maka adapun manusia, apabila Tuhan mengujinya lalu dia memuliakannya dan memberinya kesenangan serta kenikmatan, baik lahir maupun batin, maka dia berkata, “Tuhanku telah memuliakanku.” Mereka menilai kenikmatan yang diterimanya adalah berkat kemuliaan nya di sisi Allah. Mereka lupa bahwa nikmat itu pada dasarnya salah satu bentuk ujian Allah kepada manusia.",
+                        "long": "Ayat ini menyatakan bahwa Allah menguji manusia dengan kemuliaan dan berbagai nikmat-Nya, seperti kekuasaan dan kekayaan. Orang yang kafir dan durhaka akan memandang hal itu sebagai tanda bahwa Allah menyayangi mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6009,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
+                    "transliteration": {
+                        "en": "Wa ammaaa izaa mabtalaahu faqadara 'alaihi rizqahoo fa yaqoolu Rabbeee ahaanan"
+                    }
+                },
+                "translation": {
+                    "en": "But when He tries him and restricts his provision, he says, \"My Lord has humiliated me.\"",
+                    "id": "Namun apabila Tuhan mengujinya lalu membatasi rezekinya, maka dia berkata, “Tuhanku telah menghinaku.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6009",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6009.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6009.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Namun apabila Tuhan mengujinya lalu membatasi rezekinya, maka dia berkata, “Tuhanku telah menghinakanku.” Mereka tidak dapat memahami bahwa kefakiran dan kesusahan bukanla htolok ukur mutlak bagi kehinaan seseorang di mata Allah karena keduanya tidak lain hanyalah cobaan dari Allah.",
+                        "long": "Sebaliknya, bila Allah menguji mereka dengan cara membatasi rezeki, mereka menyangka bahwa Allah telah membenci mereka. Pandangan itu tidak benar, karena Allah memberi siapa yang disukai-Nya atau tidak memberi siapa yang tidak disukai-Nya. Allah ingin menguji manusia, dan karena itu Ia menghendaki agar manusia itu selalu patuh kepada-Nya, baik dalam keadaan berkecukupan maupun kekurangan. Bila Allah memberi, maka manusia yang diberi harus bersyukur, dan bila Ia tidak memberi, manusia harus bersabar."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6010,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ الْيَتِيمَ",
+                    "transliteration": {
+                        "en": "Kalla bal laa tukrimooo nal yateem"
+                    }
+                },
+                "translation": {
+                    "en": "No! But you do not honor the orphan",
+                    "id": "Sekali-kali tidak! Bahkan kamu tidak memuliakan anak yatim,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6010",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6010.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6010.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sekali-kali tidak demikian. Ketahuilah, kemuliaan seseorang tidak diukur dari kekaya annya dan kehinaan tidak dipandang dari kemiskinannya. Kemulian diukur dari ketaatan dan kehinaan adalah akibat kemaksiatan seseorang kepada Allah. Bahkan kamu tidak memuliakan, menyantuni, mengasihi, dan menolong anak yatim. Kamu biarkan mereka susah, padahal menyantuni mereka adalah amal saleh yang menjanjikan derajat tinggi di sisi Allah.",
+                        "long": "Akan tetapi banyak manusia yang ingkar, mereka tidak mensyukuri nikmat yang diberikan kepadanya. Bersyukur adalah mengucapkan kata-kata syukur dan menggunakan nikmat itu sesuai dengan ketentuan Yang Memberinya. Salah satu ketentuan-Nya adalah bahwa orang yang diberi kelebihan rezeki harus memperhatikan mereka yang berkekurangan. Di antara mereka adalah anak-anak yatim. Anak yatim perlu diasuh sampai mereka dewasa. Manusia yang ingkar dan tak mau bersyukur tidak mau memperhatikan pengasuhan anak-anak yatim itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6011,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+                    "transliteration": {
+                        "en": "Wa laa tahaaaddoona 'alaata'aamil miskeen"
+                    }
+                },
+                "translation": {
+                    "en": "And you do not encourage one another to feed the poor.",
+                    "id": "dan kamu tidak saling mengajak memberi makan orang miskin,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6011",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6011.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6011.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan kamu tidak saling mengajak satu sama lain untuk memberi makan orang miskin. Tidak mengajak orang lain untuk berbuat baik juga merupakan tindakan tidak terpuji. Mengajak orang lain berbuat baik adalah tindakan terpuji, apa lagi jika dibarengi dengan melakukannya. Makanan adalah kebutuhan pokok manusia. Memberi makanan fakir miskin, baik muslim atau bukan, adalah suatu bentuk kesalehan sosial yang sangat terpuji (Lihat pula: al-Insàn/76: 8).",
+                        "long": "Di samping itu, mereka tidak menaruh kasihan pada penderitaan orang miskin. Jangankan untuk melepaskan mereka dari kemiskinan, membantu mencukupkan kebutuhan pokok mereka saja mereka tidak ada perhatian."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6012,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا",
+                    "transliteration": {
+                        "en": "Wa taakuloonat turaasa aklal lammaa"
+                    }
+                },
+                "translation": {
+                    "en": "And you consume inheritance, devouring [it] altogether,",
+                    "id": "sedangkan kamu memakan harta warisan dengan cara mencampurbaurkan (yang halal dan yang haram),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6012",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6012.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6012.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kamu tidak berbuat baik kepada anak yatim dan orang miskin, sedangkan kamu justru memakan harta warisan dengan cara mencampur baurkan yang halal dengan yang haram. Harta warisan adalah hak ahli waris tertentu. Merampas harta warisan yang menjadi hak orang lain adalah perbuatan zalim.",
+                        "long": "Tambahan lagi manusia yang ingkar dan durhaka itu sangat tamak. Mereka tega merampas harta warisan yang menjadi hak anak yatim secara akal-akalan, misalnya mencampurkannya ke dalam kekayaan mereka lalu menyatakan bahwa yang mereka makan adalah harta mereka sendiri."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6013,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
+                    "transliteration": {
+                        "en": "Wa tuhibboonal maala hubban jammaa"
+                    }
+                },
+                "translation": {
+                    "en": "And you love wealth with immense love.",
+                    "id": "dan kamu mencintai harta dengan kecintaan yang berlebihan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6013",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6013.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6013.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan tidak hanya itu, kamu juga mencintai harta dengan kecintaan yang berlebihan. Kecintaan berlebih seseorang terhadap harta menjadikan motivasi hidupnya semata untuk mengumpul­kan harta, tidak peduli halal atau haram. Di sisi lain, dia akan menjadi kikir dan tidak mau peduli kepada sesama. Perilaku ini akan menjerumuskannya ke neraka.",
+                        "long": "Orang yang durhaka itu terus mencari dan mengumpulkan kekayaan tanpa mengenal rasa lelah dan tidak peduli halal atau haram. Di samping itu, mereka sangat pelit, tidak mau mengeluarkan kewajiban berkenaan harta, yaitu membayar zakat dan membantu orang yang berkekurangan.\n\nAllah tidak mungkin sayang kepada orang kaya raya yang memperoleh kekayaan itu dengan cara yang tidak benar. Juga kepada orang yang tidak mau membantu orang lain. Mereka jangan mengira bahwa mereka memperoleh kekayaan itu sebagai tanda bahwa Allah menyayangi mereka. Sebaliknya, Allah sesungguhnya membenci mereka. Tidak mustahil mereka akan dijatuhi azab seperti yang telah ditimpakan-Nya kepada umat-umat terdahulu itu. Di akhirat nanti, Allah akan memasukkan mereka ke dalam neraka. Hakikat ini hendaknya disadari oleh kaum kafir Mekah yang masih juga membangkang. Hal itu hendaknya dijadikan pelajaran oleh seluruh umat manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6014,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا",
+                    "transliteration": {
+                        "en": "Kallaaa izaaa dukkatil ardu dakkan dakka"
+                    }
+                },
+                "translation": {
+                    "en": "No! When the earth has been leveled - pounded and crushed -",
+                    "id": "Sekali-kali tidak! Apabila bumi diguncangkan berturut-turut (berbenturan),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6014",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6014.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6014.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sekali-kali tidak! janganlah kamu berbuat demikian. Apabila bumi diguncangkan berturut-turut, memuntahkan isinya, hancur lebur, kemudian muncul bumi yang sama sekali baru,",
+                        "long": "Dalam ayat ini, Allah memberitahukan bahwa orang-orang kafir itu nanti di akhirat akan menyesal. Allah memberitahukan bahwa dunia ini akan hancur karena planet-planet ini akan bertubrukan satu sama lain dengan dahsyatnya dan semua makhluk akan mati. Setelah itu Allah menghidupkan semua makhluk itu kembali dan menghadapkan mereka di Padang Mahsyar. Kemudian Allah dan para malaikat yang membuat formasi-formasi khusus memeriksa setiap amal manusia. Waktu itulah neraka Jahanam dihadapkan kepada orang-orang yang durhaka ketika di dunia. Waktu itu mereka yang durhaka sadar atas kedurhakaannya. Akan tetapi, sadar pada waktu itu tidak ada gunanya, karena \"nasi sudah jadi bubur\", dunia tempat beramal sudah berakhir, dan yang ada hanyalah tempat melihat hasil amal di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6015,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
+                    "transliteration": {
+                        "en": "Wa jaaa'a Rabbuka wal malaku saffan saffaa"
+                    }
+                },
+                "translation": {
+                    "en": "And your Lord has come and the angels, rank upon rank,",
+                    "id": "dan datanglah Tuhanmu; dan malaikat berbaris-baris,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6015",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6015.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6015.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan setelah itu datanglah Tuhanmu dengan cara yang tidak diketahui hakikatnya sama sekali oleh manusia; dan malaikat menunggu perintah Tuhan sambil berbaris-baris penuh kepatuhan.",
+                        "long": "Dalam ayat ini, Allah memberitahukan bahwa orang-orang kafir itu nanti di akhirat akan menyesal. Allah memberitahukan bahwa dunia ini akan hancur karena planet-planet ini akan bertubrukan satu sama lain dengan dahsyatnya dan semua makhluk akan mati. Setelah itu Allah menghidupkan semua makhluk itu kembali dan menghadapkan mereka di Padang Mahsyar. Kemudian Allah dan para malaikat yang membuat formasi-formasi khusus memeriksa setiap amal manusia. Waktu itulah neraka Jahanam dihadapkan kepada orang-orang yang durhaka ketika di dunia. Waktu itu mereka yang durhaka sadar atas kedurhakaannya. Akan tetapi, sadar pada waktu itu tidak ada gunanya, karena \"nasi sudah jadi bubur\", dunia tempat beramal sudah berakhir, dan yang ada hanyalah tempat melihat hasil amal di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6016,
+                    "inSurah": 23
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 593,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ",
+                    "transliteration": {
+                        "en": "Wa jeee'a yawma'izim bi jahannnam; Yawma 'iziny yatazakkarul insaanu wa annaa lahuz zikraa"
+                    }
+                },
+                "translation": {
+                    "en": "And brought [within view], that Day, is Hell - that Day, man will remember, but what good to him will be the remembrance?",
+                    "id": "dan pada hari itu diperlihatkan neraka Jahanam; pada hari itu sadarlah manusia, tetapi tidak berguna lagi baginya kesadaran itu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6016",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6016.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6016.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan pada hari itu diperlihatkan neraka Jahanam kepada orang kafir agar mereka melihat dengan mata kepada sendiri apa yang dahulu mereka ingkari. Ketika semua itu terjadi, maka pada hari itu sadarlah manusia yang ingkar atas kealpaannya, tetapi tidak berguna lagi baginya kesadaran itu. Kesempatan untuk bertobat sudah tiada. Kini tiba saatnya untuk menghitung dan mempertanggungjawabkan perbuatan mereka. Betapa besar penyesalan orang kafir pada hari itu.",
+                        "long": "Dalam ayat ini, Allah memberitahukan bahwa orang-orang kafir itu nanti di akhirat akan menyesal. Allah memberitahukan bahwa dunia ini akan hancur karena planet-planet ini akan bertubrukan satu sama lain dengan dahsyatnya dan semua makhluk akan mati. Setelah itu Allah menghidupkan semua makhluk itu kembali dan menghadapkan mereka di Padang Mahsyar. Kemudian Allah dan para malaikat yang membuat formasi-formasi khusus memeriksa setiap amal manusia. Waktu itulah neraka Jahanam dihadapkan kepada orang-orang yang durhaka ketika di dunia. Waktu itu mereka yang durhaka sadar atas kedurhakaannya. Akan tetapi, sadar pada waktu itu tidak ada gunanya, karena \"nasi sudah jadi bubur\", dunia tempat beramal sudah berakhir, dan yang ada hanyalah tempat melihat hasil amal di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6017,
+                    "inSurah": 24
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 594,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+                    "transliteration": {
+                        "en": "Yaqoolu yaa laitanee qaddamtu lihayaatee"
+                    }
+                },
+                "translation": {
+                    "en": "He will say, \"Oh, I wish I had sent ahead [some good] for my life.\"",
+                    "id": "Dia berkata, “Alangkah baiknya sekiranya dahulu aku mengerjakan (kebajikan) untuk hidupku ini.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6017",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6017.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6017.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dia berkata dengan penuh kesadaran, “Alangkah baiknya sekiranya di dunia dahulu aku beriman dan mengerjakan amal saleh untuk kenyamanan hidupku di akhirat ini.” Penyesalan itu sudah tidak berguna. Maka, berbahagialah kini orang yang membekali diri di dunia dengan iman dan amal saleh.",
+                        "long": "Ketika itu orang-orang yang durhaka menyesali diri mereka mengapa dulu di dunia tidak melakukan sesuatu yang berguna untuk kehidupannya di akhirat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6018,
+                    "inSurah": 25
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 594,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
+                    "transliteration": {
+                        "en": "Fa Yawma izil laa yu'azzibu 'azaabahooo ahad"
+                    }
+                },
+                "translation": {
+                    "en": "So on that Day, none will punish [as severely] as His punishment,",
+                    "id": "Maka pada hari itu tidak ada seorang pun yang mengazab seperti azab-Nya (yang adil),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6018",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6018.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6018.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka pada hari itu tidak ada seorang pun yang mengazab seperti azab-Nya yang adil. Azab Allah mahadahsyat. Orang yang menerima azab Allah pada hari itu akan merasa sebagai orang yang paling sengsara.",
+                        "long": "Di akhirat, yang ada hanya azab bagi orang yang durhaka. Azab itu tiada tara sehingga tidak ada bandingannya. Azab itu dijatuhkan sesuai dengan dosa-dosa mereka pada waktu di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6019,
+                    "inSurah": 26
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 594,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
+                    "transliteration": {
+                        "en": "Wa laa yoosiqu wasaaqa hooo ahad"
+                    }
+                },
+                "translation": {
+                    "en": "And none will bind [as severely] as His binding [of the evildoers].",
+                    "id": "dan tidak ada seorang pun yang mengikat seperti ikatan-Nya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6019",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6019.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6019.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan tidak ada seorang pun yang mengikat seperti ikatan-Nya. Ikatan Allah sangat kukuh dan kuat. Tidak ada kekuatan yang mampu mengendurkan ikatan itu, apalagi melepaskannya.",
+                        "long": "Pada waktu itu tidak ada yang lebih dipercaya dalam melaksanakan tugasnya selain Malaikat Zabaniyah. Malaikat itu akan melaksanakan tugasnya persis sebagaimana yang diperintahkan Allah, yaitu bahwa orang-orang yang durhaka itu akan diazab di dalam neraka Jahanam sesuai dengan dosa-dosa mereka. Dengan demikian, terbuktilah bahwa kelimpahan nikmat yang mereka terima pada waktu di dunia itu bukanlah tanda bahwa Allah cinta kepada mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6020,
+                    "inSurah": 27
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 594,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
+                    "transliteration": {
+                        "en": "Yaaa ayyatuhan nafsul mutma 'innah"
+                    }
+                },
+                "translation": {
+                    "en": "[To the righteous it will be said], \"O reassured soul,",
+                    "id": "Wahai jiwa yang tenang!"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6020",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6020.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6020.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah berfirman kepada manusia yang beriman dan beramal saleh, “Wahai jiwa yang tenang, tenteram, damai, dan tidak takut apa pun serta tidak merasa sedih karena apa pun.",
+                        "long": "Dalam ayat-ayat ini, Allah memanggil jiwa yang tenang dan damai ketika diwafatkan, yaitu jiwa yang suci karena iman dan amal saleh yang dikerjakannya, sehingga memperoleh apa yang dijanjikan Allah kepadanya. Jiwa itu diminta Allah untuk pulang memenuhi panggilan-Nya dengan menghadap kepada-Nya kembali dengan perasaan puas dan senang karena telah memenuhi perintah-perintah-Nya waktu hidup di dunia. Allah juga puas dan senang kepadanya karena sudah menjalankan perintah-perintah-Nya. Setelah datang kepada-Nya, jiwa itu dipersilakan Allah masuk ke dalam kelompok hamba-hamba-Nya, yaitu ke dalam surga-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6021,
+                    "inSurah": 28
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 594,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+                    "transliteration": {
+                        "en": "Irji'eee ilaa Rabbiki raadiyatam mardiyyah"
+                    }
+                },
+                "translation": {
+                    "en": "Return to your Lord, well-pleased and pleasing [to Him],",
+                    "id": "Kembalilah kepada Tuhanmu dengan hati yang rida dan diridai-Nya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6021",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6021.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6021.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kembalilah kepada Tuhanmu yang telah menciptakanmu dan mendidikmu, dengan hati yang rida atas pahala dan nikmat yang Allah siapkan untukmu, dan di ridai-Nya karena Allah telah menerima amalan salehmu.",
+                        "long": "Dalam ayat-ayat ini, Allah memanggil jiwa yang tenang dan damai ketika diwafatkan, yaitu jiwa yang suci karena iman dan amal saleh yang dikerjakannya, sehingga memperoleh apa yang dijanjikan Allah kepadanya. Jiwa itu diminta Allah untuk pulang memenuhi panggilan-Nya dengan menghadap kepada-Nya kembali dengan perasaan puas dan senang karena telah memenuhi perintah-perintah-Nya waktu hidup di dunia. Allah juga puas dan senang kepadanya karena sudah menjalankan perintah-perintah-Nya. Setelah datang kepada-Nya, jiwa itu dipersilakan Allah masuk ke dalam kelompok hamba-hamba-Nya, yaitu ke dalam surga-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6022,
+                    "inSurah": 29
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 594,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَادْخُلِي فِي عِبَادِي",
+                    "transliteration": {
+                        "en": "Fadkhulee fee 'ibaadee"
+                    }
+                },
+                "translation": {
+                    "en": "And enter among My [righteous] servants",
+                    "id": "Maka masuklah ke dalam golongan hamba-hamba-Ku,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6022",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6022.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6022.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka kini masuklah ke dalam golongan hamba-hamba-Ku yang saleh, seperti para nabi, orang yang jujur, pecinta kebenaran, dan syuhada.",
+                        "long": "Dalam ayat-ayat ini, Allah memanggil jiwa yang tenang dan damai ketika diwafatkan, yaitu jiwa yang suci karena iman dan amal saleh yang dikerjakannya, sehingga memperoleh apa yang dijanjikan Allah kepadanya. Jiwa itu diminta Allah untuk pulang memenuhi panggilan-Nya dengan menghadap kepada-Nya kembali dengan perasaan puas dan senang karena telah memenuhi perintah-perintah-Nya waktu hidup di dunia. Allah juga puas dan senang kepadanya karena sudah menjalankan perintah-perintah-Nya. Setelah datang kepada-Nya, jiwa itu dipersilakan Allah masuk ke dalam kelompok hamba-hamba-Nya, yaitu ke dalam surga-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6023,
+                    "inSurah": 30
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 594,
+                    "manzil": 7,
+                    "ruku": 531,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَادْخُلِي جَنَّتِي",
+                    "transliteration": {
+                        "en": "Wadkhulee jannatee"
+                    }
+                },
+                "translation": {
+                    "en": "And enter My Paradise.\"",
+                    "id": "dan masuklah ke dalam surga-Ku."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6023",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6023.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6023.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan masuklah bersama mereka ke dalam surga-Ku yang telah Aku persiapkan untukmu, surga yang penuh kenikmatan. Kekallah di sana selama-lamanya. Terima dan nikmatilah anugerah-Ku yang agung ini.",
+                        "long": "Dalam ayat-ayat ini, Allah memanggil jiwa yang tenang dan damai ketika diwafatkan, yaitu jiwa yang suci karena iman dan amal saleh yang dikerjakannya, sehingga memperoleh apa yang dijanjikan Allah kepadanya. Jiwa itu diminta Allah untuk pulang memenuhi panggilan-Nya dengan menghadap kepada-Nya kembali dengan perasaan puas dan senang karena telah memenuhi perintah-perintah-Nya waktu hidup di dunia. Allah juga puas dan senang kepadanya karena sudah menjalankan perintah-perintah-Nya. Setelah datang kepada-Nya, jiwa itu dipersilakan Allah masuk ke dalam kelompok hamba-hamba-Nya, yaitu ke dalam surga-Nya."
+                    }
+                }
+            }
+        ]
+    }
+}

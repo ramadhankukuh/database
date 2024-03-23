@@ -1,0 +1,1171 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 72,
+        "sequence": 40,
+        "numberOfVerses": 28,
+        "name": {
+            "short": "الجن",
+            "long": "سورة الجن",
+            "transliteration": {
+                "en": "Al-Jinn",
+                "id": "Al-Jinn"
+            },
+            "translation": {
+                "en": "The Jinn",
+                "id": "Jin"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat Al Jin terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al A'raaf. Dinamai Al Jin diambil dari perkataan Al Jin yang terdapat  pada ayat pertama surat ini. Pada ayat tersebut dan ayat-ayat berikutnya  diterangkan bahwa Jin sebagai makhluk halus telah mendengar pembacaan  Al Quran dan mereka mengikuti ajaran Al Quran tersebut."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5448,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا",
+                    "transliteration": {
+                        "en": "Qul oohiya ilaiya annna hustama'a nafarum minal jinnni faqaalooo innaa sami'naa quraanan 'ajabaa"
+                    }
+                },
+                "translation": {
+                    "en": "Say, [O Muhammad], \"It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur'an.",
+                    "id": "Katakanlah (Muhammad), “Telah diwahyukan kepadaku bahwa sekumpulan jin telah mendengarkan (bacaan),” lalu mereka berkata, “Kami telah mendengarkan bacaan yang menakjubkan (Al-Qur'an),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5448",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5448.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5448.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di akhir surah sebelum surah ini yaitu surah Nuh disebutkan doa Nabi Nuh atas perilaku kaumnya yang menolak dakwahnya. Di awal surah ini dijelaskan tentang dakwah Nabi Muhammad dengan al-Qur’an yang merupakan kitab suci yang amat mengagumkan dari segala aspeknya. Katakanlah wahai Nabi Muhammad kepada seluruh manusia, “Telah diwahyukan kepadaku melalui Jibril, bahwa sekumpulan jin telah mendengarkan bacaan al-Qur’an, lalu mereka berkata, \\'Kami telah mendengarkan bacaan yang menakjubkan kata-kata maupun kandungan Al-Qur’an.\\'\"",
+                        "long": "Dalam ayat ini, Allah memerintahkan Rasul-Nya untuk menyampaikan kepada para sahabat tentang jin yang beriman kepada Allah. Keimanan jin itu mengandung arti:\n\n1.bahwa Nabi Muhammad adalah rasul bagi umat manusia dan juga bagi jin, sebagaimana juga diungkapkan dalam ayat yang lain.\n\n2.bahwa jin mendengar dan mengerti bahasa manusia, sebagaimana juga dinyatakan dalam ayat-ayat lain.\n\n3.bahwa jin juga akan dihisab sebagaimana halnya manusia.\n\n4.bahwa adanya jin yang juga yang berdakwah kepada kaumnya.\n\n5.agar orang-orang Quraisy mengetahui bahwa jin saja ketika mendengar Al-Qur'an mengakui kemukjizatannya dan beriman kepadanya.\n\nBerdasarkan pengertian ayat ini, dipahami bahwa Nabi Muhammad mengetahui bahwa jin mendengar bacaan beliau dengan perantaraan wahyu, bukan dengan menyaksikan dengan mata beliau sendiri."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5449,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ ۖ وَلَن نُّشْرِكَ بِرَبِّنَا أَحَدًا",
+                    "transliteration": {
+                        "en": "Yahdeee ilar rushdi fa aamannaa bihee wa lan nushrika bi rabbinaaa ahadaa"
+                    }
+                },
+                "translation": {
+                    "en": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone.",
+                    "id": "(yang) memberi petunjuk kepada jalan yang benar, lalu kami beriman kepadanya. Dan kami sekali-kali tidak akan mempersekutukan sesuatu pun dengan Tuhan kami,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5449",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5449.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5449.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "\"Al-Qur’an yang memberi petunjuk dengan jelas lagi lemah lembut kepada jalan yang benar untuk mengenal Allah, kami yakin itu pasti firman Allah bukan buatan manusia, lalu kami beriman kepadanya. Dan sejak saat itu kami sekali-kali tidak akan mempersekutukan sesuatu pun dengan Tuhan kami, karena hal tersebut adalah perbuatan yang sangat dibenci Allah.\"",
+                        "long": "Sebagaimana di ayat pertama, dalam ayat kedua ini Allah menyatakan bahwa jin telah mendengar Al-Qur'an yang membuat mereka takjub karena memberi petunjuk kepada jalan yang benar, lalu mereka beriman. Mereka bertekad tidak akan mempersekutukan Allah dengan apa pun. Apa yang mereka dengar dan sikap mereka setelah itu juga disampaikan kepada kaum mereka, sebagaimana disebutkan juga dalam ayat lain:\n\nMaka ketika telah selesai, mereka kembali kepada kaumnya (untuk) memberi peringatan. (al-Ahqaf/46: 29)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5450,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا",
+                    "transliteration": {
+                        "en": "Wa annahoo Ta'aalaa jaddu Rabbinaa mat takhaza saahibatanw wa la waladaa"
+                    }
+                },
+                "translation": {
+                    "en": "And [it teaches] that exalted is the nobleness of our Lord; He has not taken a wife or a son",
+                    "id": "dan sesungguhnya Mahatinggi keagungan Tuhan kami, Dia tidak beristri dan tidak beranak.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5450",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5450.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5450.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah para jin yang mendengar al Qur’an tersebut berjanji tidak akan menyekutukan Allah, mereka kemudian memuji Allah dengan pujian yang tulus. Dan sesungguhnya Mahatinggi keagungan Tuhan kami sehingga tidak terjangkau oleh siapa pun dan apa pun, Dia tidak beristri dan tidak beranak.”",
+                        "long": "Dalam ayat ini, diterangkan bahwa sebagaimana mereka menghindarkan diri dari mempersekutukan Allah, para jin itu juga menyucikan-Nya dari mempunyai istri atau anak. Mempunyai teman istri dan anak hanyalah keperluan manusia, sebagaimana firman Allah:\n\nDan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya. (ar-Rum/30: 21)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5451,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّهِ شَطَطًا",
+                    "transliteration": {
+                        "en": "Wa annahoo kaana yaqoolu safeehunaa 'alal laahi shatataa"
+                    }
+                },
+                "translation": {
+                    "en": "And that our foolish one has been saying about Allah an excessive transgression.",
+                    "id": "Dan sesungguhnya orang yang bodoh di antara kami dahulu selalu mengucapkan (perkataan) yang melampaui batas terhadap Allah,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5451",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5451.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5451.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Jin yang mendengar bacaan al-Qur’an tersebut melanjutkan testimoninya di hadapan kaumnya dengan menyatakan, \"Dan sesungguhnya orang yang bodoh kurang sehat akalnya di antara kami dahulu selalu mengucapkan perkataan yang melampaui batas terhadap Allah yang Maha Esa,",
+                        "long": "Dalam ayat ini, diungkapkan bahwa di antara jin-jin itu ada yang mengucapkan perkataan yang jauh dari kebenaran, yaitu bahwa Allah mempunyai anak dan teman wanita."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5452,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّا ظَنَنَّا أَن لَّن تَقُولَ الْإِنسُ وَالْجِنُّ عَلَى اللَّهِ كَذِبًا",
+                    "transliteration": {
+                        "en": "Wa annaa zanannaaa al lan taqoolal insu wal jinnu 'alal laahi kazibaa"
+                    }
+                },
+                "translation": {
+                    "en": "And we had thought that mankind and the jinn would never speak about Allah a lie.",
+                    "id": "dan sesungguhnya kami mengira, bahwa manusia dan jin itu tidak akan mengatakan perkataan yang dusta terhadap Allah,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5452",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5452.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5452.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan sesungguhnya kami mengira, bahwa manusia dan jin itu tidak akan mengatakan perkataan yang dusta terhadap Allah, dengan menasabkan sekutu, istri dan anak kepada-Nya.\"",
+                        "long": "Dalam ayat ini diterangkan bahwa jin itu menyatakan tidak pantas bila ada jin maupun manusia yang berani mengatakan Allah beranak dan mempunyai istri."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5453,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّهُ كَانَ رِجَالٌ مِّنَ الْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا",
+                    "transliteration": {
+                        "en": "Wa annahoo kaana rijaa lum minal insi ya'oozoona birijaalim minal jinni fazaa doohum rahaqaa"
+                    }
+                },
+                "translation": {
+                    "en": "And there were men from mankind who sought refuge in men from the jinn, so they [only] increased them in burden.",
+                    "id": "dan sesungguhnya ada beberapa orang laki-laki dari kalangan manusia yang meminta perlindungan kepada beberapa laki-laki dari jin, tetapi mereka (jin) menjadikan mereka (manusia) bertambah sesat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5453",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5453.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5453.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Masih melanjutkan ucapan jin tersebut, \"Dan sesungguhnya ada beberapa orang laki-laki dari kalangan manusia di antaranya adalah tokoh-tokoh yang berpengaruh dalam masyarakatnya yang meminta perlindungan kepada beberapa tokoh laki-laki dari jin, tetapi mereka jin tersebut menjadikan mereka manusia bertambah sesat. Ada di antara orang-orang Arab apabila mereka melintasi tempat yang sunyi, mereka minta perlindungan kepada jin yang mereka anggap berkuasa di tempat itu.",
+                        "long": "Jin itu juga mengatakan bahwa banyak di antara manusia yang berlindung dan memohon kepada jin. Hal itu mengakibatkan manusia dikuasai oleh jin, dan dibawa untuk berbuat kejahatan sehingga mereka durhaka dan berdosa. Firman Allah:\n\nDan (ingatlah) pada hari ketika Dia mengumpulkan mereka semua (dan Allah berfirman), \"Wahai golongan jin! Kamu telah banyak (menyesatkan) manusia¦.\" (al-An'am/6: 128)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5454,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ اللَّهُ أَحَدًا",
+                    "transliteration": {
+                        "en": "Wa annahum zannoo kamaa zanantum al lany yab'asal laahu ahadaa"
+                    }
+                },
+                "translation": {
+                    "en": "And they had thought, as you thought, that Allah would never send anyone [as a messenger].",
+                    "id": "Dan sesungguhnya mereka (jin) mengira seperti kamu (orang musyrik Mekah) yang juga mengira bahwa Allah tidak akan membangkitkan kembali siapa pun (pada hari Kiamat)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5454",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5454.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5454.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sesungguhnya mereka jin mengira seperti kamu orang kaum musyrik Mekah yang juga mengira bahwa Allah tidak akan membangkitkan kembali siapa pun pada hari Kiamat untuk dimintai pertanggungjawaban atas segala perbuatannya.",
+                        "long": "Selanjutnya diterangkannya bahwa jin yang tidak beriman itu mengira sebagaimana perkiraan manusia, bahwa Allah tidak akan mengutus seorang rasul pun kepada makhluk-Nya untuk mengajak mereka kepada tauhid dan iman kepada-Nya dan hari kiamat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5455,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+                    "transliteration": {
+                        "en": "Wa annaa lamasnas sa maaa'a fa wajadnaahaa muli'at harasan shadeedanw wa shuhubaa"
+                    }
+                },
+                "translation": {
+                    "en": "And we have sought [to reach] the heaven but found it filled with powerful guards and burning flames.",
+                    "id": "Dan sesungguhnya kami (jin) telah mencoba mengetahui (rahasia) langit, maka kami mendapatinya penuh dengan penjagaan yang kuat dan panah-panah api,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5455",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5455.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5455.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah berbicara yang berkaitan dengan tidak adanya hari kebangkitan, jin tersebut yang telah sadar tersebut melanjutkan ucapannya, \"Dan sesungguhnya kami jin telah mencoba berusaha keras untuk mengetahui rahasia langit, maka kami mendapatinya penuh dengan penjagaan yang kuat dari para malaikat dan panah-panah api yang menghalangi kami dan siapa pun untuk mendekat.\"",
+                        "long": "Pada ayat ini, Allah menambah lagi pernyataan jin ketika Dia mengutus Nabi Muhammad dan menurunkan Al-Qur'an kepadanya serta menjaga beliau dari jin-jin itu. Langit ketika itu dijaga dengan ketat, dan panah-panah api disediakan di seluruh penjuru langit untuk mencegah jin-jin mendekatinya guna mencuri berita-berita yang dapat didengar, sebagaimana yang sering mereka lakukan.\n\nTelah diriwayatkan oleh at-Tirmidhi, dan ath-thabrani dari Ibnu 'Abbas, ia berkata: \n\nDahulu jin-jin itu dapat naik ke langit untuk mendengar wahyu. Ketika mereka mendengar suatu kata lalu mereka tambah dengan sembilan kata lainnya. Ucapan (yang mereka dengar) adalah benar tetapi tambahan-tambahan mereka semuanya bohong. Ketika Nabi saw diutus menjadi rasul, mereka dilarang menduduki tempat-tempat tersebut. Lalu mereka sampaikan larangan tersebut kepada Iblis; sedangkan ketika itu bintang-bintang belum dipakai untuk memanah jin-jin itu. Lalu iblis berkata kepada mereka, \"Larangan itu disebabkan suatu kejadian di muka bumi,\" lalu Iblis mengirim tentara-tentaranya untuk menyelidiki kejadian tersebut. Mereka mendapatkan Nabi saw yang sedang mengerjakan salat di antara dua gunung di Mekah, lalu mereka menemui Iblis dan menyampaikan penemuan mereka itu kepadanya, lalu Iblis berkata, \"Inilah kejadian yang terjadi di permukaan bumi.\" (Riwayat at-Tirmizi dan ath-thabrani)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5456,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَّصَدًا",
+                    "transliteration": {
+                        "en": "Wa annaa kunnaa naq'udu minhaa maqaa'ida lis'sam'i famany yastami'il aana yajid lahoo shihaabar rasada"
+                    }
+                },
+                "translation": {
+                    "en": "And we used to sit therein in positions for hearing, but whoever listens now will find a burning flame lying in wait for him.",
+                    "id": "dan sesungguhnya kami (jin) dahulu dapat menduduki beberapa tempat di langit itu untuk mencuri dengar (berita-beritanya). Tetapi sekarang siapa (mencoba) mencuri dengar (seperti itu) pasti akan menjumpai panah-panah api yang mengintai (untuk membakarnya)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5456",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5456.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5456.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "\"Dan sesungguhnya kami jin dahulu yaitu sebelum Nabi Muhammad diutus Allah seringkali dapat menduduki satu tempat dari beberapa tempat di langit itu untuk mencuri dengar berita-beritanya ketika itu kami dapat mendengar tanpa gangguan apa pun. Tetapi sekarang setelah diutusnya Nabi Muhammad siapa pun yang mencoba mencuri dengar seperti itu pasti akan menjumpai panah-panah api yang mengintai untuk membakarnya.",
+                        "long": "Dalam ayat ini kembali dijelaskan tentang keterangan jin bahwa mereka menduduki tempat-tempat tersebut tanpa ada penjaga dan panah-panah api. Mereka lalu diusir dari sana sehingga tidak dapat mencuri atau mendengar Al-Qur'an sedikit pun untuk disampaikan kepada ahli-ahli nujum dan tukang-tukang tenung yang akan mencampuradukkan yang benar dengan yang batil. Yang demikian itu disebabkan kasih sayang Allah kepada hamba-Nya dan sebagai penjagaan terhadap kitab-Nya, Al-Qur'an. Maka barang siapa yang ingin mencuri berita-berita tersebut sejak itu dia akan diburu dengan panah-panah api yang akan menusuk dan membinasakannya.\n\nKita harus beriman kepada apa yang diberitakan oleh Al-Qur'an mengenai jin yang mencuri berita-berita yang dapat didengarkan, kemudian mereka dilarang sesudah pengutusan Nabi Muhammad, walaupun kita tidak tahu bagaimana cara mereka mencuri, cara bagaimana penjagaan, berapa banyak para penjaga. Kita juga tidak tahu apa yang dimaksud dengan panah-panah api yang mengintip mereka, sedangkan jin itu juga berasal dari api, maka bagaimana cara mereka dapat ditembusi oleh panah-panah api itu.\n\nDi antara mufassir ada yang berpendapat bahwa yang dimaksud dengan \"tempat-tempat untuk mencuri berita\" adalah tempat-tempat yang dipergunakan oleh jin di dalam dada manusia untuk menggoda mereka dan menghalangi mereka mengikuti jalan yang benar. Sedangkan yang dimaksud dengan \"penjaga\" adalah dalil-dalil akli (akal/rasio) yang dijadikan Allah sebagai petunjuk bagi hamba-hamba-Nya, dan yang dimaksud dengan \"panah-panah api\" adalah bukti-bukti alamiah yang tersebar dalam tubuh masing-masing dan di seluruh penjuru alam.\n\nDengan demikian, maksud ayat tersebut adalah sesungguhnya Al-Qur'an yang mengandung bukti-bukti akliah dan alamiah adalah penjaga agama dari kemasukan hal-hal syubhat yang dilontarkan oleh setan, sebagai alat untuk menggoda dan membimbangkan orang-orang yang dapat digodanya. Juga untuk mempengaruhi jiwa-jiwa orang yang sesat agar mereka tidak menghiraukan agama dan menolak petunjuk-petunjuknya. Maka barang siapa yang ingin mempengaruhi jiwa-jiwa orang yang beriman dengan keragu-raguan dan pikiran yang bukan-bukan, maka ia akan berhadapan dengan bukti-bukti yang dapat memusnahkan keragu-raguan itu dari akar-akarnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5457,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَن فِي الْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا",
+                    "transliteration": {
+                        "en": "Wa annaa laa nadreee asharrun ureeda biman fil ardi am araada bihim rabbuhum rashadaa"
+                    }
+                },
+                "translation": {
+                    "en": "And we do not know [therefore] whether evil is intended for those on earth or whether their Lord intends for them a right course.",
+                    "id": "Dan sesungguhnya kami (jin) tidak mengetahui (adanya penjagaan itu) apakah keburukan yang dikehendaki orang yang di bumi ataukah Tuhan mereka menghendaki kebaikan baginya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5457",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5457.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5457.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Perubahan yang terjadi sebelum dan sesudah diutusnya Nabi Muhammad itu, tidak diketahui persis oleh para jin, maka mereka pun menegas­kan, \"Dan sesungguhnya kami jin tidak mengetahui adanya penjagaan yang ketat itu apakah keburukan yang dikehendaki orang yang di bumi ataukah Tuhan mereka menghendaki kebaikan baginya.\"",
+                        "long": "Dalam ayat ini, Allah menambah lagi keterangan jin tentang keyakinan mereka bahwa langit itu dijaga karena salah satu dari dua hal:\n\n1.karena Allah akan menurunkan siksa-Nya kepada penduduk bumi secara tiba-tiba.\n\n2.karena dia akan mengutus seorang rasul yang akan membimbing umat manusia dan memperbaiki keadaan mereka.\n\nSeolah-olah jin itu berkata, \"Apakah karena Allah akan menurunkan siksa atas penduduk bumi maka kita dilarang mencuri berita, dan merajam siapa yang berani mencuri berita tersebut dengan panah-panah api, atau karena Allah menghendaki memberi petunjuk kepada manusia dengan mengirim seorang rasul yang akan membimbing mereka ke jalan yang lurus?\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5458,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَائِقَ قِدَدًا",
+                    "transliteration": {
+                        "en": "Wa annaa minnas saalihoona wa minnaa doona zaalika kunnaa taraaa'ilqa qidadaa"
+                    }
+                },
+                "translation": {
+                    "en": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways.",
+                    "id": "Dan sesungguhnya di antara kami (jin) ada yang saleh dan ada (pula) kebalikannya. Kami menempuh jalan yang berbeda-beda."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5458",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5458.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5458.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Lebih jauh para jin itu menguraikan keadaan anggota masyarakat mereka dengan mengatakan, \"Dan sesungguhnya di antara kami, kaum jin ada yang saleh yang bertakwa lagi mantap kesalehannya, dan ada pula kebalikannya yang tidak saleh bahkan durhaka dan mengajak kepada kedurhakaan. Kami menempuh jalan yang berbeda-beda akibat perbedaan pandangan dan kecenderungan kami.",
+                        "long": "Dalam keterangan selanjutnya, Allah menyatakan bahwa di antara jin-jin itu ada yang Islam, mengerjakan amal saleh, dan taat kepada Allah, tetapi ada pula yang sebaliknya, yaitu tidak beriman dan ingkar kepada perintah Allah. Jin-jin itu juga mempunyai kemauan bermacam-macam dan pendapat yang berbeda-beda, sehingga di antara mereka ada yang beriman, ada yang fasik, dan ada pula yang kafir, seperti halnya manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5459,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّا ظَنَنَّا أَن لَّن نُّعْجِزَ اللَّهَ فِي الْأَرْضِ وَلَن نُّعْجِزَهُ هَرَبًا",
+                    "transliteration": {
+                        "en": "Wa annaa zanannaaa al lan nu'jizal laaha fil ardi wa lan nu'jizahoo harabaa"
+                    }
+                },
+                "translation": {
+                    "en": "And we have become certain that we will never cause failure to Allah upon earth, nor can we escape Him by flight.",
+                    "id": "Dan sesungguhnya kami (jin) telah menduga, bahwa kami tidak akan mampu melepaskan diri (dari kekuasaan) Allah di bumi dan tidak (pula) dapat lari melepaskan diri (dari)-Nya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5459",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5459.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5459.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "\"Dan sesungguhnya kami telah menduga dan percaya setelah berpikir dan mendengar ayat-ayat Allah dan menyadari kelemahan kami, bahwa kami tidak akan mampu melepaskan diri dari kekuasaan Allah di bumi dan tidak pula dapat lari melepaskan diri dari segala ketentuan dan ketetapan-Nya.\"",
+                        "long": "Jin-jin itu juga menjelaskan bahwa mereka yakin tidak akan terlepas dari genggaman Allah, di mana pun mereka berada di dunia ini, dan juga tidak dapat melepaskan diri. Allah Maha Menguasai jin-jin itu di mana saja mereka berada dan tidak ada jalan untuk melarikan diri daripada-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5460,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 572,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّا لَمَّا سَمِعْنَا الْهُدَىٰ آمَنَّا بِهِ ۖ فَمَن يُؤْمِن بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا",
+                    "transliteration": {
+                        "en": "Wa annaa lammaa sami'nal hudaaa aamannaa bihee famany yu'mim bi rabbihee falaa yakhaafu bakhsanw wa laa rahaqaa"
+                    }
+                },
+                "translation": {
+                    "en": "And when we heard the guidance, we believed in it. And whoever believes in his Lord will not fear deprivation or burden.",
+                    "id": "Dan sesungguhnya ketika kami (jin) mendengar petunjuk (Al-Qur'an), kami beriman kepadanya. Maka barangsiapa beriman kepada Tuhan, maka tidak perlu ia takut rugi atau berdosa."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5460",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5460.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5460.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah berbicara tentang adanya siksa bagi yang durhaka, maka ayat ini berbicara tentang sekelompok jin yang beriman. \"Dan sesungguhnya ketika kami mendengar petunjuk al-Qur’an, kami beriman kepada-Nya tanpa ragu dan tanpa berpikir panjang, karena petunjuk dalam al-Qur’an begitu jelas. Maka barang siapa beriman kepada Tuhan dan selalu memperbarui keimanannya, maka tidak perlu ia takut rugi karena berkurang amalnya atau berdosa.\"",
+                        "long": "Dijelaskan juga bahwa ketika jin-jin itu mendengar Al-Qur'an yang memberi petunjuk kepada jalan yang benar, mereka langsung beriman kepadanya serta mengakui bahwa Al-Qur'an itu dari Allah.\n\nMenurut Qatadah, ayat ini memiliki pengertian bahwa barang siapa beriman kepada Allah dan membenarkan apa yang dibawa oleh para rasul, tidak ada kekhawatiran baginya tentang pengurangan pahala kebajikannya dan tidak ada pula dosa orang lain yang harus dipertanggungjawabkannya. Ia akan menerima pahala amal baik sepenuhnya tanpa pengurangan sedikit pun."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5461,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُولَٰئِكَ تَحَرَّوْا رَشَدًا",
+                    "transliteration": {
+                        "en": "Wa annaa minnal muslimoona wa minnal qaasitoona faman aslama fa ulaaa'ika taharraw rashadaa"
+                    }
+                },
+                "translation": {
+                    "en": "And among us are Muslims [in submission to Allah], and among us are the unjust. And whoever has become Muslim - those have sought out the right course.",
+                    "id": "Dan di antara kami ada yang Islam dan ada yang menyimpang dari kebenaran. Siapa yang Islam, maka mereka itu telah memilih jalan yang lurus."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5461",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5461.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5461.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tidak semua jin durhaka begitu juga tidak semuanya beriman. Inilah yang ditegaskan pada ayat ini. \"Dan di antara kami ada yang Islam yang beriman dan patuh kepada Allah dan ada pula yang menyimpang dari kebenaran yang sangat mantap kedurhakaannya. Siapa yang Islam patuh kepada Allah, maka mereka itu telah memilih jalan yang lurus yang akan mengantarkannya kepada kebahagiaan hidup dunia dan akhirat.",
+                        "long": "Dalam ayat ini, dijelaskan bahwa di antara jin-jin itu ada yang beriman menaati Allah, khusyuk dan ikhlas, serta beramal saleh. Ada pula di antara mereka yang berpaling dari ajaran yang benar. Oleh karena itu, barang siapa yang beriman kepada Allah dan menaati-Nya, sesungguhnya dia telah menempuh jalan yang akan menyampaikannya kepada kebahagiaan. Hal itu juga berarti bahwa ia telah melakukan sesuatu yang menyelamatkannya dari siksa neraka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5462,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا",
+                    "transliteration": {
+                        "en": "Wa ammal qaasitoona fa kaanoo li jahannama hatabaa"
+                    }
+                },
+                "translation": {
+                    "en": "But as for the unjust, they will be, for Hell, firewood.'",
+                    "id": "Dan adapun yang menyimpang dari kebenaran, maka mereka menjadi bahan bakar bagi neraka Jahanam.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5462",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5462.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5462.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Jin yang kufur dan tidak bertobat dari kekufurannya maka akan mendapat azab yang pedih. Inilah yang ditegaskan pada ayat ini. \"Dan adapun yang menyimpang dari kebenaran, maka mereka menjadi bahan bakar bagi neraka Jahanam.”",
+                        "long": "Jin-jin yang beriman itu mencela jin yang kafir, dengan penegasan mereka sendiri, bahwa jin yang berpaling dari ketentuan-ketentuan Islam akan dijadikan bahan bakar neraka dan disiksa di dalamnya, sebagaimana manusia yang kafir. Mereka juga menyatakan bahwa barang siapa yang taat (Islam), maka mereka itu benar-benar telah memilih jalan yang lurus.\n\nSemua yang dijelaskan dalam ayat-ayat yang telah lalu adalah pernyataan jin yang diungkapkan Allah. Berikut ini, Allah meneruskan kembali wahyu-wahyu-Nya yang disampaikan kepada Rasulullah saw."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5463,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَن لَّوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُم مَّاءً غَدَقًا",
+                    "transliteration": {
+                        "en": "Wa alla wis taqaamoo 'alat tareeqati la asqaynaahum maa'an ghadaqaa"
+                    }
+                },
+                "translation": {
+                    "en": "And [Allah revealed] that if they had remained straight on the way, We would have given them abundant provision",
+                    "id": "Dan sekiranya mereka tetap berjalan lurus di atas jalan itu (agama Islam), niscaya Kami akan mencurahkan kepada mereka air yang cukup."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5463",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5463.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5463.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sedangkan yang istikamah pada jalan kebenaran siapa pun dia termasuk para jin pasti akan mendapat balasan nikmat yang sempurna. \"Dan sekiranya mereka tetap berjalan lurus di atas jalan itu yakni agama Islam, niscaya Kami akan mencurahkan kepada mereka air yang cukup dan berbagai rezeki yang melimpah.\"",
+                        "long": "Dalam ayat ini, Allah mengungkapkan bahwa siapa saja di antara manusia atau jin yang tetap berpegang dan menjalankan ketentuan-ketentuan Islam, Allah akan melapangkan rezekinya serta memudahkan semua urusan dunia mereka.\n\nDalam rangka melapangkan rezeki, Allah mengungkapkannya dengan kata \"air yang segar\", karena air itu adalah sumber kehidupan. Banyak air berarti kebahagiaan yang luas. Firman Allah:\n\nDan sekiranya penduduk negeri beriman dan bertakwa, pasti Kami akan melimpahkan kepada mereka berkah dari langit dan bumi. (al-A'raf/7: 96)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5464,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِّنَفْتِنَهُمْ فِيهِ ۚ وَمَن يُعْرِضْ عَن ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا",
+                    "transliteration": {
+                        "en": "Linaftinahum feeh; wa many yu'rid 'an zikri rabbihee yasluk hu 'azaaban sa'adaa"
+                    }
+                },
+                "translation": {
+                    "en": "So We might test them therein. And whoever turns away from the remembrance of his Lord He will put into arduous punishment.",
+                    "id": "Dengan (cara) itu Kami hendak menguji mereka. Dan barangsiapa berpaling dari peringatan Tuhannya, niscaya akan dimasukkan-Nya ke dalam azab yang sangat berat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5464",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5464.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5464.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dengan cara itu, tujuan pemberian rezeki adalah bahwa Kami hendak menguji mereka, barang siapa lulus dari ujian itu dengan tetap patuh kepada Allah, maka akan mendapat kebahagiaan hidup di dunia dan akhirat. Dan barangsiapa berpaling dari peringatan Tuhannya, niscaya akan dimasukkan-Nya ke dalam azab yang sangat berat.",
+                        "long": "Allah menjelaskan dalam ayat ini bahwa mereka diberi kelapangan hidup untuk menguji dan mengamati siapa di antara mereka yang mensyukuri nikmat-Nya dan siapa pula yang mengingkarinya. Bagi yang mensyukurinya, Allah menyediakan balasan yang paling sempurna, dan bagi mereka yang mengingkari, Allah memberikan kesempatan dan mengundurkan siksa-Nya. Kemudian barulah Allah menjatuhkan azab-Nya. Dalam ayat yang lain, Allah berfirman:\n\nDan Aku memberi tenggang waktu kepada mereka. Sungguh, rencana-Ku sangat teguh. (al-Qalam/68: 45)\n\nSelanjutnya Allah menjelaskan bahwa barang siapa yang berpaling dari Al-Qur'an dan petunjuk-Nya, tanpa mengikuti perintah-perintah-Nya serta tidak pula menjauhi larangan-larangan-Nya, Allah akan menyiksanya dengan azab yang paling dahsyat dan ia tidak dapat melepaskan diri daripada-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5465,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا",
+                    "transliteration": {
+                        "en": "Wa annal masaajida lillaahi falaa tad'oo ma'al laahi ahadaa"
+                    }
+                },
+                "translation": {
+                    "en": "And [He revealed] that the masjids are for Allah, so do not invoke with Allah anyone.",
+                    "id": "Dan sesungguhnya masjid-masjid itu adalah untuk Allah. Maka janganlah kamu menyembah apa pun di dalamnya selain Allah."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5465",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5465.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5465.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kelompok ayat ini berbicara tentang kenabian, keesaan Allah dan keniscayaan Kiamat sebagai kesimpulan uraian kisah jin yang disebut pada ayat-ayat sebelumnya. Dan sesungguhnya masjid-masjid yaitu bangunan khusus yang didirikan sebagai tempat beribadah kepada Allah itu adalah untuk Allah sehingga seluruh aktifitas di dalamnya haruslah difokuskan hanya untuk Allah. Maka janganlah kamu menyembah apa pun di dalamnya selain Allah.",
+                        "long": "Dalam ayat ini, Allah menyatakan bahwa masjid-masjid itu adalah milik-Nya. Oleh sebab itu, seyogyanya tidak ada penyembahan di dalamnya selain kepada-Nya dan tidak pula mempersekutukan-Nya.\n\nQatadah berkata, \"Orang-orang Yahudi dan Nasrani bila masuk ke gereja dan tempat-tempat peribadatan, mereka mempersekutukan Allah dengan sembahan-sembahan lainnya. Lalu Allah memerintahkan kepada Nabi-Nya agar mengesakan-Nya dan mengabdi kepada-Nya dengan penuh khusyu. \n\nAl-hasan al-Basri berkata, \"Yang dimaksud dengan masjid-masjid adalah semua tempat sujud di bumi, baik yang telah disediakan untuk sujud maupun tidak, karena bumi seluruhnya adalah tempat sujud bagi umat Nabi Muhammad.\" Pengertian semacam ini adalah masjid dalam arti lugawi atau bahasa, sebagaimana sabda Rasulullah yang diriwayatkan oleh al-Bukhari, Muslim, dan an-Nasa'i dari Jabir:\n\nTelah dijadikan bumi ini seluruhnya bagiku sebagai tempat sujud dan menyucikan. (Riwayat al-Bukhari, Muslim, dan an-Nasa'i) \n\nMasjid bukan hanya untuk salat saja, melainkan untuk berbagai kegiatan ibadah-ibadah lainnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5466,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 506,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ عَلَيْهِ لِبَدًا",
+                    "transliteration": {
+                        "en": "Wa annahoo lammaa qaama 'adul laahi yad'oohu kaadoo yakoonoona 'alaihi libadaa"
+                    }
+                },
+                "translation": {
+                    "en": "And that when the Servant of Allah stood up supplicating Him, they almost became about him a compacted mass.\"",
+                    "id": "Dan sesungguhnya ketika hamba Allah (Muhammad) berdiri menyembah-Nya (melaksanakan salat), mereka (jin-jin) itu berdesakan mengerumuninya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5466",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5466.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5466.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sesungguhnya ketika hamba Allah yaitu Nabi Muhammad berdiri menyembah-Nya yaitu melaksanakan salat dengan sungguh-sungguh, mereka, jin-jin itu berdesakan mengerumuninya karena merasa takjub dengan apa yang mereka lihat dan dengar.",
+                        "long": "Dalam ayat ini, dijelaskan bahwa ketika Nabi Muhammad menyembah Allah, maka jin-jin yang menyaksikannya menjadi heran dan tercengang melihat cara Nabi dan para sahabat menyembah-Nya. Keheranan itu juga dikarenakan bacaan Al-Qur'an yang belum pernah mereka dengar. Lebih-lebih lagi ketika melihat para sahabat sebagai makmum mengikuti Nabi Muhammad salat dalam keadaan berdiri, rukuk, dan sujud.\n\nAl-hasan dan Qatadah berkata, \"Ketika hamba Allah menyiarkan risalah dengan memanggil untuk mentauhidkan Allah, berbeda dengan ibadah orang-orang musyrik kepada berhala-berhala mereka, maka hampir orang-orang kafir yang menentang dan memusuhi Nabi Muhammad, bersatu padu dan bantu-membantu dalam memusuhi-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5467,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 507,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا",
+                    "transliteration": {
+                        "en": "Qul innamaaa ad'oo rabbee wa laaa ushriku biheee ahadaa"
+                    }
+                },
+                "translation": {
+                    "en": "Say, [O Muhammad], \"I only invoke my Lord and do not associate with Him anyone.\"",
+                    "id": "Katakanlah (Muhammad), “Sesungguhnya aku hanya menyembah Tuhanku dan aku tidak mempersekutukan sesuatu pun dengan-Nya.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5467",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5467.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5467.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Katakanlah, wahai Nabi Muhammad, kepada yang takjub tersebut bahwa, sesungguhnya aku hanya menyembah Tuhanku dan aku tidak mempersekutukan sesuatu pun dengan-Nya baik malaikat, berhala, manusia jin atau makhluk apa pun.”",
+                        "long": "Dalam ayat ini, Allah menyuruh Nabi Muhammad agar mengatakan kepada orang-orang yang memusuhinya bahwa beliau hanya menyembah Allah dan tidak mempersekutukan-Nya dengan suatu apa pun. Hal yang demikian itu bukanlah suatu yang luar biasa dan bukan pula suatu yang harus dibenci, sehingga mereka beramai-ramai memusuhinya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5468,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 507,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا",
+                    "transliteration": {
+                        "en": "Qul innee laaa amliku lakum darranw wa laa rashadaa"
+                    }
+                },
+                "translation": {
+                    "en": "Say, \"Indeed, I do not possess for you [the power of] harm or right direction.\"",
+                    "id": "Katakanlah (Muhammad), “Aku tidak kuasa menolak mudarat maupun mendatangkan kebaikan kepadamu.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5468",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5468.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5468.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah memerintahkan kepada Nabi Muhammad untuk melanjutkan menyampaikan pesan Allah, Katakanlah wahai Nabi Muhammad, “Aku tidak kuasa menolak mudarat maupun mendatangkan kebaikan kepadamu tanpa izin-Nya.” Tugasku hanyalah menyampaikan apa yang diwahyukannya kepadaku.",
+                        "long": "Allah menyatakan bahwa Nabi Muhammad tidak dapat bertindak lain dalam persoalan tersebut, tidak sanggup memberi petunjuk, dan mendatangkan kebahagiaan atau kebajikan bagi mereka. Allah memerintahkan Nabi saw untuk menyampaikan kepada orang-orang kafir bahwa ia tidak dapat memberi suatu kemudaratan kepada mereka, baik dalam urusan agama maupun urusan dunia, dan tidak dapat pula memberi manfaat kepada mereka. Hanya Allah yang dapat berbuat demikian seluruhnya. Allah memiliki segala sesuatu dan Dialah yang Mahakuasa atas segala sesuatu. \n\nNabi Muhammad juga diperintahkan untuk bertawakal kepada Allah karena Dialah yang akan memberi pahala atas tindakannya yang baik. Dia pulalah yang akan memberi balasan kepada orang-orang kafir atas tindakan-tindakan buruk yang mereka lakukan. Hal ini berarti pula bahwa Nabi saw tidak akan meninggalkan dakwah walaupun orang-orang kafir terus menentang."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5469,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 507,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُلْ إِنِّي لَن يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِن دُونِهِ مُلْتَحَدًا",
+                    "transliteration": {
+                        "en": "Qul innee lany yujeeranee minal laahi ahad, wa lan ajida min doonihee multahadaa"
+                    }
+                },
+                "translation": {
+                    "en": "Say, \"Indeed, there will never protect me from Allah anyone [if I should disobey], nor will I find in other than Him a refuge.",
+                    "id": "Katakanlah (Muhammad), “Sesungguhnya tidak ada sesuatu pun yang dapat melindungiku dari (azab) Allah dan aku tidak akan memperoleh tempat berlindung selain dari-Nya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5469",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5469.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5469.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Jangankan terhadap orang lain bahkan terhadap diri sendiri Nabi pun tidak berkuasa. Inilah yang diisyaratkan pada ayat ini. Katakanlah, wahai Nabi Muhammad, “Sesungguhnya tidak ada sesuatu pun yang dapat melindungiku dari azab Allah dan aku tidak akan memperoleh tempat berlindung selain dari-Nya.",
+                        "long": "Dalam ayat-ayat ini, Allah menyatakan bahwa Nabi Muhammad tidak sanggup melindungi dirinya sebagaimana ia tidak sanggup pula melindungi orang lain. Oleh sebab itu, Allah menyuruh Nabi-Nya untuk mengatakan bahwa tidak ada seorang pun di antara makhluk Allah yang sanggup melindunginya dari kemudaratan bila Allah menghendakinya. Tidak ada yang dapat membantunya dan tidak ada tempat berlindung selain kepada Allah. Bila Nabi saw terus menjalankan risalah dan menaati-Nya, Allah pasti akan melindunginya. Maksudnya, tidak ada yang akan membela Nabi saw dari ancaman-ancaman Allah bila ia tidak menjalankan risalah-Nya. Nabi hanya bertugas untuk menyampaikan risalah dan peringatan Allah sebagaimana firman-Nya:\n\nWahai Rasul! Sampaikanlah apa yang diturunkan Tuhanmu kepadamu. Jika tidak engkau lakukan (apa yang diperintahkan itu) berarti engkau tidak menyampaikan amanat-Nya. Dan Allah memelihara engkau dari (gangguan) manusia. (al-Ma'idah/5: 67)\n\nSelanjutnya Allah menjelaskan bahwa barang siapa yang berani durhaka terhadap suatu perintah atau larangan-Nya serta mendustai Rasul-Nya maka baginya telah disediakan neraka yang akan ditempatinya untuk selama-lamanya. Ia tidak akan sanggup menghindarkan diri dari neraka itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5470,
+                    "inSurah": 23
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 507,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِلَّا بَلَاغًا مِّنَ اللَّهِ وَرِسَالَاتِهِ ۚ وَمَن يَعْصِ اللَّهَ وَرَسُولَهُ فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا",
+                    "transliteration": {
+                        "en": "Illaa balaagham minal laahi wa risaalaatih; wa many ya'sil laaha wa rasoolahoo fa inna lahoo naara jahannama khaalideena feehaaa abadaa"
+                    }
+                },
+                "translation": {
+                    "en": "But [I have for you] only notification from Allah, and His messages.\" And whoever disobeys Allah and His Messenger - then indeed, for him is the fire of Hell; they will abide therein forever.",
+                    "id": "(Aku hanya) menyampaikan (peringatan) dari Allah dan risalah-Nya. Dan barangsiapa mendurhakai Allah dan Rasul-Nya maka sesungguhnya dia akan mendapat (azab) neraka Jahanam, mereka kekal di dalamnya selama-lamanya.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5470",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5470.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5470.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bagi yang tetap menolak dakwah Nabi Muhammad maka Allah perintahkan untuk menyatakan bahwa aku hanya menyampaikan peringatan dari Allah dan risalah-Nya. Dan barangsiapa mendurhakai Allah dan Rasul-Nya setelah disampaikan peringatan tersebut, maka sesungguhnya dia akan mendapat azab neraka Jahanam, mereka kekal di dalamnya selama-lamanya.",
+                        "long": "Dalam ayat-ayat ini, Allah menyatakan bahwa Nabi Muhammad tidak sanggup melindungi dirinya sebagaimana ia tidak sanggup pula melindungi orang lain. Oleh sebab itu, Allah menyuruh Nabi-Nya untuk mengatakan bahwa tidak ada seorang pun di antara makhluk Allah yang sanggup melindunginya dari kemudaratan bila Allah menghendakinya. Tidak ada yang dapat membantunya dan tidak ada tempat berlindung selain kepada Allah. Bila Nabi saw terus menjalankan risalah dan menaati-Nya, Allah pasti akan melindunginya. Maksudnya, tidak ada yang akan membela Nabi saw dari ancaman-ancaman Allah bila ia tidak menjalankan risalah-Nya. Nabi hanya bertugas untuk menyampaikan risalah dan peringatan Allah sebagaimana firman-Nya:\n\nWahai Rasul! Sampaikanlah apa yang diturunkan Tuhanmu kepadamu. Jika tidak engkau lakukan (apa yang diperintahkan itu) berarti engkau tidak menyampaikan amanat-Nya. Dan Allah memelihara engkau dari (gangguan) manusia. (al-Ma'idah/5: 67)\n\nSelanjutnya Allah menjelaskan bahwa barang siapa yang berani durhaka terhadap suatu perintah atau larangan-Nya serta mendustai Rasul-Nya maka baginya telah disediakan neraka yang akan ditempatinya untuk selama-lamanya. Ia tidak akan sanggup menghindarkan diri dari neraka itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5471,
+                    "inSurah": 24
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 507,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+                    "transliteration": {
+                        "en": "Hattaaa izaa ra aw maa yoo'adoona fasaya'lamoona man ad'afu naasiranw wa aqallu 'adadaa"
+                    }
+                },
+                "translation": {
+                    "en": "[The disbelievers continue] until, when they see that which they are promised, then they will know who is weaker in helpers and less in number.",
+                    "id": "Sehingga apabila mereka melihat (azab) yang diancamkan kepadanya, maka mereka akan mengetahui siapakah yang lebih lemah penolongnya dan lebih sedikit jumlahnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5471",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5471.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5471.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sikap durhaka manusia terus akan berlanjut dan baru berhenti setelah mereka melihat azab neraka. Inilah yang diisyaratkan oleh ayat ini. Sehingga apabila mereka melihat azab yang diancamkan kepadanya dan itu pasti akan terjadi, maka mereka akan mengetahui siapakah yang lebih lemah penolongnya dan lebih sedikit jumlahnya, apakah Nabi Muhammad ataukah para pendurhaka.",
+                        "long": "Allah lalu menghibur dan menenteramkan Nabi Muhammad serta mengejek orang-orang kafir karena kekurangperhatian mereka terhadap jin, sedangkan mereka mengaku sebagai cerdik pandai, dan juga karena kecerobohan mereka mendustakan dan mengejek sesuatu. Akan tetapi di samping itu, mereka cepat mengakui kebenaran jin serta mengharap petunjuk darinya. Dalam ayat ini, Allah menjelaskan bahwa orang-orang kafir senantiasa menghina dan mengejek orang-orang mukmin sehingga mereka melihat dengan mata kepala sendiri siksa-siksa yang dijanjikan kepada mereka. Ketika itu, barulah mereka sadar siapakah sebenarnya yang hina, apakah orang-orang mukmin yang mentauhidkan Allah ataukah orang-orang musyrik yang tidak mempunyai pembantu dan penolong?\n\n¦ sehingga apabila mereka telah melihat apa yang diancamkan kepada mereka, baik azab maupun Kiamat, maka mereka akan mengetahui siapa yang lebih jelek kedudukannya dan lebih lemah bala tentaranya. (Maryam/19: 75)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5472,
+                    "inSurah": 25
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 507,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي أَمَدًا",
+                    "transliteration": {
+                        "en": "Qul in adreee a qareebum maa too'adoona am yaj'alu lahoo rabbeee amadaa"
+                    }
+                },
+                "translation": {
+                    "en": "Say, \"I do not know if what you are promised is near or if my Lord will grant for it a [long] period.\"",
+                    "id": "Katakanlah (Muhammad), “Aku tidak mengetahui, apakah azab yang diancamkan kepadamu itu sudah dekat ataukah Tuhanku menetapkan waktunya masih lama.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5472",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5472.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5472.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kaum musyrik apabila diancam dengan siksa, seringkali melecehkan dan bertanya untuk tujuan mengejek, kapankah datangnya ancaman itu. Katakanlah wahai Nabi Muhammad, “Aku tidak mengetahui, apakah azab yang diancamkan kepadamu itu sudah dekat ataukah Tuhanku menetapkan waktunya masih lama, aku tidak diberitahu tentang hal itu.”",
+                        "long": "Ayat ini dan ayat-ayat sesudahnya adalah jawaban atas pertanyaan, \"Bilakah datangnya hari yang dijanjikan itu kepada kami.\" Allah menyuruh Nabi-Nya agar menyampaikan kepada manusia bahwa hari Kiamat itu pasti akan tiba, tidak ada keraguan padanya. Akan tetapi, tidak ada yang mengetahui kapan waktunya tiba, apakah dalam waktu dekat ataukah masih dalam jangka waktu yang panjang.\n\nNabi saw pernah ditanya Jibril tentang hari Kiamat ketika berhadapan dengan Nabi saw dalam rupa seorang Badui, tetapi beliau tidak menjawabnya. Antara lain Jibril bertanya, \"Hai Muhammad! Kabarkan kepadaku tentang hari Kiamat itu.\" Beliau menjawab, \"Orang yang ditanya tidak lebih tahu daripada yang bertanya.\" Kemudian orang Badui itu bertanya lagi dengan suara keras, \"Hai Muhammad! Bilakah tibanya hari Kiamat itu?\" Nabi menjawab, \"Jangan khawatir, ia pasti datang, tetapi apa yang telah engkau sediakan untuk menghadapinya?\" Badui menjawab, \"Saya tidak banyak mengerjakan salat atau puasa, tetapi saya cinta kepada Allah dan Rasul-Nya.\" Lalu Nabi saw bersabda, \"Maka engkau bersama orang-orang yang engkau cintai.\" Anas berkata, \"Orang-orang mukmin tidak gembira terhadap sesuatu sebagaimana gembira mereka mendengar hadis ini.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5473,
+                    "inSurah": 26
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 507,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا",
+                    "transliteration": {
+                        "en": "'Aalimul ghaibi falaa yuzhiru alaa ghaibiheee ahadaa"
+                    }
+                },
+                "translation": {
+                    "en": "[He is] Knower of the unseen, and He does not disclose His [knowledge of the] unseen to anyone",
+                    "id": "Dia Mengetahui yang gaib, tetapi Dia tidak memperlihatkan kepada siapa pun tentang yang gaib itu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5473",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5473.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5473.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Yang mengetahui secara pasti tentang datangnya azab itu hanyalah Allah, karena Dia Mengetahui yang gaib, tetapi Dia tidak memperlihatkan kepada siapa pun tentang yang gaib itu.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa Dia mengetahui semua yang gaib, tidak terlihat, dan tidak diketahui oleh hamba-Nya. Semua yang gaib yang tidak dapat diketahui kecuali oleh Allah, dapat diketahui oleh para rasul yang diridai oleh-Nya dan Dia akan memperlihatkan kepada mereka sekadar apa yang dikehendaki-Nya. Allah berfirman:\n\nDan mereka tidak mengetahui sesuatu apa pun tentang ilmu-Nya melainkan apa yang Dia kehendaki. (al-Baqarah/2: 255)\n\nAyat ini menunjukkan bahwa pekerjaan tukang tenung, ahli nujum, dan tukang sihir semuanya itu salah karena mereka tidak termasuk orang-orang yang diridai Allah, bahkan mereka termasuk yang dibenci-Nya. Ayat ini juga menerangkan bahwa orang-orang yang mengaku bahwa bintang itu dapat menunjukkan siapa yang akan hidup dan siapa pula yang akan mati, adalah orang-orang yang telah kafir dan mengingkari Al-Qur'an.\n\nFakhruddin ar-Razi berkata, \"Yang dimaksud dengan tidak dapat menyaksikan yang gaib adalah gaib yang khusus yaitu tentang waktu tibanya hari Kiamat.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5474,
+                    "inSurah": 27
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 507,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِلَّا مَنِ ارْتَضَىٰ مِن رَّسُولٍ فَإِنَّهُ يَسْلُكُ مِن بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا",
+                    "transliteration": {
+                        "en": "Illaa manir tadaa mir rasoolin fa innahoo yasluku mim baini yadihi wa min khalfihee rasadaa"
+                    }
+                },
+                "translation": {
+                    "en": "Except whom He has approved of messengers, and indeed, He sends before each messenger and behind him observers",
+                    "id": "Kecuali kepada rasul yang diridai-Nya, maka sesungguhnya Dia mengadakan penjaga-penjaga (malaikat) di depan dan di belakangnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5474",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5474.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5474.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kecuali kepada rasul yang diridai-Nya yaitu dari golongan malaikat maupun manusia. Apabila Allah hendak memperlihatkan yang gaib kepada rasul-Nya, maka sesungguhnya Dia mengadakan penjaga-penjaga malaikat di depan dan di belakangnya.",
+                        "long": "Selanjutnya Allah mengungkapkan bahwa para rasul yang memperoleh keridaan-Nya sehingga dapat menyaksikan alam gaib, dijaga oleh malaikat Hafadhah dengan penjagaan yang sangat ketat. Dengan penjagaan itu, godaan setan, jin, dan para pengacau lainnya tidak sampai kepada mereka, sehingga para rasul itu dapat menyampaikan wahyu-wahyu Allah menurut aslinya. Mereka juga dijaga dari rongrongan setan-setan manusia sehingga mereka selamat dari bahaya dan kemudaratan manusia.\n\nAdh-ahhak berkata, \"Allah tidak mengutus seorang rasul kecuali baginya telah disiapkan pengawal-pengawal dari malaikat untuk menjaganya dari setan-setan yang datang dalam bentuk rupa malaikat. Bila setan-setan itu datang, maka pengawalnya mengingatkannya agar hati-hati karena yang datang itu setan, dan bila yang menemui rasul itu malaikat, maka pengawal berkata, \"Ini adalah utusan Tuhanmu.\"\n\nPengawal-pengawal itu adalah malaikat yang bertugas menjaga kekuatan lahir dan batin para rasul dan untuk memelihara mereka dari bisikan-bisikan setan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5475,
+                    "inSurah": 28
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 573,
+                    "manzil": 7,
+                    "ruku": 507,
+                    "hizbQuarter": 229,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِّيَعْلَمَ أَن قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا",
+                    "transliteration": {
+                        "en": "Liya'lama an qad ablaghoo risaalaati rabbihim wa ahaata bima ladihim wa ahsaa kulla shai'in 'adadaa"
+                    }
+                },
+                "translation": {
+                    "en": "That he may know that they have conveyed the messages of their Lord; and He has encompassed whatever is with them and has enumerated all things in number.",
+                    "id": "Agar Dia mengetahui bahwa rasul-rasul itu sungguh telah menyampaikan risalah Tuhannya, sedang (ilmu-Nya) meliputi apa yang ada pada mereka, dan Dia menghitung segala sesuatu satu persatu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5475",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5475.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5475.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tujuan Allah melakukan penjagaan itu agar Dia mengetahui bahwa rasul-rasul itu sungguh telah menyampaikan risalah Tuhannya, sedang sebenarnya dengan ilmu dan Kuasa-Nya meliputi secara rinci apa yang ada pada diri mereka, dan Dia menghitung segala sesuatu satu persatu dan tidak satu pun yang luput dari pengetahuan-Nya.",
+                        "long": "Dalam ayat ini, Allah menerangkan tujuan dari penjagaan yang sangat rapi itu, yaitu agar para rasul itu dapat menjalankan tugas dengan sempurna dan agar wahyu-wahyu yang disampaikan kepada mereka terpelihara dengan baik. Penjagaan itu juga bertujuan agar dapat dibuktikan dengan pasti bahwa para rasul itu telah menyampaikan risalah Tuhan mereka kepada manusia dengan sebaik-baiknya. Allah berfirman:\n\nDan Allah pasti mengetahui orang-orang yang beriman dan Dia pasti mengetahui orang-orang yang munafik. (al-'Ankabut/29: 11)\n\nSelanjutnya Allah menjelaskan bahwa ilmu-Nya meliputi apa yang diketahui oleh malaikat-malaikat pengawas, apa yang telah ada, dan yang akan ada satu persatu. Dia mengetahui segala sesuatu secara sempurna, tidak ada persamaan. Malaikat itu adalah perantara yang menyampaikan ilmu-ilmu-Nya kepada para rasul."
+                    }
+                }
+            }
+        ]
+    }
+}

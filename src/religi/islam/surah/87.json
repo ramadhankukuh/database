@@ -1,0 +1,811 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 87,
+        "sequence": 8,
+        "numberOfVerses": 19,
+        "name": {
+            "short": "الأعلى",
+            "long": "سورة الأعلى",
+            "transliteration": {
+                "en": "Al-A'laa",
+                "id": "Al-A'la"
+            },
+            "translation": {
+                "en": "The Most High",
+                "id": "Maha Tinggi"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyyah, dan diturunkan sesudah surat At Takwiir. Nama Al A´laa diambil dari kata Al A´laa yang terdapat pada ayat pertama, berarti Yang Paling Tinggi. Muslim meriwayatkan dalam kitab Al Jumu'ah, dan diriwayatkan pula oleh Ashhaabus Sunan, dari Nu'man ibnu Basyir bahwa Rasulullah s.a.w. pada shalat dua hari Raya (Fitri dan Adha) dan shalat Jum'at membaca surat Al A´laa pada rakaat pertama, dan surat Al Ghaasyiyah pada rakaat kedua."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5949,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+                    "transliteration": {
+                        "en": "Sabbihisma Rabbikal A'laa"
+                    }
+                },
+                "translation": {
+                    "en": "Exalt the name of your Lord, the Most High,",
+                    "id": "Sucikanlah nama Tuhanmu Yang Mahatinggi,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5949",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5949.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5949.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi, sucikanlah nama Tuhanmu yang Mahatinggi dari hal-hal yang tidak layak bagi kemuliaan-Nya.",
+                        "long": "Allah memerintahkan Rasul-Nya agar menyucikan nama-Nya dari segala sesuatu yang tidak sesuai dengan kebesaran serta kemuliaan zat dan sifat-Nya. Nama Allah hanya diucapkan dalam rangka memuji-Nya, tidak boleh sesuatu dinamai dengan nama-Nya. Mahasuci Allah Yang Mahatinggi."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5950,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِي خَلَقَ فَسَوَّىٰ",
+                    "transliteration": {
+                        "en": "Allazee khalaqa fasawwaa"
+                    }
+                },
+                "translation": {
+                    "en": "Who created and proportioned",
+                    "id": "Yang menciptakan, lalu menyempurnakan (ciptaan-Nya)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5950",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5950.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5950.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dialah Tuhan Yang menciptakan segala sesuatu dari tiada, lalu menyempurnakan penciptaan-Nya. Ciptaannya sepadan, teratur, padu, rapi, dan sempurna dari semua sisi.",
+                        "long": "Allah menerangkan bahwa Dialah yang menciptakan dan menyempurnakan penciptaan segala makhluk. Allah pula yang menentukan segala sesuatu menurut bentuk dan ukuran yang tepat dan seimbang. Di samping itu, Dia menetapkan ketentuan-ketentuan dan hukum-hukum yang berlaku bagi tiap-tiap makhluk-Nya, sehingga dapat hidup berkembang biak, dan menjaga hidupnya masing-masing.\n\nAllah-lah yang menumbuhkan rumput-rumputan yang hijau dan segar untuk makanan binatang dan ternak yang kemudian dijadikan-Nya kering dengan warna kehitam-hitaman. Allah-lah yang menumbuhkan rumput-rumputan dan mengubahnya menjadi kering, bukanlah patung-patung yang disembah oleh orang kafir itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5951,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
+                    "transliteration": {
+                        "en": "Wallazee qaddara fahadaa"
+                    }
+                },
+                "translation": {
+                    "en": "And who destined and [then] guided",
+                    "id": "Yang menentukan kadar (masing-masing) dan memberi petunjuk,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5951",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5951.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5951.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dialah pula yang menentukan kadar masing-masing ciptaan-Nya dengan kadar dan ukuran yang sempurna, dan memberi petunjuk kepada makhluk hidup apa yang menjadi kebutuhan dan kemaslahatan hidupnya melalui naluri yang Allah ciptakan pada diri mereka.",
+                        "long": "Allah menerangkan bahwa Dialah yang menciptakan dan menyempurnakan penciptaan segala makhluk. Allah pula yang menentukan segala sesuatu menurut bentuk dan ukuran yang tepat dan seimbang. Di samping itu, Dia menetapkan ketentuan-ketentuan dan hukum-hukum yang berlaku bagi tiap-tiap makhluk-Nya, sehingga dapat hidup berkembang biak, dan menjaga hidupnya masing-masing.\n\nAllah-lah yang menumbuhkan rumput-rumputan yang hijau dan segar untuk makanan binatang dan ternak yang kemudian dijadikan-Nya kering dengan warna kehitam-hitaman. Allah-lah yang menumbuhkan rumput-rumputan dan mengubahnya menjadi kering, bukanlah patung-patung yang disembah oleh orang kafir itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5952,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
+                    "transliteration": {
+                        "en": "Wallazeee akhrajal mar'aa"
+                    }
+                },
+                "translation": {
+                    "en": "And who brings out the pasture",
+                    "id": "dan Yang menumbuhkan rerumputan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5952",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5952.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5952.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Dialah pula yang menumbuhkan rerumputan dan tetumbuhan yang bisa dikonsumsi oleh manusia dan hewan melalui proses rumit yang hanya diketahui rinciannya oleh Allah.",
+                        "long": "Allah menerangkan bahwa Dialah yang menciptakan dan menyempurnakan penciptaan segala makhluk. Allah pula yang menentukan segala sesuatu menurut bentuk dan ukuran yang tepat dan seimbang. Di samping itu, Dia menetapkan ketentuan-ketentuan dan hukum-hukum yang berlaku bagi tiap-tiap makhluk-Nya, sehingga dapat hidup berkembang biak, dan menjaga hidupnya masing-masing.\n\nAllah-lah yang menumbuhkan rumput-rumputan yang hijau dan segar untuk makanan binatang dan ternak yang kemudian dijadikan-Nya kering dengan warna kehitam-hitaman. Allah-lah yang menumbuhkan rumput-rumputan dan mengubahnya menjadi kering, bukanlah patung-patung yang disembah oleh orang kafir itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5953,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ",
+                    "transliteration": {
+                        "en": "Faja'alahoo ghusaaa'an ahwaa"
+                    }
+                },
+                "translation": {
+                    "en": "And [then] makes it black stubble.",
+                    "id": "lalu dijadikan-Nya (rumput-rumput) itu kering kehitam-hitaman."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5953",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5953.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5953.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Rerumputan itu tumbuh, lalu setelah sekian lama dijadikan-Nya rerumputan itu kering dan berubah warna menjadi kehitam-hitaman. Begitulah siklus kehidupan di dunia: lahir, tumbuh, berkembang, matang, kemudian mati. Semua tunduk pada aturan Allah dan tidak ada yang mampu menghindari kehendak-Nya.",
+                        "long": "Allah menerangkan bahwa Dialah yang menciptakan dan menyempurnakan penciptaan segala makhluk. Allah pula yang menentukan segala sesuatu menurut bentuk dan ukuran yang tepat dan seimbang. Di samping itu, Dia menetapkan ketentuan-ketentuan dan hukum-hukum yang berlaku bagi tiap-tiap makhluk-Nya, sehingga dapat hidup berkembang biak, dan menjaga hidupnya masing-masing.\n\nAllah-lah yang menumbuhkan rumput-rumputan yang hijau dan segar untuk makanan binatang dan ternak yang kemudian dijadikan-Nya kering dengan warna kehitam-hitaman. Allah-lah yang menumbuhkan rumput-rumputan dan mengubahnya menjadi kering, bukanlah patung-patung yang disembah oleh orang kafir itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5954,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "سَنُقْرِئُكَ فَلَا تَنسَىٰ",
+                    "transliteration": {
+                        "en": "Sanuqri'uka falaa tansaaa"
+                    }
+                },
+                "translation": {
+                    "en": "We will make you recite, [O Muhammad], and you will not forget,",
+                    "id": "Kami akan membacakan (Al-Qur'an) kepadamu (Muhammad) sehingga engkau tidak akan lupa,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5954",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5954.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5954.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi, sebagaimana Kami kuasa menciptakan makhluk dan menyempurnakan bentuknya, Kami kuasa pula menjadikan Al-Qur’an melekat di hatimu. Kami akan membacakan Al-Qur’an kepadamu, Aku tancapkan bacaan itu langsung ke relung hatimu, sehingga engkau tidak akan lupa. Inilah salah satu bentuk penjagaan Allah terhadap kemurnian Al-Qur’an saat turun ke bumi.",
+                        "long": "Dalam ayat ini diterangkan bahwa Allah menurunkan Al-Qur'an kepada Nabi Muhammad untuk dibacanya dan Ia akan membukakan hati Nabi-Nya dan menguatkan ingatannya. Dengan demikian, setelah mendengarnya satu kali, maka ia tidak akan lupa apa yang telah didengarnya. Allah berfirman:\n\nMaka Mahatinggi Allah, Raja yang sebenar-benarnya. Dan janganlah engkau (Muhammad) tergesa-gesa (membaca) Al-Qur'an sebelum selesai diwahyukan kepadamu, dan katakanlah, \"Ya Tuhanku, tambahkanlah ilmu kepadaku.\" (thaha/20: 114)\n\nDan firman-Nya:\n\nJangan engkau (Muhammad) gerakkan lidahmu (untuk membaca Al-Qur'an) karena hendak cepat-cepat (menguasai)nya. Sesungguhnya Kami yang akan mengumpulkannya (di dadamu) dan membacakannya. (al-Qiyamah/75: 16-17)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5955,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ",
+                    "transliteration": {
+                        "en": "Illaa maa shaaa'al laah; innahoo ya'lamul jahra wa maa yakhfaa"
+                    }
+                },
+                "translation": {
+                    "en": "Except what Allah should will. Indeed, He knows what is declared and what is hidden.",
+                    "id": "kecuali jika Allah menghendaki. Sungguh, Dia mengetahui yang terang dan yang tersembunyi."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5955",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5955.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5955.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah akan terus menjaga hafalan Al-Qur’an Nabi, kecuali jika Allah menghendaki untuk menghapus hafalan itu dari hatinya. Hal ini membuktikan Al-Qur’an bukan ucapan Nabi, melainkan kalam Allah. Hal ini juga membuktikan bahwa hafalan Al-Qur’an Nabi merupakan anugerah-Nya semata. Sungguh Dia yang berbuat demikian adalah Tuhan yang mengetahui yang terang dan yang tersembunyi, di antaranya hafalan dalam hati Nabi.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa bila Ia menghendaki agar Nabi Muhammad melupakan apa yang telah diwahyukan, maka hal itu dapat dilakukan-Nya. Allah berfirman:\n\nDan sesungguhnya jika Kami menghendaki, niscaya Kami lenyapkan apa yang telah Kami wahyukan kepadamu (Muhammad), dan engkau tidak akan mendapatkan seorang pembela pun terhadap Kami. (al-Isra'/17: 86)\n\nTidak lupa apa yang sudah didengar Nabi Muhammad satu kali itu adalah karunia dan kebaikan dari Allah. Sesungguhnya Dia mengetahui apa yang terang dan apa yang tersembunyi, apa yang disebutkan dan apa yang dirahasiakan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5956,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+                    "transliteration": {
+                        "en": "Wa nu-yassiruka lilyusraa"
+                    }
+                },
+                "translation": {
+                    "en": "And We will ease you toward ease.",
+                    "id": "Dan Kami akan memudahkan bagimu ke jalan kemudahan (mencapai kebahagiaan dunia dan akhirat),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5956",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5956.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5956.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Kami akan menuntunmu dan memudahkan bagimu ke jalan kemudahan. Kami mudahkan langkahmu menuju kemudahan, seperti menjalankan syariat Islam, mengemban risalah, serta mencapai kebahagiaan dunia dan akhirat.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa Ia akan memberi Nabi-Nya taufik kepada jalan yang mudah, yang membawa kepada kebahagiaan di dunia dan di akhirat. Dialah yang memberinya agama yang mudah diterima jiwa dan tidak sukar dipahami oleh akal."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5957,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ",
+                    "transliteration": {
+                        "en": "Fazakkir in nafa'atizzikraa"
+                    }
+                },
+                "translation": {
+                    "en": "So remind, if the reminder should benefit;",
+                    "id": "oleh sebab itu berikanlah peringatan, karena peringatan itu bermanfaat,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5957",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5957.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5957.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Oleh sebab itu, berikanlah kaummu peringatan dengan Al-Qur’an yang kami wahyukan dan mudahkan kepadamu, karena peringatan itu bermanfaat. Tugas Nabi semata memberi peringatan, sedangkan hasilnya tergantung pada kemauan masing-masing individu yang mendengar peringatan itu untuk mengikuti atau menolak.",
+                        "long": "Dalam ayat ini, Allah memerintahkan Rasul-Nya agar memperingatkan umat manusia tentang yang telah ia terima dari-Nya. Allah menyatakan bahwa peringatan itu amat besar kegunaan dan faedahnya bagi manusia, karena peringatan itu memberi petunjuk kepadanya tentang cara-cara mencapai kebahagiaan hidup di dunia dan di akhirat. Akan tetapi, ternyata mereka tetap saja membangkang dan ingkar. Maka Rasulullah janganlah bersedih hati."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5958,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+                    "transliteration": {
+                        "en": "Sa yazzakkaru maiyakhshaa"
+                    }
+                },
+                "translation": {
+                    "en": "He who fears [Allah] will be reminded.",
+                    "id": "orang yang takut (kepada Allah) akan mendapat pelajaran,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5958",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5958.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5958.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Orang yang takut kepada Allah dan hari akhir akan mendapat pelajaran dari peringatan itu,",
+                        "long": "Dalam ayat ini, Allah menjelaskan bahwa mereka yang beruntung adalah yang dapat menerima panggilan atau peringatan Rasul-Nya, serta takut kepada Allah dan siksaan-Nya. Mereka inilah yang mempergunakan pikiran mereka yang waras untuk mencapai kebenaran yang kelak akan menjadi pegangan hidup mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5959,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيَتَجَنَّبُهَا الْأَشْقَى",
+                    "transliteration": {
+                        "en": "Wa yatajannabuhal ashqaa"
+                    }
+                },
+                "translation": {
+                    "en": "But the wretched one will avoid it -",
+                    "id": "dan orang-orang yang celaka (kafir) akan menjauhinya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5959",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5959.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5959.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan orang-orang yang celaka dengan bersikeras memilih jalan kekafiran dan menutup hatinya dari peringatan Nabi akan mencibir, menertawakan, menyepelekan, dan menjauhinya.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa bagi orang yang ingkar, durhaka, dan menjauhkan diri dari petunjuk-petunjuk yang diberikan Nabi Muhammad, tidak akan berfaedah peringatan yang disampaikan. Oleh karena itu, mereka tetap dalam kekafiran dan akan dilemparkan ke dalam neraka yang paling bawah.\n\nSecara ringkas, orang yang menghadapi panggilan Nabi Muhammad ke jalan Allah itu ada tiga golongan:\n\n1.Golongan orang yang mengetahui dan yakin akan kebenarannya, tidak ada keraguan sedikit pun di dalam hatinya. Orang ini adalah orang mukmin yang sempurna (mu'min kamil) yang takut kepada Tuhannya.\n\n2.Golongan orang yang dalam menerima petunjuk, kemudian ia yakin akan petunjuk itu, lalu menyatakan keimanannya. Orang ini adalah golongan yang agak kurang nilainya dari yang pertama.\n\n3.Golongan yang durhaka dan ingkar, yang telah tertutup hatinya dari panggilan ke jalan Allah. Mereka ini adalah golongan yang paling jahat dan paling jauh dari kebaikan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5960,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
+                    "transliteration": {
+                        "en": "Allazee yaslan Naaral kubraa"
+                    }
+                },
+                "translation": {
+                    "en": "[He] who will [enter and] burn in the greatest Fire,",
+                    "id": "(yaitu) orang yang akan memasuki api yang besar (neraka),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5960",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5960.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5960.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Orang yang celaka dan kafir itulah orang yang akan memasuki api yang besar, yakni neraka di akhirat, sebagai balasan atas kesombongan dan penentangannya.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa bagi orang yang ingkar, durhaka, dan menjauhkan diri dari petunjuk-petunjuk yang diberikan Nabi Muhammad, tidak akan berfaedah peringatan yang disampaikan. Oleh karena itu, mereka tetap dalam kekafiran dan akan dilemparkan ke dalam neraka yang paling bawah.\n\nSecara ringkas, orang yang menghadapi panggilan Nabi Muhammad ke jalan Allah itu ada tiga golongan:\n\n1.Golongan orang yang mengetahui dan yakin akan kebenarannya, tidak ada keraguan sedikit pun di dalam hatinya. Orang ini adalah orang mukmin yang sempurna (mu'min kamil) yang takut kepada Tuhannya.\n\n2.Golongan orang yang dalam menerima petunjuk, kemudian ia yakin akan petunjuk itu, lalu menyatakan keimanannya. Orang ini adalah golongan yang agak kurang nilainya dari yang pertama.\n\n3.Golongan yang durhaka dan ingkar, yang telah tertutup hatinya dari panggilan ke jalan Allah. Mereka ini adalah golongan yang paling jahat dan paling jauh dari kebaikan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5961,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+                    "transliteration": {
+                        "en": "Summa laa yamootu feehaa wa laa yahyaa"
+                    }
+                },
+                "translation": {
+                    "en": "Neither dying therein nor living.",
+                    "id": "selanjutnya dia di sana tidak mati dan tidak (pula) hidup."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5961",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5961.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5961.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Selanjutnya, dia yang celaka dan kafir itu di neraka sana tidak akan mati, tidak memperoleh kesempatan sejenak pun untuk lepas dari siksa, dan tidak pula hidup dengan nyaman. Telah menjadi ketentuan Allah bahwa semua penghuni surga dan neraka tidak akan mati selamanya.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa orang-orang yang dimasukkan ke dalam neraka itu menjalani siksaan yang tidak ada habis-habisnya. Mereka merasakan sakit yang tidak ada batasnya, tidak mati di dalamnya dan tidak pula hidup. Allah berfirman:\n\nDan orang-orang yang kafir, bagi mereka neraka Jahanam. Mereka tidak dibinasakan hingga mereka mati, dan tidak diringankan dari mereka azabnya. Demikianlah Kami membalas setiap orang yang sangat kafir. (Fathir/35: 36)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5962,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+                    "transliteration": {
+                        "en": "Qad aflaha man tazakkaa"
+                    }
+                },
+                "translation": {
+                    "en": "He has certainly succeeded who purifies himself",
+                    "id": "Sungguh beruntung orang yang menyucikan diri (dengan beriman),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5962",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5962.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5962.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh beruntung orang yang menyucikan diri dengan beriman kepada Allah secara hakiki, membersihkan diri dari dosa,",
+                        "long": "Allah menerangkan bahwa orang yang beruntung, yaitu terhindar dari siksa akhirat, adalah orang yang bersih, beriman kepada Allah dan tidak mempersekutukan-Nya, serta percaya kepada yang disampaikan oleh Nabi Muhammad saw.\n\nBila terlintas dalam hatinya dan ia ingat sifat-sifat Tuhan yang mempunyai kebesaran dan kemuliaan, maka ketika itu pula ia tunduk kepada kekuasaan-Nya lalu sujud melakukan salat. Allah berfirman:\n\nSesungguhnya orang-orang yang beriman adalah mereka yang apabila disebut nama Allah gemetar hatinya, dan apabila dibacakan ayat-ayat-Nya kepada mereka, bertambah (kuat) imannya dan hanya kepada Tuhan mereka bertawakal. (al-Anfal/8: 2)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5963,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 591,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ",
+                    "transliteration": {
+                        "en": "Wa zakaras ma Rabbihee fasallaa"
+                    }
+                },
+                "translation": {
+                    "en": "And mentions the name of his Lord and prays.",
+                    "id": "dan mengingat nama Tuhannya, lalu dia salat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5963",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5963.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5963.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan mengingat nama Tuhannya setiap waktu, baik lapang maupun sempit, lalu dia menunaikan salat dengan khusyuk dan sempurna sebagai tanda penghambaanya kepada Allah.",
+                        "long": "Allah menerangkan bahwa orang yang beruntung, yaitu terhindar dari siksa akhirat, adalah orang yang bersih, beriman kepada Allah dan tidak mempersekutukan-Nya, serta percaya kepada yang disampaikan oleh Nabi Muhammad saw.\n\nBila terlintas dalam hatinya dan ia ingat sifat-sifat Tuhan yang mempunyai kebesaran dan kemuliaan, maka ketika itu pula ia tunduk kepada kekuasaan-Nya lalu sujud melakukan salat. Allah berfirman:\n\nSesungguhnya orang-orang yang beriman adalah mereka yang apabila disebut nama Allah gemetar hatinya, dan apabila dibacakan ayat-ayat-Nya kepada mereka, bertambah (kuat) imannya dan hanya kepada Tuhan mereka bertawakal. (al-Anfal/8: 2)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5964,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
+                    "transliteration": {
+                        "en": "Bal tu'siroonal hayaatad dunyaa"
+                    }
+                },
+                "translation": {
+                    "en": "But you prefer the worldly life,",
+                    "id": "Sedangkan kamu (orang-orang kafir) memilih kehidupan dunia,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5964",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5964.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5964.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sedangkan kamu, wahai kebanyakan manusia, lebih memilih kehidupan dunia daripada kehidupan akhirat. Kalian melalaikan hal-hal yang menjamin kebahagiaanmu di akhirat dan terlena dengan gemerlap dunia.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa orang kafir lebih mengutamakan kesenangan di dunia daripada kesenangan di akhirat. Padahal, semestinya mereka memilih kesenangan akhirat, sesuai dengan yang dikehendaki oleh agama Allah. Kesenangan akhirat itu lebih baik dan kekal abadi, sedangkan kesenangan di dunia akan lenyap diliputi oleh kekotoran dan kesedihan. Meskipun begitu, secara umum manusia perlu seimbang dalam usaha dan mengatur porsi waktu untuk kepentingan dunia dan akhirat, sebagaimana firman Allah:\n\nDan carilah (pahala) negeri akhirat dengan apa yang telah dianugerahkan Allah kepadamu, tetapi janganlah kamu lupakan bagianmu di dunia dan berbuat baiklah (kepada orang lain) sebagaimana Allah telah berbuat baik kepadamu, dan janganlah kamu berbuat kerusakan di bumi. Sungguh, Allah tidak menyukai orang yang berbuat kerusakan. (al-Qasas/28: 77)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5965,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ",
+                    "transliteration": {
+                        "en": "Wal Aakhiratu khairunw wa abqaa"
+                    }
+                },
+                "translation": {
+                    "en": "While the Hereafter is better and more enduring.",
+                    "id": "padahal kehidupan akhirat itu lebih baik dan lebih kekal."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5965",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5965.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5965.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kamu lalai dari kehidupan akhirat, padahal kehidupan akhirat itu lebih baik dan lebih kekal. Kebahagiaan ukhrawi lebih murni dan tak berbatas, sedangkan kebahagiaan duniawi bersifat melenakan dan akan segera sirna.",
+                        "long": "Dalam ayat-ayat ini, Allah menerangkan bahwa orang kafir lebih mengutamakan kesenangan di dunia daripada kesenangan di akhirat. Padahal, semestinya mereka memilih kesenangan akhirat, sesuai dengan yang dikehendaki oleh agama Allah. Kesenangan akhirat itu lebih baik dan kekal abadi, sedangkan kesenangan di dunia akan lenyap diliputi oleh kekotoran dan kesedihan. Meskipun begitu, secara umum manusia perlu seimbang dalam usaha dan mengatur porsi waktu untuk kepentingan dunia dan akhirat, sebagaimana firman Allah:\n\nDan carilah (pahala) negeri akhirat dengan apa yang telah dianugerahkan Allah kepadamu, tetapi janganlah kamu lupakan bagianmu di dunia dan berbuat baiklah (kepada orang lain) sebagaimana Allah telah berbuat baik kepadamu, dan janganlah kamu berbuat kerusakan di bumi. Sungguh, Allah tidak menyukai orang yang berbuat kerusakan. (al-Qasas/28: 77)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5966,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
+                    "transliteration": {
+                        "en": "Inna haazaa lafis suhu fil oolaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, this is in the former scriptures,",
+                    "id": "Sesungguhnya ini terdapat dalam kitab-kitab yang dahulu,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5966",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5966.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5966.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dasar-dasar ajaran agama samawi adalah sama, yaitu mereka yang beriman, beramal saleh, ingat kepada Allah, membersihkan diri dari dosa, dan memilih kehidupan akhirat akan berbahagia. Sebaliknya, mereka yang memilih jalan kekafiran dan hidup berlumur dosa akan celaka. Sesungguhnya ini terdapat dalam kitab-kitab yang dahulu, yang diturunkan sebelum Al-Qur’an,",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa apa yang disampaikan-Nya kepada Nabi Muhammad tentang perintah dan larangan, janji anugerah dan peringatan adalah sama dengan apa yang telah terdapat di dalam kitab Nabi Ibrahim dan Nabi Musa. Dengan demikian, Nabi Muhammad hanya mengingatkan kembali kepada agama-Nya yang terdahulu yang telah dilupakan oleh manusia. Agama yang ada itu telah diubah oleh tangan-tangan manusia, dirusak oleh hawa nafsu dan adat istiadat nenek moyang mereka sehingga telah menyimpang dari yang sebenarnya. Firman Allah:\n\nDan sungguh, (Al-Qur'an) ini benar-benar diturunkan oleh Tuhan seluruh alam, Yang dibawa turun oleh ar-Ruh al-Amin (Jibril), ke dalam hatimu (Muhammad) agar engkau termasuk orang yang memberi peringatan, dengan bahasa Arab yang jelas. Dan sungguh, (Al-Qur'an) itu (disebut) dalam kitab-kitab orang yang terdahulu. (asy-Syu'ara'/26: 192-196)\n\nDia (Allah) telah mensyariatkan kepadamu agama yang telah diwasiatkan-Nya kepada Nuh dan apa yang telah Kami wahyukan kepadamu (Muhammad) dan apa yang telah Kami wasiatkan kepada Ibrahim, Musa dan Isa yaitu tegakkanlah agama (keimanan dan ketakwaan) dan janganlah kamu berpecah-belah di dalamnya. Sangat berat bagi orang-orang musyrik (untuk mengikuti) agama yang kamu serukan kepada mereka. Allah memilih orang yang Dia kehendaki kepada agama tauhid dan memberi petunjuk kepada (agama)-Nya bagi orang yang kembali (kepada-Nya). (asy-Syura/42: 13)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5967,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 592,
+                    "manzil": 7,
+                    "ruku": 529,
+                    "hizbQuarter": 237,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
+                    "transliteration": {
+                        "en": "Suhufi Ibraaheema wa Moosaa"
+                    }
+                },
+                "translation": {
+                    "en": "The scriptures of Abraham and Moses.",
+                    "id": "(yaitu) kitab-kitab Ibrahim dan Musa."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5967",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5967.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5967.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "yaitu kitab-kitab Ibrahim dan Musa. Kedua nabi ini sangat disegani oleh para pengikut agama samawi. Nabi Ibrahim menerima sepuluh suhuf, sedangkan Nabi Musa menerima Taurat.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa apa yang disampaikan-Nya kepada Nabi Muhammad tentang perintah dan larangan, janji anugerah dan peringatan adalah sama dengan apa yang telah terdapat di dalam kitab Nabi Ibrahim dan Nabi Musa. Dengan demikian, Nabi Muhammad hanya mengingatkan kembali kepada agama-Nya yang terdahulu yang telah dilupakan oleh manusia. Agama yang ada itu telah diubah oleh tangan-tangan manusia, dirusak oleh hawa nafsu dan adat istiadat nenek moyang mereka sehingga telah menyimpang dari yang sebenarnya. Firman Allah:\n\nDan sungguh, (Al-Qur'an) ini benar-benar diturunkan oleh Tuhan seluruh alam, Yang dibawa turun oleh ar-Ruh al-Amin (Jibril), ke dalam hatimu (Muhammad) agar engkau termasuk orang yang memberi peringatan, dengan bahasa Arab yang jelas. Dan sungguh, (Al-Qur'an) itu (disebut) dalam kitab-kitab orang yang terdahulu. (asy-Syu'ara'/26: 192-196)\n\nDia (Allah) telah mensyariatkan kepadamu agama yang telah diwasiatkan-Nya kepada Nuh dan apa yang telah Kami wahyukan kepadamu (Muhammad) dan apa yang telah Kami wasiatkan kepada Ibrahim, Musa dan Isa yaitu tegakkanlah agama (keimanan dan ketakwaan) dan janganlah kamu berpecah-belah di dalamnya. Sangat berat bagi orang-orang musyrik (untuk mengikuti) agama yang kamu serukan kepada mereka. Allah memilih orang yang Dia kehendaki kepada agama tauhid dan memberi petunjuk kepada (agama)-Nya bagi orang yang kembali (kepada-Nya). (asy-Syura/42: 13)"
+                    }
+                }
+            }
+        ]
+    }
+}

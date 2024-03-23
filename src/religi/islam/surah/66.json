@@ -1,0 +1,531 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 66,
+        "sequence": 107,
+        "numberOfVerses": 12,
+        "name": {
+            "short": "التحريم",
+            "long": "سورة التحريم",
+            "transliteration": {
+                "en": "At-Tahrim",
+                "id": "At-Tahrim"
+            },
+            "translation": {
+                "en": "The Prohibition",
+                "id": "Pengharaman"
+            }
+        },
+        "revelation": {
+            "arab": "مدينة",
+            "en": "Medinan",
+            "id": "Madaniyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hujuraat. Dinamai surat At Tahrim karena pada awal surat ini terdapat kata tuharrim yang kata asalnya adalah Attahrim yang berarti mengharamkan."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5230,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 560,
+                    "manzil": 7,
+                    "ruku": 494,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ ۖ تَبْتَغِي مَرْضَاتَ أَزْوَاجِكَ ۚ وَاللَّهُ غَفُورٌ رَّحِيمٌ",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhan nabiyyu lima tuharrimu maaa ahallal laahu laka tabtaghee mardaata azwaajik; wallaahu ghafoorur raheem"
+                    }
+                },
+                "translation": {
+                    "en": "O Prophet, why do you prohibit [yourself from] what Allah has made lawful for you, seeking the approval of your wives? And Allah is Forgiving and Merciful.",
+                    "id": "Wahai Nabi! Mengapa engkau mengharamkan apa yang dihalalkan Allah bagimu? Engkau ingin menyenangkan hati istri-istrimu? Dan Allah Maha Pengampun, Maha Penyayang."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5230",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5230.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5230.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah pada surah sebelumnya Allah menyapa Nabi tentang hukum dan etika menceraikan istri, pada awal surah ini Allah menyapa, “Wahai Nabi! Mengapa engkau mengharamkan apa yang dihalalkan Allah bagimu dengan bersumpah tidak akan pernah minum madu setelah minum madu di rumah Zainab binti Jahsy, salah seorang istrimu, dan tidak akan pernah melakukan hubungan suami istri dengan Mariyah al-Qibíiyyah, setelah berhubungan di rumah Hafsah? hanya karena Engkau ingin menyenangkan hati istri-istrimu, terutama Hafsah dan ‘À’isyah?” Dan Allah Maha Pengampun, Maha Penyayang kepada siapa saja yang bertobat, termasuk dua istri Nabi, yaitu Hafsah dan ‘À’isyah.",
+                        "long": "Pada ayat ini, Allah menegur Nabi saw karena bersumpah tidak akan meminum madu lagi, padahal madu itu adalah minuman yang halal. Sebabnya hanyalah karena menghendaki kesenangan hati istri-istrinya.\n\nAyat ini ditutup dengan satu ketegasan bahwa Allah Maha Pengampun atas dosa hamba-Nya yang bertobat, dan Dia telah mengampuni kesalahan Nabi saw yang telah bersumpah tidak mau lagi minum madu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5231,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 560,
+                    "manzil": 7,
+                    "ruku": 494,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قَدْ فَرَضَ اللَّهُ لَكُمْ تَحِلَّةَ أَيْمَانِكُمْ ۚ وَاللَّهُ مَوْلَاكُمْ ۖ وَهُوَ الْعَلِيمُ الْحَكِيمُ",
+                    "transliteration": {
+                        "en": "Qad faradal laahu lakum tahillata aymaanikum; wallaahu mawlaakum wa huwal'aleemul hakeem"
+                    }
+                },
+                "translation": {
+                    "en": "Allah has already ordained for you [Muslims] the dissolution of your oaths. And Allah is your protector, and He is the Knowing, the Wise.",
+                    "id": "Sungguh, Allah telah mewajibkan kepadamu membebaskan diri dari sumpahmu; dan Allah adalah pelindungmu dan Dia Maha Mengetahui, Mahabijaksana."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5231",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5231.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5231.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada ayat ini Allah memerintahkan kepada Nabi untuk membatalkan sumpah beliau mengharamkan minum madu dan berhubungan dengan salah seorang istri beliau, Mariyah al-Qibíiyyah. “Sungguh, Allah telah mewajibkan kepada kamu, wahai Nabi untuk membebaskan diri dari sumpah kamu untuk tidak akan minum madu dan tidak akan berhubungan dengan istri dengan membayar kafarat; dan Allah adalah pelindungmu, wahai Nabi dari segala keadaan yang tidak menyenangkan dan Dia Maha Mengetahui, semua yang dirahasiakan manusia; Mahabijaksana dalam menilai perbuatan mereka.”",
+                        "long": "Dalam ayat ini, Allah menjelaskan bahwa Dia telah menetapkan satu ketentuan yaitu wajib bagi seseorang membebaskan dirinya dari sumpah yang pernah diucapkannya dengan membayar kafarat sebagaimana yang dijelaskan dalam firman Allah:\n\nMaka kafaratnya (denda pelanggaran sumpah) ialah memberi makan sepuluh orang miskin, yaitu dari makanan yang biasa kamu berikan kepada keluargamu, atau memberi mereka pakaian atau memerdekakan seorang hamba sahaya. Barangsiapa tidak mampu melakukannya, maka (kafaratnya) berpuasalah tiga hari. Itulah kafarat sumpah-sumpahmu apabila kamu bersumpah. (al-Ma'idah/5: 89)\n\nSumpah yang wajib dilanggar ialah jika bersifat menghalalkan sesuatu yang hukumnya haram, atau sebaliknya sumpah itu mengharamkan sesuatu yang halal. Untuk membatalkan sumpah tidak minum madu, Nabi saw telah memenuhi ketentuan Allah tersebut di atas, dengan membayar kafarat yaitu memerdekakan seorang budak, sebagaimana yang diinformasikan dalam sebuah hadis: \n\nDari Ibnu 'Abbas, ia berkata, \"Saya bertanya kepada 'Umar bin al-Khaththab tentang siapa kedua perempuan itu? Ia berkata, 'Aisyah dan Hafsah. Dia mengawali cerita tentang Ummu Ibrahim (Mariyah) al-Qibthiyyah yang digauli Nabi saw di rumah Hafsah pada hari (giliran)nya, lalu Hafsah mengetahuinya. Hafsah lalu berkata, 'Wahai Nabi Allah, engkau telah memperlakukan saya dengan perlakuan yang tidak engkau lakukan kepada istri-istrimu yang lain pada hari saya, rumah saya, dan di atas tempat tidur saya. Nabi berkata, 'Senangkah engkau bila saya mengharamkannya dengan tidak menggaulinya lagi? Ia menjawab, 'Baik, haramkan dia! Nabi lalu berkata, 'Janganlah engkau katakan hal ini kepada siapa pun. Tetapi Hafsah mengatakannya kepada 'Aisyah. Kemudian Allah memberitahukan hal itu kepada Nabi saw, lalu menurunkan ayat: \"ya ayyuhan-nabiyyu lima tuharrimu¦\" dan seterusnya. Kami mendapat berita bahwa Nabi saw membayar kafarat sumpahnya dan menggauli Maryam al-Qibtiyyah kembali.\" (Riwayat Ibnu Jarir dan Ibnu Mundhir)\n\nKesimpulan dari apa yang terkandung dalam ayat ini adalah bahwa yang diharamkan Nabi saw untuk dirinya adalah sesuatu yang telah dihalalkan Allah, bisa berupa budak, minuman, atau yang lainnya. Apa pun kasusnya, yang jelas Nabi mengharamkan sesuatu yang dihalalkan Allah. Oleh karena itulah, Allah menegur dan meminta Nabi untuk membatalkan sumpahnya dan membayar kafarat.\n\nDi bagian akhir ayat ini dijelaskan bahwa Allah adalah pelindung orang beriman, mengalahkan musuh-musuhnya, memudahkannya menempuh jalan yang menguntungkan di dunia dan di akhirat, memberikan hidayat dan bimbingan untuk mencapai kebahagiaan dunia dan akhirat. Dia Maha Mengetahui apa yang mendatangkan maslahat. Allah Mahabijaksana dalam mengatur segala sesuatunya, tidak akan melarang dan memerintahkan sesuatu kecuali tujuannya ialah maslahat manusia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5232,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 560,
+                    "manzil": 7,
+                    "ruku": 494,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِذْ أَسَرَّ النَّبِيُّ إِلَىٰ بَعْضِ أَزْوَاجِهِ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِ وَأَظْهَرَهُ اللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُ وَأَعْرَضَ عَن بَعْضٍ ۖ فَلَمَّا نَبَّأَهَا بِهِ قَالَتْ مَنْ أَنبَأَكَ هَٰذَا ۖ قَالَ نَبَّأَنِيَ الْعَلِيمُ الْخَبِيرُ",
+                    "transliteration": {
+                        "en": "Wa iz asarran nabiyyu ilaa ba'di azwaajihee hadeesan falammaa nabba at bihee wa azharahul laahu 'alaihi 'arrafa ba'dahoo wa a'rada 'am ba'din falammaa nabba ahaa bihee qaalat man amba aka haaza qaala nabba aniyal 'aleemul khabeer"
+                    }
+                },
+                "translation": {
+                    "en": "And [remember] when the Prophet confided to one of his wives a statement; and when she informed [another] of it and Allah showed it to him, he made known part of it and ignored a part. And when he informed her about it, she said, \"Who told you this?\" He said, \"I was informed by the Knowing, the Acquainted.\"",
+                    "id": "Dan ingatlah ketika secara rahasia Nabi membicarakan suatu peristiwa kepada salah seorang istrinya (Hafsah). Lalu dia menceritakan peristiwa itu (kepada Aisyah) dan Allah memberitahukan peristiwa itu kepadanya (Nabi), lalu (Nabi) memberitahukan (kepada Hafsah) sebagian dan menyembunyikan sebagian yang lain. Maka ketika dia (Nabi) memberitahukan pembicaraan itu kepadanya (Hafsah), dia bertanya, “Siapa yang telah memberitahukan hal ini kepadamu?” Nabi menjawab, “Yang memberitahukan kepadaku adalah Allah Yang Maha Mengetahui, Mahateliti.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5232",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5232.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5232.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan ingatlah ketika secara rahasia Nabi membicarakan suatu peristiwa kepada salah seorang istrinya, yaitu kepada Hafsah bahwa beliau bersumpah tidak akan pernah berhubungan suami-istri dengan Mariyah al-Qibíiyyah setelah berhubungan dengannya di rumah Hafsah. Beliau berpesan agar kejadian ini tidak diberitahukan kepada siapa pun. Lalu dia, Hafsah, menceritakan peristiwa itu kepada ‘À’isyah sehingga rahasia Nabi diketahui ‘À’isyah. Dan Allah pun segera memberitahukan peristiwa pembocoran rahasia itu kepadanya, yakni kepada Nabi. Lalu beliau memberitahukan kasus pembocoran rahasia itu kepada Hafsah sebagian, yakni berkenaan dengan sumpah beliau tidak akan pernah berhubungan suami istri dengan Mariyah al-Qibíiyyah dan tidak akan pernah minum madu di rumah Zainab binti Jahsy; dan menyembunyikan sebagian yang lain perihal kepemimpinan setelah beliau wafat akan jatuh kepada Abu Bakar kemudian kepada ‘Umar. Maka ketika dia, yakni Nabi memberitahukan pembicaraan itu kepadanya, yakni kepada Hafsah, maka segera dia bertanya, sangat kaget. “Siapa yang telah memberitahukan kejadian ini kepada kamu, wahai Nabi Allah? Nabi menjawab, “Yang memberitahukan kepadaku tentang pembocoran rahasia itu adalah Allah Yang Maha Mengetahui segala yang tampak maupun yang tersembunyi, Mahateliti terhadap segala keadaan.”",
+                        "long": "Dalam ayat ini, Allah mengingatkan suatu peristiwa yang terjadi pada diri Nabi saw yaitu ketika beliau meminta kepada Hafsah (salah seorang istrinya) untuk merahasiakan dan tidak memberitahukan kepada siapa pun bahwa beliau pernah meminum madu di rumah Zainab binti Jahsy, lalu bersumpah tidak akan mengulangi hal itu lagi. Setelah Hafsah menceritakan hal itu kepada 'Aisyah, Allah lalu memberitahukan kepada Nabi percakapan antara keduanya itu. Nabi saw kemudian memberitahu Hafsah tentang perbuatannya yang telah menyiarkan rahasia beliau. Ketika itu Hafsah menjadi heran dan bertanya, \"Siapakah yang telah memberitahukan hal ini kepadamu?\" Ia menyangka bahwa 'Aisyahlah yang memberitahukan, Nabi saw menjawab bahwa yang memberitahukan ialah Allah, Tuhan Yang Maha Mengetahui segala rahasia dan bisikan, Maha Mengenal apa yang ada di bumi dan apa yang ada di langit, tiada sesuatu yang tersembunyi bagi-Nya. Firman Allah:\n\nBagi Allah tidak ada sesuatu pun yang tersembunyi di bumi dan di langit. (Ali 'Imran/3: 5)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5233,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 560,
+                    "manzil": 7,
+                    "ruku": 494,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِن تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَإِن تَظَاهَرَا عَلَيْهِ فَإِنَّ اللَّهَ هُوَ مَوْلَاهُ وَجِبْرِيلُ وَصَالِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَائِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+                    "transliteration": {
+                        "en": "In tatoobaaa ilal laahi faqad saghat quloobukumaa wa in tazaaharaa 'alihi fa innal laaha huwa mawlaahu wa jibreelu wa saalihul mu'mineen; walma laaa'ikatu ba'dazaalika zaheer"
+                    }
+                },
+                "translation": {
+                    "en": "If you two [wives] repent to Allah, [it is best], for your hearts have deviated. But if you cooperate against him - then indeed Allah is his protector, and Gabriel and the righteous of the believers and the angels, moreover, are [his] assistants.",
+                    "id": "Jika kamu berdua bertobat kepada Allah, maka sungguh, hati kamu berdua telah condong (untuk menerima kebenaran); dan jika kamu berdua saling bantu-membantu menyusahkan Nabi, maka sungguh, Allah menjadi pelindungnya dan (juga) Jibril dan orang-orang mukmin yang baik; dan selain itu malaikat-malaikat adalah penolongnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5233",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5233.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5233.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Jika kamu berdua, wahai Hafsah dan ‘À’isyah, bertobat kepada Allah dengan menghentikan kebiasaan yang tidak nyaman bagi Nabi, maka sungguh, hati kamu berdua telah condong untuk menciptakan kedamaian bagi beliau; dan jika kamu berdua saling bantu-membantu menyusahkan Nabi seperti selama ini terjadi, maka sungguh, Allah menjadi pelindungnya dan juga Jibril dan orang-orang mukmin yang baik; dan selain itu malaikat-malaikat adalah penolongnya yang menunjukkan bahwa Nabi dilindungi Allah, para malaikat, dan para sahabat beliau.",
+                        "long": "Dalam ayat ini, Allah menerangkan bahwa jika Hafsah dan 'Aisyah mau bertobat, dan mengatakan bahwa dirinya telah menyalahi kehendak Nabi saw, keduanya cinta kepada apa yang beliau cintai, dan membenci apa yang beliau benci, berarti keduanya telah cenderung untuk menerima kebaikan.\n\nDalam riwayat lain, Ibnu 'Abbas berkata, \"Saya senantiasa ingin menanyakan kepada Umar tentang dua istri Nabi saw yang dimaksudkan firman Allah, \"Jika kamu berdua bertobat kepada Allah¦,\" sampai 'Umar menunaikan ibadah haji dan saya pun menunaikan ibadah haji bersama dia. Ketika 'Umar dalam perjalanannya mampir untuk berwudu, saya guyur kedua tangannya dan bertanya, 'Wahai Amirul Mukminin! Siapakah kedua istri Nabi yang dituju oleh firman Allah, \"Jika kamu berdua bertobat kepada Allah ¦.\" 'Umar lalu menjawab, 'Wahai Ibnu 'Abbas! Kedua istri Nabi saw yang dimaksud itu ialah 'Aisyah dan Hafsah. Kalau keduanya ('Aisyah dan Hafsah) tetap sepakat berbuat apa yang menyakiti hati Nabi saw dengan menyiarkan rahasianya, hal itu tidak akan menyusahkan Nabi, karena Allah-lah pelindungnya, serta membantunya di dalam urusan agama dan semua hal yang dihadapinya. Begitu pula Jibril, orang-orang mukmin yang saleh, dan para malaikat, semuanya turut menolong dan membantunya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5234,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 560,
+                    "manzil": 7,
+                    "ruku": 494,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَسَىٰ رَبُّهُ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِّنكُنَّ مُسْلِمَاتٍ مُّؤْمِنَاتٍ قَانِتَاتٍ تَائِبَاتٍ عَابِدَاتٍ سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا",
+                    "transliteration": {
+                        "en": "'Asaa rabbuhooo in tallaqakunna anyyubdilahooo azwaajan khairam mnkunna muslimaatim mu'minaatin qaanitaatin taaa'ibaatin 'aabidaatin saaa'ihaatin saiyibaatinw wa abkaaraa"
+                    }
+                },
+                "translation": {
+                    "en": "Perhaps his Lord, if he divorced you [all], would substitute for him wives better than you - submitting [to Allah], believing, devoutly obedient, repentant, worshipping, and traveling - [ones] previously married and virgins.",
+                    "id": "Jika dia (Nabi) menceraikan kamu, boleh jadi Tuhan akan memberi ganti kepadanya dengan istri-istri yang lebih baik dari kamu, perempuan-perempuan yang patuh, yang beriman, yang taat, yang bertobat, yang beribadah, yang berpuasa, yang janda dan yang perawan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5234",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5234.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5234.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah lalu menyampaikan peringatan kepada para istri Nabi. Jika dia, yakni Nabi, menceraikan kamu, karena kamu bersikap keras dan menyakiti beliau, boleh jadi Tuhannya, yaitu Allah akan memberi ganti kepadanya dengan istri-istri yang lebih baik dari kamu segala-galanya, karena Allah melindungi dan menyayangi beliau. Allah bisa mengganti dengan perempuan-perempuan yang patuh kepada Allah, yang beriman, yang taat kepada suami, yang bertobat setiap saat, yang beribadah dengan ikhlas, yang berpuasa dan berhasil mengendalikan ucapan dan perbuatan, yang janda dan yang perawan, keduanya mudah bagi Nabi.",
+                        "long": "Diriwayatkan oleh Anas dari 'Umar bahwa ia berkata, \"Telah sampai kepadaku bahwa sebagian istri-istri Nabi bersikap keras kepada Nabi dan menyakiti hati beliau. Maka saya selidiki hal itu. Saya menasihatinya satu-persatu dan melarangnya menyakiti hati Nabi saw, saya berkata, 'Jika kalian tetap tidak mau taat maka boleh jadi Allah memberikan kepada Nabi, istri-istri baru yang lebih baik dari kalian. Dan setelah saya menemui Zainab, ia berkata, 'Wahai Ibnu Khaththab! Apakah tidak ada usaha Rasulullah untuk menasihati istri-istrinya? Maka nasihatilah mereka sampai mereka itu tidak diceraikan, maka turunlah ayat ini.\"\n\nAyat ini berisi peringatan dari Allah terhadap istri-istri yang menyakiti hati Nabi saw. Jika Nabi menceraikan mereka, boleh jadi Allah menggantinya dengan istri-istri baru yang lebih baik dari mereka, baik keislaman maupun keimanannya, yaitu istri-istri yang tekun beribadah, bertobat kepada Allah, patuh kepada perintah-perintah Rasul."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5235,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 560,
+                    "manzil": 7,
+                    "ruku": 494,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ شِدَادٌ لَّا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhal lazeena samanoo qooo anfusakum wa ahleekum naaranw waqoodu han naasu wal hijaaratu 'alaihaa malaaa'ikatun ghilaazun shidaadul laa ya'soonal laaha maa amarahum wa yaf'aloona maa yu'maroon"
+                    }
+                },
+                "translation": {
+                    "en": "O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are [appointed] angels, harsh and severe; they do not disobey Allah in what He commands them but do what they are commanded.",
+                    "id": "Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, dan keras, yang tidak durhaka kepada Allah terhadap apa yang Dia perintahkan kepada mereka dan selalu mengerjakan apa yang diperintahkan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5235",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5235.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5235.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dengan mentaati perintah Allah dan menjauhi larangan-Nya dari api neraka, yakni dari murka Allah yang menyebabkan kamu diseret ke dalam neraka yang bahan bakarnya adalah manusia dan batu; ada manusia yang dibakar dan ada manusia yang menjadi bahan bakar; penjaganya malaikat-malaikat yang kasar dan keras, yang tidak durhaka kepada Allah terhadap apa yang Dia perintahkan kepada mereka sehingga tidak ada malaikat yang bisa disogok untuk mengurangi atau meringankan hukuman; dan mereka patuh dan disiplin selalu mengerjakan apa yang diperintahkan Allah kepada mereka.",
+                        "long": "Dalam ayat ini, Allah memerintahkan orang-orang yang beriman agar menjaga dirinya dari api neraka yang bahan bakarnya terdiri dari manusia dan batu, dengan taat dan patuh melaksanakan perintah Allah. Mereka juga diperintahkan untuk mengajarkan kepada keluarganya agar taat dan patuh kepada perintah Allah untuk menyelamatkan mereka dari api neraka. Keluarga merupakan amanat yang harus dipelihara kesejahteraannya baik jasmani maupun rohani.\n\nDi antara cara menyelamatkan diri dari api neraka itu ialah mendirikan salat dan bersabar, sebagaimana firman Allah:\n\nDan perintahkanlah keluargamu melaksanakan salat dan sabar dalam mengerjakannya. (thaha/20: 132)\n\nDan berilah peringatan kepada kerabat-kerabatmu (Muhammad) yang terdekat. (asy-Syu'ara'/26: 214)\n\nDiriwayatkan bahwa ketika ayat ke-6 ini turun, 'Umar berkata, \"Wahai Rasulullah, kami sudah menjaga diri kami, dan bagaimana menjaga keluarga kami?\" Rasulullah saw menjawab, \"Larang mereka mengerjakan apa yang kamu dilarang mengerjakannya dan perintahkan mereka melakukan apa yang diperintahkan Allah kepadamu. Begitulah caranya menyelamatkan mereka dari api neraka. Neraka itu dijaga oleh malaikat yang kasar dan keras yang pemimpinnya berjumlah sembilan belas malaikat. Mereka diberi kewenangan mengadakan penyiksaan di dalam neraka. Mereka adalah para malaikat yang tidak mendurhakai Allah terhadap apa yang diperintahkan-Nya dan selalu mengerjakan apa yang diperintahkan-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5236,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 560,
+                    "manzil": 7,
+                    "ruku": 494,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الَّذِينَ كَفَرُوا لَا تَعْتَذِرُوا الْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhal lazeena kafaroo la ta'tazinul yawma innamaa tujzawna maa kuntum ta'maloon"
+                    }
+                },
+                "translation": {
+                    "en": "O you who have disbelieved, make no excuses that Day. You will only be recompensed for what you used to do.",
+                    "id": "Wahai orang-orang kafir! Janganlah kamu mengemukakan alasan pada hari ini. Sesungguhnya kamu hanya diberi balasan menurut apa yang telah kamu kerjakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5236",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5236.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5236.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai orang-orang kafir! Janganlah kamu mengemukakan alasan pada hari ini, karena Rasul sudah datang, informasi sudah disampaikan dan ayat Al-Qur’an sudah dibacakan. Sesungguhnya kamu pada hari ini hanya diberi balasan menurut apa yang telah kamu kerjakan, sebanding dengan perbuatan kamu, karena Allah tidak akan pernah menzalimi hamba-Nya sedikit pun.",
+                        "long": "Pada ayat ini, Allah mengeluarkan satu ketegasan yang ditujukan kepada orang-orang kafir bahwa di hari kemudian nanti, tidak ada lagi gunanya mereka itu mengemukakan alasan, serta menginginkan satu kehendak dan harapan. Waktu dan kesempatan untuk mengemukakan alasan dan harapan sudah lewat. Hari Kiamat hanyalah hari untuk mempertanggungjawabkan dan menerima pembalasan dari apa yang telah dikerjakan di dunia, sebagaimana firman Allah:\n\nDemikianlah Kami menghukum mereka karena kedurhakaannya. Dan sungguh, Kami Mahabenar. (al-An'am/6: 146)\n\nDijelaskan pula dalam ayat lain:\n\nDemikianlah Kami memberi balasan kepada mereka karena kekafiran mereka. Dan Kami tidak menjatuhkan azab (yang demikian itu), melainkan hanya kepada orang-orang yang sangat kafir. (Saba'/34: 17)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5237,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 561,
+                    "manzil": 7,
+                    "ruku": 495,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّئَاتِكُمْ وَيُدْخِلَكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ يَوْمَ لَا يُخْزِي اللَّهُ النَّبِيَّ وَالَّذِينَ آمَنُوا مَعَهُ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِمْ يَقُولُونَ رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhal lazeena aammano toobooo ilal laahi tawbatan nasoohan 'asaa rabbukum any-yukaffira 'ankum sayyi aatikum wa yudkhilakum jannaatin tajree min tahtihal anhaaru yawma laa yukhzil laahun nabiyya wallazeena aamanoo ma'ahoo nooruhum yas'aa baina aydeehim wa bi aymaanihim yaqooloona rabbanaaa atmim lanaa nooranaa waghfir lana innaka 'alaa kulli shai'in qadeer"
+                    }
+                },
+                "translation": {
+                    "en": "O you who have believed, repent to Allah with sincere repentance. Perhaps your Lord will remove from you your misdeeds and admit you into gardens beneath which rivers flow [on] the Day when Allah will not disgrace the Prophet and those who believed with him. Their light will proceed before them and on their right; they will say, \"Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.\"",
+                    "id": "Wahai orang-orang yang beriman! Bertobatlah kepada Allah dengan tobat yang semurni-murninya, mudah-mudahan Tuhan kamu akan menghapus kesalahan-kesalahanmu dan memasukkan kamu ke dalam surga yang mengalir di bawahnya sungai-sungai, pada hari ketika Allah tidak mengecewakan Nabi dan orang-orang yang beriman bersama dengannya; sedang cahaya mereka memancar di hadapan dan di sebelah kanan mereka, sambil mereka berkata, “Ya Tuhan kami, sempurnakanlah untuk kami cahaya kami dan ampunilah kami; Sungguh, Engkau Mahakuasa atas segala sesuatu.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5237",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5237.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5237.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai orang-orang yang beriman! Bertobatlah kepada Allah dari dosa besar maupun dosa kecil dengan tobat yang semurni-murninya yang melahirkan perubahan sikap dan perbuatan; mudah-mudahan Tuhan kamu akan menghapus kesalahan-kesalahanmu yang sudah ditinggalkan secata total dan memasukkan kamu dengan izin-Nya ke dalam surga yang mengalir di bawahnya sungai-sungai, sebagai tanda kenikmatan yang sempurna, pada hari ketika Allah tidak mengecewakan Nabi dan orang-orang yang beriman bersama dengannya, ketika dibangkitkan menuju mahsyar; sedangkan cahaya mereka memancar di hadapan dan di sebelah kanan mereka, yang bersumber dari iman dan amal saleh mereka, sambil mereka berkata, memohon kepada Allah, “Ya Tuhan kami, sempurnakanlah untuk kami cahaya kami dengan cahaya keridaan-Mu, dan ampunilah, semua kesalahan kami di dunia; Sungguh, Engkau Mahakuasa atas segala sesuatu, termasuk mengampuni dan menyelamatkan kami dari api neraka.”",
+                        "long": "Seruan pada ayat ini ditujukan kepada orang-orang yang percaya kepada Allah dan para rasul-Nya. Mereka diperintahkan bertobat kepada Allah dari dosa-dosa mereka dengan tobat yang sebenar-benarnya (tobat nasuha), yaitu tobat yang memenuhi tiga syarat. Pertama, berhenti dari maksiat yang dilakukannya. Kedua, menyesali perbuatannya, dan ketiga, berketetapan hati tidak akan mengulangi perberbuatan maksiat tersebut. \n\nBila syarat-syarat itu terpenuhi, Allah menghapuskan semua kesalahan dan kejahatan yang telah lalu dan memasukkan mereka ke dalam surga yang mengalir di bawahnya sungai-sungai. Pada saat itu, Allah tidak mengecewakan dan menghinakan Nabi saw dan orang-orang yang beriman bersamanya. Bahkan pada hari itu, kebahagiaan mereka ditonjolkan, cahaya mereka memancar menerangi mereka waktu berjalan menuju Mahsyar tempat diadakan perhitungan dan pertanggungjawaban. Mereka itu meminta kepada Allah agar cahaya mereka disempurnakan, tetap memancar dan tidak akan padam sampai mereka itu melewati sirathal Mustaqim, tempat orang-orang munafik baik laki-laki maupun perempuan memohon dengan sangat agar dapat ditunggu untuk dapat ikut memanfaatkan cahaya mereka. \n\nMereka juga memohon agar dosa-dosa mereka dihapus dan diampuni. Dengan demikian, mereka tidak merasa malu dan kecewa pada waktu diadakan hisab dan pertanggungjawaban. Tidak ada yang patut dimintai untuk menyempurnakan cahaya dan mengampuni dosa kecuali Allah, karena Dialah Yang Mahakuasa atas segala sesuatu, berbuat sesuai dengan kodrat dan iradat-Nya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5238,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 561,
+                    "manzil": 7,
+                    "ruku": 495,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمَصِيرُ",
+                    "transliteration": {
+                        "en": "yaaa ayyuuhan nabiyyu jaahidil kuffaara walmunaa-fiqeena waghluz 'alaihim; wa maawaahum jahannamu wa bi'sal maseer"
+                    }
+                },
+                "translation": {
+                    "en": "O Prophet, strive against the disbelievers and the hypocrites and be harsh upon them. And their refuge is Hell, and wretched is the destination.",
+                    "id": "Wahai Nabi! Perangilah orang-orang kafir dan orang-orang munafik dan bersikap keraslah terhadap mereka. Tempat mereka adalah neraka Jahanam dan itulah seburuk-buruk tempat kembali."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5238",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5238.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5238.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Melalui ayat ini, Allah mengingatkan Nabi untuk berperang ketika kaum muslim diperangi hanya karena keyakinan mereka tidak ada tuhan selain Allah. Wahai Nabi! Perangilah orang-orang kafir dan orang-orang munafik ketika mereka memerangi kamu setelah kamu hijrah ke Madinah; dan bersikap keraslah terhadap mereka, jika mereka tidak menunjukkan niat baik untuk hidup berdampingan secara damai dengan orang yang berbeda agama, padahal tempat mereka di akhirat adalah neraka Jahanam dan itulah seburuk-buruk tempat kembali bagi orang-orang kafir dan munafik.",
+                        "long": "Dalam ayat ini, Allah memerintahkan Nabi Muhammad mengangkat senjata dan memerangi orang-orang kafir dengan sungguh-sungguh dan memberi ancaman serta bertindak tegas dan keras kepada orang-orang munafik. Nabi juga diperintahkan untuk menjelaskan bahwa mereka akan mengalami kekecewaan di akhirat nanti karena kemunafikan mereka. Oleh karena itu, Nabi saw pernah mengusir secara tegas sebagian orang munafik dan menyuruhnya keluar dari masjid. Mereka itu akan dimasukkan ke dalam neraka Jahanam yang merupakan seburuk-buruk tempat tinggal, sebagaimana dijelaskan Allah dalam firman-Nya:\n\nSungguh, Jahanam itu seburuk-buruk tempat menetap dan tempat kediaman. (al-Furqan/25: 66)\n\nDalam ayat lain juga dijelaskan:\n\nMaka orang-orang itu tempatnya di neraka Jahanam, dan (Jahanam) itu seburuk-buruk tempat kembali. (an-Nisa'/4: 97)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5239,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 561,
+                    "manzil": 7,
+                    "ruku": 495,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا امْرَأَتَ نُوحٍ وَامْرَأَتَ لُوطٍ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَالِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ اللَّهِ شَيْئًا وَقِيلَ ادْخُلَا النَّارَ مَعَ الدَّاخِلِينَ",
+                    "transliteration": {
+                        "en": "Darabal laahu masalal lillazeena kafarum ra ata Noobinw wamra ata Loot, kaanataa tahta 'abdaini min 'ibaadinaa saalihaini fakhaanataahumaa falam yughniyaa 'anhumaa minal laahi shai anw-wa qeelad khulan naara ma'ad Daakhileen"
+                    }
+                },
+                "translation": {
+                    "en": "Allah presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so those prophets did not avail them from Allah at all, and it was said, \"Enter the Fire with those who enter.\"",
+                    "id": "Allah membuat perumpamaan bagi orang-orang kafir, istri Nuh dan istri Lut. Keduanya berada di bawah pengawasan dua orang hamba yang saleh di antara hamba-hamba Kami; lalu kedua istri itu berkhianat kepada kedua suaminya, tetapi kedua suaminya itu tidak dapat membantu mereka sedikit pun dari (siksaan) Allah; dan dikatakan (kepada kedua istri itu), “Masuklah kamu berdua ke neraka bersama orang-orang yang masuk (neraka).”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5239",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5239.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5239.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menerangkan bahwa istri seorang Nabi tidak dijamin masuk surga, jika tidak beriman kepada Allah. Allah membuat perumpamaan bagi orang-orang kafir bahwa menjadi istri nabi itu tidak otomatis dijamin masuk surga apabila tidak beriman kepada Allah seperti istri Nabi Nuh dan istri Nabi Lut. Keduanya sebagai istri berada di bawah pengawasan suami masing-masing, dua orang hamba yang saleh, yaitu Nabi Nuh dan Lut, di antara hamba-hamba Kami; lalu kedua istri itu berkhianat kepada kedua suaminya, istri Nabi Nuh menuduh suaminya gila dan istri Nabi Lut memberitahukan kehadiran para tamu ganteng kepada orang banyak yang homoseks, tetapi kedua suaminya itu tidak dapat membantu mereka sedikit pun untuk menyelamatkannya dari siksaan Allah karena kekufuran mereka; dan dikatakan kepada kedua istri nabi itu di akhirat, “Masuklah kamu berdua ke dalam neraka bersama orang-orang yang masuk neraka karena kekufuran mereka kepada Allah.”",
+                        "long": "Dalam ayat ini, Allah membuat satu perumpamaan yang menjelaskan keadaan orang-orang kafir yang tidak bermanfaat lagi baginya pelajaran dan nasihat dari orang-orang mukmin yang jujur, antara lain para nabi dan rasul karena kerasnya hati mereka. Tidak ada kesediaan mereka untuk beriman dan fitrah mereka sudah menyimpang dari kebenaran, seperti istri Nabi Nuh dan istri Nabi Lut. Keduanya di dalam asuhan dan pengawasan dua orang nabi, yang mestinya dapat memberikan petunjuk sehingga memperoleh kebahagiaan dunia dan akhirat. Akan tetapi, keduanya tidak mau, bahkan mereka berbuat khianat dan kekafiran. Istri Nabi Nuh menuduh suaminya gila, sedang istri Nabi Lut menuntun kaum suaminya untuk berbuat yang tidak wajar dan tidak sopan terhadap tamu-tamu suaminya yaitu para malaikat. \n\nKeakraban kedua istri-istri itu dengan para suami yaitu Nabi Nuh dan Nabi Lut, dua hamba Allah yang saleh, tidak dapat membendung dan mencegah keduanya dari berbuat khianat dan kufur. Oleh karena itu, kedua istri itu pantas mendapat azab Allah dan akan dimasukkan ke dalam neraka bersama rombongan penghuni neraka, sebagai balasan yang setimpal dari perbuatan keduanya yang jahat, yang merupakan dosa besar."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5240,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 561,
+                    "manzil": 7,
+                    "ruku": 495,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ آمَنُوا امْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ وَنَجِّنِي مِن فِرْعَوْنَ وَعَمَلِهِ وَنَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
+                    "transliteration": {
+                        "en": "Wa darabal laahu masa lal-lillazeena aamanumra ata Fir'awn; iz qaalat rabbibni lee 'indaka baitan fil jannati wa najjinee min Fir'awna wa 'amalihii wa najjinee minal qawmiz zaalimeen"
+                    }
+                },
+                "translation": {
+                    "en": "And Allah presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\"",
+                    "id": "Dan Allah membuat perumpamaan bagi orang-orang yang beriman, istri Fir‘aun, ketika dia berkata, “Ya Tuhanku, bangunkanlah untukku sebuah rumah di sisi-Mu dalam surga dan selamatkanlah aku dari Fir‘aun dan perbuatannya, dan selamatkanlah aku dari kaum yang zalim,”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5240",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5240.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5240.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Begitu juga sebab kaya, istri yang beriman tidak bisa juga menyelamatkan suamiya yang kaifr dari azab Allah. Dan Allah membuat perumpamaan bagi orang-orang yang beriman bahwa perempuan beriman, meskipun menjadi istri seorang kafir yang pada waktu dibolehkan, akan memperoleh keselamatan di akhirat seperti istri Firaun, ketika dia berkata dalam doanya kepada Allah waktu menghadapi siksaan suaminya yang memaksanya untuk murtad, “Ya Tuhanku, bangunkanlah untukku sebuah rumah di sisi-Mu dalam surga, karena tidak nyaman berada di istana Firaun; dan selamatkanlah aku dari Firaun dan perbuatannya yang terus menyiksa; dan doanya kepada Allah, selamatkanlah aku dari kaum yang zalim, balatentara Firaun yang terus menyiksanya hingga wafat sehingga ia tidak merasakan siksaan mereka.”",
+                        "long": "Pada ayat ini, Allah membuat perumpamaan sebaliknya yaitu keadaan orang-orang yang beriman. Perumpamaan itu ialah Asiyah binti Muzahim, istri Fir'aun. Dalam perumpamaan itu, Allah menjelaskan bahwa hubungan orang-orang mukmin dengan orang-orang kafir tidak akan membahayakan kalau diri itu murni dan suci dari kotoran. Sekalipun Asiyah binti Muzahim berada di bawah pengawasan suaminya, musuh Allah yang sangat berbahaya, tetapi ia tetap beriman. Ia selalu memohon dan berdoa, \"Ya Tuhanku! Bangunlah untukku sebuah rumah di sisi-Mu dalam surga dan selamatkanlah aku dari Fir'aun dan perbuatannya, dan selamatkanlah aku dari kaum yang zalim.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5241,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 28,
+                    "page": 561,
+                    "manzil": 7,
+                    "ruku": 495,
+                    "hizbQuarter": 224,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَرْيَمَ ابْنَتَ عِمْرَانَ الَّتِي أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ بِكَلِمَاتِ رَبِّهَا وَكُتُبِهِ وَكَانَتْ مِنَ الْقَانِتِينَ",
+                    "transliteration": {
+                        "en": "Wa Maryamab nata 'Imraanal lateee ahsanat farjahaa fanafakhnaa feehi mir roobinaa wa saddaqat bikali maati Rabbihaa wa Kutubihee wakaanat minal qaaniteen"
+                    }
+                },
+                "translation": {
+                    "en": "And [the example of] Mary, the daughter of 'Imran, who guarded her chastity, so We blew into [her garment] through Our angel, and she believed in the words of her Lord and His scriptures and was of the devoutly obedient.",
+                    "id": "dan Maryam putri Imran yang memelihara kehormatannya, maka Kami tiupkan ke dalam rahimnya sebagian dari roh (ciptaan) Kami; dan dia membenarkan kalimat-kalimat Tuhannya dan kitab-kitab-Nya; dan dia termasuk orang-orang yang taat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5241",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5241.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5241.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ayat ini menjelaskan kesalehan seorang perempuan yang tak pernah bersuami, tetapi memiliki seorang putra. Dan Maryam putri Imran yang memelihara kehormatannya, lalu Allah memberikan penghargaan, penghomatan, dan kemuliaan kepadanya, maka Kami meniupkan ke dalam rahimnya sebagian dari roh ciptaan Kami sehingga ia hamil dan melahirkan bayi tanpa bapak; dan dia, Maryam putri Imran, membenarkan kalimat-kalimat Tuhannya yang menjelaskan kekuasaan Allah yang tak terbatas dan kitab-kitab-Nya, yaitu Kitab Taurat dan Zabur; dan dia termasuk orang-orang yang taat kepada Allah dengan rukuk dan sujud dan menjaga kehormatan dirinya.",
+                        "long": "Pada ayat ini, Allah sekali lagi membuat perumpamaan bagi orang-orang mukmin yaitu keadaan Maryam binti Imran yang memelihara kehormatannya dan telah diberikan karamah di dunia dan akhirat. Ia dipilih Tuhannya karena bereaksi kepada Jibril tentang pengisian rahimnya dengan ucapan sebagaimana diabadikan di dalam Al-Qur'an:\n\nDia (Maryam) berkata, \"Sungguh, aku berlindung kepada Tuhan Yang Maha Pengasih terhadapmu, jika engkau orang yang bertakwa.\" (Maryam/19: 18)\n\nDengan demikian, kesalehannya menjadi mantap dan sempurna kesuciannya, maka ditiupkanlah ke dalam rahimnya oleh Jibril sebagian roh ciptaan Allah, yang mewujudkan seorang nabi yaitu Isa bin Maryam binti Imran, membenarkan syariat Allah dan kitab-kitab yang diturunkan-Nya kepada nabi-Nya. Dia termasuk dan terbilang orang yang bertakwa, tekun beribadah, merendahkan diri, dan taat kepada Tuhan-Nya.\n\nAhmad meriwayatkan dalam Musnadnya bahwa penghulu wanita penghuni surga ialah Maryam lalu Fatimah menyusul Khadijah dan Asiyah.\n\nDi dalam kitab sahih diterangkan bahwa laki-laki yang sempurna banyak bilangannya, tetapi perempuan yang sempurna hanya empat yaitu Asiyah binti Muzahim (istri Fir'aun), Maryam binti 'Imran, Khadijah binti Khuwailid, dan Fathimah binti Muhammad. Sedangkan kelebihan Siti 'Aisyah atas wanita-wanita yang lain seperti kelebihan tsarid atas makanan-makanan yang lain."
+                    }
+                }
+            }
+        ]
+    }
+}

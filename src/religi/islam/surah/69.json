@@ -1,0 +1,2131 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 69,
+        "sequence": 78,
+        "numberOfVerses": 52,
+        "name": {
+            "short": "الحاقة",
+            "long": "سورة الحاقة",
+            "transliteration": {
+                "en": "Al-Haaqqa",
+                "id": "Al-Haqqah"
+            },
+            "translation": {
+                "en": "The Reality",
+                "id": "Hari Kiamat"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Mulk.  Nama Al Haaqqah diambil dari kata Al Haaqqah yang terdapat pada ayat pertama surat ini yang artinya hari kiamat"
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5324,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 566,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الْحَاقَّةُ",
+                    "transliteration": {
+                        "en": "Al haaaqqah"
+                    }
+                },
+                "translation": {
+                    "en": "The Inevitable Reality -",
+                    "id": "Hari Kiamat,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5324",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5324.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5324.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Pada surah sebelumnya disinggung sekilas tentang hari Kiamat, pada awal surah ini dimulai dengan kata al-Hàqqah",
+                        "long": "Al-haqqah menurut bahasa berarti yang pasti terjadi. Hari Kiamat dinamai al-haqqah karena hari itu pasti terjadi. Tentang keadaan dan sifatnya tidak dapat dijelaskan dan diterangkan oleh manusia, karena pengetahuan tentang hari Kiamat termasuk pengetahuan yang gaib. Apa yang diketahui manusia tentang hari Kiamat terbatas pada yang disampaikan Al-Qur'an. Dalam ayat yang lain, Allah berfirman:\n\nMereka menanyakan kepadamu (Muhammad) tentang Kiamat, \"Kapan terjadi?\" Katakanlah, \"Sesungguhnya pengetahuan tentang Kiamat itu ada pada Tuhanku; tidak ada (seorang pun) yang dapat menjelaskan waktu terjadinya selain Dia. (Kiamat) itu sangat berat (huru-haranya bagi makhluk) yang di langit dan di bumi, tidak akan datang kepadamu kecuali secara tiba-tiba.\" Mereka bertanya kepadamu seakan-akan engkau mengetahuinya. Katakanlah (Muhammad), \"Sesungguhnya pengetahuan tentang (hari Kiamat) ada pada Allah, tetapi kebanyakan manusia tidak mengetahui.\" (al-A'raf/7: 187)\n\nHari Kiamat, sebagaimana beberapa perkara gaib lainnya, hanya diketahui Allah. Firman-Nya:\n\nSesungguhnya hanya di sisi Allah ilmu tentang hari Kiamat; dan Dia yang menurunkan hujan, dan mengetahui apa yang ada dalam rahim. Dan tidak ada seorang pun yang dapat mengetahui (dengan pasti) apa yang akan dikerjakannya besok. Dan tidak ada seorang pun yang dapat mengetahui di bumi mana dia akan mati. Sungguh, Allah Maha Mengetahui, Maha Mengenal. (Luqman/31: 34)\n\nApa yang dapat dijadikan sumber pengetahuan untuk mengetahui terjadinya hari Kiamat itu? Dari pertanyaan ini dipahami bahwa ada beberapa hal yang dapat memberikan keterangan kepada manusia tentang proses kejadian yang terjadi pada hari Kiamat, karena pengetahuan tentang hari Kiamat itu adalah pengetahuan yang dapat dicapai oleh makhluk dengan bantuan berbagai macam pengetahuan. Memang kejadian hari Kiamat tidak dapat dikira-kirakan. Kejadian dan peristiwanya lebih hebat dari yang pernah digambarkan oleh siapa pun. Karena hakikat hari Kiamat tidak dapat diketahui makhluk, orang-orang musyrik tidak dapat mengingkarinya. Jika mereka mengingkarinya, berarti mereka mengingkari sesuatu yang tidak dapat diketahui atau dicapai oleh pikiran mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5325,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 566,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مَا الْحَاقَّةُ",
+                    "transliteration": {
+                        "en": "Mal haaaqqah"
+                    }
+                },
+                "translation": {
+                    "en": "What is the Inevitable Reality?",
+                    "id": "apakah hari Kiamat itu?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5325",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5325.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5325.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Yang secara kebahasaan berarti yang pasti kehadirannya yaitu hari Kiamat, apakah hari Kiamat yang sungguh dahsyat itu?",
+                        "long": "Al-haqqah menurut bahasa berarti yang pasti terjadi. Hari Kiamat dinamai al-haqqah karena hari itu pasti terjadi. Tentang keadaan dan sifatnya tidak dapat dijelaskan dan diterangkan oleh manusia, karena pengetahuan tentang hari Kiamat termasuk pengetahuan yang gaib. Apa yang diketahui manusia tentang hari Kiamat terbatas pada yang disampaikan Al-Qur'an. Dalam ayat yang lain, Allah berfirman:\n\nMereka menanyakan kepadamu (Muhammad) tentang Kiamat, \"Kapan terjadi?\" Katakanlah, \"Sesungguhnya pengetahuan tentang Kiamat itu ada pada Tuhanku; tidak ada (seorang pun) yang dapat menjelaskan waktu terjadinya selain Dia. (Kiamat) itu sangat berat (huru-haranya bagi makhluk) yang di langit dan di bumi, tidak akan datang kepadamu kecuali secara tiba-tiba.\" Mereka bertanya kepadamu seakan-akan engkau mengetahuinya. Katakanlah (Muhammad), \"Sesungguhnya pengetahuan tentang (hari Kiamat) ada pada Allah, tetapi kebanyakan manusia tidak mengetahui.\" (al-A'raf/7: 187)\n\nHari Kiamat, sebagaimana beberapa perkara gaib lainnya, hanya diketahui Allah. Firman-Nya:\n\nSesungguhnya hanya di sisi Allah ilmu tentang hari Kiamat; dan Dia yang menurunkan hujan, dan mengetahui apa yang ada dalam rahim. Dan tidak ada seorang pun yang dapat mengetahui (dengan pasti) apa yang akan dikerjakannya besok. Dan tidak ada seorang pun yang dapat mengetahui di bumi mana dia akan mati. Sungguh, Allah Maha Mengetahui, Maha Mengenal. (Luqman/31: 34)\n\nApa yang dapat dijadikan sumber pengetahuan untuk mengetahui terjadinya hari Kiamat itu? Dari pertanyaan ini dipahami bahwa ada beberapa hal yang dapat memberikan keterangan kepada manusia tentang proses kejadian yang terjadi pada hari Kiamat, karena pengetahuan tentang hari Kiamat itu adalah pengetahuan yang dapat dicapai oleh makhluk dengan bantuan berbagai macam pengetahuan. Memang kejadian hari Kiamat tidak dapat dikira-kirakan. Kejadian dan peristiwanya lebih hebat dari yang pernah digambarkan oleh siapa pun. Karena hakikat hari Kiamat tidak dapat diketahui makhluk, orang-orang musyrik tidak dapat mengingkarinya. Jika mereka mengingkarinya, berarti mereka mengingkari sesuatu yang tidak dapat diketahui atau dicapai oleh pikiran mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5326,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 566,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا أَدْرَاكَ مَا الْحَاقَّةُ",
+                    "transliteration": {
+                        "en": "Wa maaa adraaka mal haaaqqah"
+                    }
+                },
+                "translation": {
+                    "en": "And what can make you know what is the Inevitable Reality?",
+                    "id": "Dan tahukah kamu apakah hari Kiamat itu?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5326",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5326.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5326.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan tahukah kamu apakah hari Kiamat itu?",
+                        "long": "Al-haqqah menurut bahasa berarti yang pasti terjadi. Hari Kiamat dinamai al-haqqah karena hari itu pasti terjadi. Tentang keadaan dan sifatnya tidak dapat dijelaskan dan diterangkan oleh manusia, karena pengetahuan tentang hari Kiamat termasuk pengetahuan yang gaib. Apa yang diketahui manusia tentang hari Kiamat terbatas pada yang disampaikan Al-Qur'an. Dalam ayat yang lain, Allah berfirman:\n\nMereka menanyakan kepadamu (Muhammad) tentang Kiamat, \"Kapan terjadi?\" Katakanlah, \"Sesungguhnya pengetahuan tentang Kiamat itu ada pada Tuhanku; tidak ada (seorang pun) yang dapat menjelaskan waktu terjadinya selain Dia. (Kiamat) itu sangat berat (huru-haranya bagi makhluk) yang di langit dan di bumi, tidak akan datang kepadamu kecuali secara tiba-tiba.\" Mereka bertanya kepadamu seakan-akan engkau mengetahuinya. Katakanlah (Muhammad), \"Sesungguhnya pengetahuan tentang (hari Kiamat) ada pada Allah, tetapi kebanyakan manusia tidak mengetahui.\" (al-A'raf/7: 187)\n\nHari Kiamat, sebagaimana beberapa perkara gaib lainnya, hanya diketahui Allah. Firman-Nya:\n\nSesungguhnya hanya di sisi Allah ilmu tentang hari Kiamat; dan Dia yang menurunkan hujan, dan mengetahui apa yang ada dalam rahim. Dan tidak ada seorang pun yang dapat mengetahui (dengan pasti) apa yang akan dikerjakannya besok. Dan tidak ada seorang pun yang dapat mengetahui di bumi mana dia akan mati. Sungguh, Allah Maha Mengetahui, Maha Mengenal. (Luqman/31: 34)\n\nApa yang dapat dijadikan sumber pengetahuan untuk mengetahui terjadinya hari Kiamat itu? Dari pertanyaan ini dipahami bahwa ada beberapa hal yang dapat memberikan keterangan kepada manusia tentang proses kejadian yang terjadi pada hari Kiamat, karena pengetahuan tentang hari Kiamat itu adalah pengetahuan yang dapat dicapai oleh makhluk dengan bantuan berbagai macam pengetahuan. Memang kejadian hari Kiamat tidak dapat dikira-kirakan. Kejadian dan peristiwanya lebih hebat dari yang pernah digambarkan oleh siapa pun. Karena hakikat hari Kiamat tidak dapat diketahui makhluk, orang-orang musyrik tidak dapat mengingkarinya. Jika mereka mengingkarinya, berarti mereka mengingkari sesuatu yang tidak dapat diketahui atau dicapai oleh pikiran mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5327,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 566,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ",
+                    "transliteration": {
+                        "en": "Kazzabat samoodu wa 'Aadum bil qaari'ah"
+                    }
+                },
+                "translation": {
+                    "en": "Thamud and 'Aad denied the Striking Calamity.",
+                    "id": "Kaum Samud, dan ‘Ad telah mendustakan hari Kiamat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5327",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5327.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5327.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Telah banyak generasi di masa lalu yang mengingkari hari Kiamat. Kelompok ayat ini mengungkap sekelumit tentang kaum yang mengingkari hari Kiamat dan sanksi yang mereka terima. Kaum Samud, dan ‘Ad telah mendustakan hari Kiamat.",
+                        "long": "Dalam ayat ini, diterangkan bahwa kaum Samud dan kaum 'Ad tidak mempercayai adanya hari Kiamat. Mereka tidak percaya bahwa nanti akan terjadi kehancuran dunia dan peristiwa dahsyat yang huru-haranya tidak tertanggungkan. Hal ini juga difirmankan Allah:\n\n(Kaum) Samud telah mendustakan (rasulnya) karena mereka melampaui batas (zalim), ketika bangkit orang yang paling celaka di antara mereka, lalu Rasul Allah (Saleh) berkata kepada mereka, \"(Biarkanlah) unta betina dari Allah ini dengan minumannya.\" Namun mereka mendustakannya dan menyembelihnya, karena itu Tuhan membinasakan mereka karena dosanya, lalu diratakan-Nya (dengan tanah). (as-Syams/91: 11-14)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5328,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 566,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ",
+                    "transliteration": {
+                        "en": "Fa-ammaa Samoodu fauhlikoo bittaaghiyah"
+                    }
+                },
+                "translation": {
+                    "en": "So as for Thamud, they were destroyed by the overpowering [blast].",
+                    "id": "Maka adapun kaum Samud, mereka telah dibinasakan dengan suara yang sangat keras,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5328",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5328.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5328.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka adapun kaum Samud, mereka telah dibinasakan dengan suara yang sangat keras yaitu suara guntur yang menggelegar bercampur dengan kilat,",
+                        "long": "Kaum Samud telah dihancurkan Allah dengan thagiyah yaitu suara petir yang mengguntur dari langit yang membinasakan semua yang ada di permukaan bumi. Disebut thagiyah (sesuatu yang luar biasa) karena memang suara itu luar biasa; tidak seperti suara petir yang pernah terjadi. Mereka diazab oleh Tuhan karena telah bertindak melampaui batas yang telah ditetapkan Nabi Saleh terhadap mereka. Mereka membunuh unta betina yang diperintahkan Nabi Saleh untuk dijaga dengan baik.\n\nPada firman Allah yang lain diterangkan bahwa kaum Samud dibinasakan dengan sa'iqah (petir).\n\nDan adapun kaum Samud, mereka telah Kami beri petunjuk tetapi mereka lebih menyukai kebutaan (kesesatan) daripada petunjuk itu, maka mereka disambar petir sebagai azab yang menghinakan disebabkan apa yang telah mereka kerjakan. (Fussilat/41: 17)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5329,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 566,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ",
+                    "transliteration": {
+                        "en": "Wa ammaa 'Aadun fa uhlikoo bireehin sarsarin 'aatiyah"
+                    }
+                },
+                "translation": {
+                    "en": "And as for 'Aad, they were destroyed by a screaming, violent wind",
+                    "id": "sedangkan kaum ‘Ad, mereka telah dibinasakan dengan angin topan yang sangat dingin,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5329",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5329.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5329.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sedangkan kaum ‘Ad, mereka telah dibinasakan dengan angin topan yang sangat dingin dan memiliki daya rusak yang sangat kuat.",
+                        "long": "Adapun kaum 'Ad dibinasakan Allah dengan angin dingin yang sangat kencang (sarsar 'atiyah). Dalam ayat lain, Allah berfirman:\n\nMaka Kami tiupkan angin yang sangat bergemuruh kepada mereka dalam beberapa hari yang nahas, karena Kami ingin agar mereka itu merasakan siksaan yang menghinakan dalam kehidupan di dunia. Sedangkan azab akhirat pasti lebih menghinakan dan mereka tidak diberi pertolongan. (Fussilat/41: 16)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5330,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 566,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ",
+                    "transliteration": {
+                        "en": "Sakhkharahaa 'alaihim sab'a la yaalinw wa samaaniyata ayyaamin husooman fataral qawma feehaa sar'aa ka annahum a'jaazu nakhlin khaawiyah"
+                    }
+                },
+                "translation": {
+                    "en": "Which Allah imposed upon them for seven nights and eight days in succession, so you would see the people therein fallen as if they were hollow trunks of palm trees.",
+                    "id": "Allah menimpakan angin itu kepada mereka selama tujuh malam delapan hari terus-menerus; maka kamu melihat kaum ‘Ad pada waktu itu mati bergelimpangan seperti batang-batang pohon kurma yang telah kosong (lapuk)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5330",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5330.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5330.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah menimpakan angin itu sebagai bentuk siksa kepada mereka dengan kekuasaan-Nya selama tujuh malam delapan hari terus-menerus tanpa henti untuk membinasakan mereka. maka kamu melihat kaum ‘Ad pada waktu itu mati bergelimpangan seperti batang-batang pohon kurma yang telah kosong yaitu telah lapuk bagian dalamnya",
+                        "long": "Angin dingin yang sangat kencang itu bertiup di negeri mereka tidak henti-hentinya selama tujuh malam delapan hari, memusnahkan rumah-rumah, istana-istana, harta-benda, binatang ternak, tanaman-tanaman, dan semua yang ada di negeri mereka.\n\nKaum 'Ad atau bangsa 'Ad merupakan bangsa ras semitik, yang hidup sekitar 5000-4000 tahun yang lalu. Kaum ini hidup di wilayah Arabia Selatan, di suatu kawasan bukit-bukit al-Ahqaf (lihat Surah al-Ahqaf/46: 21), atau yang sekarang dikenal dengan nama Rab al-Khali, yang membentang antara Yaman bagian selatan sampai ke wilayah Oman. Mayoritas kaum 'Ad telah menolak kerasulan dan misi Nabi Hud. Mereka mendapat azab dari Allah berupa angin yang sangat dingin lagi kencang yang berlangsung terus menerus selama tujuh malam delapan hari. Data ilmiah paleogeologik tentang peristiwa itu belum didapatkan. Namun mungkin kita dapat membandingkannya dengan apa yang terjadi di Amerika Serikat, tepatnya di Negara bagian New Orleans, ketika wilayah itu diterjang oleh Badai Katrina (Katrina Hurricane) pada tanggal 23-31 Agustus 2005 yang lalu. Katrina Hurricane ini mempunyai kecepatan badai 280 km/jam, tekanan (minimal) 902 mbar (hPa: 26.65 inHg); suhu badai cukup hangat, sekitar 28,4 oC, berlangsung selama lebih kurang 8 (delapan) hari, terus menerus. Wilayah hantamannya meliputi Bahamas, Florida Selatan, Kuba, Louisiana (utamanya Greater New Orleans), Mississippi, Alabama, Florida Panhandle, dan sebagian besar pantai timur Amerika Utara. Radius Katrina Hurricane ini sekitar 160 km dari titik sentral badai itu. Korban manusia meninggal 1.836 jiwa. Korban harta sebesar US$ 84 Miliar. Katrina Hurricane ini tercatat sebagai jenis Badai Atlantik yang terkuat ke-enam dalam sejarah Amerika, atau terkuat ketiga, yang terjadi pada musim landfall (musim gugur) di Amerika Serikat. Sebagai perbandingan Galveston Hurricane yang terjadi pada tahun 1900 di Amerika Serikat menelan korban jiwa antara 6000-12.000 orang. Dengan demikian, angin atau badai yang sangat dingin lagi kencang, yang menimpa kaum 'Ad selama tujuh malam delapan hari terus menerus, mungkin mirip atau jauh lebih hebat dari Katrina Hurricane ini; karena suhunya sangat dingin dan mampu menghancurkan suatu kaum (umat).\n\nPerkataan \"tujuh malam delapan hari\" memberi peringatan bahwa angin kencang dunia itu benar-benar merupakan azab bagi mereka, dan menimpa seluruh yang ada di negeri itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5331,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 566,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَهَلْ تَرَىٰ لَهُم مِّن بَاقِيَةٍ",
+                    "transliteration": {
+                        "en": "Fahal taraa lahum mim baaqiyah"
+                    }
+                },
+                "translation": {
+                    "en": "Then do you see of them any remains?",
+                    "id": "Maka adakah kamu melihat seorang pun yang masih tersisa di antara mereka?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5331",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5331.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5331.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka adakah kamu wahai siapa pun kamu, melihat seorang pun yang masih tersisa di antara mereka? Tidak tersisa satu orang pun. ltu berarti mereka sama sekali tidak memiliki keturunan yang dapat melanjutkan regenerasi kaum mereka.",
+                        "long": "Angin dingin yang sangat kencang itu bertiup di negeri mereka tidak henti-hentinya selama tujuh malam delapan hari, memusnahkan rumah-rumah, istana-istana, harta-benda, binatang ternak, tanaman-tanaman, dan semua yang ada di negeri mereka.\n\nKaum 'Ad atau bangsa 'Ad merupakan bangsa ras semitik, yang hidup sekitar 5000-4000 tahun yang lalu. Kaum ini hidup di wilayah Arabia Selatan, di suatu kawasan bukit-bukit al-Ahqaf (lihat Surah al-Ahqaf/46: 21), atau yang sekarang dikenal dengan nama Rab al-Khali, yang membentang antara Yaman bagian selatan sampai ke wilayah Oman. Mayoritas kaum 'Ad telah menolak kerasulan dan misi Nabi Hud. Mereka mendapat azab dari Allah berupa angin yang sangat dingin lagi kencang yang berlangsung terus menerus selama tujuh malam delapan hari. Data ilmiah paleogeologik tentang peristiwa itu belum didapatkan. Namun mungkin kita dapat membandingkannya dengan apa yang terjadi di Amerika Serikat, tepatnya di Negara bagian New Orleans, ketika wilayah itu diterjang oleh Badai Katrina (Katrina Hurricane) pada tanggal 23-31 Agustus 2005 yang lalu. Katrina Hurricane ini mempunyai kecepatan badai 280 km/jam, tekanan (minimal) 902 mbar (hPa: 26.65 inHg); suhu badai cukup hangat, sekitar 28,4 oC, berlangsung selama lebih kurang 8 (delapan) hari, terus menerus. Wilayah hantamannya meliputi Bahamas, Florida Selatan, Kuba, Louisiana (utamanya Greater New Orleans), Mississippi, Alabama, Florida Panhandle, dan sebagian besar pantai timur Amerika Utara. Radius Katrina Hurricane ini sekitar 160 km dari titik sentral badai itu. Korban manusia meninggal 1.836 jiwa. Korban harta sebesar US$ 84 Miliar. Katrina Hurricane ini tercatat sebagai jenis Badai Atlantik yang terkuat ke-enam dalam sejarah Amerika, atau terkuat ketiga, yang terjadi pada musim landfall (musim gugur) di Amerika Serikat. Sebagai perbandingan Galveston Hurricane yang terjadi pada tahun 1900 di Amerika Serikat menelan korban jiwa antara 6000-12.000 orang. Dengan demikian, angin atau badai yang sangat dingin lagi kencang, yang menimpa kaum 'Ad selama tujuh malam delapan hari terus menerus, mungkin mirip atau jauh lebih hebat dari Katrina Hurricane ini; karena suhunya sangat dingin dan mampu menghancurkan suatu kaum (umat).\n\nPerkataan \"tujuh malam delapan hari\" memberi peringatan bahwa angin kencang dunia itu benar-benar merupakan azab bagi mereka, dan menimpa seluruh yang ada di negeri itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5332,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَجَاءَ فِرْعَوْنُ وَمَن قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ",
+                    "transliteration": {
+                        "en": "Wa jaaa'a Firawnu wa man qablahoo wal mu'tafikaatu bilhaati'ah"
+                    }
+                },
+                "translation": {
+                    "en": "And there came Pharaoh and those before him and the overturned cities with sin.",
+                    "id": "Kemudian datang Fir‘aun dan orang-orang yang sebelumnya dan (penduduk) negeri-negeri yang dijungkirbalikkan karena kesalahan yang besar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5332",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5332.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5332.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bukan hanya kaum \\'Ad dan Hamud yang diazab oleh Allah. Kemudian setelah beberapa waktu lamanya datanglah Fir’aun penguasa Mesir di masa lalu yang kepadanya Nabi Musa diutus, dan orang-orang yang sebelumnya di antaranya adalah kaum Nabi Nuh dan kaum Nabi lbrahim. Dan penduduk negeri-negeri yang dijungkirbalikkan karena kesalahan yang besar yaitu kaum Nabi Lut.",
+                        "long": "Dalam ayat-ayat ini, diterangkan bahwa Fir'aun dan kaum Lut beserta pengikut-pengikutnya juga telah berbuat kerusakan yang besar yaitu mendustakan para rasul yang diutus Allah kepada mereka. Oleh karena itu, mereka diazab oleh Tuhan. Dalam ayat lain, Allah berfirman:\n\nSemuanya telah mendustakan rasul-rasul maka berlakulah ancaman-Ku (atas mereka). (Qaf/50: 14)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5333,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً",
+                    "transliteration": {
+                        "en": "Fa'ansaw Rasoola Rabbihim fa akhazahum akhzatar raabiyah"
+                    }
+                },
+                "translation": {
+                    "en": "And they disobeyed the messenger of their Lord, so He seized them with a seizure exceeding [in severity].",
+                    "id": "Maka mereka mendurhakai utusan Tuhannya, Allah menyiksa mereka dengan siksaan yang sangat keras."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5333",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5333.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5333.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka diakibatkan sikap mereka yang mendurhakai utusan Tuhannya, Allah menyiksa mereka dengan siksaan yang sangat keras sehingga memusnahkan mereka.",
+                        "long": "Dalam ayat ini Allah memerintahkan kaum Muslimin agar melakukan amal saleh dengan mengatakan, \"Wahai orang-orang yang beriman kepada Allah dan rasul -Nya, apakah kamu sekalian mau Aku tunjukkan suatu perniagaan yang bermanfaat dan pasti mendatangkan keuntungan yang berlipat ganda dan keberuntungan yang kekal atau melepaskan kamu dari api neraka.\"\n\nUngkapan ayat di atas memberikan pengertian bahwa amal saleh dengan pahala yang besar, sama hebatnya dengan perniagaan yang tak pernah merugi karena ia akan masuk surga dan selamat dari api neraka. Firman Allah:\n\nSesungguhnya Allah membeli dari orang-orang mukmin, baik diri maupun harta mereka dengan memberikan surga untuk mereka. (at-Taubah/9: 111)\n\nKemudian disebutkan bentuk-bentuk perdagangan yang memberikan keuntungan yang besar itu, yaitu:\n\n1.Senantiasa beriman kepada Allah, para malaikat, kitab-kitab-Nya, rasul-rasul-Nya, adanya hari Kiamat, qadha' dan qadar Allah.\n\n2.Mengerjakan amal saleh semata-mata karena Allah bukan karena ria adalah perwujudan iman seseorang.\n\n3.Berjihad di jalan Allah. Berjihad ialah segala macam upaya dan usaha yang dilakukan untuk menegakkan agama Allah. Ada dua macam jihad yang disebut dalam ayat ini yaitu berjihad dengan jiwa raga dan berjihad dengan harta. Berjihad dengan jiwa dan raga ialah berperang melawan musuh-musuh agama yang menginginkan kehancuran Islam dan kaum Muslimin. Berjihad dengan harta yaitu membelanjakan harta benda untuk menegakkan kalimat Allah, seperti untuk biaya berperang, mendirikan masjid, rumah ibadah, sekolah, rumah sakit, dan kepentingan umum lainnya.\n\nDi samping itu, ada bentuk-bentuk jihad yang lain, yaitu jihad menentang hawa nafsu, mengendalikan diri, berusaha membentuk budi pekerti yang baik pada diri sendiri, menghilangkan rasa iri, dan sebagainya. \n\nPada akhir ayat ini ditegaskan bahwa iman dan jihad itu adalah perbuatan yang paling baik akibatnya, baik untuk diri sendiri, anak-anak, keluarga, harta benda, dan masyarakat, jika manusia itu memahami dengan sebenar-benarnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5334,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ",
+                    "transliteration": {
+                        "en": "Innaa lammaa taghal maaa'u hamalnaakum fil jaariyah"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, when the water overflowed, We carried your ancestors in the sailing ship",
+                    "id": "Sesungguhnya ketika air naik (sampai ke gunung), Kami membawa (nenek moyang) kamu ke dalam kapal,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5334",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5334.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5334.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tidak semua umat para nabi itu dibinasakan mereka yang taat akan diselamatkan, di antaranya adalah para pengikut Nabi Nuh, seperti yang ditegaskan pada ayat ini. Sesungguhnya ketika air naik membumbung sampai ke puncak gunung Kami membawa nenek moyang kamu ke dalam kapal,",
+                        "long": "Dalam ayat ini Allah memerintahkan kaum Muslimin agar melakukan amal saleh dengan mengatakan, \"Wahai orang-orang yang beriman kepada Allah dan rasul -Nya, apakah kamu sekalian mau Aku tunjukkan suatu perniagaan yang bermanfaat dan pasti mendatangkan keuntungan yang berlipat ganda dan keberuntungan yang kekal atau melepaskan kamu dari api neraka.\"\n\nUngkapan ayat di atas memberikan pengertian bahwa amal saleh dengan pahala yang besar, sama hebatnya dengan perniagaan yang tak pernah merugi karena ia akan masuk surga dan selamat dari api neraka. Firman Allah:\n\nSesungguhnya Allah membeli dari orang-orang mukmin, baik diri maupun harta mereka dengan memberikan surga untuk mereka. (at-Taubah/9: 111)\n\nKemudian disebutkan bentuk-bentuk perdagangan yang memberikan keuntungan yang besar itu, yaitu:\n\n1.Senantiasa beriman kepada Allah, para malaikat, kitab-kitab-Nya, rasul-rasul-Nya, adanya hari Kiamat, qadha' dan qadar Allah.\n\n2.Mengerjakan amal saleh semata-mata karena Allah bukan karena ria adalah perwujudan iman seseorang.\n\n3.Berjihad di jalan Allah. Berjihad ialah segala macam upaya dan usaha yang dilakukan untuk menegakkan agama Allah. Ada dua macam jihad yang disebut dalam ayat ini yaitu berjihad dengan jiwa raga dan berjihad dengan harta. Berjihad dengan jiwa dan raga ialah berperang melawan musuh-musuh agama yang menginginkan kehancuran Islam dan kaum Muslimin. Berjihad dengan harta yaitu membelanjakan harta benda untuk menegakkan kalimat Allah, seperti untuk biaya berperang, mendirikan masjid, rumah ibadah, sekolah, rumah sakit, dan kepentingan umum lainnya.\n\nDi samping itu, ada bentuk-bentuk jihad yang lain, yaitu jihad menentang hawa nafsu, mengendalikan diri, berusaha membentuk budi pekerti yang baik pada diri sendiri, menghilangkan rasa iri, dan sebagainya. \n\nPada akhir ayat ini ditegaskan bahwa iman dan jihad itu adalah perbuatan yang paling baik akibatnya, baik untuk diri sendiri, anak-anak, keluarga, harta benda, dan masyarakat, jika manusia itu memahami dengan sebenar-benarnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5335,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ",
+                    "transliteration": {
+                        "en": "Linaj'alahaa lakum tazki ratanw-wa ta'iyahaa unzununw waa'iyah"
+                    }
+                },
+                "translation": {
+                    "en": "That We might make it for you a reminder and [that] a conscious ear would be conscious of it.",
+                    "id": "agar Kami jadikan (peristiwa itu) sebagai peringatan bagi kamu dan agar diperhatikan oleh telinga yang mau mendengar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5335",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5335.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5335.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "agar Kami jadikan peristiwa itu, akan diselamatkan nya mereka yang beriman dibinasakannya mereka yang durhaka ,sebagai peringatan bagi kamu dan agar diperhatikan oleh telinga yang mau mendengar.",
+                        "long": "Ayat-ayat ini menerangkan azab yang telah ditimpakan kepada kaum Nuh, sehingga mereka semua musnah. Yang tinggal hanya orang-orang yang ikut bersama Nabi Nuh menaiki bahtera atau kapal. Diterangkan bahwa setelah air menggenangi seluruh negeri disertai hembusan angin topan yang dahsyat, Allah memerintahkan agar Nabi Nuh dan orang-orang yang beriman bersamanya menaiki bahtera yang telah disediakan, agar mereka tidak termasuk orang-orang yang tenggelam.\n\nBerdasarkan keterangan ini, sebahagian mufasir berpendapat bahwa Nabi Nuh merupakan bapak manusia kedua setelah Adam, karena hanya beliau dan orang-orang yang bersamanya yang masih hidup, yang kemudian menurunkan seluruh manusia yang ada sekarang.\n\nAllah menyelamatkan semua orang-orang yang beriman dari banjir dan topan itu, serta menenggelamkan dan memusnahkan orang-orang yang ingkar kepada Nuh, agar peristiwa itu dijadikan iktibar dan pelajaran oleh orang-orang yang datang kemudian. Dengan demikian, Allah memperlihatkan kepada manusia kekuasaan dan kebesaran-Nya.\n\nAllah menceritakan kisah itu juga bertujuan agar telinga orang-orang yang benar-benar beriman kepada-Nya dapat mendengar dan mengambil manfaat dari wahyu-wahyu yang diturunkan-Nya serta mengamalkan pesan-pesan yang dibawanya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5336,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ",
+                    "transliteration": {
+                        "en": "Fa izaa nufikha fis soori nafkhatunw waahidah"
+                    }
+                },
+                "translation": {
+                    "en": "Then when the Horn is blown with one blast",
+                    "id": "Maka apabila sangkakala ditiup sekali tiup,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5336",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5336.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5336.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di awal surah diuraikan tentang Kiamat, kini diuraikan tentang proses terjadinya Kiamat. Maka apabila sangkakala ditiup oleh malaikat lsrafil sekali tiup,",
+                        "long": "Dalam ayat ini diterangkan bahwa apabila Allah berkehendak mendatangkan hari Kiamat, maka Ia memerintahkan Malaikat Israfil meniup sangkakala pertama. Firman Allah:\n\nLalu ditiuplah sangkakala, maka seketika itu mereka keluar dari kuburnya (dalam keadaan hidup), menuju kepada Tuhannya. (Yasin/36: 51)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5337,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً",
+                    "transliteration": {
+                        "en": "Wa humilatil ardu wal jibaalu fadukkataa dakkatanw waahidah"
+                    }
+                },
+                "translation": {
+                    "en": "And the earth and the mountains are lifted and leveled with one blow -",
+                    "id": "dan diangkatlah bumi dan gunung-gunung, lalu dibenturkan keduanya sekali benturan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5337",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5337.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5337.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan diangkatlah bumi dan gunung-gunung dengan sangat mudahnya, lalu dibenturkan keduanya sekali benturan maka bumi menjadi datar,",
+                        "long": "Pada saat itu berguncanglah seluruh bumi, dan gunung-gunung terangkat dari tempat-tempatnya kemudian saling berbenturan. Berguncangnya bumi dan bergeraknya gunung menandakan bahwa telah terjadi gempa dahsyat yang menghancurkan seluruh yang ada di permukaan bumi, termasuk manusia yang berdiam di atasnya. Pada firman Allah yang lain diterangkan:\n\nDan (ingatlah) pada hari (ketika) Kami perjalankan gunung-gunung dan engkau akan melihat bumi itu rata dan Kami kumpulkan mereka (seluruh manusia), dan tidak Kami tinggalkan seorang pun dari mereka. (al-Kahf/18: 47)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5338,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ",
+                    "transliteration": {
+                        "en": "Fa yawma'izinw waqa'atil waaqi'ah"
+                    }
+                },
+                "translation": {
+                    "en": "Then on that Day, the Resurrection will occur,",
+                    "id": "Maka pada hari itu terjadilah hari Kiamat,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5338",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5338.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5338.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "tidak ada lagi gunung dan lembah (Lihat: surah Tàhà/20:105-106). Maka pada hari itu terjadilah hari Kiamat.",
+                        "long": "Pada saat terjadinya hari Kiamat itu, langit dalam keadaan lemah sehingga terbelah. Jika diperhatikan hukum-hukum Allah yang berlaku di ruang angkasa, maka yang dikemukakan ayat ini sesuai dengan hukum itu. Masing-masing planet di ruang angkasa itu mempunyai daya tarik-menarik. Dengan adanya daya tersebut, maka seluruh planet-planet menjadi selalu beredar pada garis edar yang tetap, tidak jatuh dan tidak menyimpang. Seandainya salah satu saja di antara planet yang banyak itu bergeser dari falaknya, maka hilanglah keseimbangan tarik-menarik yang ada antara planet-planet itu, sehingga planet yang kecil tertarik oleh planet yang besar. Terjadilah tabrakan antara planet-planet itu yang menghancurkan seluruh alam ini.\n\nKajian saintifik modern saat ini menyatakan bahwa jagad-raya seisinya ini diawali pembentukannya dari adanya singularity. Singularity adalah sesuatu dimana calon/bakal ruang, energi, materi, dan waktu masih terkumpul menjadi satu (manunggal). Dentuman Besar (Big Bang) meledakkan singularity ini dan berkembanglah seperti spiral-kerucut yang terus menerus berekspansi melebar dan melebar terus. Sejak Big Bang itulah, waktu mulai memisahkan diri dari ruang, begitu pula energi, materi, dan gaya-gaya, dan selama bermiliar-miliar tahun terbentuklah seluruh jagad-raya yang berisi miliaran galaksi. Ruang dan waktu terus mengalami ekspansi meluas. Bahiruddin S. Mahmud menjelaskan bahwa ekspansi jagad raya bukannya tak terbatas dan terus menerus. Laju ekspansi atau perkembangan ini berangsur-angsur menurun, karena gaya gravitasi antar galaksi (yang mereka sesamanya terus saling menjauh) mulai mengendor, sehingga suatu saat akan berhentilah ekspansi jagad raya itu.\n\nKetika jagad raya atau alam semesta menghentikan aktivitas ekspansinya (perluasannya), masa penyusutannya (pemadatannya) pun dimulai. Jika ekspansi diawali dari singularity, Big Bang, dan ekspansi alam semesta; maka penyusutan alam semesta atau pemadatan (kontraksi) alam semesta diawali dengan alam semesta yang secara perlahan menyusut, di mana ruang, waktu, energi, materi, dan gaya-gaya akan bersatu kembali menjadi singularity. Penyusutan ini makin lama makin cepat, dari dimensi waktu miliaran tahun, jutaan tahun, puluhan tahun, tahunan, bulanan, mingguan, harian, terus ke jam, menit, detik, mikro-detik dan akhirnya terjadi ledakan hebat yang disebut Big Crunch (Kompresan Besar) menjadi singularity kembali. Jadi Big Crunch, adalah seperti Big Bang dalam arah yang berbalikkan. Proses penyusutan alam semesta menuju Big Crunch ini, berlangsung dengan periode waktu yang sangat lama, kemudian semakin cepat, dan super cepat!! Menurut Paul Davies, ketika alam semesta telah memadat sampai seper-seratus (1/100) dari luasnya yang sekarang ini, maka efek tekanannya akan mengakibatkan suhu yang meninggi sampai mencapai titik didih benda cair; dan bumi menjadi tempat yang tidak layak huni lagi. Galaksi sudah tidak dapat dibedakan satu sama lainnya, karena mereka telah berfusi, dan merapat satu sama lainnya. Selanjutnya gerak kepadatan makin naik hingga mencapai titik api pijar. Pada saat inilah antariksa tampak bagaikan bola api plasma yang pijar. Kemungkinan inilah yang disebut dalam Surah al-Ma'arij/70: 8, \"Pada hari ketika langit menjadi seperti luluhan perak.\" \n\nKetika terjadi proses ke arah Big Crunch itu, yaitu proses pemadatan atau penyusutan alam semesta, maka semua materi pecah kembali menjadi materi-materi fundamental seperti quark, elektron, dan sebagainya, gaya-gaya seperti gaya gravitasi, elektromagnetik, nuklir kuat, dan nuklir lemah mulai menyatu kembali. Saat itulah benda-benda langit mulai kehilangan gaya-gaya gravitasinya, dan akibatnya terjadilah tubrukan-tubrukan dahsyat antar planet, sehingga bumi berbenturan dengan planet-planet lainnya, gunung-gunung berbenturan karena hilangnya gaya gravitasi yang menopangnya sehingga berbenturan sesamanya. Langit antariksa mulai lemah karena ketiadaan topangan gaya gravitasi, dan mulai menyusut/ mengerut dan retak/terbelah. Proses ini menimbulkan suara gemuruh dahsyat, yang dipuncaki dengan dentuman Big Crunch. Apakah sangkakala (sur) yang dimaksud adalah mulainya suara gemuruh ketika terjadi proses penyusutan ini? Wallahu a'lam bis-sawab. Akhirnya setelah dentuman Big Crunch kembalilah ke singularity lagi, semua serba fana, kecuali Allah, sebagaimana firman-Nya: \n\nSemua yang ada di bumi itu akan binasa, tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal. (ar-Rahman/55: 26-27)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5339,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَانشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ",
+                    "transliteration": {
+                        "en": "Wanshaqqatis samaaa'u fahiya yawma 'izinw-waahiyah"
+                    }
+                },
+                "translation": {
+                    "en": "And the heaven will split [open], for that Day it is infirm.",
+                    "id": "dan terbelahlah langit, karena pada hari itu langit menjadi rapuh."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5339",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5339.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5339.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah gunung hancur dan bumi menjadi rata dan terbelahlah langit, karena dahsyatnya situasi saat itu maka pada hari itu langit menjadi rapuh.",
+                        "long": "Pada saat terjadinya hari Kiamat itu, langit dalam keadaan lemah sehingga terbelah. Jika diperhatikan hukum-hukum Allah yang berlaku di ruang angkasa, maka yang dikemukakan ayat ini sesuai dengan hukum itu. Masing-masing planet di ruang angkasa itu mempunyai daya tarik-menarik. Dengan adanya daya tersebut, maka seluruh planet-planet menjadi selalu beredar pada garis edar yang tetap, tidak jatuh dan tidak menyimpang. Seandainya salah satu saja di antara planet yang banyak itu bergeser dari falaknya, maka hilanglah keseimbangan tarik-menarik yang ada antara planet-planet itu, sehingga planet yang kecil tertarik oleh planet yang besar. Terjadilah tabrakan antara planet-planet itu yang menghancurkan seluruh alam ini.\n\nKajian saintifik modern saat ini menyatakan bahwa jagad-raya seisinya ini diawali pembentukannya dari adanya singularity. Singularity adalah sesuatu dimana calon/bakal ruang, energi, materi, dan waktu masih terkumpul menjadi satu (manunggal). Dentuman Besar (Big Bang) meledakkan singularity ini dan berkembanglah seperti spiral-kerucut yang terus menerus berekspansi melebar dan melebar terus. Sejak Big Bang itulah, waktu mulai memisahkan diri dari ruang, begitu pula energi, materi, dan gaya-gaya, dan selama bermiliar-miliar tahun terbentuklah seluruh jagad-raya yang berisi miliaran galaksi. Ruang dan waktu terus mengalami ekspansi meluas. Bahiruddin S. Mahmud menjelaskan bahwa ekspansi jagad raya bukannya tak terbatas dan terus menerus. Laju ekspansi atau perkembangan ini berangsur-angsur menurun, karena gaya gravitasi antar galaksi (yang mereka sesamanya terus saling menjauh) mulai mengendor, sehingga suatu saat akan berhentilah ekspansi jagad raya itu.\n\nKetika jagad raya atau alam semesta menghentikan aktivitas ekspansinya (perluasannya), masa penyusutannya (pemadatannya) pun dimulai. Jika ekspansi diawali dari singularity, Big Bang, dan ekspansi alam semesta; maka penyusutan alam semesta atau pemadatan (kontraksi) alam semesta diawali dengan alam semesta yang secara perlahan menyusut, di mana ruang, waktu, energi, materi, dan gaya-gaya akan bersatu kembali menjadi singularity. Penyusutan ini makin lama makin cepat, dari dimensi waktu miliaran tahun, jutaan tahun, puluhan tahun, tahunan, bulanan, mingguan, harian, terus ke jam, menit, detik, mikro-detik dan akhirnya terjadi ledakan hebat yang disebut Big Crunch (Kompresan Besar) menjadi singularity kembali. Jadi Big Crunch, adalah seperti Big Bang dalam arah yang berbalikkan. Proses penyusutan alam semesta menuju Big Crunch ini, berlangsung dengan periode waktu yang sangat lama, kemudian semakin cepat, dan super cepat!! Menurut Paul Davies, ketika alam semesta telah memadat sampai seper-seratus (1/100) dari luasnya yang sekarang ini, maka efek tekanannya akan mengakibatkan suhu yang meninggi sampai mencapai titik didih benda cair; dan bumi menjadi tempat yang tidak layak huni lagi. Galaksi sudah tidak dapat dibedakan satu sama lainnya, karena mereka telah berfusi, dan merapat satu sama lainnya. Selanjutnya gerak kepadatan makin naik hingga mencapai titik api pijar. Pada saat inilah antariksa tampak bagaikan bola api plasma yang pijar. Kemungkinan inilah yang disebut dalam Surah al-Ma'arij/70: 8, \"Pada hari ketika langit menjadi seperti luluhan perak.\" \n\nKetika terjadi proses ke arah Big Crunch itu, yaitu proses pemadatan atau penyusutan alam semesta, maka semua materi pecah kembali menjadi materi-materi fundamental seperti quark, elektron, dan sebagainya, gaya-gaya seperti gaya gravitasi, elektromagnetik, nuklir kuat, dan nuklir lemah mulai menyatu kembali. Saat itulah benda-benda langit mulai kehilangan gaya-gaya gravitasinya, dan akibatnya terjadilah tubrukan-tubrukan dahsyat antar planet, sehingga bumi berbenturan dengan planet-planet lainnya, gunung-gunung berbenturan karena hilangnya gaya gravitasi yang menopangnya sehingga berbenturan sesamanya. Langit antariksa mulai lemah karena ketiadaan topangan gaya gravitasi, dan mulai menyusut/ mengerut dan retak/terbelah. Proses ini menimbulkan suara gemuruh dahsyat, yang dipuncaki dengan dentuman Big Crunch. Apakah sangkakala (sur) yang dimaksud adalah mulainya suara gemuruh ketika terjadi proses penyusutan ini? Wallahu a'lam bis-sawab. Akhirnya setelah dentuman Big Crunch kembalilah ke singularity lagi, semua serba fana, kecuali Allah, sebagaimana firman-Nya: \n\nSemua yang ada di bumi itu akan binasa, tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal. (ar-Rahman/55: 26-27)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5340,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ",
+                    "transliteration": {
+                        "en": "Wal malaku 'alaaa arjaaa'ihaa; wa yahmilu 'Arsha Rabbika fawqahum yawma'izin samaaniyah"
+                    }
+                },
+                "translation": {
+                    "en": "And the angels are at its edges. And there will bear the Throne of your Lord above them, that Day, eight [of them].",
+                    "id": "Dan para malaikat berada di berbagai penjuru langit. Pada hari itu delapan malaikat menjunjung ‘Arsy (singgasana) Tuhanmu di atas (kepala) mereka."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5340",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5340.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5340.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan ketika itu juga atas perintah Allah para malaikat berada di berbagai penjuru langit yang telah rapuh itu. Pada hari itu delapan malaikat menjunjung’Arsy yaitu singgasana Tuhanmu di atas kepala mereka.",
+                        "long": "Pada hari Kiamat, para malaikat berada di segenap penjuru langit. Delapan malaikat menjunjung 'Arasy Allah di atas kepalanya. Persoalan malaikat dan 'Arasy ini adalah persoalan yang gaib, tidak seorang pun yang mengetahuinya. Tidak dijelaskan bentuk 'Arasy yang dipikul para malaikat itu, dan ke mana mereka membawanya. Oleh karena itu, kita menerima semuanya itu berdasarkan iman kita kepada Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5341,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ",
+                    "transliteration": {
+                        "en": "Yawma'izin tu'radoona laa takhfaa min kum khaafiyah"
+                    }
+                },
+                "translation": {
+                    "en": "That Day, you will be exhibited [for judgement]; not hidden among you is anything concealed.",
+                    "id": "Pada hari itu kamu dihadapkan (kepada Tuhanmu), tidak ada sesuatu pun dari kamu yang tersembunyi (bagi Allah)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5341",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5341.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5341.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah dijelaskan proses kehancuran alam raya, kini dijelaskan keadaan manusia yaitu pada hari itu kamu dihadapkan kepada Tuhanmu untuk dimintai pertanggung jawaban atas segala perbuatan kamu, maka tidak ada sesuatu pun dari kamu yang tersembunyi bagi Allah.",
+                        "long": "Pada hari Kiamat itu seluruh manusia dihadapkan ke hadirat Allah, untuk dihisab dan ditimbang amal dan perbuatannya. Tidak ada satu pun perbuatan dan amal manusia yang luput dari pengetahuan Allah sejak dari yang sekecil-kecilnya sampai kepada yang sebesar-besarnya, sejak dari yang tersembunyi dan yang nyata, yang halus dan yang kasar; semuanya diketahui Allah.\n\nPada hari itu yang dapat menolong seseorang hanyalah Allah semata. Pertolongan itu diberikan berdasarkan amal mereka selama hidup di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5342,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ اقْرَءُوا كِتَابِيَهْ",
+                    "transliteration": {
+                        "en": "Fa ammaa man ootiya kitaabahoo biyameenihee fa yaqoolu haaa'umuq ra'oo kitaabiyah"
+                    }
+                },
+                "translation": {
+                    "en": "So as for he who is given his record in his right hand, he will say, \"Here, read my record!",
+                    "id": "Adapun orang yang kitabnya  diberikan di tangan kanannya, maka dia berkata, “Ambillah, bacalah kitabku (ini).”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5342",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5342.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5342.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Adapun orang yang kitab catatan amal-nya diberikan di tangan kanannya, maka dia berkata kepada siapa yang ada di sekelilingnya dari hamba-hamba Allah yang taat untuk menunjukkan rasa syukurnya, “Ambillah, dan bacalah kitabku ini betapa sangat menyenangkan isinya.",
+                        "long": "Ayat ini menggambarkan hamba Allah yang beriman dan beramal saleh pada hari Kiamat. Ketika itu, mereka merasa gembira karena jarak perjalanan yang akan ditempuhnya untuk mencapai tujuan yang dicita-citakan semakin dekat dengan tempat yang disediakan Allah baginya.\n\nPerasaan gembira yang demikian sebenarnya telah mereka rasakan sejak roh mereka berpisah dengan jasad. Ketika itu, mereka telah melihat tanda-tanda keberuntungan, sebagaimana firman Allah:\n\n(Yaitu) orang yang ketika diwafatkan oleh para malaikat dalam keadaan baik, mereka (para malaikat) mengatakan (kepada mereka), \"Salamun 'alaikum, masuklah ke dalam surga karena apa yang telah kamu kerjakan.\" (an-Nahl/16: 32)\n\nMereka selalu ingat janji Allah dalam firman-Nya:\n\nKejutan yang dahsyat tidak membuat mereka merasa sedih, dan para malaikat akan menyambut mereka (dengan ucapan), \"Inilah harimu yang telah dijanjikan kepadamu.\" (al-Anbiya'/21: 103)\n\nMaka hari yang mereka tunggu-tunggu itu tiba dan orang-orang mukmin menerima catatan amalnya dengan tangan kanan yang disodorkan dari sebelah kanannya, maka meledaklah kegembiraan dalam hati mereka. Mereka pun ingin agar catatan amal itu dibaca oleh teman-temannya yang sama keadaannya dengan mereka, dengan mengatakan, \"Hai teman-temanku yang sama-sama memperoleh keridaan Allah, inilah catatan bahwa kita sama. Ambillah dan bacalah isinya, tentu kamu akan mengetahui bahwa kita semua mendapatkan buku catatan dari sebelah kanan dan sama-sama akan mendapat pahala dari Allah.\" Maka mereka pun bersama-sama bergembira."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5343,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنِّي ظَنَنتُ أَنِّي مُلَاقٍ حِسَابِيَهْ",
+                    "transliteration": {
+                        "en": "Innee zannantu annee mulaaqin hisaabiyah"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, I was certain that I would be meeting my account.\"",
+                    "id": "Sesungguhnya aku yakin, bahwa (suatu saat) aku akan menerima perhitungan terhadap diriku."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5343",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5343.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5343.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sesungguhnya ketika di dunia aku yakin, bahwa suatu saat aku akan menerima perhitungan terhadap diriku. ltulah sebabnya aku telah mempersiapkan diri untuk menghadapinya.\"",
+                        "long": "Dengan bangga dan penuh kepuasan orang-orang mukmin berkata, \"Aku telah yakin bahwa Tuhan akan menghisabku dan aku akan mempertanggungjawabkan seluruh perbuatanku hari ini. Karena itulah, selama hidup di dunia aku beriman kepada Allah serta melaksanakan perintah dan menjauhi larangan-Nya yang disampaikan Nabi Muhammad. Aku pun yakin bahwa Tuhanku akan menghisab dan menimbang amal perbuatanku.\"\n\nMenurut adh-ahhak, setiap perkataan dhann (dugaan) yang berhubungan dengan orang-orang yang beriman, yang terdapat dalam Al-Qur'an berarti yakin, dan kalau berhubungan dengan orang-orang kafir berarti ragu-ragu.\n\nAl-hasan berkata, \"Sesungguhnya orang-orang yang beriman mempunyai dugaan yang mendekati keyakinan (dhann) yang paling baik kepada Tuhannya, lalu mereka meningkatkan amalnya untuk akhirat, sedangkan orang-orang munafik mempunyai keragu-raguan (dhann) yang paling buruk terhadap Tuhannya; maka ia mempunyai amal yang buruk pula untuk akhirat.\"\n\nDemikian pula dalam ayat ini. Perkataan dhanantu berarti \"aku yakin\" bukan \"aku ragu\", atau \"aku menduga\". Arti yang semakna dengan ini terdapat pula pada firman Allah:\n\nMengapa orang-orang mukmin dan mukminat tidak berbaik sangka terhadap diri mereka sendiri, ketika kamu mendengar berita bohong itu dan berkata, \"Ini adalah (suatu berita) bohong yang nyata.\" (an-Nur/24: 12)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5344,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ",
+                    "transliteration": {
+                        "en": "Fahuwa fee 'eeshatir raadiyah"
+                    }
+                },
+                "translation": {
+                    "en": "So he will be in a pleasant life -",
+                    "id": "Maka orang itu berada dalam kehidupan yang diridai,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5344",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5344.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5344.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka sebagai balasan atas amal salehnya ketika di dunia orang itu berada dalam kehidupan yang menyenangkan dan diridai,",
+                        "long": "Pada ayat ini, diterangkan bahwa balasan yang diterima orang-orang yang menerima catatan amalnya dengan tangan kanan adalah berada dalam kehidupan yang diridai. Hidup yang diridai itu adalah hidup yang dicita-citakan oleh setiap orang yang beriman, yaitu hidup yang diridai Allah, seluruh manusia, bahkan seluruh makhluk Allah. Tidak ada satu pun yang menaruh iri, dengki, dendam, dan benci kepadanya, sehingga segala sesuatu yang dihadapinya adalah baik dan menimbulkan kebaikan kepada dirinya. Tidak ada sesuatu yang menyakitkan hatinya dan tidak ada perbuatan atau sikap yang menyinggung perasaannya, semuanya enak didengar dan dirasakan.\n\nDalam firman Allah yang lalu diterangkan bahwa jiwa yang tenang adalah jiwa yang hidup dalam kehidupan yang diridai dan termasuk kelompok hamba-hamba Allah:\n\nWahai jiwa yang tenang! Kembalilah kepada Tuhanmu dengan hati yang rida dan diridai-Nya. Maka masuklah ke dalam golongan hamba-hamba-Ku, dan masuklah ke dalam surga-Ku. (al-Fajr/89: 27-30)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5345,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِي جَنَّةٍ عَالِيَةٍ",
+                    "transliteration": {
+                        "en": "Fee jannnatin 'aaliyah"
+                    }
+                },
+                "translation": {
+                    "en": "In an elevated garden,",
+                    "id": "dalam surga yang tinggi,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5345",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5345.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5345.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "sehingga dia benar-benar merasa puas dengan anugerah Allah tersebut yaitu dalam surga yang tinggi tempat dan martabatnya",
+                        "long": "Ayat ini menerangkan keadaan tempat yang disediakan bagi orang-orang yang beriman di akhirat nanti, yakni suatu tempat yang indah, dan nyaman dengan kebun-kebun dan taman-taman yang menyenangkan hati orang yang memandangnya, dan pohon-pohon yang berbuah rendah, mudah dipetik oleh siapa saja yang menghendakinya, baik sambil berdiri, sambil duduk maupun sambil berbaring.\n\nDalam ayat yang lain, Allah berfirman:\n\nDi sana mereka duduk bersandar di atas dipan, di sana mereka tidak melihat (merasakan teriknya) matahari dan tidak pula dingin yang berlebihan. Dan naungan (pepohonan)nya dekat di atas mereka dan dimudahkan semudah-mudahnya untuk memetik (buah)nya. (al-Insan/76: 13-14)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5346,
+                    "inSurah": 23
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "قُطُوفُهَا دَانِيَةٌ",
+                    "transliteration": {
+                        "en": "Qutoofuhaa daaniyah"
+                    }
+                },
+                "translation": {
+                    "en": "Its [fruit] to be picked hanging near.",
+                    "id": "buah-buahannya dekat,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5346",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5346.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5346.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Di antara fasilitasnya adalah buah-buahannya dekat sehingga mudah untuk memetiknya.",
+                        "long": "Ayat ini menerangkan keadaan tempat yang disediakan bagi orang-orang yang beriman di akhirat nanti, yakni suatu tempat yang indah, dan nyaman dengan kebun-kebun dan taman-taman yang menyenangkan hati orang yang memandangnya, dan pohon-pohon yang berbuah rendah, mudah dipetik oleh siapa saja yang menghendakinya, baik sambil berdiri, sambil duduk maupun sambil berbaring.\n\nDalam ayat yang lain, Allah berfirman:\n\nDi sana mereka duduk bersandar di atas dipan, di sana mereka tidak melihat (merasakan teriknya) matahari dan tidak pula dingin yang berlebihan. Dan naungan (pepohonan)nya dekat di atas mereka dan dimudahkan semudah-mudahnya untuk memetik (buah)nya. (al-Insan/76: 13-14)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5347,
+                    "inSurah": 24
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ",
+                    "transliteration": {
+                        "en": "Kuloo washraboo haneee'am bimaaa aslaftum fil ayyaamil khaliyah"
+                    }
+                },
+                "translation": {
+                    "en": "[They will be told], \"Eat and drink in satisfaction for what you put forth in the days past.\"",
+                    "id": "(kepada mereka dikatakan), “Makan dan minumlah dengan nikmat karena amal yang telah kamu kerjakan pada hari-hari yang telah lalu.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5347",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5347.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5347.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kepada mereka dikatakan, “Makan dan minumlah dengan nikmat apa saja yang kamu inginkan. ltu semua adalah ganjaran dari Allah karena amal yang telah kamu kerjakan pada hari-hari yang telah lalu.” Demikianlah ke-Mahaadilan Allah, Ia memberikan balasan yang sempurna bagi orang-orang yang bersabar untuk senantiasa taat kepada-Nya selama hidup di dunia.",
+                        "long": "Para malaikat berkata kepada orang-orang yang menerima catatan amalnya dengan tangan kanan di dalam surga, \"Makanlah segala macam jenis buah-buahan dan segala rupa makanan yang ditemukan di dalam surga ini, dan minum pulalah sepuas hati minuman-minuman yang enak dan menyegarkan. Tidak ada satu pun yang dapat melarang kamu mengambilnya, semuanya itu disediakan untuk kamu sekalian. Semuanya itu disediakan karena kamu sekalian telah beriman kepada Allah, mengerjakan amal yang saleh serta tunduk dan menyerahkan diri kepada-Nya selama kamu hidup di dunia dahulu.\"\n\nDari perkataan \"bima aslaftum\" (karena amal yang telah kamu kerjakan) dapat dipahami bahwa pahala yang diterima di akhirat nanti adalah balasan dari hasil iman dan amal perbuatan yang dilakukan selama hidup di dunia. Hal ini berarti bahwa mustahil seorang hamba memperoleh pahala dari Allah jika ia tidak beriman dan beramal.\n\nDari perkataan hani'an (dengan sedap) dapat dipahami bahwa makanan dan minuman yang diberikan di dalam surga adalah makanan dan minuman yang luar biasa enaknya, dan tidak pernah ada yang seenak itu rasanya di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5348,
+                    "inSurah": 25
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ",
+                    "transliteration": {
+                        "en": "Wa ammaa man ootiya kitaabahoo bishimaalihee fa yaqoolu yaalaitanee lam oota kitaaabiyah"
+                    }
+                },
+                "translation": {
+                    "en": "But as for he who is given his record in his left hand, he will say, \"Oh, I wish I had not been given my record",
+                    "id": "Dan adapun orang yang kitabnya diberikan di tangan kirinya, maka dia berkata, “Alangkah baiknya jika kitabku (ini) tidak diberikan kepadaku."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5348",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5348.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5348.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah uraian tentang balasan yang diterima oleh orang-orang yang taat kini giliran diuraikan keadaan orang-orang yang durhaka. Dan adapun orang yang kitabnya diberikan di tangan kirinya, maka dia berkata dengan penuh kesedihan dan penyesalan, “Alangkah baiknya jika kitab catatan amalku ini tidak diberikan kepadaku.",
+                        "long": "Dalam ayat ini diterangkan keadaan orang kafir di akhirat ketika menerima catatan amal perbuatan yang mereka kerjakan selama hidup di dunia. Kepada mereka disampaikan catatan amal perbuatannya dari sebelah kiri dan menerimanya dengan tangan kiri. Setelah membaca catatan itu, timbullah ketakutan dalam hatinya karena berdasarkan catatan itu, ia pasti dimasukkan ke dalam neraka. Ia berkata, \"Alangkah jeleknya perbuatanku dan alangkah bahagianya aku seandainya amalku yang berisi seperti ini tidak diberikan kepadaku, aku tidak menyangka bahwa semua perbuatanku di dunia tercatat dalam kitab ini.\"\n\nOrang kafir berada dalam ketakutan yang luar biasa ketika menerima catatan amalnya, seakan-akan telah ditimpa azab yang dahsyat. Padahal mereka belum ditimpa azab tersebut. Hal ini memberi pengertian bahwa azab rohani itu lebih berat dari azab jasmani."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5349,
+                    "inSurah": 26
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+                    "transliteration": {
+                        "en": "Wa lam adri maa hisaabiyah"
+                    }
+                },
+                "translation": {
+                    "en": "And had not known what is my account.",
+                    "id": "Sehingga aku tidak mengetahui bagaimana perhitunganku."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5349",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5349.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5349.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sehingga aku tidak mengetahui bagaimana perhitungan terhadap diriku.",
+                        "long": "Pernyataan bahwa azab rohani lebih berat dirasakan dari azab jasmani diperkuat oleh perkataan orang-orang kafir itu, \"Alangkah bahagianya aku, jika aku tidak mengetahui catatan amalku, sehingga aku tidak mengetahui azab yang akan ditimpakan kepadaku nanti di dalam neraka.\""
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5350,
+                    "inSurah": 27
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ",
+                    "transliteration": {
+                        "en": "Yaa laitahaa kaanatil qaadiyah"
+                    }
+                },
+                "translation": {
+                    "en": "I wish my death had been the decisive one.",
+                    "id": "Wahai, kiranya (kematian) itulah yang menyudahi segala sesuatu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5350",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5350.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5350.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai, kiranya kematian yang telah kualami di dunia itulah yang menyudahi segala sesuatu yaitu yang mengakhiri hidupku sehingga tidak perlu mengalami kehidupan seperti ini di akhirat.",
+                        "long": "Ayat ini seakan-akan memberi pengertian bahwa orang kafir itu tidak mengetahui sedikit pun bahwa akan terjadi hari Kiamat, akan terjadi kehidupan setelah mati, yang waktu itu amal baik dibalas pahala yang berlipat ganda sedang perbuatan jahat dibalasi dengan siksa yang pedih. Oleh karena itu, mereka berkata, \"Alangkah baiknya seandainya mati yang telah menimpa diriku di dunia dahulu, merupakan akhir seluruh kehidupanku, tidak dibangkitkan lagi seperti sekarang, sehingga aku tidak menemui penderitaan yang berat.\"\n\nTetapi sebenarnya orang kafir itu telah mengetahui dengan yakin selama mereka hidup di dunia akan adanya hari seperti ini. Memang demikianlah sifat-sifat orang kafir yang selalu mengingkari keyakinan mereka. \n\nDan (ingatlah) ketika Tuhanmu mengeluarkan dari sulbi (tulang belakang) anak cucu Adam keturunan mereka dan Allah mengambil kesaksian terhadap roh mereka (seraya berfirman), \"Bukankah Aku ini Tuhanmu?\" Mereka menjawab, \"Betul (Engkau Tuhan kami), kami bersaksi.\" (Kami lakukan yang demikian itu) agar di hari Kiamat kamu tidak mengatakan, \"Sesungguhnya ketika itu kami lengah terhadap ini.\" (al-A'raf/7: 172)\n\nMereka mengharapkan urusan mereka selesai semua dengan kematian, semata-mata karena takut disiksa, bukan karena tidak mengetahui bahwa akan ada hari Kiamat dan hari penghisaban."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5351,
+                    "inSurah": 28
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مَا أَغْنَىٰ عَنِّي مَالِيَهْ ۜ",
+                    "transliteration": {
+                        "en": "Maaa aghnaa 'annee maaliyah"
+                    }
+                },
+                "translation": {
+                    "en": "My wealth has not availed me.",
+                    "id": "Hartaku sama sekali tidak berguna bagiku."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5351",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5351.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5351.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ternyata hartaku yang dengan susah payah kukumpulkan sama sekali tidak berguna bagiku.",
+                        "long": "Ayat ini menerangkan tentang jalan pikiran orang kafir sewaktu hidup di dunia. Menurut mereka, yang menentukan keadaan dan derajat seseorang ialah pangkat, kekuasaan, dan harta. Dengan harta, mereka akan dapat memperoleh segala yang diinginkan, dan dengan pangkat dan kekuasaan, mereka dapat memuaskan hawa nafsu. Setelah berada di akhirat, jelaslah bagi mereka kekeliruan jalan pikiran semacam itu, sehingga terucap juga di mulut mereka perasaan hati waktu itu dengan mengatakan, \"Harta yang aku miliki waktu berada di dunia dahulu tidak dapat menolong dan menghindarkanku dari siksa Allah. Demikian pula kekuasaan yang telah aku miliki di dunia telah lenyap pada saat ini, sehingga aku tidak mempunyai seorang penolong pun.\"\n\nAnggapan orang kafir waktu di dunia bahwa yang menentukan segala sesuatu itu adalah harta dan kekuasaan diterangkan dalam firman Allah: \n\nDan dia memiliki kekayaan besar, maka dia berkata kepada kawannya (yang beriman) ketika bercakap-cakap dengan dia, \"Hartaku lebih banyak daripada hartamu dan pengikutku lebih kuat.\" (al-Kahf/18: 34)\n\nDan mereka berkata, \"Kami memiliki lebih banyak harta dan anak-anak (daripada kamu) dan kami tidak akan diazab.\" (Saba'/34: 35)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5352,
+                    "inSurah": 29
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "هَلَكَ عَنِّي سُلْطَانِيَهْ",
+                    "transliteration": {
+                        "en": "Halaka 'annee sultaaniyah"
+                    }
+                },
+                "translation": {
+                    "en": "Gone from me is my authority.\"",
+                    "id": "Kekuasaanku telah hilang dariku.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5352",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5352.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5352.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Demikian juga dengan kekuasaanku yang dahulu kubanggakan di dunia kini telah hilang dariku.”",
+                        "long": "Ayat ini menerangkan tentang jalan pikiran orang kafir sewaktu hidup di dunia. Menurut mereka, yang menentukan keadaan dan derajat seseorang ialah pangkat, kekuasaan, dan harta. Dengan harta, mereka akan dapat memperoleh segala yang diinginkan, dan dengan pangkat dan kekuasaan, mereka dapat memuaskan hawa nafsu. Setelah berada di akhirat, jelaslah bagi mereka kekeliruan jalan pikiran semacam itu, sehingga terucap juga di mulut mereka perasaan hati waktu itu dengan mengatakan, \"Harta yang aku miliki waktu berada di dunia dahulu tidak dapat menolong dan menghindarkanku dari siksa Allah. Demikian pula kekuasaan yang telah aku miliki di dunia telah lenyap pada saat ini, sehingga aku tidak mempunyai seorang penolong pun.\"\n\nAnggapan orang kafir waktu di dunia bahwa yang menentukan segala sesuatu itu adalah harta dan kekuasaan diterangkan dalam firman Allah: \n\nDan dia memiliki kekayaan besar, maka dia berkata kepada kawannya (yang beriman) ketika bercakap-cakap dengan dia, \"Hartaku lebih banyak daripada hartamu dan pengikutku lebih kuat.\" (al-Kahf/18: 34)\n\nDan mereka berkata, \"Kami memiliki lebih banyak harta dan anak-anak (daripada kamu) dan kami tidak akan diazab.\" (Saba'/34: 35)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5353,
+                    "inSurah": 30
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "خُذُوهُ فَغُلُّوهُ",
+                    "transliteration": {
+                        "en": "Khuzoohu faghullooh"
+                    }
+                },
+                "translation": {
+                    "en": "[Allah will say], \"Seize him and shackle him.",
+                    "id": "(Allah berfirman), “Tangkaplah dia lalu belenggulah tangannya ke lehernya.”"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5353",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5353.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5353.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sudah terjatuh tertimpa tangga. Begitulah gambaran para pendurhaka di akhirat. Di tengah kesedihan yang bercampur ketakutan melihat catatan amalnya kemudian Allah berfirman, “Tangkaplah dia lalu belenggulah yaitu ikatlah tangannya ke lehernya.",
+                        "long": "Karena sikap orang kafir yang demikian dan berdasarkan catatan amalnya, maka Allah memerintahkan malaikat untuk melaksanakan hukuman kepada orang kafir itu. Pada waktu Kiamat, mereka dalam keadaan menderita, terhina, dan tidak dapat melepaskan diri sedikit pun dari keadaan yang demikian. Bahkan, azab itu ditambah lagi dengan membelenggu mereka. Hal ini memberi pengertian bahwa orang kafir di dalam neraka tidak mempunyai satu cara pun untuk mengurangi dan meringankan rasa azab yang pedih itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5354,
+                    "inSurah": 31
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ الْجَحِيمَ صَلُّوهُ",
+                    "transliteration": {
+                        "en": "Summal Jaheema sallooh"
+                    }
+                },
+                "translation": {
+                    "en": "Then into Hellfire drive him.",
+                    "id": "Kemudian masukkanlah dia ke dalam api neraka yang menyala-nyala."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5354",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5354.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5354.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kemudian masukkanlah dia ke dalam api neraka yang menyala-nyala.",
+                        "long": "Karena sikap orang kafir yang demikian dan berdasarkan catatan amalnya, maka Allah memerintahkan malaikat untuk melaksanakan hukuman kepada orang kafir itu. Pada waktu Kiamat, mereka dalam keadaan menderita, terhina, dan tidak dapat melepaskan diri sedikit pun dari keadaan yang demikian. Bahkan, azab itu ditambah lagi dengan membelenggu mereka. Hal ini memberi pengertian bahwa orang kafir di dalam neraka tidak mempunyai satu cara pun untuk mengurangi dan meringankan rasa azab yang pedih itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5355,
+                    "inSurah": 32
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ",
+                    "transliteration": {
+                        "en": "Summa fee silsilatin zar'uhaa sab'oona ziraa'an faslukooh"
+                    }
+                },
+                "translation": {
+                    "en": "Then into a chain whose length is seventy cubits insert him.\"",
+                    "id": "Kemudian belitlah dia dengan rantai yang panjangnya tujuh puluh hasta."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5355",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5355.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5355.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Siksaan itu tidak hanya sampai di situ, Kemudian belitlah dia dengan rantai yang panjangnya tujuh puluh hasta maksudnya rantai yang sangat panjang.\"",
+                        "long": "Karena sikap orang kafir yang demikian dan berdasarkan catatan amalnya, maka Allah memerintahkan malaikat untuk melaksanakan hukuman kepada orang kafir itu. Pada waktu Kiamat, mereka dalam keadaan menderita, terhina, dan tidak dapat melepaskan diri sedikit pun dari keadaan yang demikian. Bahkan, azab itu ditambah lagi dengan membelenggu mereka. Hal ini memberi pengertian bahwa orang kafir di dalam neraka tidak mempunyai satu cara pun untuk mengurangi dan meringankan rasa azab yang pedih itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5356,
+                    "inSurah": 33
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ",
+                    "transliteration": {
+                        "en": "Innahoo kaana laa yu'minubillaahil 'Azeem"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, he did not used to believe in Allah, the Most Great,",
+                    "id": "Sesungguhnya dialah orang yang tidak beriman kepada Allah Yang Mahabesar."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5356",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5356.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5356.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mengapa si pendurhaka itu disiksa sedemikian hebat? Inilah yang menjadi penyebabnya. Sesungguhnya dia dahulu ketika di dunia adalah orang yang tidak beriman kepada Allah Yang Mahabesar.",
+                        "long": "Penyebab orang kafir ditimpa azab yang sangat pedih adalah karena selain mempersekutukan Allah, mereka adalah para pemuka dari kaum kafir yang mempelopori kekafiran, dan tidak mendorong dirinya dan orang lain untuk memberi makan fakir miskin.\n\nDisebutkan juga dalam ayat ini keharusan memberi makan fakir-miskin setelah beriman kepada Allah. Hal ini menunjukkan betapa tingginya nilai perbuatan memberi makan fakir-miskin di sisi Allah, sehingga dalam firman-Nya yang lain dinyatakan bahwa orang yang tidak memberi makan fakir-miskin adalah orang yang mendustakan agama.\n\nTahukah kamu (orang) yang mendustakan agama? Maka itulah orang yang menghardik anak yatim, dan tidak mendorong memberi makan orang miskin. (al-Ma'un/107: 1-3)\n\nDengan perkataan lain dapat dikatakan bahwa tanda orang yang benar-benar beriman kepada Allah ialah senang membantu orang-orang fakir-miskin, karena usaha itu merupakan peningkatan dari imannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5357,
+                    "inSurah": 34
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 567,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+                    "transliteration": {
+                        "en": "wa laa yahuddu 'alaa ta'aamil miskeen"
+                    }
+                },
+                "translation": {
+                    "en": "Nor did he encourage the feeding of the poor.",
+                    "id": "Dan juga dia tidak mendorong (orang lain) untuk memberi makan orang miskin."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5357",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5357.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5357.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan juga dia tidak mendorong dirinya dan orang lain untuk memberi makan orang miskin, padahal dia memiliki kemampuan.",
+                        "long": "Penyebab orang kafir ditimpa azab yang sangat pedih adalah karena selain mempersekutukan Allah, mereka adalah para pemuka dari kaum kafir yang mempelopori kekafiran, dan tidak mendorong dirinya dan orang lain untuk memberi makan fakir miskin.\n\nDisebutkan juga dalam ayat ini keharusan memberi makan fakir-miskin setelah beriman kepada Allah. Hal ini menunjukkan betapa tingginya nilai perbuatan memberi makan fakir-miskin di sisi Allah, sehingga dalam firman-Nya yang lain dinyatakan bahwa orang yang tidak memberi makan fakir-miskin adalah orang yang mendustakan agama.\n\nTahukah kamu (orang) yang mendustakan agama? Maka itulah orang yang menghardik anak yatim, dan tidak mendorong memberi makan orang miskin. (al-Ma'un/107: 1-3)\n\nDengan perkataan lain dapat dikatakan bahwa tanda orang yang benar-benar beriman kepada Allah ialah senang membantu orang-orang fakir-miskin, karena usaha itu merupakan peningkatan dari imannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5358,
+                    "inSurah": 35
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ",
+                    "transliteration": {
+                        "en": "Falaysa lahul yawma haahunaa hameem"
+                    }
+                },
+                "translation": {
+                    "en": "So there is not for him here this Day any devoted friend",
+                    "id": "Maka pada hari ini di sini tidak ada seorang teman pun baginya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5358",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5358.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5358.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Atas segala perbuatan buruk yang dilakukan di dunia, maka akhirnya pada hari ini yaitu hari di akhirat, di sini yaitu di neraka, tidak ada seorang teman pun baginya yang dapat menolong atau meringankan siksa yang dia terima.",
+                        "long": "Dalam ayat ini diterangkan keadaan orang musyrik di dalam neraka:\n\n1.Mereka tidak mempunyai seorang pun teman atau penolong. Sebagaimana diketahui bahwa manusia itu adalah makhluk sosial. Hidup manusia yang berbahagia adalah jika mereka dapat memenuhi kepentingan pribadinya dan kepentingan hidup dalam pergaulan bermasyarakat. Jika di dunia dalam keadaan biasa, manusia merasa tersiksa hidup sendirian, tentu di akhirat akan lebih tersiksa lagi.\n\n2.Makanan mereka adalah darah dan nanah, suatu makanan yang tidak termakan oleh orang ketika hidup di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5359,
+                    "inSurah": 36
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ",
+                    "transliteration": {
+                        "en": "Wa laa ta'aamun illaa min ghisleen"
+                    }
+                },
+                "translation": {
+                    "en": "Nor any food except from the discharge of wounds;",
+                    "id": "Dan tidak ada makanan (baginya) kecuali dari darah dan nanah."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5359",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5359.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5359.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan tidak ada pula baginya makanan sedikit pun kecuali berupa gislin yaitu makanan yang terbuat dari darah penghuni neraka dan juga nanah.",
+                        "long": "Dalam ayat ini diterangkan keadaan orang musyrik di dalam neraka:\n\n1.Mereka tidak mempunyai seorang pun teman atau penolong. Sebagaimana diketahui bahwa manusia itu adalah makhluk sosial. Hidup manusia yang berbahagia adalah jika mereka dapat memenuhi kepentingan pribadinya dan kepentingan hidup dalam pergaulan bermasyarakat. Jika di dunia dalam keadaan biasa, manusia merasa tersiksa hidup sendirian, tentu di akhirat akan lebih tersiksa lagi.\n\n2.Makanan mereka adalah darah dan nanah, suatu makanan yang tidak termakan oleh orang ketika hidup di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5360,
+                    "inSurah": 37
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 500,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَّا يَأْكُلُهُ إِلَّا الْخَاطِئُونَ",
+                    "transliteration": {
+                        "en": "Laa yaakuluhooo illal khati'oon"
+                    }
+                },
+                "translation": {
+                    "en": "None will eat it except the sinners.",
+                    "id": "Tidak ada yang memakannya kecuali orang-orang yang berdosa."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5360",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5360.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5360.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tidak ada yang memakannya kecuali orang-orang yang berdosa yaitu yang secara terus menerus berbuat durhaka.",
+                        "long": "Makanan yang dimakan oleh orang kafir itu, yang terdiri dari darah dan nanah, adalah makanan yang sangat jijik dan tiada termakan oleh siapa pun. Hal ini menunjukkan gambaran kehidupan neraka yang penuh kehinaan."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5361,
+                    "inSurah": 38
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَلَا أُقْسِمُ بِمَا تُبْصِرُونَ",
+                    "transliteration": {
+                        "en": "Falaaa uqsimu bimaa tubsiroon"
+                    }
+                },
+                "translation": {
+                    "en": "So I swear by what you see",
+                    "id": "Maka Aku bersumpah demi apa yang kamu lihat,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5361",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5361.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5361.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Semua yang diuraikan pada ayat-ayat di atas belum terlihat oleh manusia, maka kelompok ayat ini menegaskan tentang kebenaran informasi al-Qur\\'an dengan bersumpah menyebut wujud yang terlihat maupun yang tidak terlihat. Maka Aku bersumpah demi apa yang kamu lihat,",
+                        "long": "Menurut Muqatil bahwa ayat-ayat ini diturunkan berhubungan dengan sikap para pemuka Quraisy ketika mendengar bacaan ayat-ayat Al-Qur'an, seperti perkataan al-Walid bin al-Mugirah bahwa sesungguhnya Muhammad seorang pesihir, perkataan Abu Jahal bahwa Muhammad seorang penyair, dan perkataan 'Uqbah bahwa Muhammad seorang tukang tenung. Ayat ini membantah perkataan-perkataan itu.\n\nAllah menegaskan kepada orang musyrik Mekah dengan bersumpah dengan makhluk-Nya, baik yang dapat dilihat, diketahui, dan dirasakan dengan pancaindra maupun tidak, bahwa Al-Qur'an yang diturunkan kepada Muhammad itu benar-benar wahyu dari-Nya. Al-Qur'an bukan perkataan Muhammad atau perkataan yang diada-adakan Muhammad kemudian dikatakan sebagai firman Allah.\n\nDari perkataan bima tubsirun (segala yang dapat kamu lihat) dapat dipahami bahwa sebenarnya orang musyrik Mekah seharusnya dapat meyakinkan bahwa Al-Qur'an itu berasal dari Allah, bukan buatan Muhammad. Hal ini berdasarkan pada pengetahuan yang ada pada mereka, seperti pengetahuan tentang Muhammad, pengetahuan tentang gaya bahasa dan keindahan bahasa Arab yang terdapat dalam Al-Qur'an, dan isi Al-Qur'an itu sendiri. Kemudian dari perkataan \"wama la tubsirun\" (dan apa yang tidak kamu lihat) dipahami bahwa banyak hal yang tidak diketahui oleh orang musyrik Mekah. Jika mereka mengetahui yang demikian itu, tentu akan dapat menambah keyakinan dan kepercayaan mereka kepada Muhammad."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5362,
+                    "inSurah": 39
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا لَا تُبْصِرُونَ",
+                    "transliteration": {
+                        "en": "Wa maa laa tubsiroon"
+                    }
+                },
+                "translation": {
+                    "en": "And what you do not see",
+                    "id": "dan demi apa yang tidak kamu lihat."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5362",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5362.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5362.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan demi apa yang tidak kamu lihat dari ciptaan-ciptaan-Ku.",
+                        "long": "Menurut Muqatil bahwa ayat-ayat ini diturunkan berhubungan dengan sikap para pemuka Quraisy ketika mendengar bacaan ayat-ayat Al-Qur'an, seperti perkataan al-Walid bin al-Mugirah bahwa sesungguhnya Muhammad seorang pesihir, perkataan Abu Jahal bahwa Muhammad seorang penyair, dan perkataan 'Uqbah bahwa Muhammad seorang tukang tenung. Ayat ini membantah perkataan-perkataan itu.\n\nAllah menegaskan kepada orang musyrik Mekah dengan bersumpah dengan makhluk-Nya, baik yang dapat dilihat, diketahui, dan dirasakan dengan pancaindra maupun tidak, bahwa Al-Qur'an yang diturunkan kepada Muhammad itu benar-benar wahyu dari-Nya. Al-Qur'an bukan perkataan Muhammad atau perkataan yang diada-adakan Muhammad kemudian dikatakan sebagai firman Allah.\n\nDari perkataan bima tubsirun (segala yang dapat kamu lihat) dapat dipahami bahwa sebenarnya orang musyrik Mekah seharusnya dapat meyakinkan bahwa Al-Qur'an itu berasal dari Allah, bukan buatan Muhammad. Hal ini berdasarkan pada pengetahuan yang ada pada mereka, seperti pengetahuan tentang Muhammad, pengetahuan tentang gaya bahasa dan keindahan bahasa Arab yang terdapat dalam Al-Qur'an, dan isi Al-Qur'an itu sendiri. Kemudian dari perkataan \"wama la tubsirun\" (dan apa yang tidak kamu lihat) dipahami bahwa banyak hal yang tidak diketahui oleh orang musyrik Mekah. Jika mereka mengetahui yang demikian itu, tentu akan dapat menambah keyakinan dan kepercayaan mereka kepada Muhammad."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5363,
+                    "inSurah": 40
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+                    "transliteration": {
+                        "en": "Innahoo laqawlu Rasoolin kareem"
+                    }
+                },
+                "translation": {
+                    "en": "[That] indeed, the Qur'an is the word of a noble Messenger.",
+                    "id": "Sesungguhnya ia (Al-Qur'an) itu benar-benar wahyu (yang diturunkan kepada) Rasul yang mulia,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5363",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5363.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5363.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sesungguhnya ia, Al-Qur’an, itu benar-benar wahyu yang diturunkan kepada Rasul yang mulia yaitu Nabi Muhammad.",
+                        "long": "Menurut Muqatil bahwa ayat-ayat ini diturunkan berhubungan dengan sikap para pemuka Quraisy ketika mendengar bacaan ayat-ayat Al-Qur'an, seperti perkataan al-Walid bin al-Mugirah bahwa sesungguhnya Muhammad seorang pesihir, perkataan Abu Jahal bahwa Muhammad seorang penyair, dan perkataan 'Uqbah bahwa Muhammad seorang tukang tenung. Ayat ini membantah perkataan-perkataan itu.\n\nAllah menegaskan kepada orang musyrik Mekah dengan bersumpah dengan makhluk-Nya, baik yang dapat dilihat, diketahui, dan dirasakan dengan pancaindra maupun tidak, bahwa Al-Qur'an yang diturunkan kepada Muhammad itu benar-benar wahyu dari-Nya. Al-Qur'an bukan perkataan Muhammad atau perkataan yang diada-adakan Muhammad kemudian dikatakan sebagai firman Allah.\n\nDari perkataan bima tubsirun (segala yang dapat kamu lihat) dapat dipahami bahwa sebenarnya orang musyrik Mekah seharusnya dapat meyakinkan bahwa Al-Qur'an itu berasal dari Allah, bukan buatan Muhammad. Hal ini berdasarkan pada pengetahuan yang ada pada mereka, seperti pengetahuan tentang Muhammad, pengetahuan tentang gaya bahasa dan keindahan bahasa Arab yang terdapat dalam Al-Qur'an, dan isi Al-Qur'an itu sendiri. Kemudian dari perkataan \"wama la tubsirun\" (dan apa yang tidak kamu lihat) dipahami bahwa banyak hal yang tidak diketahui oleh orang musyrik Mekah. Jika mereka mengetahui yang demikian itu, tentu akan dapat menambah keyakinan dan kepercayaan mereka kepada Muhammad."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5364,
+                    "inSurah": 41
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ",
+                    "transliteration": {
+                        "en": "Wa ma huwa biqawli shaa'ir; qaleelam maa tu'minoon"
+                    }
+                },
+                "translation": {
+                    "en": "And it is not the word of a poet; little do you believe.",
+                    "id": "dan ia (Al-Qur'an) bukanlah perkataan seorang penyair. Sedikit sekali kamu beriman kepadanya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5364",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5364.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5364.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dania Al-Qur’an itu bukanlah perkataan seorang penyair yang biasanya menghias kata dan kalimat dengan indah tanpa menghiraukan kandungannya. Sedikit sekali kamu beriman kepadanya.",
+                        "long": "Al-Qur'an bukan syair seperti yang biasa diucapkan penyair-penyair mereka, karena Al-Qur'an di samping indah susunan gaya bahasanya juga mempunyai isi yang dalam. Syair-syair yang diucapkan para penyair mereka tidak memiliki susunan gaya bahasa seindah susunan dan gaya bahasa Al-Qur'an dan tidak mempunyai arti yang tinggi. Banyak terdapat ayat Al-Qur'an yang menantang orang musyrik agar membuat yang serupa atau sebanding dengan Al-Qur'an, tetapi mereka tidak sanggup melakukannya. \n\nDan jika kamu meragukan (Al-Qur'an) yang Kami turunkan kepada hamba Kami (Muhammad), maka buatlah satu surah semisal dengannya dan ajaklah penolong-penolongmu selain Allah, jika kamu orang-orang yang benar. Jika kamu tidak mampu membuatnya, dan (pasti) tidak akan mampu, maka takutlah kamu akan api neraka yang bahan bakarnya manusia dan batu, yang disediakan bagi orang-orang kafir. (al-Baqarah/2: 23-24)\n\nDitegaskan pula bahwa Al-Qur'an itu juga bukan berasal dari perkataan tukang tenung. Biasanya tukang tenung teman setan karena mereka menenung itu semata-mata mencari-cari bisikan setan. Padahal Al-Qur'an mencela perbuatan setan, sehingga dengan demikian, ia bukan bisikan setan dan bukan pula hasil tukang tenung. Sehubungan dengan itu, ayat ini menyanggah orang-orang musyrik agar tidak buru-buru berkesimpulan bahwa Al-Qur'an itu adalah tenung hanya karena belum atau tidak mengetahui isi Al-Qur'an. Sangat sedikit di antara mereka yang mau beriman kepada Al-Qur'an ketika itu, dan mau mengambil pelajaran dari isinya. Mukjizat Qur'an terletak pada isi. Makin tinggi ilmu pengetahuan seseorang, akan makin mudah mencerna maksudnya, di samping nilai bahasanya.\n\nUmat Islam Indonesia pada umumnya kesulitan membuktikan dan mengetahui letak kemukjizatan Al-Qur'an dari segi bahasa, karena untuk mengetahui ketinggian susunan kata-kata haruslah dapat merasakan keindahan gaya dan bahasa itu sendiri. Oleh karena itu, untuk mengetahui ketinggian Al-Qur'an, cukup dengan mengetahui pendapat dan sikap para sastrawan Arab penantang Islam terhadap Al-Qur'an itu. Di antaranya adalah Abu al-Walid, yaitu seorang pemimpin dan sastrawan Arab yang terkenal pada masa itu. Ia pernah diutus kaumnya kepada Nabi saw untuk meminta beliau menghentikan dakwahnya. Mendengar permintaan Abu al-Walid itu, Nabi saw membaca Surah Fussilat/41 dari ayat pertama hingga akhir ayat 14. Abu al-Walid terpesona mendengar ayat-ayat itu, sehingga ia termenung memikirkan keindahan gaya bahasanya. Lalu ia langsung kembali kepada kaumnya. Ketika ditanya tentang hasil pertemuan itu, ia mengatakan kepada kaumnya, \"Aku belum pernah mendengar kata-kata yang seindah itu. Apa yang dibaca itu bukanlah syair, sihir, atau kata-kata ahli tenung. Mendengar jawaban Abu al-Walid, mereka menuduh bahwa ia telah terkena sihir oleh Muhammad dan berkhianat kepada agama nenek moyang mereka. Di antara pemuka dan sesepuh Quraisy adalah al-Walid bin al-Mugirah. Orang ini pernah mendengar ayat-ayat Al-Qur'an yang dibacakan Nabi. Maka ia berkata kepada kaumnya (Bani Makhzum), \"Baru-baru ini aku mendengar dari Muhammad suatu ucapan yang menurutku bukanlah perkataan manusia atau jin. Ucapan itu enak didengar, bagus disimak, laksana sebatang pohon, yang atasnya berbuah, dan bawahnya terhunjam ke tanah. Dia benar-benar unggul dan tidak akan dapat diungguli. Di samping dua orang tersebut, banyak juga sastrawan Arab pada waktu itu yang mencoba membuat yang serupa ayat-ayat Al-Qur'an , tetapi tidak seorang pun yang sanggup melakukannya.\n\nDari kedua ayat ini dapat dipahami bahwa sangat sedikit di antara kaum musyrik Mekah yang mengakui bahwa Al-Qur'an adalah kitab yang diturunkan Allah kepada Muhammad, begitu juga yang mengambil pelajaran dari isinya. Yang demikian itu adalah karena:\n\n1.Mereka takut dikucilkan oleh kaumnya dengan mempelajari Al-Qur'an, walaupun hati dan pikiran mereka telah mengakuinya, seperti halnya pada Abu al-Walid dan al-Walid bin al-Mugirah.\n\n2.Sebahagian mereka tidak mengetahui isinya karena tidak mau mempelajarinya dengan sungguh-sungguh. Mereka lebih dahulu mendustakannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5365,
+                    "inSurah": 42
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَّا تَذَكَّرُونَ",
+                    "transliteration": {
+                        "en": "Wa laa biqawli kaahin; qaleelam maa tazakkaroon"
+                    }
+                },
+                "translation": {
+                    "en": "Nor the word of a soothsayer; little do you remember.",
+                    "id": "Dan bukan pula perkataan tukang tenung. Sedikit sekali kamu mengambil pelajaran darinya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5365",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5365.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5365.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Al-Qur’an itu bukan pula perkataan tukang tenung yang sering merasa mengetahui hal-hal yang gaib. Sedikit sekali kamu berpikir untuk memahami perbedaan antara keduanya dan mengambil pelajaran darinya. Ia, Al-Qur’an,",
+                        "long": "Al-Qur'an bukan syair seperti yang biasa diucapkan penyair-penyair mereka, karena Al-Qur'an di samping indah susunan gaya bahasanya juga mempunyai isi yang dalam. Syair-syair yang diucapkan para penyair mereka tidak memiliki susunan gaya bahasa seindah susunan dan gaya bahasa Al-Qur'an dan tidak mempunyai arti yang tinggi. Banyak terdapat ayat Al-Qur'an yang menantang orang musyrik agar membuat yang serupa atau sebanding dengan Al-Qur'an, tetapi mereka tidak sanggup melakukannya. \n\nDan jika kamu meragukan (Al-Qur'an) yang Kami turunkan kepada hamba Kami (Muhammad), maka buatlah satu surah semisal dengannya dan ajaklah penolong-penolongmu selain Allah, jika kamu orang-orang yang benar. Jika kamu tidak mampu membuatnya, dan (pasti) tidak akan mampu, maka takutlah kamu akan api neraka yang bahan bakarnya manusia dan batu, yang disediakan bagi orang-orang kafir. (al-Baqarah/2: 23-24)\n\nDitegaskan pula bahwa Al-Qur'an itu juga bukan berasal dari perkataan tukang tenung. Biasanya tukang tenung teman setan karena mereka menenung itu semata-mata mencari-cari bisikan setan. Padahal Al-Qur'an mencela perbuatan setan, sehingga dengan demikian, ia bukan bisikan setan dan bukan pula hasil tukang tenung. Sehubungan dengan itu, ayat ini menyanggah orang-orang musyrik agar tidak buru-buru berkesimpulan bahwa Al-Qur'an itu adalah tenung hanya karena belum atau tidak mengetahui isi Al-Qur'an. Sangat sedikit di antara mereka yang mau beriman kepada Al-Qur'an ketika itu, dan mau mengambil pelajaran dari isinya. Mukjizat Qur'an terletak pada isi. Makin tinggi ilmu pengetahuan seseorang, akan makin mudah mencerna maksudnya, di samping nilai bahasanya.\n\nUmat Islam Indonesia pada umumnya kesulitan membuktikan dan mengetahui letak kemukjizatan Al-Qur'an dari segi bahasa, karena untuk mengetahui ketinggian susunan kata-kata haruslah dapat merasakan keindahan gaya dan bahasa itu sendiri. Oleh karena itu, untuk mengetahui ketinggian Al-Qur'an, cukup dengan mengetahui pendapat dan sikap para sastrawan Arab penantang Islam terhadap Al-Qur'an itu. Di antaranya adalah Abu al-Walid, yaitu seorang pemimpin dan sastrawan Arab yang terkenal pada masa itu. Ia pernah diutus kaumnya kepada Nabi saw untuk meminta beliau menghentikan dakwahnya. Mendengar permintaan Abu al-Walid itu, Nabi saw membaca Surah Fussilat/41 dari ayat pertama hingga akhir ayat 14. Abu al-Walid terpesona mendengar ayat-ayat itu, sehingga ia termenung memikirkan keindahan gaya bahasanya. Lalu ia langsung kembali kepada kaumnya. Ketika ditanya tentang hasil pertemuan itu, ia mengatakan kepada kaumnya, \"Aku belum pernah mendengar kata-kata yang seindah itu. Apa yang dibaca itu bukanlah syair, sihir, atau kata-kata ahli tenung. Mendengar jawaban Abu al-Walid, mereka menuduh bahwa ia telah terkena sihir oleh Muhammad dan berkhianat kepada agama nenek moyang mereka. Di antara pemuka dan sesepuh Quraisy adalah al-Walid bin al-Mugirah. Orang ini pernah mendengar ayat-ayat Al-Qur'an yang dibacakan Nabi. Maka ia berkata kepada kaumnya (Bani Makhzum), \"Baru-baru ini aku mendengar dari Muhammad suatu ucapan yang menurutku bukanlah perkataan manusia atau jin. Ucapan itu enak didengar, bagus disimak, laksana sebatang pohon, yang atasnya berbuah, dan bawahnya terhunjam ke tanah. Dia benar-benar unggul dan tidak akan dapat diungguli. Di samping dua orang tersebut, banyak juga sastrawan Arab pada waktu itu yang mencoba membuat yang serupa ayat-ayat Al-Qur'an , tetapi tidak seorang pun yang sanggup melakukannya.\n\nDari kedua ayat ini dapat dipahami bahwa sangat sedikit di antara kaum musyrik Mekah yang mengakui bahwa Al-Qur'an adalah kitab yang diturunkan Allah kepada Muhammad, begitu juga yang mengambil pelajaran dari isinya. Yang demikian itu adalah karena:\n\n1.Mereka takut dikucilkan oleh kaumnya dengan mempelajari Al-Qur'an, walaupun hati dan pikiran mereka telah mengakuinya, seperti halnya pada Abu al-Walid dan al-Walid bin al-Mugirah.\n\n2.Sebahagian mereka tidak mengetahui isinya karena tidak mau mempelajarinya dengan sungguh-sungguh. Mereka lebih dahulu mendustakannya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5366,
+                    "inSurah": 43
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ",
+                    "transliteration": {
+                        "en": "Tanzeelum mir rabbil 'aalameen"
+                    }
+                },
+                "translation": {
+                    "en": "[It is] a revelation from the Lord of the worlds.",
+                    "id": "Ia (Al-Qur'an) adalah wahyu yang diturunkan dari Tuhan seluruh alam."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5366",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5366.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5366.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "adalah wahyu yang diturunkan dari Tuhan seluruh alam. Diturunkan sebagai bentuk kasih sayang-Nya kepada seluruh alam.",
+                        "long": "Al-Qur'an benar-benar berasal dari Tuhan Maha Pencipta, Maha Pengatur, Maha Penjaga dan Maha Menguasai seluruh alam."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5367,
+                    "inSurah": 44
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ",
+                    "transliteration": {
+                        "en": "Wa law taqawwala 'alainaa ba'dal aqaaweel"
+                    }
+                },
+                "translation": {
+                    "en": "And if Muhammad had made up about Us some [false] sayings,",
+                    "id": "Dan sekiranya dia (Muhammad) mengada-adakan sebagian perkataan atas (nama) Kami,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5367",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5367.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5367.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah ditegaskan bahwa al-Qur\\'an adalah bersumber dari Allah, ayat-ayat ini memperkuat penegasan tersebut dengan menyatakan bahwa tidak ada campur tangan sedikit pun dari Nabi Muhammad dalam menyusun isi kandungan Al-Qur\\'an. Dan sekiranya dia, Nabi Muhammad, mengada-adakan sebagian perkataan apalagi semua atas nama Kami, pasti Kami siksa dia dengan sangat keras",
+                        "long": "Kedua ayat ini menegaskan bahwa Al-Qur'an itu benar-benar berasal dari Allah, bukan buatan Muhammad, syair, atau khayalan tukang tenung, karena tidak seorang makhluk pun yang sanggup membuat seperti ayat-ayat Al-Qur'an itu. Allah menegaskan bahwa seandainya Nabi Muhammad mengatakan sesuatu tentang-Nya dan mengucapkan perkataan yang dikatakannya berasal dari-Nya, padahal Ia tidak pernah menyatakan atau mengatakannya, Allah pasti pegang tangan kanannya untuk menerima hukuman dari-Nya. Bagi Allah tidaklah berat dan sukar menghukumnya dengan hukuman yang sangat besar sekalipun, karena Ia Mahakuasa atas segala sesuatu.\n\nUngkapan \"memegang tangan kanan\" (al-akhdhu bil yamin) dalam ayat ini merupakan ungkapan untuk suatu tindakan yang dilakukan terhadap orang yang berada di bawah kekuasaan seseorang, dengan maksud memberi hukuman kepada orang itu. Contohnya seperti seorang raja yang memberikan hukuman kepada seorang pemberontak.\n\nDalam ayat ini, ungkapan tersebut dipakai untuk menyatakan bahwa bagi Allah tidak ada suatu keberatan pun untuk melakukan suatu tindakan terhadap Muhammad, kalau ia mengadakan sesuatu yang tidak benar terhadap-Nya. Hal itu sebagai hukuman bagi Nabi saw, bagaimana pun beratnya hukuman itu.\n\nAyat ini juga mengisyaratkan bahwa seandainya Al-Qur'an itu buatan Muhammad, pasti akan ditolak oleh manusia dan beliau akan gagal dalam melaksanakan dakwahnya. Kenyataan yang terjadi adalah sebaliknya, Muhammad diterima oleh orang-orang beriman karena mereka percaya akan kebenaran Al-Qur'an. Dan ternyata pula bahwa agama Islam makin hari makin berkembang."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5368,
+                    "inSurah": 45
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَأَخَذْنَا مِنْهُ بِالْيَمِينِ",
+                    "transliteration": {
+                        "en": "La-akhaznaa minhu bilyameen"
+                    }
+                },
+                "translation": {
+                    "en": "We would have seized him by the right hand;",
+                    "id": "pasti Kami pegang dia pada tangan kanannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5368",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5368.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5368.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "atau pastilah Kami pegang dia pada tangan kanannya.",
+                        "long": "Kedua ayat ini menegaskan bahwa Al-Qur'an itu benar-benar berasal dari Allah, bukan buatan Muhammad, syair, atau khayalan tukang tenung, karena tidak seorang makhluk pun yang sanggup membuat seperti ayat-ayat Al-Qur'an itu. Allah menegaskan bahwa seandainya Nabi Muhammad mengatakan sesuatu tentang-Nya dan mengucapkan perkataan yang dikatakannya berasal dari-Nya, padahal Ia tidak pernah menyatakan atau mengatakannya, Allah pasti pegang tangan kanannya untuk menerima hukuman dari-Nya. Bagi Allah tidaklah berat dan sukar menghukumnya dengan hukuman yang sangat besar sekalipun, karena Ia Mahakuasa atas segala sesuatu.\n\nUngkapan \"memegang tangan kanan\" (al-akhdhu bil yamin) dalam ayat ini merupakan ungkapan untuk suatu tindakan yang dilakukan terhadap orang yang berada di bawah kekuasaan seseorang, dengan maksud memberi hukuman kepada orang itu. Contohnya seperti seorang raja yang memberikan hukuman kepada seorang pemberontak.\n\nDalam ayat ini, ungkapan tersebut dipakai untuk menyatakan bahwa bagi Allah tidak ada suatu keberatan pun untuk melakukan suatu tindakan terhadap Muhammad, kalau ia mengadakan sesuatu yang tidak benar terhadap-Nya. Hal itu sebagai hukuman bagi Nabi saw, bagaimana pun beratnya hukuman itu.\n\nAyat ini juga mengisyaratkan bahwa seandainya Al-Qur'an itu buatan Muhammad, pasti akan ditolak oleh manusia dan beliau akan gagal dalam melaksanakan dakwahnya. Kenyataan yang terjadi adalah sebaliknya, Muhammad diterima oleh orang-orang beriman karena mereka percaya akan kebenaran Al-Qur'an. Dan ternyata pula bahwa agama Islam makin hari makin berkembang."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5369,
+                    "inSurah": 46
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ",
+                    "transliteration": {
+                        "en": "Summa laqata'naa minhul wateen"
+                    }
+                },
+                "translation": {
+                    "en": "Then We would have cut from him the aorta.",
+                    "id": "Kemudian Kami potong pembuluh jantungnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5369",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5369.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5369.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Kemudian vang lebih mengerikan lagi adalah pasti Kami potong pembuluh jantungnya sehingga dia tidak akan hidup sekejap pun.",
+                        "long": "Pada kedua ayat ini ditegaskan lagi kekuasaan Allah terhadap makhluk-Nya. Seandainya Allah ingin melakukan sesuatu kepada hamba-hamba-Nya, tidak seorang pun yang dapat menghalanginya, sekalipun tindakan itu adalah tindakan yang menentukan hidup-matinya seseorang, seperti tindakan memutuskan urat nadi jantungnya, yang berakibat kematiannya. Demikian pula kepada Muhammad. Seandainya dia berdusta terhadap Allah, tentu Allah akan marah kepadanya dan menghukumnya dengan hukuman mati, yaitu dengan memutus pembuluh darahnya. Tidak ada seorang pun yang dapat menghalangi-Nya dari melaksanakan hukuman itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5370,
+                    "inSurah": 47
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَاجِزِينَ",
+                    "transliteration": {
+                        "en": "Famaa minkum min ahadin'anhu haajizeen"
+                    }
+                },
+                "translation": {
+                    "en": "And there is no one of you who could prevent [Us] from him.",
+                    "id": "Maka tidak seorang pun dari kamu yang dapat menghalangi (Kami untuk menghukumnya)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5370",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5370.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5370.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sekiranya itu Kami lakukan maka tidak seorang pun dari kamu yang dapat menghalangi Kami untuk menghukumnya.",
+                        "long": "Pada kedua ayat ini ditegaskan lagi kekuasaan Allah terhadap makhluk-Nya. Seandainya Allah ingin melakukan sesuatu kepada hamba-hamba-Nya, tidak seorang pun yang dapat menghalanginya, sekalipun tindakan itu adalah tindakan yang menentukan hidup-matinya seseorang, seperti tindakan memutuskan urat nadi jantungnya, yang berakibat kematiannya. Demikian pula kepada Muhammad. Seandainya dia berdusta terhadap Allah, tentu Allah akan marah kepadanya dan menghukumnya dengan hukuman mati, yaitu dengan memutus pembuluh darahnya. Tidak ada seorang pun yang dapat menghalangi-Nya dari melaksanakan hukuman itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5371,
+                    "inSurah": 48
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِنَّهُ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ",
+                    "transliteration": {
+                        "en": "Wa innahoo latazkiratul lilmuttaqeen"
+                    }
+                },
+                "translation": {
+                    "en": "And indeed, the Qur'an is a reminder for the righteous.",
+                    "id": "Dan sungguh, (Al-Qur'an) itu pelajaran bagi orang-orang yang bertakwa."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5371",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5371.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5371.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah dijelaskan bahwa al-Qur\\'an bersumber dari Allah, kini diuraikan fungsi dari al-Qur\\'an dan respons manusia atas kehadirannya. Dan sungguh, Al-Qur’an itu adalah pelajaran yang amat berharga bagi orang-orang yang bertakwa.",
+                        "long": "Al-Qur'an bukanlah perkataan penyair, bukan hasil tenung tukang tenung, dan bukan pula perkataan Muhammad, tetapi adalah kalam Allah yang diturunkan-Nya kepada Nabi Muhammad saw untuk disampaikan kepada umat manusia. Dengan Al-Qur'an itu, manusia akan beriman dan akan mendapat petunjuk dalam mengayuh bahtera kehidupannya ke pulau yang dicita-citakannya, yaitu kebahagiaan hidup di dunia dan di akhirat.\n\nDari ayat ini dipahami bahwa manusia dalam mencapai kebahagiaan hidup di dunia dan di akhirat, memerlukan petunjuk-petunjuk. Petunjuk itu ada yang dapat dicapai oleh akal pikiran, dan ada yang tidak. Yang dapat dicapai oleh akal pikiran ialah seperti bagaimana cara mereka hidup, mencari nafkah, menanam padi, memelihara binatang ternak, bagaimana melindungi diri dari kehujanan dan kepanasan, dan sebagainya. Ada pula petunjuk yang tidak dapat dicapai oleh akal pikiran manusia, sehingga harus ada yang menunjukkannya. Hanya Allah, sebagai pencipta, pemilik dan penguasa seluruh makhluk, yang bisa memberikan petunjuk itu. Semua petunjuk Allah itu termuat dalam Al-Qur'an dan dijelaskan oleh sunah Nabi saw, serta diberikan kepada orang berpikir. Apakah orang kafir memikirkan yang demikian itu?"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5372,
+                    "inSurah": 49
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+                    "transliteration": {
+                        "en": "Wa inna lana'lamu anna minkum mukazzibeen"
+                    }
+                },
+                "translation": {
+                    "en": "And indeed, We know that among you are deniers.",
+                    "id": "Dan sungguh, Kami mengetahui bahwa di antara kamu ada orang yang mendustakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5372",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5372.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5372.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sungguh, Kami mengetahui bahwa di antara kamu wahai manusia ada orang yang mendustakan disamping ada pula yang menerimanya dengan segala ketulusan hatinya.",
+                        "long": "Ayat ini merupakan peringatan keras kepada kaum musyrik. Dijelaskan bahwa Allah Maha Mengetahui segala sesuatu yang terdapat di alam ini, sejak dari yang kecil sampai yang besar, yang halus sampai yang kasar, serta yang tidak tampak sampai yang tampak. Oleh karena itu, Allah mengetahui setiap orang yang mendustakan Al-Qur'an, mengingkari rasul, dan melakukan perbuatan-perbuatan yang terlarang. Maka Allah akan melakukan tindakan dan menghukum dengan seadil-adilnya di antara manusia, sesuai dengan perbuatannya.\n\nDari perkataan \"minkum\" (sebahagian kamu) yang terdapat dalam ayat ini dapat dipahami bahwa ada di antara orang musyrik itu yang mempercayai kebenaran Al-Qur'an dan Rasulullah. Akan tetapi, karena hawa nafsu, takut dipencilkan kaumnya, takut kehilangan pangkat dan harta, mereka mendustakannya. Allah berfirman:\n\nSesungguhnya dia telah memikirkan dan menetapkan (apa yang ditetapkannya), maka celakalah dia! Bagaimana dia menetapkan? Sekali lagi, celakalah dia! Bagaimana dia menetapkan? Kemudian dia (merenung) memikirkan, lalu berwajah masam dan cemberut, kemudian berpaling (dari kebenaran) dan menyombongkan diri, lalu dia berkata, \"(Al-Qur'an) ini hanyalah sihir yang dipelajari (dari orang-orang dahulu). Ini hanyalah perkataan manusia.\" (al-Muddatstsir/74: 18-25)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5373,
+                    "inSurah": 50
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِنَّهُ لَحَسْرَةٌ عَلَى الْكَافِرِينَ",
+                    "transliteration": {
+                        "en": "Wa innahu lahasratun 'alal kaafireen"
+                    }
+                },
+                "translation": {
+                    "en": "And indeed, it will be [a cause of] regret upon the disbelievers.",
+                    "id": "Dan sungguh, (Al-Qur'an) itu akan menimbulkan penyesalan bagi orang-orang kafir (di akhirat)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5373",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5373.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5373.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sungguh, Al-Qur’an itu akan benar-benar menimbulkan penyesalan bagi orang-orang kafir khususnya di akhirat nanti setelah mereka melihat pahala yang diperoleh bagi yang beriman dan mengetahui siksa yang mereka alami.",
+                        "long": "Dalam ayat ini dijelaskan bahwa Al-Qur'an menimbulkan kekecewaan bagi orang kafir, baik selama hidup di dunia maupun di akhirat. Di dunia mereka kecewa karena pengaruh agama Islam bertambah kuat sehingga pengaruh kepercayaan syirik makin berkurang, bahkan akhirnya hilang seluruhnya tanpa bekas sedikit pun. Al-Qur'an menyatakan kebatilan kepercayaan mereka, seperti menyembah patung yang tidak dapat menimbulkan mudarat dan manfaat.\n\nDi akhirat nanti setelah mengalami azab yang dahsyat, mereka menyesal kenapa tidak mengikuti seruan Nabi Muhammad, seperti yang dilakukan orang-orang yang beriman. Akan tetapi, penyesalan mereka itu tidak ada gunanya lagi karena pintu tobat telah tertutup."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5374,
+                    "inSurah": 51
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِنَّهُ لَحَقُّ الْيَقِينِ",
+                    "transliteration": {
+                        "en": "Wa innahoo lahaqqul yaqeen"
+                    }
+                },
+                "translation": {
+                    "en": "And indeed, it is the truth of certainty.",
+                    "id": "Dan Sungguh, (Al-Qur'an) itu kebenaran yang meyakinkan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5374",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5374.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5374.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan Sungguh, Al-Qur’an itu adalah kebenaran yang meyakinkan tanpa ada sedikit pun keraguan.",
+                        "long": "Dalam ayat ini, ditegaskan lagi bahwa Al-Qur'an adalah suatu yang benar dan nyata kebenarannya. Ia benar-benar berasal dari Tuhan semesta alam, bukan perkataan yang diada-adakan Muhammad."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5375,
+                    "inSurah": 52
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 501,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+                    "transliteration": {
+                        "en": "Fasbbih bismi Rabbikal 'Azeem"
+                    }
+                },
+                "translation": {
+                    "en": "So exalt the name of your Lord, the Most Great.",
+                    "id": "Maka bertasbihlah dengan (menyebut) nama Tuhanmu Yang Mahaagung."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5375",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5375.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5375.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka bertasbihlah dengan menyebut nama Tuhanmu Yang Mahaagung serta sucikanlah Dia dari segala hal yang tidak layak bagi-Nya.",
+                        "long": "Oleh karena itu, Nabi Muhammad diperintahkan untuk bertasbih dengan menyebut nama Allah dan bersyukur kepada-Nya karena Dia telah melimpahkan rahmat yang tidak terhingga kepadanya dan kepada seluruh manusia berupa Al-Qur'an, sebagai petunjuk dalam mencapai kebahagiaan hidup di dunia dan di akhirat. Sesungguhnya Tuhan yang telah memberi rahmat itu adalah Tuhan Yang Mahaagung."
+                    }
+                }
+            }
+        ]
+    }
+}

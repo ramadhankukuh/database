@@ -1,0 +1,811 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 82,
+        "sequence": 82,
+        "numberOfVerses": 19,
+        "name": {
+            "short": "الإنفطار",
+            "long": "سورة الإنفطار",
+            "transliteration": {
+                "en": "Al-Infitaar",
+                "id": "Al-Infitar"
+            },
+            "translation": {
+                "en": "The Cleaving",
+                "id": "Terbelah"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat An Naazi'aat. Al Infithaar yang dijadikan  nama untuk surat ini adalah kata asal dari kata Infatharat (terbelah)  yang terdapat pada ayat pertama."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5830,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِذَا السَّمَاءُ انفَطَرَتْ",
+                    "transliteration": {
+                        "en": "Izas samaaa'un fatarat"
+                    }
+                },
+                "translation": {
+                    "en": "When the sky breaks apart",
+                    "id": "Apabila langit terbelah,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5830",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5830.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5830.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ada empat peristiwa besar pada hari kiamat yang disebutkan di bagian awal surah ini, dari ayat 1 s.d. 4. Dua peristiwa yang pertama terjadi di langit dan sisanya di bumi. Apabila langit yang demikian besar dan kukuh terbelah, retak, kemudian digulung.",
+                        "long": "Ayat-ayat ini menjelaskan kekacauan yang terjadi menjelang hari Kiamat dan kehancuran alam semesta. Gejala kehancuran alam digambarkan dengan keadaan langit yang terbelah sehingga formasi alam semesta berubah menjadi kacau. Bintang-bintang jatuh berserakan, tidak lagi pada posisinya. Padahal Allah menginformasikan bahwa matahari memiliki posisi tertentu yang menjadi pusat rotasinya, dan begitu juga dengan bulan. Firman Allah:\n\nMaka perhatikanlah bekas-bekas rahmat Allah, bagaimana Allah menghidupkan bumi setelah mati (kering). Sungguh, itu berarti Dia pasti (berkuasa) menghidupkan yang telah mati. Dan Dia Mahakuasa atas segala sesuatu. (ar-Rum/30: 50)\n\nFenomena lainnya adalah lautan meluap menenggelamkan semua daratan. Air tawar bercampur dengan air asin, tidak ada lagi daratan yang bisa dihuni oleh makhluk hidup apalagi air laut yang meluap menjadi panas. Sungguh bumi telah berubah, bukan lagi bumi yang biasa dikenal oleh manusia. \n\n(Yaitu) pada hari (ketika) bumi diganti dengan bumi yang lain dan (demikian pula) langit, dan mereka (manusia) berkumpul (di Padang Mahsyar) menghadap Allah Yang Maha Esa, Mahaperkasa. (Ibrahim/14: 48)\n\nUntuk telaah ilmiah Surah al-Infithar/82:1-3, lihat pula telaah ilmiah Surah al-haqqah/69: 13-16; al-Ma'arij/70: 8, dan at-Takwir/81: 1-3. Ketika terjadi proses ke arah Big Crunch itu, yaitu proses pemadatan atau penyusutan alam semesta, maka semua materi pecah kembali menjadi materi-materi fundamental seperti quark, elektron dan sebagainya, gaya-gaya seperti gaya gravitasi, elektromagnetik, nuklir kuat dan nuklir lemah mulai menyatu kembali. Langit antariksa mulai lemah karena tidak ada topangan gaya gravitasi, dan mulai menyusut/mengerut dan retak/terbelah. Saat itulah benda-benda langit, termasuk bintang-bintang yang mulai kehilangan gaya-gaya gravitasinya, bertubrukan antar sesamanya. Inilah gambaran 'bintang-bintang jatuh berserakan, karena kehilangan gaya-gaya gravitasinya, dan karena terurai kembali atau meluruh menjadi materi-materi fundamentalnya. \n\nMenurut Bashiruddin, ketika matahari telah mencapai evolusi membengkak dan berwarna merah (red star)(lihat telaah ilmiah Surah at-Takwir/81: 1-3), maka suhu bumi akan meninggi, sampai air laut mencapai titik didihnya. Panasnya bumi oleh radiasi matahari merah ini, sangat mungkin akan mencairkan gunung-gunung es di Artik (Kutub Utara) dan benua es Antartika (Kutub Selatan), sehingga samudera akan meluap secara dahsyat, menenggelamkan banyak pulau. Air laut ini kemudian akan mendidih dan menguap dan lenyap dari bumi. Bumi menjadi tidak layak huni. Paul Davies mengatakan bahwa ketika alam semesta telah memadat sampai seper-seratus (1/100) dari luasnya yang sekarang ini, maka efek tekanannya akan mengakibatkan suhu yang meninggi sampai mencapai titik didih benda cair; dan bumi menjadi tempat yang tidak layak-huni lagi."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5831,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِذَا الْكَوَاكِبُ انتَثَرَتْ",
+                    "transliteration": {
+                        "en": "Wa izal kawaakibun tasarat"
+                    }
+                },
+                "translation": {
+                    "en": "And when the stars fall, scattering,",
+                    "id": "dan apabila bintang-bintang jatuh berserakan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5831",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5831.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5831.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan apabila bintang-bintang jatuh berserakan, keluar dari garis edarnya, dan berhamburan secara acak akibat hilangnya gaya tarik-menarik antar-benda angkasa.",
+                        "long": "Ayat-ayat ini menjelaskan kekacauan yang terjadi menjelang hari Kiamat dan kehancuran alam semesta. Gejala kehancuran alam digambarkan dengan keadaan langit yang terbelah sehingga formasi alam semesta berubah menjadi kacau. Bintang-bintang jatuh berserakan, tidak lagi pada posisinya. Padahal Allah menginformasikan bahwa matahari memiliki posisi tertentu yang menjadi pusat rotasinya, dan begitu juga dengan bulan. Firman Allah:\n\nMaka perhatikanlah bekas-bekas rahmat Allah, bagaimana Allah menghidupkan bumi setelah mati (kering). Sungguh, itu berarti Dia pasti (berkuasa) menghidupkan yang telah mati. Dan Dia Mahakuasa atas segala sesuatu. (ar-Rum/30: 50)\n\nFenomena lainnya adalah lautan meluap menenggelamkan semua daratan. Air tawar bercampur dengan air asin, tidak ada lagi daratan yang bisa dihuni oleh makhluk hidup apalagi air laut yang meluap menjadi panas. Sungguh bumi telah berubah, bukan lagi bumi yang biasa dikenal oleh manusia. \n\n(Yaitu) pada hari (ketika) bumi diganti dengan bumi yang lain dan (demikian pula) langit, dan mereka (manusia) berkumpul (di Padang Mahsyar) menghadap Allah Yang Maha Esa, Mahaperkasa. (Ibrahim/14: 48)\n\nUntuk telaah ilmiah Surah al-Infithar/82:1-3, lihat pula telaah ilmiah Surah al-haqqah/69: 13-16; al-Ma'arij/70: 8, dan at-Takwir/81: 1-3. Ketika terjadi proses ke arah Big Crunch itu, yaitu proses pemadatan atau penyusutan alam semesta, maka semua materi pecah kembali menjadi materi-materi fundamental seperti quark, elektron dan sebagainya, gaya-gaya seperti gaya gravitasi, elektromagnetik, nuklir kuat dan nuklir lemah mulai menyatu kembali. Langit antariksa mulai lemah karena tidak ada topangan gaya gravitasi, dan mulai menyusut/mengerut dan retak/terbelah. Saat itulah benda-benda langit, termasuk bintang-bintang yang mulai kehilangan gaya-gaya gravitasinya, bertubrukan antar sesamanya. Inilah gambaran 'bintang-bintang jatuh berserakan, karena kehilangan gaya-gaya gravitasinya, dan karena terurai kembali atau meluruh menjadi materi-materi fundamentalnya. \n\nMenurut Bashiruddin, ketika matahari telah mencapai evolusi membengkak dan berwarna merah (red star)(lihat telaah ilmiah Surah at-Takwir/81: 1-3), maka suhu bumi akan meninggi, sampai air laut mencapai titik didihnya. Panasnya bumi oleh radiasi matahari merah ini, sangat mungkin akan mencairkan gunung-gunung es di Artik (Kutub Utara) dan benua es Antartika (Kutub Selatan), sehingga samudera akan meluap secara dahsyat, menenggelamkan banyak pulau. Air laut ini kemudian akan mendidih dan menguap dan lenyap dari bumi. Bumi menjadi tidak layak huni. Paul Davies mengatakan bahwa ketika alam semesta telah memadat sampai seper-seratus (1/100) dari luasnya yang sekarang ini, maka efek tekanannya akan mengakibatkan suhu yang meninggi sampai mencapai titik didih benda cair; dan bumi menjadi tempat yang tidak layak-huni lagi."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5832,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+                    "transliteration": {
+                        "en": "Wa izal bihaaru fujjirat"
+                    }
+                },
+                "translation": {
+                    "en": "And when the seas are erupted",
+                    "id": "dan apabila lautan dijadikan meluap,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5832",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5832.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5832.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan apabila lautan dijadikan meluap, di mana batas antara satu laut dengan lainnya terbelah dan hancur sehingga air meluap. Air tawar dan asin pun menyatu, berkumpul menjadi lautan raksasa tak bertepi.",
+                        "long": "Ayat-ayat ini menjelaskan kekacauan yang terjadi menjelang hari Kiamat dan kehancuran alam semesta. Gejala kehancuran alam digambarkan dengan keadaan langit yang terbelah sehingga formasi alam semesta berubah menjadi kacau. Bintang-bintang jatuh berserakan, tidak lagi pada posisinya. Padahal Allah menginformasikan bahwa matahari memiliki posisi tertentu yang menjadi pusat rotasinya, dan begitu juga dengan bulan. Firman Allah:\n\nMaka perhatikanlah bekas-bekas rahmat Allah, bagaimana Allah menghidupkan bumi setelah mati (kering). Sungguh, itu berarti Dia pasti (berkuasa) menghidupkan yang telah mati. Dan Dia Mahakuasa atas segala sesuatu. (ar-Rum/30: 50)\n\nFenomena lainnya adalah lautan meluap menenggelamkan semua daratan. Air tawar bercampur dengan air asin, tidak ada lagi daratan yang bisa dihuni oleh makhluk hidup apalagi air laut yang meluap menjadi panas. Sungguh bumi telah berubah, bukan lagi bumi yang biasa dikenal oleh manusia. \n\n(Yaitu) pada hari (ketika) bumi diganti dengan bumi yang lain dan (demikian pula) langit, dan mereka (manusia) berkumpul (di Padang Mahsyar) menghadap Allah Yang Maha Esa, Mahaperkasa. (Ibrahim/14: 48)\n\nUntuk telaah ilmiah Surah al-Infithar/82:1-3, lihat pula telaah ilmiah Surah al-haqqah/69: 13-16; al-Ma'arij/70: 8, dan at-Takwir/81: 1-3. Ketika terjadi proses ke arah Big Crunch itu, yaitu proses pemadatan atau penyusutan alam semesta, maka semua materi pecah kembali menjadi materi-materi fundamental seperti quark, elektron dan sebagainya, gaya-gaya seperti gaya gravitasi, elektromagnetik, nuklir kuat dan nuklir lemah mulai menyatu kembali. Langit antariksa mulai lemah karena tidak ada topangan gaya gravitasi, dan mulai menyusut/mengerut dan retak/terbelah. Saat itulah benda-benda langit, termasuk bintang-bintang yang mulai kehilangan gaya-gaya gravitasinya, bertubrukan antar sesamanya. Inilah gambaran 'bintang-bintang jatuh berserakan, karena kehilangan gaya-gaya gravitasinya, dan karena terurai kembali atau meluruh menjadi materi-materi fundamentalnya. \n\nMenurut Bashiruddin, ketika matahari telah mencapai evolusi membengkak dan berwarna merah (red star)(lihat telaah ilmiah Surah at-Takwir/81: 1-3), maka suhu bumi akan meninggi, sampai air laut mencapai titik didihnya. Panasnya bumi oleh radiasi matahari merah ini, sangat mungkin akan mencairkan gunung-gunung es di Artik (Kutub Utara) dan benua es Antartika (Kutub Selatan), sehingga samudera akan meluap secara dahsyat, menenggelamkan banyak pulau. Air laut ini kemudian akan mendidih dan menguap dan lenyap dari bumi. Bumi menjadi tidak layak huni. Paul Davies mengatakan bahwa ketika alam semesta telah memadat sampai seper-seratus (1/100) dari luasnya yang sekarang ini, maka efek tekanannya akan mengakibatkan suhu yang meninggi sampai mencapai titik didih benda cair; dan bumi menjadi tempat yang tidak layak-huni lagi."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5833,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِذَا الْقُبُورُ بُعْثِرَتْ",
+                    "transliteration": {
+                        "en": "Wa izal qubooru bu'sirat"
+                    }
+                },
+                "translation": {
+                    "en": "And when the [contents of] graves are scattered,",
+                    "id": "dan apabila kuburan-kuburan dibongkar,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5833",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5833.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5833.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan apabila kuburan-kuburan dibongkar sehingga mayat-mayat yang ada di dalamnya hidup kembali lalu berhamburan keluar tak tentu arah.",
+                        "long": "Dan apabila kuburan-kuburan terbongkar sehingga keluarlah mayat-mayat yang berada di dalamnya setelah dibangkitkan dan dihidupkan kembali untuk mempertanggungjawabkan amal perbuatannya di dunia di hadapan Allah Sang Pencipta. Hal ini ditegaskan kembali dalam firman Allah yang lain:\n\nMaka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan. (al-'Adiyat/100: 9)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5834,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+                    "transliteration": {
+                        "en": "'Alimat nafsum maa qaddamat wa akhkharat"
+                    }
+                },
+                "translation": {
+                    "en": "A soul will [then] know what it has put forth and kept back.",
+                    "id": "(maka) setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(nya)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5834",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5834.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5834.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka pada saat itulah setiap jiwa akan mengetahui secara rinci amal baik atau buruk apa saja yang telah dikerjakan olehnya di dunia dan apa yang dilalaikan-nya. Dia kemudian akan mendapat balasan atas perbuatannya tersebut.",
+                        "long": "Manusia dibebani tanggung jawab untuk beramal di dunia, namun ada di antara mereka yang lalai dan tidak menjalankan kewajibannya, bahkan ada yang melakukan perbuatan yang dilarang. Dalam ayat ini, Allah bersumpah demi kuburan-kuburan yang dibongkar dan mayat-mayat yang ada di dalamnya keluar, dibangkitkan, dan dihidupkan kembali untuk diadili dan dihisab amalnya selama hidup di dunia.\n\nPada hari kiamat itu, manusia mengetahui amal-amalnya, yang baik maupun yang buruk, yang dikerjakan maupun yang dilalaikan. Mereka mengetahui yang demikian itu dari kitab yang diserahkan kepada mereka, sebagaimana firman Allah:\n\nDan setiap manusia telah Kami kalungkan (catatan) amal perbuatannya di lehernya. Dan pada hari Kiamat Kami keluarkan baginya sebuah kitab dalam keadaan terbuka. \"Bacalah kitabmu, cukuplah dirimu sendiri pada hari ini sebagai penghitung atas dirimu.\" (al-Isra'/17: 13-14)\n\nAyat ini mendorong manusia untuk selalu menaati Allah, beramal saleh, dan meninggalkan semua perbuatan maksiat yang akan merugikan mereka di akhirat kelak."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5835,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
+                    "transliteration": {
+                        "en": "Yaaa ayyuhal insaaanu maa gharraka bi Rabbikal kareem"
+                    }
+                },
+                "translation": {
+                    "en": "O mankind, what has deceived you concerning your Lord, the Generous,",
+                    "id": "Wahai manusia! Apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Mahamulia,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5835",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5835.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5835.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Malaikat menyeru penuh heran, “Wahai manusia! Apakah yang telah memperdayakan kamu sehingga berbuat durhaka terhadap Tuhanmu Yang Mahamulia, padahal Dialah yang telah menciptakanmu, memeliharamu, mendidikmu, dan menjadikanmu makhluk terbaik?”",
+                        "long": "Dalam ayat ini, Allah mencela manusia-manusia yang kafir, teperdaya, dan berani berbuat hal-hal yang dilarang Allah. Padahal, Allah Maha Pemurah dengan berbagai karunia yang dianugerahkannya kepada manusia, seperti rezeki yang banyak, keturunan yang baik dan saleh, kesehatan tubuh, dan lain-lain. Seharusnya mereka bersyukur sebagai balasan atas kemurahan Allah, bukan berbuat sebaliknya. Peringatan Allah untuk tidak teperdaya oleh apa pun sehingga tidak terdorong untuk berlaku sombong kepada-Nya disebutkan kembali dalam firman-Nya:\n\nMaka janganlah sekali-kali kamu teperdaya oleh kehidupan dunia, dan jangan sampai kamu teperdaya oleh penipu dalam (menaati) Allah. (Luqman/31: 33)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5836,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
+                    "transliteration": {
+                        "en": "Allazee khalaqaka fasaw waaka fa'adalak"
+                    }
+                },
+                "translation": {
+                    "en": "Who created you, proportioned you, and balanced you?",
+                    "id": "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5836",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5836.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5836.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mengapa kamu ingkar kepada Tuhan yang telah menciptakanmu dari tiada dalam ukuran yang tepat, lalu Dia menyempurnakan kejadianmu dengan anggota-anggota tubuh, dan Dia menjadikan susunan tubuh-mu seimbang?",
+                        "long": "Allah kembali mengingatkan manusia atas segala kemurahan-Nya, dengan menyebutkan penciptaan-Nya pada diri manusia. Allah telah menjadikan tubuh manusia seimbang, berdiri tegak dengan gagahnya, tidak seperti binatang berkaki empat atau melata. Allah juga menciptakan semua anggota tubuh manusia bekerja dengan teratur, harmonis, dan seimbang. Allah mengatakan bahwa penciptaan manusia adalah sebaik-baik penciptaan makhluk. Allah berfirman: \n\nSungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya. (at-Tin/95: 4)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5837,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِي أَيِّ صُورَةٍ مَّا شَاءَ رَكَّبَكَ",
+                    "transliteration": {
+                        "en": "Feee ayye sooratim maa shaaa'a rakkabak"
+                    }
+                },
+                "translation": {
+                    "en": "In whatever form He willed has He assembled you.",
+                    "id": "dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5837",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5837.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5837.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu dengan sempurna. Tidak ada manusia yang sama persis dengan lainnya. Karena mempunyai bentuk tubuh yang sempurna, semestinya manusia bersyukur kepada Allah dan tidak bermaksiat bahkan menyekutukanNya.",
+                        "long": "Pada ayat ini, Allah menyebutkan bahwa penciptaan manusia sesuai dengan kehendaknya. Ada manusia yang berkulit putih, kuning, hitam, kuning langsat, dan lain-lain. Ada manusia yang berambut lurus, keriting, berwarna hitam, pirang, coklat, dan sebagainya. Ada juga manusia yang berpostur tubuh tinggi, langsing, tinggi besar, pendek kecil, dan sebagainya. Namun demikian, yang layak diingat bahwa meskipun manusia memiliki sifat dan bentuk yang secara prinsip sama, tapi tetap ada yang berbeda antara yang satu dengan yang lain. \n\n(Bahkan) Kami mampu menyusun (kembali) jari-jemarinya dengan sempurna. (al-Qiyamah/75: 4)\n\nTinjauan ilmiah ayat- 7-8: Allah telah menjadikan susunan tubuh manusia seimbang. Bila kita melihat morfologi (bentuk tubuh fisik manusia) dari depan, akan jelas tampak sekali keseimbangan itu. Morfologi manusia tampak simetris dan seimbang apabila kita tarik garis tengah dari kepala, -melalui titik tengahnya-, sampai ke bawah, akan tampak keseimbangan susunan fisik tubuh manusia itu. Belahan kiri dan kanan seolah merupakan bayangan cermin satu dengan yang lainnya. Masing-masing belahan mempunyai satu mata, satu telinga, satu lubang hidung, satu kuping, satu tangan, dan satu kaki, yang satu belahan dengan belahan yang lainnya, merupakan bayangan cermin yang simetris seimbang.\n\nAllah telah menganugerahkan sistem syaraf pada manusia, yang berfungsi untuk mengatur keseimbangan dan kesetimbangan tubuh manusia, serta kemampuan manusia untuk berorientasi pada ruang 3 dimensi. Sistem syaraf yang mengatur keseimbangan manusia itu berada di dalam Sistem Syaraf Perifer (SSP) manusia. Dalam SSP terdapat sistem syaraf yang mengatur keseimbangan tubuh manusia, yaitu yang dikenal dengan syaraf ke-VIII, atau disebut pula Vestibulocochlear nerve (syaraf \"siput-telinga\" depan). Syaraf ke-VIII ini mempunyai fungsi bagi adanya balance (keseimbangan), equillibrium (kesetimbangan), serta orientation in three-dimensional space (orientasi dalam ruang tiga dimensi), (Nerves and Nervous Systems dalam The New Encyclopaedia Britannica, Vol. 24, Macropaedia, 2005, p. 817).\n\nDalam mekanisme faali (fisiologik) manusia, Allah juga telah melengkapi manusia dengan dua sistem syaraf, di mana antara yang satu sama lain saling menyeimbangkan. Di dalam SSP tersebut terdapat pula Susunan Syaraf Otonom yang terdiri dari Sistem Syaraf Simpati (Sympathetic Nervous System, SNS) dan Sistem Syaraf Parasimpati (Parasympathetic Nervous System, PNS), yang kedua sistem saraf itu bekerja antagonistik, namun saling menyeimbangkan satu sama lainnya. Fungsi SNS adalah merespon kondisi stress yang dihadapi manusia, dengan mengeluarkan hormon (neurotransmitter), adreanaline (epinephrine), dan noradrenaline (norepinephrine). Dengan adanya kedua hormon ini, maka tekanan darah naik, denyut jantung bertambah cepat (tachy-cardia), pembuluh darah otot-tulang melebar (skeletal muscle vasodilatation), pembuluh darah pada perut-usus menyempit (gastrointestinal vasoconstriction), pupil mata melebar (puppillary dilatation), paru-paru melebar (broncheal dilatation). Sedangkan fungsi PSN adalah sebaliknya dari SNS tadi. PNS akan mengeluarkan hormon (neurotransmitter): acetylcholine. Adanya hormon ini akan menyebabkan: tekanan darah menurun, denyut jantung menjadi lambat (brady-cardia), pupil-mata menyempit. Kedua sistem syaraf ini: SNS dan PNS saling bekerja komplemeter, bagi berjalannya proses-proses fisiologik (faali) manusia, untuk menjaga kelangsungan hidupnya. (Nerves and Nervous Systems dalam The New Encyclopaedia Britannica, Vol. 24, Macropaedia, 2005, p. 818-820).\n\nKeseimbangan juga terdapat dalam struktur otak manusia. Dalam otak manusia terdapat dua pasang belahan atau sisi otak, yang satu sama lain merupakan bentuk bayangan cerminnya. Belahan Otak Dominan (dominant hemisphere), sering disebut 'belahan otak kiri, digunakan untuk merekam atau menyimpan hal-hal yang berkaitan dengan: bahasa, matematika, dan fungsi-fungsi analitik dan keterampilan. Sedang Belahan Otak Non-dominan (non-dominant hemisphere), sering disebut 'belahan otak kanan, digunakan untuk merekam atau menyimpan hal-hal yang berkaitan dengan konsep-konsep spasial sederhana (simple spasial consept), musik, pengenalan rupa, dan emosi. Kedua belahan otak ini saling seimbang dan melengkapi, dan kedua belahan otak ini dihubungkan oleh banyak syaraf proyeksi melalui corpus collosum. (Nerves and Nervous Systems dalam The New Encyclopaedia Britannica, Vol. 24, Macropaedia, 2005, p. 805)."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5838,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
+                    "transliteration": {
+                        "en": "Kalla bal tukazziboona bid deen"
+                    }
+                },
+                "translation": {
+                    "en": "No! But you deny the Recompense.",
+                    "id": "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5838",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5838.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5838.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sekali-kali jangan begitu; janganlah kamu berbuat durhaka! Bahkan kamu mendustakan hari pembalasan meski bukti-bukti yang menerangkan keniscayaannya telah kamu saksikan dengan nyata.",
+                        "long": "Ayat ini menjelaskan akibat dari perbuatan manusia yang teperdaya sehingga berani berbuat hal-hal yang dilarang Allah. Perbuatan mereka tidak berhenti pada kejahatan ini saja, tetapi mereka bahkan mendustakan hari pembalasan, dimana amal baik dan buruk manusia akan dibalas di akhirat kelak. \n\nTidak percaya kepada hari pembalasan menyebabkan orang tidak perlu bertanggung jawab, sehingga boleh berbuat sekehendak hatinya. Tidak percaya pada hari perhitungan bertentangan dengan tujuan penciptaan manusia (lihat Surah al-Baqarah/2: 30 dan adh-dzariyat/51/: 56) sehingga Allah mempertanyakan kepada manusia apa sebenarnya pemahaman mereka terhadap penciptaan diri mereka. Firman Allah:\n\nMaka apakah kamu mengira, bahwa Kami menciptakan kamu main-main (tanpa ada maksud) dan bahwa kamu tidak akan dikembalikan kepada Kami? (al-Mu'minun/23: 115)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5839,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ",
+                    "transliteration": {
+                        "en": "Wa inna 'alaikum lahaa fizeen"
+                    }
+                },
+                "translation": {
+                    "en": "And indeed, [appointed] over you are keepers,",
+                    "id": "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5839",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5839.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5839.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan mengapa kamu mendustakan hari pembalasan, padahal sesungguhnya bagi kamu ada para malaikat yang mengawasi semua perbuatanmu.",
+                        "long": "Ayat-ayat ini memberi peringatan kepada orang-orang kafir yang tidak mempercayai hari kebangkitan agar mereka tidak terus-menerus lalai dan ingkar serta tidak bersiap-siap menyediakan bekal untuk menghadapi hari perhitungan karena menyangka tidak ada yang mengawasi tingkah laku dan perbuatan mereka. Allah menjelaskan dalam ayat ini bahwa ada malaikat-malaikat yang diberi tugas mengawasi dan mencatat semua perbuatan manusia, baik yang buruk maupun yang baik, dan yang dilakukan dengan terang-terangan atau sembunyi-sembunyi.\n\nMalaikat yang mulia ini mencatat semua amal manusia. Dalam Al-Qur'an, para malaikat itu disebut Raqib dan 'Atid. Allah berfirman:\n\n(Ingatlah) ketika dua malaikat mencatat (perbuatannya), yang satu duduk di sebelah kanan dan yang lain di sebelah kiri. Tidak ada suatu kata yang diucapkannya melainkan ada di sisinya malaikat pengawas yang selalu siap (mencatat). (Qaf/50: 17-18)\n\nPara malaikat mengetahui apa yang dilakukan manusia dan mencatatnya. Tidak ada informasi dalam Al-Qur'an bagaimana para malaikat itu mencatatnya, namun kita percaya Allah punya sistem dan cara yang melampaui kemampuan manusia dalam pencatatan data tersebut."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5840,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كِرَامًا كَاتِبِينَ",
+                    "transliteration": {
+                        "en": "Kiraaman kaatibeen"
+                    }
+                },
+                "translation": {
+                    "en": "Noble and recording;",
+                    "id": "yang mulia (di sisi Allah) dan yang mencatat (amal perbuatanmu),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5840",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5840.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5840.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka adalah makhluk yang mulia di sisi Allah karena kepatuhan dan ketaatan mereka, dan yang tidak pernah luput mencatat amal perbuatanmu, dari yang baik hingga yang buruk, dari yang kecil hingga yang besar.",
+                        "long": "Ayat-ayat ini memberi peringatan kepada orang-orang kafir yang tidak mempercayai hari kebangkitan agar mereka tidak terus-menerus lalai dan ingkar serta tidak bersiap-siap menyediakan bekal untuk menghadapi hari perhitungan karena menyangka tidak ada yang mengawasi tingkah laku dan perbuatan mereka. Allah menjelaskan dalam ayat ini bahwa ada malaikat-malaikat yang diberi tugas mengawasi dan mencatat semua perbuatan manusia, baik yang buruk maupun yang baik, dan yang dilakukan dengan terang-terangan atau sembunyi-sembunyi.\n\nMalaikat yang mulia ini mencatat semua amal manusia. Dalam Al-Qur'an, para malaikat itu disebut Raqib dan 'Atid. Allah berfirman:\n\n(Ingatlah) ketika dua malaikat mencatat (perbuatannya), yang satu duduk di sebelah kanan dan yang lain di sebelah kiri. Tidak ada suatu kata yang diucapkannya melainkan ada di sisinya malaikat pengawas yang selalu siap (mencatat). (Qaf/50: 17-18)\n\nPara malaikat mengetahui apa yang dilakukan manusia dan mencatatnya. Tidak ada informasi dalam Al-Qur'an bagaimana para malaikat itu mencatatnya, namun kita percaya Allah punya sistem dan cara yang melampaui kemampuan manusia dalam pencatatan data tersebut."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5841,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+                    "transliteration": {
+                        "en": "Ya'lamoona ma taf'aloon"
+                    }
+                },
+                "translation": {
+                    "en": "They know whatever you do.",
+                    "id": "mereka mengetahui apa yang kamu kerjakan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5841",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5841.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5841.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Para malaikat itu mencatat perbuatanmu dengan rinci dan mereka mengetahui apa saja yang kamu kerjakan.",
+                        "long": "Ayat-ayat ini memberi peringatan kepada orang-orang kafir yang tidak mempercayai hari kebangkitan agar mereka tidak terus-menerus lalai dan ingkar serta tidak bersiap-siap menyediakan bekal untuk menghadapi hari perhitungan karena menyangka tidak ada yang mengawasi tingkah laku dan perbuatan mereka. Allah menjelaskan dalam ayat ini bahwa ada malaikat-malaikat yang diberi tugas mengawasi dan mencatat semua perbuatan manusia, baik yang buruk maupun yang baik, dan yang dilakukan dengan terang-terangan atau sembunyi-sembunyi.\n\nMalaikat yang mulia ini mencatat semua amal manusia. Dalam Al-Qur'an, para malaikat itu disebut Raqib dan 'Atid. Allah berfirman:\n\n(Ingatlah) ketika dua malaikat mencatat (perbuatannya), yang satu duduk di sebelah kanan dan yang lain di sebelah kiri. Tidak ada suatu kata yang diucapkannya melainkan ada di sisinya malaikat pengawas yang selalu siap (mencatat). (Qaf/50: 17-18)\n\nPara malaikat mengetahui apa yang dilakukan manusia dan mencatatnya. Tidak ada informasi dalam Al-Qur'an bagaimana para malaikat itu mencatatnya, namun kita percaya Allah punya sistem dan cara yang melampaui kemampuan manusia dalam pencatatan data tersebut."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5842,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+                    "transliteration": {
+                        "en": "Innal abraara lafee na'eem"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, the righteous will be in pleasure,",
+                    "id": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5842",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5842.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5842.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Semua perbuatan manusia tercatat dalam buku catatan amal yang kelak akan diperlihatkan kepada mereka di akhirat. Sesungguhnya orang-orang yang banyak berbakti, beriman, dan beramal saleh, benar-benar berada dalam surga yang penuh kenikmatan tiada tara, tak terbayangkan, apalagi terbandingkan dengan kenikmatan duniawi.",
+                        "long": "Ayat ini menjelaskan hasil atau akibat dari pencatatan amal manusia, yaitu adanya pahala dan surga bagi orang-orang yang berbuat kebajikan, dan azab bagi orang-orang yang berbuat maksiat dan dosa. Surga adalah balasan bagi orang-orang bertakwa dan beramal saleh. Allah berfirman:\n\nDan adapun orang-orang yang takut kepada kebesaran Tuhannya dan menahan diri dari (keinginan) hawa nafsunya, maka sungguh, surgalah tempat tinggal(nya). (an-Nazi'at/79: 40-41)\n\nSedangkan orang-orang yang durhaka diazab Allah di api neraka. Allah berfirman:\n\nMaka adapun orang yang melampaui batas, dan lebih mengutamakan kehidupan dunia, maka sungguh, nerakalah tempat tinggalnya. (an-Nazi'at/79: 37-39)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5843,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ",
+                    "transliteration": {
+                        "en": "Wa innal fujjaara lafee jaheem"
+                    }
+                },
+                "translation": {
+                    "en": "And indeed, the wicked will be in Hellfire.",
+                    "id": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5843",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5843.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5843.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan sesungguhnya orang-orang yang durhaka kepada Allah, enggan menaati-Nya, bahkan mengingkari, mendurhakai, dan menyekutukan-Nya, benar-benar berada dalam neraka yang penuh siksaan yang sangat mengerikan.",
+                        "long": "Ayat ini menjelaskan hasil atau akibat dari pencatatan amal manusia, yaitu adanya pahala dan surga bagi orang-orang yang berbuat kebajikan, dan azab bagi orang-orang yang berbuat maksiat dan dosa. Surga adalah balasan bagi orang-orang bertakwa dan beramal saleh. Allah berfirman:\n\nDan adapun orang-orang yang takut kepada kebesaran Tuhannya dan menahan diri dari (keinginan) hawa nafsunya, maka sungguh, surgalah tempat tinggal(nya). (an-Nazi'at/79: 40-41)\n\nSedangkan orang-orang yang durhaka diazab Allah di api neraka. Allah berfirman:\n\nMaka adapun orang yang melampaui batas, dan lebih mengutamakan kehidupan dunia, maka sungguh, nerakalah tempat tinggalnya. (an-Nazi'at/79: 37-39)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5844,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
+                    "transliteration": {
+                        "en": "Yaslawnahaa Yawmad Deen"
+                    }
+                },
+                "translation": {
+                    "en": "They will [enter to] burn therein on the Day of Recompense,",
+                    "id": "Mereka masuk ke dalamnya pada hari pembalasan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5844",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5844.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5844.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka yang durhaka itu masuk ke dalamnya pada hari pembalasan, di mana semua manusia harus mempertanggungjawabkan tiap detail perbuatannya.",
+                        "long": "Allah menjelaskan sekali lagi bahwa orang-orang yang durhaka itu akan dimasukkan ke dalam neraka pada hari kiamat kelak. Itulah tempat kembali yang paling buruk. Allah berfirman:\n\nDan orang-orang yang ingkar kepada Tuhannya akan mendapat azab Jahanam. Dan itulah seburuk-buruk tempat kembali. (al-Mulk/67: 6)\n\nMereka kekal di dalam neraka selama-lamanya. Mereka tidak punya kemampuan untuk mengeluarkan diri mereka dari tempat itu karena tidak ada lagi penolong yang dapat membantu mereka. Allah berfirman:\n\nMereka ingin keluar dari neraka, tetapi tidak akan dapat keluar dari sana. Dan mereka mendapat azab yang kekal. (al-Ma'idah/5: 37)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5845,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ",
+                    "transliteration": {
+                        "en": "Wa maa hum 'anhaa bighaaa 'ibeen"
+                    }
+                },
+                "translation": {
+                    "en": "And never therefrom will they be absent.",
+                    "id": "Dan mereka tidak mungkin keluar dari neraka itu."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5845",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5845.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5845.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan mereka yang ingkar dan durhaka kepada Allah itu tidak mungkin keluar dari neraka itu dan tidak pula mati di dalamnya. Mereka menetap dan hidup di dalamnya selama-lamanya.",
+                        "long": "Allah menjelaskan sekali lagi bahwa orang-orang yang durhaka itu akan dimasukkan ke dalam neraka pada hari kiamat kelak. Itulah tempat kembali yang paling buruk. Allah berfirman:\n\nDan orang-orang yang ingkar kepada Tuhannya akan mendapat azab Jahanam. Dan itulah seburuk-buruk tempat kembali. (al-Mulk/67: 6)\n\nMereka kekal di dalam neraka selama-lamanya. Mereka tidak punya kemampuan untuk mengeluarkan diri mereka dari tempat itu karena tidak ada lagi penolong yang dapat membantu mereka. Allah berfirman:\n\nMereka ingin keluar dari neraka, tetapi tidak akan dapat keluar dari sana. Dan mereka mendapat azab yang kekal. (al-Ma'idah/5: 37)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5846,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+                    "transliteration": {
+                        "en": "Wa maaa adraaka maa Yawmud Deen"
+                    }
+                },
+                "translation": {
+                    "en": "And what can make you know what is the Day of Recompense?",
+                    "id": "Dan tahukah kamu apakah hari pembalasan itu?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5846",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5846.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5846.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Menegaskan ketegangan hari kebangkitan, Allah bertanya, “Dan tahukah kamu apakah hari pembalasan itu?”",
+                        "long": "Dalam ayat 17 dan 18, Allah bertanya kepada Nabi dan kaumnya apakah mereka tahu apa hari pembalasan itu? Pertanyaan ini bukan meminta jawaban, tetapi celaan bagi orang-orang yang tidak mau percaya pada hari pembalasan ini. Apakah semua informasi dan tanda yang dipaparkan Al-Qur'an belum cukup untuk membuat mereka percaya? \n\nAllah kemudian menjelaskan dalam ayat 19 bahwa di hari perhitungan tidak ada manusia yang bisa menolong orang lain. Orang tua tidak bisa menolong anaknya dan begitu juga sebaliknya. Suami tidak bisa menolong istrinya, dan teman atau sahabat tidak bisa menolong temannya. Semua sibuk dengan diri masing-masing. Segala urusan pada hari itu berada di tangan Allah. Yang bisa menolong manusia hanyalah amalnya. Firman Allah:\n\nDan bahwa manusia hanya memperoleh apa yang telah diusahakannya, dan sesungguhnya usahanya itu kelak akan diperlihatkan (kepadanya). (an-Najm/53: 39-40)\n\nDan firman-Nya lagi:\n\nDan tidak ada (lagi) baginya segolongan pun yang dapat menolongnya selain Allah; dan dia pun tidak akan dapat membela dirinya. (al-Kahf/18: 43)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5847,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+                    "transliteration": {
+                        "en": "Summa maaa adraaka maa Yawmud Deen"
+                    }
+                },
+                "translation": {
+                    "en": "Then, what can make you know what is the Day of Recompense?",
+                    "id": "Sekali lagi, tahukah kamu apakah hari pembalasan itu?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5847",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5847.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5847.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Allah mengulangi sekali lagi pertanyaan-Nya guna memberi efek yang lebih menggetarkan jiwa, “Tahukah kamu apakah hari pembalasan itu?”",
+                        "long": "Dalam ayat 17 dan 18, Allah bertanya kepada Nabi dan kaumnya apakah mereka tahu apa hari pembalasan itu? Pertanyaan ini bukan meminta jawaban, tetapi celaan bagi orang-orang yang tidak mau percaya pada hari pembalasan ini. Apakah semua informasi dan tanda yang dipaparkan Al-Qur'an belum cukup untuk membuat mereka percaya? \n\nAllah kemudian menjelaskan dalam ayat 19 bahwa di hari perhitungan tidak ada manusia yang bisa menolong orang lain. Orang tua tidak bisa menolong anaknya dan begitu juga sebaliknya. Suami tidak bisa menolong istrinya, dan teman atau sahabat tidak bisa menolong temannya. Semua sibuk dengan diri masing-masing. Segala urusan pada hari itu berada di tangan Allah. Yang bisa menolong manusia hanyalah amalnya. Firman Allah:\n\nDan bahwa manusia hanya memperoleh apa yang telah diusahakannya, dan sesungguhnya usahanya itu kelak akan diperlihatkan (kepadanya). (an-Najm/53: 39-40)\n\nDan firman-Nya lagi:\n\nDan tidak ada (lagi) baginya segolongan pun yang dapat menolongnya selain Allah; dan dia pun tidak akan dapat membela dirinya. (al-Kahf/18: 43)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5848,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 587,
+                    "manzil": 7,
+                    "ruku": 524,
+                    "hizbQuarter": 235,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+                    "transliteration": {
+                        "en": "Yawma laa tamliku nafsul linafsin shai'anw walamru yawma'izil lillaah"
+                    }
+                },
+                "translation": {
+                    "en": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah.",
+                    "id": "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5848",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5848.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5848.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Hari pembalasan itu adalah pada hari ketika seseorang sama sekali tidak berdaya menolong orang lain. Setiap orang harus mempertanggungjawabkan amalnya sendiri. Hanya iman dan amal saleh yang mampu menyelamatkan seseorang dari siksa neraka. Dan segala urusan pada hari itu dalam kekuasaan Allah. Dialah penguasa tunggal; tidak ada penguasa lain selain Dia.",
+                        "long": "Dalam ayat 17 dan 18, Allah bertanya kepada Nabi dan kaumnya apakah mereka tahu apa hari pembalasan itu? Pertanyaan ini bukan meminta jawaban, tetapi celaan bagi orang-orang yang tidak mau percaya pada hari pembalasan ini. Apakah semua informasi dan tanda yang dipaparkan Al-Qur'an belum cukup untuk membuat mereka percaya? \n\nAllah kemudian menjelaskan dalam ayat 19 bahwa di hari perhitungan tidak ada manusia yang bisa menolong orang lain. Orang tua tidak bisa menolong anaknya dan begitu juga sebaliknya. Suami tidak bisa menolong istrinya, dan teman atau sahabat tidak bisa menolong temannya. Semua sibuk dengan diri masing-masing. Segala urusan pada hari itu berada di tangan Allah. Yang bisa menolong manusia hanyalah amalnya. Firman Allah:\n\nDan bahwa manusia hanya memperoleh apa yang telah diusahakannya, dan sesungguhnya usahanya itu kelak akan diperlihatkan (kepadanya). (an-Najm/53: 39-40)\n\nDan firman-Nya lagi:\n\nDan tidak ada (lagi) baginya segolongan pun yang dapat menolongnya selain Allah; dan dia pun tidak akan dapat membela dirinya. (al-Kahf/18: 43)"
+                    }
+                }
+            }
+        ]
+    }
+}

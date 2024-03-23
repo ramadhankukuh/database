@@ -14,12 +14,14 @@
 |       Info Gempa (Dirasakan)       | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/information/gempa_dirasakan.json)  |
 |       Info Kurs Mata Uang          | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/information/kurs.json)  |
 
-|            Religi                  |                    Link                  |
+|            Islam                   |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
-|       Qur'an                       | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/religi/quran.json)  |
-|       Asmaul Husna                 | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/religi/asmaulhusna.json)  |
-|       Surah                        | [`Klik`](https://github.com/ramadhankukuh/database/tree/master/src/religi/surah)  |
-|       Hadits                       | [`Klik`](https://github.com/ramadhankukuh/database/tree/master/src/religi/hadits)  |
+|       Qur'an                       | [`Klik`](https://github.com/ramadhankukuh/database/tree/master/src/religi/islam/surah)  |
+|       Hadits                       | [`Klik`](https://github.com/ramadhankukuh/database/tree/master/src/religi/islam/hadits)  |
+|       Asmaul Husna                 | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/religi/islam/asmaulhusna.json)  |
+|       Do'a Harian                  | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/religi/islam/doaharian.json)  |
+|       Wirid                        | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/religi/islam/wirid.json)  |
+|       Tahlil                       | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/src/religi/islam/tahlil.json)  |
 
 |            Games                   |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
@@ -59,7 +61,7 @@
 * Kurs [`BI`](https://www.bi.go.id)
 * Qur'an [`Kemenag`](https://quran.kemenag.go.id/)
 * Hadits [`Tafsirq`](https://tafsirq.com)
-* Wirid [`Islam NU`](https://islam.nu.or.id/post/read/79315/susunan-bacaan-wirid-sesudah-shalat-lima-waktu)
+* Wirid & Tahlil [`Islam NU`](https://islam.nu.or.id/post/read/79315/susunan-bacaan-wirid-sesudah-shalat-lima-waktu)
 
 
 ## Thanks To

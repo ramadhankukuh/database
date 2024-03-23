@@ -1,0 +1,331 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 107,
+        "sequence": 17,
+        "numberOfVerses": 7,
+        "name": {
+            "short": "الماعون",
+            "long": "سورة الماعون",
+            "transliteration": {
+                "en": "Al-Maa'un",
+                "id": "Al-Ma'un"
+            },
+            "translation": {
+                "en": "Almsgiving",
+                "id": "Barang Yang Berguna"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 7 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat At Taakatsur. Nama Al Maa'uun diambil dari kata Al Maa'uun yang terdapat pada ayat 7, artinya barang-barang yang berguna."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 6198,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 602,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+                    "transliteration": {
+                        "en": "Ara-aital lazee yu kazzibu bid deen"
+                    }
+                },
+                "translation": {
+                    "en": "Have you seen the one who denies the Recompense?",
+                    "id": "Tahukah kamu (orang) yang mendustakan agama?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6198",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6198.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6198.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tahukah kamu, wahai Rasul, orang yang mendustakan agama dan mengingkari hisab serta hari pembalasan di akhirat nanti?",
+                        "long": "Dalam ayat ini, Allah menghadapkan pertanyaan kepada Nabi Muhammad, \"Apakah engkau mengetahui orang yang mendustakan agama dan yang dimaksud dengan orang yang mendustakan agama?\" Pertanyaan ini dijawab pada ayat-ayat berikut."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6199,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 602,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+                    "transliteration": {
+                        "en": "Fa zaalikal lazi yadu'ul-yateem"
+                    }
+                },
+                "translation": {
+                    "en": "For that is the one who drives away the orphan",
+                    "id": "Maka itulah orang yang menghardik anak yatim,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6199",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6199.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6199.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Jika engkau ingin tahu, maka para pendusta agama, hisab, dan hari pembalasan itulah orang yang menghardik anak yatim, menyakiti hatinya, dan berbuat zalim kepadanya dengan menahan haknya. Dia tidak lagi peduli terhadap anak yang sudah kehilangan tumpuan hidupnya itu.",
+                        "long": "Allah lalu menjelaskan bahwa sebagian dari sifat-sifat orang yang mendustakan agama ialah orang-orang yang menolak dan membentak anak-anak yatim yang datang kepadanya untuk memohon belas-kasihnya demi kebutuhan hidupnya. Penolakannya itu sebagai penghinaan dan takabur terhadap anak-anak yatim itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6200,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 602,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+                    "transliteration": {
+                        "en": "Wa la ya huddu 'alaa ta'amil miskeen"
+                    }
+                },
+                "translation": {
+                    "en": "And does not encourage the feeding of the poor.",
+                    "id": "dan tidak mendorong memberi makan orang miskin."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6200",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6200.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6200.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan dia tidak mendorong orang lain untuk memberi makan orang miskin yang tidak mempunyai kecukupan untuk memenuhi keperluan hidupnya sehari-hari. Bila dia enggan mendorong orang lain untuk memberi makan dan memperhatikan kesejahteraan anak yatim, bagaimana mungkin dia, dengan kekikiran dan kecintaannya pada harta, mendorong dirinya sendiri untuk berbuat demikian?",
+                        "long": "Allah menegaskan lebih lanjut sifat pendusta itu, yaitu dia tidak mengajak orang lain untuk membantu dan memberi makan orang miskin. Bila tidak mau mengajak orang memberi makan dan membantu orang miskin berarti ia tidak melakukannya sama sekali. Berdasarkan keterangan di atas, bila seorang tidak sanggup membantu orang-orang miskin maka hendaklah ia menganjurkan orang lain agar melakukan usaha yang mulia itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6201,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 602,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+                    "transliteration": {
+                        "en": "Fa wai lul-lil mu salleen"
+                    }
+                },
+                "translation": {
+                    "en": "So woe to those who pray",
+                    "id": "Maka celakalah orang yang salat,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6201",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6201.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6201.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka binasa dan celakalah orang yang salat yang memiliki sifat-sifat tercela berikut.",
+                        "long": "Dalam ayat-ayat ini, Allah mengungkapkan satu ancaman yaitu celakalah orang-orang yang mengerjakan salat dengan tubuh dan lidahnya, tidak sampai ke hatinya. Dia lalai dan tidak menyadari apa yang diucapkan lidahnya dan yang dikerjakan oleh anggota tubuhnya. Ia rukuk dan sujud dalam keadaan lalai, ia mengucapkan takbir tetapi tidak menyadari apa yang diucapkannya. Semua itu adalah hanya gerak biasa dan kata-kata hafalan semata-mata yang tidak mempengaruhi apa-apa, tidak ubahnya seperti robot.\n\nPerilaku tersebut ditujukan kepada orang-orang yang mendustakan agama, yaitu orang munafik. Ancaman itu tidak ditujukan kepada orang-orang muslim yang awam, tidak mengerti bahasa Arab, dan tidak tahu tentang arti dari apa yang dibacanya. Jadi orang-orang awam yang tidak memahami makna dari apa yang dibacanya dalam salat tidak termasuk orang-orang yang lalai seperti yang disebut dalam ayat ini."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6202,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 602,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+                    "transliteration": {
+                        "en": "Al lazeena hum 'an salaatihim sahoon"
+                    }
+                },
+                "translation": {
+                    "en": "[But] who are heedless of their prayer -",
+                    "id": "(yaitu) orang-orang yang lalai terhadap salatnya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6202",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6202.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6202.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Yaitu orang-orang yang lalai terhadap salatnya, di antaranya dengan tidak memenuhi ketentuannya, mengerjakannya di luar waktunya, bermalas-malasan, dan lalai akan tujuan pelaksanaanya.",
+                        "long": "Dalam ayat-ayat ini, Allah mengungkapkan satu ancaman yaitu celakalah orang-orang yang mengerjakan salat dengan tubuh dan lidahnya, tidak sampai ke hatinya. Dia lalai dan tidak menyadari apa yang diucapkan lidahnya dan yang dikerjakan oleh anggota tubuhnya. Ia rukuk dan sujud dalam keadaan lalai, ia mengucapkan takbir tetapi tidak menyadari apa yang diucapkannya. Semua itu adalah hanya gerak biasa dan kata-kata hafalan semata-mata yang tidak mempengaruhi apa-apa, tidak ubahnya seperti robot.\n\nPerilaku tersebut ditujukan kepada orang-orang yang mendustakan agama, yaitu orang munafik. Ancaman itu tidak ditujukan kepada orang-orang muslim yang awam, tidak mengerti bahasa Arab, dan tidak tahu tentang arti dari apa yang dibacanya. Jadi orang-orang awam yang tidak memahami makna dari apa yang dibacanya dalam salat tidak termasuk orang-orang yang lalai seperti yang disebut dalam ayat ini."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6203,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 602,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِينَ هُمْ يُرَاءُونَ",
+                    "transliteration": {
+                        "en": "Al lazeena hum yuraa-oon"
+                    }
+                },
+                "translation": {
+                    "en": "Those who make show [of their deeds]",
+                    "id": "yang berbuat ria,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6203",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6203.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6203.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tidak hanya itu, mereka jugalah orang-orang yang berbuat ria, baik dalam salatnya maupun semua perbuatan baiknya. Dia beramal tanpa rasa ikhlas, melainkan demi mendapat pujian dan penilaian baik dari orang lain.",
+                        "long": "Allah selanjutnya menambah penjelasan tentang sifat orang pendusta agama, yaitu mereka melakukan perbuatan-perbuatan lahir hanya semata karena ria, tidak terkesan pada jiwanya untuk meresapi rahasia dan hikmahnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6204,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 602,
+                    "manzil": 7,
+                    "ruku": 549,
+                    "hizbQuarter": 240,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَيَمْنَعُونَ الْمَاعُونَ",
+                    "transliteration": {
+                        "en": "Wa yamna'oonal ma'oon"
+                    }
+                },
+                "translation": {
+                    "en": "And withhold [simple] assistance.",
+                    "id": "dan enggan (memberikan) bantuan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6204",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6204.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6204.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan di samping itu, mereka juga enggan memberikan bantuan kepada sesama, bahkan untuk sekadar meminjamkan barang keperluan sehari-hari yang sepele. Hal ini mengindikasikan buruknya akhlak mereka kepada orang lain. Dengan begitu, lengkaplah keburukan mereka. Selain tidak beridabah kepada Tuhan dengan sempurna, mereka pun tidak berbuat baik kepada manusia.",
+                        "long": "Allah menambahkan lagi dalam ayat ini sifat pendusta itu, yaitu mereka tidak mau memberikan barang-barang yang diperlukan oleh orang-orang yang membutuhkannya, sedang barang itu tak pantas ditahan, seperti periuk, kapuk, cangkul, dan lain-lain. \n\nKeadaan orang yang membesarkan agama berbeda dengan keadaan orang yang mendustakan agama, karena yang pertama tampak dalam tata hidupnya yang jujur, adil, kasih sayang, pemurah, dan lain-lain. Sedangkan sifat pendusta agama ialah ria, curang, aniaya, takabur, kikir, memandang rendah orang lain, tidak mementingkan yang lain kecuali dirinya sendiri, bangga dengan harta dan kedudukan, serta tidak mau mengeluarkan sebahagian dari hartanya, baik untuk keperluan perseorangan maupun untuk masyarakat."
+                    }
+                }
+            }
+        ]
+    }
+}

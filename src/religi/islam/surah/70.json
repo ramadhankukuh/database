@@ -1,0 +1,1811 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 70,
+        "sequence": 79,
+        "numberOfVerses": 44,
+        "name": {
+            "short": "المعارج",
+            "long": "سورة المعارج",
+            "transliteration": {
+                "en": "Al-Ma'aarij",
+                "id": "Al-Ma'arij"
+            },
+            "translation": {
+                "en": "The Ascending Stairways",
+                "id": "Tempat Naik"
+            }
+        },
+        "revelation": {
+            "arab": "مكة",
+            "en": "Meccan",
+            "id": "Makkiyyah"
+        },
+        "tafsir": {
+            "id": "Surat ini terdiri atas 44 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Haaqqah.Perkataan Al Ma'arij yang menjadi nama bagi surat ini adalah kata jamak dari Mi'raj, diambil dari perkataan Al Ma'arij yang terdapat pada ayat 3, yang artinya menurut bahasa tempat naik. Sedang para ahli  tafsir memberi arti bermacam-macam, di antaranya langit, nikmat karunia dan derajat atau tingkatan yang diberikan Allah s.w.t kepada ahli surga."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 5376,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ",
+                    "transliteration": {
+                        "en": "Sa ala saaa'ilum bi'azaa binw-waaqi'"
+                    }
+                },
+                "translation": {
+                    "en": "A supplicant asked for a punishment bound to happen",
+                    "id": "Seseorang bertanya tentang azab yang pasti terjadi,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5376",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5376.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5376.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Surah al-Hàqqah menjelaskan sangat jelas tentang peristiwa Kiamat, pada awal surah ini dikemukakan adanya seseorang yang bertanya dengan tujuan untuk mengejek tentang Kiamat. Seseorang bertanya tentang tentang azab yang pasti terjadi,",
+                        "long": "Ayat-ayat ini menerangkan bahwa orang musyrik Mekah seperti an-Nadhr bin al-Harits meminta kepada Nabi Muhammad agar segera menimpakan azab yang telah dijanjikan itu kepada mereka, seandainya ancaman itu benar-benar berasal dari Allah, dan jika Muhammad itu benar-benar seorang rasul yang diutus Allah. Permintaan itu dijawab oleh ayat ini dengan mengatakan bahwa azab yang dijanjikan itu pasti menimpa orang-orang kafir, baik diminta atau tidak. Sebab, telah menjadi sunatullah bahwa azab itu pasti ditimpakan kepada setiap orang kafir."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5377,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِّلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ",
+                    "transliteration": {
+                        "en": "Lilkaafireen laisa lahoo daafi'"
+                    }
+                },
+                "translation": {
+                    "en": "To the disbelievers; of it there is no preventer.",
+                    "id": "bagi orang-orang kafir, yang tidak seorang pun dapat menolaknya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5377",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5377.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5377.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "siksa yang pasti akan dijatuhkan Allah bagi orang-orang kafir, yang tidak seorang pun dapat menolaknya,",
+                        "long": "Ayat-ayat ini menerangkan bahwa orang musyrik Mekah seperti an-Nadhr bin al-Harits meminta kepada Nabi Muhammad agar segera menimpakan azab yang telah dijanjikan itu kepada mereka, seandainya ancaman itu benar-benar berasal dari Allah, dan jika Muhammad itu benar-benar seorang rasul yang diutus Allah. Permintaan itu dijawab oleh ayat ini dengan mengatakan bahwa azab yang dijanjikan itu pasti menimpa orang-orang kafir, baik diminta atau tidak. Sebab, telah menjadi sunatullah bahwa azab itu pasti ditimpakan kepada setiap orang kafir."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5378,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "مِّنَ اللَّهِ ذِي الْمَعَارِجِ",
+                    "transliteration": {
+                        "en": "Minal laahi zil ma'aarij"
+                    }
+                },
+                "translation": {
+                    "en": "[It is] from Allah, owner of the ways of ascent.",
+                    "id": "(Azab) dari Allah, yang memiliki tempat-tempat naik."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5378",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5378.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5378.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "azab itu datangnya dari Allah, yang memiliki tempat-tempat naik yaitu tempat naiknya para malaikat atau amal-amal manusia",
+                        "long": "Azab itu datang dari Allah pada waktu yang telah ditentukan, dan jika datang, tidak seorang pun yang dapat menolaknya. Maksud perkataan “al-ma‘arij” (mempunyai tangga) yang terdapat dalam ayat ini adalah bahwa azab datang dari Allah Yang Mahatinggi dan Mahasempurna. Tidak ada sifat kekurangan sedikit pun pada Allah, dan kedatangan azab itu semata-mata atas kehendak dan keputusan-Nya, bukan berdasarkan permintaan makhluk, seperti yang dilakukan oleh an-Nadhr bin al-Harits itu.\n\nDari ayat ini dipahami bahwa seakan-akan orang musyrik tidak mengetahui kemuliaan dan kebesaran Allah. Seakan-akan kepada Allah, dapat dimintakan seluruh kehendak dan keinginan mereka, sebagaimana yang mereka lakukan terhadap berhala-berhala."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5379,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ",
+                    "transliteration": {
+                        "en": "Ta'rujul malaaa'ikatu war Roohu ilaihi fee yawmin kaana miqdaaruhoo khamseena alfa sanah"
+                    }
+                },
+                "translation": {
+                    "en": "The angels and the Spirit will ascend to Him during a Day the extent of which is fifty thousand years.",
+                    "id": "Para malaikat dan Jibril naik (menghadap) kepada Tuhan, dalam sehari setara dengan lima puluh ribu tahun."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5379",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5379.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5379.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Para malaikat dan Jibril naik menghadap kepada Tuhan, dalam sehari yang kadarnya setara dengan lima puluh ribu tahun dari tahun-tahun di dunia, hal ini menunjukkan betapa dahsyatnya azab yang akan dialami oleh kaum kafir, karena terasa amat panjang.",
+                        "long": "Malaikat-malaikat dan Jibril menghadap Allah memakan waktu yang sangat singkat dan jika dilakukan manusia akan memakan waktu lima puluh ribu tahun. Angka 50.000 tahun yang disebutkan dalam ayat ini bukanlah bilangan yang sebenarnya, tetapi untuk menerangkan bahwa Arasy Allah itu sangat jauh dan tinggi, tidak akan dapat dicapai oleh hamba-hamba-Nya yang mana pun. Di sini ada beberapa makhluk Tuhan yang lain yang berbeda-beda tingkat dan kemampuannya.\n\nDalam firman Allah yang lain, diterangkan bahwa Dia mengatur urusan dari langit ke bumi dalam suatu saat yang kadarnya sama dengan seribu tahun menurut perhitungan manusia:\n\nDia mengatur segala urusan dari langit ke bumi, kemudian (urusan) itu naik kepada-Nya dalam satu hari yang kadarnya (lamanya) adalah seribu tahun menurut perhitunganmu. (As-Sajdah/32: 5)\n\nSebenarnya persoalan berapa lama umur dunia ini, dan berapa lama waktu yang diperlukan malaikat naik kepada Allah kemudian turun kembali ke dunia ini melaksanakan perintah-perintah-Nya, termasuk perkara gaib. Hanya Allah yang mengetahuinya dengan pasti. Bagi kita sebagai hamba Allah, cukup percaya bahwa ada azab Allah yang akan ditimpakan kepada yang mereka yang mengingkari hari Kiamat.\n\nDalam Surah Az-Zariyat/51: 7, Allah bersumpah demi langit yang mem­punyai jalan-jalan. Jalan-jalan ini secara ilmiah, dapat ditafsirkan sebagai wormhole, yakni jalan pintas yang menghubungkan satu tempat dengan tempat lain di jagad raya ini. Kemudian Allah menegaskan dalam Surah Al-Ma\\\\\\'arij/70: 4 bahwa Ia memiliki ma‘arij, di mana malaikat-malaikat dan Jibril naik (menghadap) kepada Tuhan dalam sehari yang kadarnya lima puluh ribu tahun. \n\nSeperti telah dijelaskan dalam penafsiran Surah Az-Zariyat/51: 7 bahwa dalam teori fisika relativitas umum, dikenal mengenai mekanisme pemendekan jarak yang sangat jauh menjadi hanya beberapa meter saja yang saat ini oleh para ilmuwan disebut sebagai wormhole (lubang cacing). Jalan-jalan itu boleh jadi adalah ma‘arij, di mana Allah memperinci lebih jauh bahwa para malaikat dan Jibril naik menghadap Allah melalui jalan tersebut dan digambarkan bahwa mereka naik dalam sehari yang kadarnya lima puluh ribu tahun. \n\nMeski belum satu pun para ahli fisika menggunakannya, dalam wormhole kita bergerak tanpa membutuhkan energi. Begitu kita masuk ke dalamnya, medan gaya berat menarik kita dan tahu-tahu kita telah terlempar ke suatu tempat yang lain. Dalam wormhole, arloji kita bergerak lebih lambat dan tongkat yang kebetulan kita bawa juga memendek. Namun, begitu keluar semua kembali seperti sediakala termasuk jam dan tongkat yang kita bawa. Siapa saja melewati ma‘arij ini akan mengalami pemanjangan (dilation) waktu yakni sehari yang kadarnya lima puluh ribu tahun di bumi. Hal ini bukan berarti berapa lama kita melalui ma‘arij, tetapi jika kita melalui jalan ini kita akan menjadi lebih tua dengan perbandingan tersebut.\n\nPerjalanan Rasulullah dalam peristiwa Isra‘ Mi‘raj, boleh jadi melewati mekanisme pemendekan jarak sehingga jarak yang demikian jauhnya ditempuh Rasulullah hanya dalam bilangan jam. Ketika Rasulullah menceritakan peristiwa yang dialaminya, orang-orang kafir jelas tidak mempercayainya. Padahal itu adalah tanda-tanda kebesaran Allah. Menarik disimak dalam Surah Al-Hijr/15: 13-15:\n\nMereka tidak beriman kepadanya (Al-Qur‘an) padahal telah berlalu sunatullah terhadap orang-orang terdahulu. Dan kalau Kami bukakan kepada mereka salah satu pintu langit, lalu mereka terus menerus naik ke atasnya, tentulah mereka berkata, “Sesungguhnya pandangan kamilah yang dikaburkan, bahkan kami adalah orang yang terkena sihir.” (Al-Hijr/15: 13-15)\n\nDengan demikian, Allah menyatakan bahwa bagi mereka yang tidak beriman, sampai seandainya pintu langit dibuka dan mereka melaluinya, mereka akan tetap berdalih bahwa itu sebuah ilusi.\n\nSub¥anallah, Allah memberikan gambaran bagaimana mengatur makhluk-Nya. Para malaikat lalu lalang dari satu tempat ke tempat dengan menggunakan jalan khusus yang disebut ma‘arij, dan Rasulullah, Sang Kekasih Allah, mendapat kesempatan melalui ma‘arij-jalan istimewa- tersebut pada suatu malam yang sangat mengguncangkan, yakni Isra‘ Mi‘raj."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5380,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَاصْبِرْ صَبْرًا جَمِيلًا",
+                    "transliteration": {
+                        "en": "Fasbir ssabran jameelaa"
+                    }
+                },
+                "translation": {
+                    "en": "So be patient with gracious patience.",
+                    "id": "Maka bersabarlah engkau (Muhammad) dengan kesabaran yang baik."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5380",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5380.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5380.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Menghadapi cemoohan kaum kafir tersebut, Allah memerintahkan agar Rasulullah bersabar. Allah berfirman. Maka bersabarlah engkau wahai Nabi Muhammad dengan kesabaran yang baik yaitu tanpa keluh kesah atau mengadu kepada makhluk.",
+                        "long": "Rasulullah saw disuruh bersabar terhadap sikap orang musyrik yang selalu memperolok-olokkannya. Beliau juga diminta untuk tidak merasa gelisah oleh sikap mereka, karena urusan azab adalah urusan Allah. Hanya Allah yang mengetahui kapan azab itu akan ditimpakan kepada mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5381,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّهُمْ يَرَوْنَهُ بَعِيدًا",
+                    "transliteration": {
+                        "en": "Inaahum yarawnahoo ba'eedaa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, they see it [as] distant,",
+                    "id": "Mereka memandang (azab) itu jauh (mustahil)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5381",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5381.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5381.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka kaum kafir itu memandang azab itu jauh yaitu mustahil terjadi.",
+                        "long": "Kaum musyrik memandang bahwa azab itu mustahil terjadi, karena teperdaya oleh kesenangan dunia yang sifatnya sementara. Juga karena ilmu mereka sangat sedikit dan tidak mengindahkan petunjuk Allah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5382,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَنَرَاهُ قَرِيبًا",
+                    "transliteration": {
+                        "en": "Wa naraahu qareebaa"
+                    }
+                },
+                "translation": {
+                    "en": "But We see it [as] near.",
+                    "id": "Sedangkan Kami memandangnya dekat (pasti terjadi)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5382",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5382.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5382.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sedangkan Kami memandangnya dekat yaitu pasti terjadi dan mudah bagi Kami.",
+                        "long": "Namun demikian, azab itu pasti terjadi karena Allah-lah yang menentukan segala sesuatu. Tidak ada satu pun yang sukar bagi-Nya. Jika Dia menghendaki terjadinya sesuatu, maka akan terjadi pada saat yang dikehendaki-Nya. Tidak ada suatu pun yang dapat melawan kehendaknya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5383,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَ تَكُونُ السَّمَاءُ كَالْمُهْلِ",
+                    "transliteration": {
+                        "en": "Yawma takoonus samaaa'u kalmuhl"
+                    }
+                },
+                "translation": {
+                    "en": "On the Day the sky will be like murky oil,",
+                    "id": "(Ingatlah) pada hari ketika langit men-jadi bagaikan cairan tembaga,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5383",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5383.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5383.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Ingatlah siksa yang akan dialami oleh kaum kafir itu akan terjadi pada hari ketika langit yang sehari-harinya terlihat kokoh menjadi bagaikan cairan tembaga,",
+                        "long": "Dalam ayat ini, Allah menerangkan saat-saat kedatangan azab serta keadaan manusia waktu itu. Azab datang kepada orang kafir pada waktu langit hancur luluh, seperti perak yang mencair karena dipanaskan, dan pada saat gunung-gunung hancur bertaburan, seakan-akan bulu-bulu burung yang sedang beterbangan karena hembusan angin. Kebingungan dan penderitaan dihadapi manusia pada waktu itu. Masing-masing tidak dapat menolong orang lain, tidak seorang pun teman akrab yang menanyakan temannya, sedangkan mereka melihat dan mengetahui penderitaan temannya itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5384,
+                    "inSurah": 9
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ",
+                    "transliteration": {
+                        "en": "Wa takoonul jibaalu kal'ihn"
+                    }
+                },
+                "translation": {
+                    "en": "And the mountains will be like wool,",
+                    "id": "dan gunung-gunung bagaikan bulu (yang beterbangan),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5384",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5384.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5384.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan gunung-gunung yang demikian berat menancap di bumi bagaikan bulu yang beterbangan.",
+                        "long": "Dalam ayat ini, Allah menerangkan saat-saat kedatangan azab serta keadaan manusia waktu itu. Azab datang kepada orang kafir pada waktu langit hancur luluh, seperti perak yang mencair karena dipanaskan, dan pada saat gunung-gunung hancur bertaburan, seakan-akan bulu-bulu burung yang sedang beterbangan karena hembusan angin. Kebingungan dan penderitaan dihadapi manusia pada waktu itu. Masing-masing tidak dapat menolong orang lain, tidak seorang pun teman akrab yang menanyakan temannya, sedangkan mereka melihat dan mengetahui penderitaan temannya itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5385,
+                    "inSurah": 10
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 568,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا",
+                    "transliteration": {
+                        "en": "Wa laa yas'alu hameemun hameemaa"
+                    }
+                },
+                "translation": {
+                    "en": "And no friend will ask [anything of] a friend,",
+                    "id": "dan tidak ada seorang teman karib pun menanyakan temannya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5385",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5385.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5385.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan ketika itu tidak ada seorang teman karib pun menanyakan keadaan temannya, karena mencekamnya situasi dan kesibukan masing-masing dengan urusannya.",
+                        "long": "Dalam ayat ini, Allah menerangkan saat-saat kedatangan azab serta keadaan manusia waktu itu. Azab datang kepada orang kafir pada waktu langit hancur luluh, seperti perak yang mencair karena dipanaskan, dan pada saat gunung-gunung hancur bertaburan, seakan-akan bulu-bulu burung yang sedang beterbangan karena hembusan angin. Kebingungan dan penderitaan dihadapi manusia pada waktu itu. Masing-masing tidak dapat menolong orang lain, tidak seorang pun teman akrab yang menanyakan temannya, sedangkan mereka melihat dan mengetahui penderitaan temannya itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5386,
+                    "inSurah": 11
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ",
+                    "transliteration": {
+                        "en": "Yubassaroonahum; ya waddul mujrimu law yaftadee min 'azaabi yawma'izim bibaneeh"
+                    }
+                },
+                "translation": {
+                    "en": "They will be shown each other. The criminal will wish that he could be ransomed from the punishment of that Day by his children",
+                    "id": "sedang mereka saling melihat. Pada hari itu, orang yang berdosa ingin sekiranya dia dapat menebus (dirinya) dari azab dengan anak-anaknya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5386",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5386.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5386.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sedang mereka saling melihat, mereka semua sadar bahwa ketika itu, tidak berguna lagi bantuan teman dan kerabat. Pada hari itu, orang yang berdosa ingin sekiranya dia dapat menebus dirinya dari azab dengan menyerahkan anak-anaknya,",
+                        "long": "Pada hari itu, orang kafir mengharapkan agar terlepas dari azab yang mereka derita, dengan menebus diri dengan anak-anak yang mereka banggakan, istri yang mereka cintai, saudara-saudara yang biasa membantu mereka selama hidup di dunia, kaum yang selalu membantu dan melindungi mereka, dan semua manusia yang ada di muka bumi. Karena demikianlah yang biasa mereka lakukan di dunia; menolong teman, keluarga, dan anak-anak mereka, walaupun yang ditolong itu melakukan perbuatan jahat dan zalim."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5387,
+                    "inSurah": 12
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَصَاحِبَتِهِ وَأَخِيهِ",
+                    "transliteration": {
+                        "en": "Wa saahibatihee wa akheeh"
+                    }
+                },
+                "translation": {
+                    "en": "And his wife and his brother",
+                    "id": "dan istrinya dan saudaranya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5387",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5387.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5387.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan istri yang selalu menemaninya dan saudaranya yang merupakan darah dagingnya,",
+                        "long": "Pada hari itu, orang kafir mengharapkan agar terlepas dari azab yang mereka derita, dengan menebus diri dengan anak-anak yang mereka banggakan, istri yang mereka cintai, saudara-saudara yang biasa membantu mereka selama hidup di dunia, kaum yang selalu membantu dan melindungi mereka, dan semua manusia yang ada di muka bumi. Karena demikianlah yang biasa mereka lakukan di dunia; menolong teman, keluarga, dan anak-anak mereka, walaupun yang ditolong itu melakukan perbuatan jahat dan zalim."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5388,
+                    "inSurah": 13
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ",
+                    "transliteration": {
+                        "en": "Wa faseelathil latee tu'weeh"
+                    }
+                },
+                "translation": {
+                    "en": "And his nearest kindred who shelter him",
+                    "id": "dan keluarga yang melindunginya (di dunia),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5388",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5388.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5388.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan bukan hanya itu bahkan keluarga seperti ayah ibu yang selalu melindunginya di dunia.",
+                        "long": "Pada hari itu, orang kafir mengharapkan agar terlepas dari azab yang mereka derita, dengan menebus diri dengan anak-anak yang mereka banggakan, istri yang mereka cintai, saudara-saudara yang biasa membantu mereka selama hidup di dunia, kaum yang selalu membantu dan melindungi mereka, dan semua manusia yang ada di muka bumi. Karena demikianlah yang biasa mereka lakukan di dunia; menolong teman, keluarga, dan anak-anak mereka, walaupun yang ditolong itu melakukan perbuatan jahat dan zalim."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5389,
+                    "inSurah": 14
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَن فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+                    "transliteration": {
+                        "en": "Wa man fil ardi jamee'an summa yunjeeh"
+                    }
+                },
+                "translation": {
+                    "en": "And whoever is on earth entirely [so] then it could save him.",
+                    "id": "dan orang-orang di bumi seluruhnya, kemudian mengharapkan (tebusan) itu dapat menyelamatkannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5389",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5389.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5389.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Dan mereka berharap jika dapat menebus dirinya dengan orang-orang di bumi seluruhnya, kemudian mengharapkan kiranya tebusan itu dapat menyelamatkannya dari azab.",
+                        "long": "Pada hari itu, orang kafir mengharapkan agar terlepas dari azab yang mereka derita, dengan menebus diri dengan anak-anak yang mereka banggakan, istri yang mereka cintai, saudara-saudara yang biasa membantu mereka selama hidup di dunia, kaum yang selalu membantu dan melindungi mereka, dan semua manusia yang ada di muka bumi. Karena demikianlah yang biasa mereka lakukan di dunia; menolong teman, keluarga, dan anak-anak mereka, walaupun yang ditolong itu melakukan perbuatan jahat dan zalim."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5390,
+                    "inSurah": 15
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَلَّا ۖ إِنَّهَا لَظَىٰ",
+                    "transliteration": {
+                        "en": "Kallaa innahaa lazaa"
+                    }
+                },
+                "translation": {
+                    "en": "No! Indeed, it is the Flame [of Hell],",
+                    "id": "Sama sekali tidak! Sungguh, neraka itu api yang bergejolak,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5390",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5390.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5390.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Keinginan para pendurhaka untuk menebus dirinya dengan segala sesuatu direspons oleh ayat ini: Sama sekali tidak bisa dan tidak akan ada tebusan! Sungguh, neraka itu api yang bergejolak,",
+                        "long": "Tidak akan diterima tebusan apa pun dari perbuatan dosa yang telah dikerjakan orang kafir. Allah tidak memerlukan tebusan, Dia Mahakaya dan tidak memerlukan sesuatu apa pun.\n\nSungguh, orang-orang yang kafir dan mati dalam kekafiran, tidak akan diterima (tebusan) dari seseorang di antara mereka sekalipun (berupa) emas sepenuh bumi, sekiranya dia hendak menebus diri dengannya. Mereka itulah orang-orang yang mendapat azab yang pedih dan tidak memperoleh penolong. (Ali Imran/3: 91)\n\nAzab yang disediakan bagi orang kafir ialah neraka. Tidak seorang pun yang selamat dan dapat melepaskan diri dari azabnya. Neraka itu memanggil orang kafir untuk diazab, begitu juga orang-orang yang membelakang dan lari dari kebenaran, suka berbuat curang atau jahat, dan suka mengumpulkan harta, tetapi tidak mau mengeluarkan sedekah dan hak-hak Allah, seperti yang telah ditetapkan-Nya.\n\nAyat ini tidak bertujuan untuk melarang kaum Muslimin mengumpulkan harta. Ayat ini hanya melarang mengumpulkan harta tanpa mengeluarkan hak-hak Allah yang ada dalam harta yang telah dikumpulkan itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5391,
+                    "inSurah": 16
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "نَزَّاعَةً لِّلشَّوَىٰ",
+                    "transliteration": {
+                        "en": "Nazzaa'atal lishshawaa"
+                    }
+                },
+                "translation": {
+                    "en": "A remover of exteriors.",
+                    "id": "yang mengelupaskan kulit kepala."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5391",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5391.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5391.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "yang mengelupaskan kulit kepala bahkan semua kulit tubuh.",
+                        "long": "Tidak akan diterima tebusan apa pun dari perbuatan dosa yang telah dikerjakan orang kafir. Allah tidak memerlukan tebusan, Dia Mahakaya dan tidak memerlukan sesuatu apa pun.\n\nSungguh, orang-orang yang kafir dan mati dalam kekafiran, tidak akan diterima (tebusan) dari seseorang di antara mereka sekalipun (berupa) emas sepenuh bumi, sekiranya dia hendak menebus diri dengannya. Mereka itulah orang-orang yang mendapat azab yang pedih dan tidak memperoleh penolong. (Ali Imran/3: 91)\n\nAzab yang disediakan bagi orang kafir ialah neraka. Tidak seorang pun yang selamat dan dapat melepaskan diri dari azabnya. Neraka itu memanggil orang kafir untuk diazab, begitu juga orang-orang yang membelakang dan lari dari kebenaran, suka berbuat curang atau jahat, dan suka mengumpulkan harta, tetapi tidak mau mengeluarkan sedekah dan hak-hak Allah, seperti yang telah ditetapkan-Nya.\n\nAyat ini tidak bertujuan untuk melarang kaum Muslimin mengumpulkan harta. Ayat ini hanya melarang mengumpulkan harta tanpa mengeluarkan hak-hak Allah yang ada dalam harta yang telah dikumpulkan itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5392,
+                    "inSurah": 17
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+                    "transliteration": {
+                        "en": "Tad'oo man adbara wa tawallaa"
+                    }
+                },
+                "translation": {
+                    "en": "It invites he who turned his back [on truth] and went away [from obedience]",
+                    "id": "Yang memanggil orang yang membelakangi dan yang berpaling (dari agama),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5392",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5392.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5392.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Yang selalu memanggil orang yang membelakangi iman dan kebenaran dan yang berpaling dari petunjuk agama,",
+                        "long": "Tidak akan diterima tebusan apa pun dari perbuatan dosa yang telah dikerjakan orang kafir. Allah tidak memerlukan tebusan, Dia Mahakaya dan tidak memerlukan sesuatu apa pun.\n\nSungguh, orang-orang yang kafir dan mati dalam kekafiran, tidak akan diterima (tebusan) dari seseorang di antara mereka sekalipun (berupa) emas sepenuh bumi, sekiranya dia hendak menebus diri dengannya. Mereka itulah orang-orang yang mendapat azab yang pedih dan tidak memperoleh penolong. (Ali Imran/3: 91)\n\nAzab yang disediakan bagi orang kafir ialah neraka. Tidak seorang pun yang selamat dan dapat melepaskan diri dari azabnya. Neraka itu memanggil orang kafir untuk diazab, begitu juga orang-orang yang membelakang dan lari dari kebenaran, suka berbuat curang atau jahat, dan suka mengumpulkan harta, tetapi tidak mau mengeluarkan sedekah dan hak-hak Allah, seperti yang telah ditetapkan-Nya.\n\nAyat ini tidak bertujuan untuk melarang kaum Muslimin mengumpulkan harta. Ayat ini hanya melarang mengumpulkan harta tanpa mengeluarkan hak-hak Allah yang ada dalam harta yang telah dikumpulkan itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5393,
+                    "inSurah": 18
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 227,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَجَمَعَ فَأَوْعَىٰ",
+                    "transliteration": {
+                        "en": "W jama'a fa aw'aa"
+                    }
+                },
+                "translation": {
+                    "en": "And collected [wealth] and hoarded.",
+                    "id": "dan orang yang mengumpulkan (harta benda) lalu menyimpannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5393",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5393.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5393.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan orang yang mengumpulkan harta benda tanpa menghiraukan hukum dan ketentuan Allah lalu menyimpannya, yakni harta yang dikumpulkannya itu, enggan menafkahkan di jalan Allah.",
+                        "long": "Tidak akan diterima tebusan apa pun dari perbuatan dosa yang telah dikerjakan orang kafir. Allah tidak memerlukan tebusan, Dia Mahakaya dan tidak memerlukan sesuatu apa pun.\n\nSungguh, orang-orang yang kafir dan mati dalam kekafiran, tidak akan diterima (tebusan) dari seseorang di antara mereka sekalipun (berupa) emas sepenuh bumi, sekiranya dia hendak menebus diri dengannya. Mereka itulah orang-orang yang mendapat azab yang pedih dan tidak memperoleh penolong. (Ali Imran/3: 91)\n\nAzab yang disediakan bagi orang kafir ialah neraka. Tidak seorang pun yang selamat dan dapat melepaskan diri dari azabnya. Neraka itu memanggil orang kafir untuk diazab, begitu juga orang-orang yang membelakang dan lari dari kebenaran, suka berbuat curang atau jahat, dan suka mengumpulkan harta, tetapi tidak mau mengeluarkan sedekah dan hak-hak Allah, seperti yang telah ditetapkan-Nya.\n\nAyat ini tidak bertujuan untuk melarang kaum Muslimin mengumpulkan harta. Ayat ini hanya melarang mengumpulkan harta tanpa mengeluarkan hak-hak Allah yang ada dalam harta yang telah dikumpulkan itu."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5394,
+                    "inSurah": 19
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "۞ إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا",
+                    "transliteration": {
+                        "en": "Innal insaana khuliqa haloo'aa"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, mankind was created anxious:",
+                    "id": "Sungguh, manusia diciptakan bersifat suka mengeluh."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5394",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5394.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5394.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah diuraikan tentang orang-orang yang durhaka, kini diuraikan sebab-sebab kedurhakaan mereka, yaitu adanya sifat buruk pada manusia: Sungguh, manusia diciptakan bersifat suka mengeluh lagi kikir.",
+                        "long": "Dalam ayat ini dijelaskan bahwa manusia memiliki sifat suka berkeluh kesah dan kikir. Namun, sifat ini dapat diubah jika menuruti petunjuk Tuhan yang dinyatakan-Nya dalam ayat 22 sampai 24 surah ini. Manusia yang tidak mempedulikan petunjuk Tuhan dan seruan rasul adalah orang yang sesat. Firman Allah:\n\nDan kebanyakan manusia tidak akan beriman walaupun engkau sangat menginginkannya. (Yusuf/12: 103)\n\nManusia bisa sesat dari jalan Allah karena sifatnya yang tergesa-gesa, gelisah, dan kikir. Hal ini bukanlah ketentuan dari Allah terhadapnya, tetapi mereka menjadi mukmin atau menjadi kafir karena usaha dan pilihan mereka sendiri. \n\nDialah yang menciptakan kamu, lalu di antara kamu ada yang kafir dan di antara kamu (juga) ada yang mukmin. Dan Allah Maha Melihat apa yang kamu kerjakan. (At-Tagabun/64: 2)\n\nKepada manusia dibentangkan jalan lurus menuju keridaan Allah dan kebahagiaan hidup di dunia dan di akhirat seperti yang disampaikan Rasulullah, sebagaimana yang termuat dalam Al-Qur'an dan hadis. Di samping itu, terbentang pula jalan yang sesat, jalan yang dimurkai Allah dan menuju ke tempat yang penuh derita dan sengsara di akhirat. Manusia boleh memilih salah satu dari kedua jalan itu; jalan mana yang akan ditempuhnya, apakah jalan yang lurus atau jalan yang sesat. Kemudian mereka diberi balasan sesuai dengan pilihan mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5395,
+                    "inSurah": 20
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِذَا مَسَّهُ الشَّرُّ جَزُوعًا",
+                    "transliteration": {
+                        "en": "Izaa massahush sharru jazoo'aa"
+                    }
+                },
+                "translation": {
+                    "en": "When evil touches him, impatient,",
+                    "id": "Apabila dia ditimpa kesusahan dia berkeluh kesah,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5395",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5395.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5395.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Apabila dia ditimpa sedikit kesusahan atau musibah, dia berkeluh kesah,",
+                        "long": "Jika manusia ditimpa kesusahan, mereka tidak sabar dan tabah, kadang-kadang berputus asa. Akan tetapi, jika memperoleh rezeki dan karunia yang banyak dari Allah, ia menjadi kikir. Kegelisahan dan kekikiran itu timbul pada diri manusia lantaran mereka tidak beriman dengan sungguh-sungguh kepada Allah. Ia merasa seakan-akan dirinya terpencil, tidak ada sesuatu pun yang dapat menolongnya dalam kesukaran itu. Namun apabila mendapat rezeki, ia merasa bahwa rezeki itu diperolehnya semata-mata karena usahanya sendiri, tanpa pertolongan dari orang lain. Mereka beranggapan bahwa rezeki dan karunia yang diperolehnya itu bukan karunia dari Allah. Oleh karena itu, timbullah sifat kikir. \n\nLain halnya dengan orang yang beriman. Ia percaya bahwa segala yang datang kepadanya merupakan ujian dan cobaan dari Allah, baik yang datang itu berupa penderitaan maupun kesenangan. Cobaan itu diberikan kepadanya untuk menguji dan menambah kuat imannya. Oleh karena itu, ia tetap tabah dan sabar dalam menerima semua cobaan, serta bertobat kepada Allah dengan tobat yang sesungguhnya jika ada kesalahan yang telah dilakukannya. Sebaliknya jika ia menerima rahmat dan karunia dari Allah, ia bersyukur kepada-Nya dan merasa dirinya terikat dengan rahmat itu. Kemudian ia mengeluarkan hak orang lain atau hak Allah yang ada dalam hartanya itu, sebagaimana yang telah dilakukan Nabi Ayub:\n\nDan (ingatlah kisah) Ayub, ketika dia berdoa kepada Tuhannya, “(Ya Tuhanku), sungguh, aku telah ditimpa penyakit, padahal Engkau Tuhan Yang Maha Penyayang dari semua yang penyayang.” Maka Kami kabulkan (doa)nya, lalu Kami lenyapkan penyakit yang ada padanya dan Kami kembalikan keluarganya kepadanya, dan (Kami lipat gandakan jumlah mereka) sebagai suatu rahmat dari Kami, dan untuk menjadi peringatan bagi semua yang menyembah Kami. (Al-Anbiya‘/21: 83-84)\n\nOrang yang beriman tidak akan bersedih hati dan putus asa terhadap urusan dunia yang luput darinya, dan tidak akan berpengaruh pada jiwanya, karena ia yakin kepada Qada dan Qadar Allah. Belum tentu yang dikira buruk itu, buruk pula di sisi Allah, dan yang dikira baik itu, baik pula di sisi-Nya. Mungkin sebaliknya, yang dikira buruk itu, baik di sisi Allah dan yang kelihatannya baik itu adalah buruk di sisi Allah. Ia yakin benar hal yang demikian, karena dinyatakan Allah dalam firman-Nya:\n\nJika kamu tidak menyukai mereka, (maka bersabarlah) karena boleh jadi kamu tidak menyukai sesuatu, padahal Allah menjadikan kebaikan yang banyak padanya. (an-Nisa\\\\\\'/4: 19)\n\nAdapun orang kafir tidak mempunyai kepercayaan yang demikian. Mereka tidak percaya bahwa suka dan duka yang didatangkan Allah kepada seseorang merupakan cobaan Allah kepadanya. Mereka beranggapan bahwa hal itu merupakan malapetaka baginya. Ketika dalam keadaan senang dan gembira, mereka hanya melihat seakan-akan diri mereka sajalah yang ada, sedangkan yang lain tidak ada, sebagaimana firman Allah:\n\nManusia tidak jemu memohon kebaikan, dan jika ditimpa malapetaka, mereka berputus asa dan hilang harapannya. Dan jika Kami berikan kepadanya suatu rahmat dari Kami setelah ditimpa kesusahan, pastilah dia berkata, “Ini adalah hakku, dan aku tidak yakin bahwa hari Kiamat itu akan terjadi. Dan jika aku dikembalikan kepada Tuhanku, sesungguhnya aku akan memperoleh kebaikan di sisi-Nya.” Maka sungguh, akan Kami beritahukan kepada orang-orang kafir tentang apa yang telah mereka kerjakan, dan sungguh, akan Kami timpakan kepada mereka azab yang berat. (Fussilat/41: 49-50)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5396,
+                    "inSurah": 21
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا",
+                    "transliteration": {
+                        "en": "Wa izaa massahul khairu manoo'aa"
+                    }
+                },
+                "translation": {
+                    "en": "And when good touches him, withholding [of it],",
+                    "id": "dan apabila mendapat kebaikan (harta) dia jadi kikir,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5396",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5396.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5396.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan apabila mendapat kebaikan harta yaitu keluasan rezeki, dia menjadi sangat kikir,",
+                        "long": "Jika manusia ditimpa kesusahan, mereka tidak sabar dan tabah, kadang-kadang berputus asa. Akan tetapi, jika memperoleh rezeki dan karunia yang banyak dari Allah, ia menjadi kikir. Kegelisahan dan kekikiran itu timbul pada diri manusia lantaran mereka tidak beriman dengan sungguh-sungguh kepada Allah. Ia merasa seakan-akan dirinya terpencil, tidak ada sesuatu pun yang dapat menolongnya dalam kesukaran itu. Namun apabila mendapat rezeki, ia merasa bahwa rezeki itu diperolehnya semata-mata karena usahanya sendiri, tanpa pertolongan dari orang lain. Mereka beranggapan bahwa rezeki dan karunia yang diperolehnya itu bukan karunia dari Allah. Oleh karena itu, timbullah sifat kikir. \n\nLain halnya dengan orang yang beriman. Ia percaya bahwa segala yang datang kepadanya merupakan ujian dan cobaan dari Allah, baik yang datang itu berupa penderitaan maupun kesenangan. Cobaan itu diberikan kepadanya untuk menguji dan menambah kuat imannya. Oleh karena itu, ia tetap tabah dan sabar dalam menerima semua cobaan, serta bertobat kepada Allah dengan tobat yang sesungguhnya jika ada kesalahan yang telah dilakukannya. Sebaliknya jika ia menerima rahmat dan karunia dari Allah, ia bersyukur kepada-Nya dan merasa dirinya terikat dengan rahmat itu. Kemudian ia mengeluarkan hak orang lain atau hak Allah yang ada dalam hartanya itu, sebagaimana yang telah dilakukan Nabi Ayub:\n\nDan (ingatlah kisah) Ayub, ketika dia berdoa kepada Tuhannya, “(Ya Tuhanku), sungguh, aku telah ditimpa penyakit, padahal Engkau Tuhan Yang Maha Penyayang dari semua yang penyayang.” Maka Kami kabulkan (doa)nya, lalu Kami lenyapkan penyakit yang ada padanya dan Kami kembalikan keluarganya kepadanya, dan (Kami lipat gandakan jumlah mereka) sebagai suatu rahmat dari Kami, dan untuk menjadi peringatan bagi semua yang menyembah Kami. (Al-Anbiya\\'/21: 83-84)\n\nOrang yang beriman tidak akan bersedih hati dan putus asa terhadap urusan dunia yang luput darinya, dan tidak akan berpengaruh pada jiwanya, karena ia yakin kepada Qada dan Qadar Allah. Belum tentu yang dikira buruk itu, buruk pula di sisi Allah, dan yang dikira baik itu, baik pula di sisi-Nya. Mungkin sebaliknya, yang dikira buruk itu, baik di sisi Allah dan yang kelihatannya baik itu adalah buruk di sisi Allah. Ia yakin benar hal yang demikian, karena dinyatakan Allah dalam firman-Nya:\n\nJika kamu tidak menyukai mereka, (maka bersabarlah) karena boleh jadi kamu tidak menyukai sesuatu, padahal Allah menjadikan kebaikan yang banyak padanya. (an-Nisa\\'/4: 19)\n\nAdapun orang kafir tidak mempunyai kepercayaan yang demikian. Mereka tidak percaya bahwa suka dan duka yang didatangkan Allah kepada seseorang merupakan cobaan Allah kepadanya. Mereka beranggapan bahwa hal itu merupakan malapetaka baginya. Ketika dalam keadaan senang dan gembira, mereka hanya melihat seakan-akan diri mereka sajalah yang ada, sedangkan yang lain tidak ada, sebagaimana firman Allah:\n\nManusia tidak jemu memohon kebaikan, dan jika ditimpa malapetaka, mereka berputus asa dan hilang harapannya. Dan jika Kami berikan kepadanya suatu rahmat dari Kami setelah ditimpa kesusahan, pastilah dia berkata, “Ini adalah hakku, dan aku tidak yakin bahwa hari Kiamat itu akan terjadi. Dan jika aku dikembalikan kepada Tuhanku, sesungguhnya aku akan memperoleh kebaikan di sisi-Nya.” Maka sungguh, akan Kami beritahukan kepada orang-orang kafir tentang apa yang telah mereka kerjakan, dan sungguh, akan Kami timpakan kepada mereka azab yang berat. (Fussilat/41: 49-50)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5397,
+                    "inSurah": 22
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِلَّا الْمُصَلِّينَ",
+                    "transliteration": {
+                        "en": "Illal musalleen"
+                    }
+                },
+                "translation": {
+                    "en": "Except the observers of prayer -",
+                    "id": "kecuali orang-orang yang melaksanakan salat,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5397",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5397.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5397.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "kecuali orang-orang yang melaksanakan salat dengan baik dan benar, sehingga dapat mengalahkan sifat negatif tersebut.",
+                        "long": "Demikian sifat-sifat manusia pada umumnya, kecuali orang-orang yang mengerjakan salat. Salat merupakan rukun Islam kedua; tanda yang membedakan antara orang yang beriman dengan orang kafir. Jika seseorang salat, berarti ia mempunyai hubungan dengan Tuhannya. Dia akan selalu teringat kepada Tuhannya. Sebaliknya jika ia tidak salat, ia akan lupa kepada Tuhannya sehingga hubungannya terputus.\n\nSungguh, Aku ini Allah, tidak ada tuhan selain Aku, maka sembahlah Aku dan laksanakanlah salat untuk mengingat Aku. (°aha/20: 14)\n\nJika orang benar-benar khusyuk dalam salatnya, berarti hati dan pikirannya tertuju kepada Allah semata. Dia merasa berhadapan langsung dengan Allah dalam salatnya. Timbul dalam hatinya takut karena dosa-dosa yang telah diperbuatnya di samping penuh harap akan limpahan pahala, rahmat, dan karunia-Nya. Oleh karena itu, ia berjanji dalam hatinya akan menjauhi dan menghentikan larangan-larangan-Nya. Hatinya pasrah dan tenteram menyerahkan diri kepada-Nya. Orang yang salat secara demikian, akan terhindar dari perbuatan keji dan perbuatan mungkar.\n\nBacalah Kitab (Al-Qur'an) yang telah diwahyukan kepadamu (Muhammad) dan laksanakanlah salat. Sesungguhnya salat itu mencegah dari (perbuatan) keji dan mungkar. Dan (ketahuilah) mengingat Allah (salat) itu lebih besar (keutamaannya dari ibadah yang lain). Allah mengetahui apa yang kamu kerjakan. (Al-‘Ankabµt/29: 45)\n\nDalam ayat ini disebutkan salat dalam arti yang umum, termasuk di dalamnya salat wajib yang lima waktu dan salat-salat sunah. Hal ini berarti bahwa semua salat yang diperintahkan Allah untuk dikerjakan dapat menghilangkan kegelisahan, menenteramkan hati, dan menambah kekuatan iman orang yang mengerjakannya. Sekalipun demikian, tentu salat yang paling diutamakan mengerjakannya ialah salat yang lima waktu.\n\nKemudian diteruskan bahwa salat itu selalu dikerjakan pada setiap waktu yang ditentukan, terus-menerus, tidak ada yang luput dikerjakan walaupun satu salat. Inilah syarat mengerjakan salat yang dapat menghilangkan kegelisahan hati dan kekikiran."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5398,
+                    "inSurah": 23
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ",
+                    "transliteration": {
+                        "en": "Allazeena hum 'alaa Salaatihim daaa'imoon"
+                    }
+                },
+                "translation": {
+                    "en": "Those who are constant in their prayer",
+                    "id": "mereka yang tetap setia melaksanakan salatnya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5398",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5398.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5398.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka yang tetap setia melaksanakan salatnya secara istikamah,",
+                        "long": "Demikian sifat-sifat manusia pada umumnya, kecuali orang-orang yang mengerjakan salat. Salat merupakan rukun Islam kedua; tanda yang membedakan antara orang yang beriman dengan orang kafir. Jika seseorang salat, berarti ia mempunyai hubungan dengan Tuhannya. Dia akan selalu teringat kepada Tuhannya. Sebaliknya jika ia tidak salat, ia akan lupa kepada Tuhannya sehingga hubungannya terputus.\n\nSungguh, Aku ini Allah, tidak ada tuhan selain Aku, maka sembahlah Aku dan laksanakanlah salat untuk mengingat Aku. (Thaha/20: 14)\n\nJika orang benar-benar khusyuk dalam salatnya, berarti hati dan pikirannya tertuju kepada Allah semata. Dia merasa berhadapan langsung dengan Allah dalam salatnya. Timbul dalam hatinya takut karena dosa-dosa yang telah diperbuatnya di samping penuh harap akan limpahan pahala, rahmat, dan karunia-Nya. Oleh karena itu, ia berjanji dalam hatinya akan menjauhi dan menghentikan larangan-larangan-Nya. Hatinya pasrah dan tenteram menyerahkan diri kepada-Nya. Orang yang salat secara demikian, akan terhindar dari perbuatan keji dan perbuatan mungkar.\n\nBacalah Kitab (Al-Qur‘an) yang telah diwahyukan kepadamu (Muhammad) dan laksanakanlah salat. Sesungguhnya salat itu mencegah dari (perbuatan) keji dan mungkar. Dan (ketahuilah) mengingat Allah (salat) itu lebih besar (keutamaannya dari ibadah yang lain). Allah mengetahui apa yang kamu kerjakan. (Al-‘Ankabµt/29: 45)\n\nDalam ayat ini disebutkan salat dalam arti yang umum, termasuk di dalamnya salat wajib yang lima waktu dan salat-salat sunah. Hal ini berarti bahwa semua salat yang diperintahkan Allah untuk dikerjakan dapat menghilangkan kegelisahan, menenteramkan hati, dan menambah kekuatan iman orang yang mengerjakannya. Sekalipun demikian, tentu salat yang paling diutamakan mengerjakannya ialah salat yang lima waktu.\n\nKemudian diteruskan bahwa salat itu selalu dikerjakan pada setiap waktu yang ditentukan, terus-menerus, tidak ada yang luput dikerjakan walaupun satu salat. Inilah syarat mengerjakan salat yang dapat menghilangkan kegelisahan hati dan kekikiran."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5399,
+                    "inSurah": 24
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ",
+                    "transliteration": {
+                        "en": "Wallazeena feee amwaalihim haqqum ma'loom"
+                    }
+                },
+                "translation": {
+                    "en": "And those within whose wealth is a known right",
+                    "id": "dan orang-orang yang dalam hartanya disiapkan bagian tertentu,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5399",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5399.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5399.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan orang-orang yang dalam hartanya yang diraihnya secara halal disiapkan bagian tertentu,",
+                        "long": "Di samping mengerjakan salat untuk mengingat dan menghambakan diri kepada Allah, manusia diperintahkan agar selalu meneliti harta yang telah dianugerahkan Allah kepadanya; apakah dalam harta itu telah atau belum ada hak orang miskin yang meminta-minta, dan orang miskin yang tidak mempunyai sesuatu apa pun. Jika ada hak mereka, ia segera mengeluarkannya karena dia percaya bahwa selama ada hak orang lain dalam hartanya itu, berarti hartanya belum suci.\n\nAmbillah zakat dari harta mereka, guna membersihkan dan menyucikan mereka, dan berdoalah untuk mereka. (at-Taubah/9: 103)\n\nDari perkataan ¥aqq ma‘lµm (bagian tertentu) dipahami bahwa yang dimaksud dalam ayat ini ialah sedekah wajib, yaitu zakat. Hal ini diperkuat dengan penyebutannya dalam ayat ini diiringi dengan penyebutan salat. Di dalam Al-Qur‘an terdapat dua puluh tujuh tempat yang menyebutkan secara beriringan perintah mengerjakan salat dengan perintah mengerjakan zakat. Hal ini menunjukkan bahwa keduanya mempunyai hubungan yang erat. Dengan salat, seorang dapat menyucikan dirinya dari segala perbuatan syirik dan terlarang, serta menyerahkan dan menghambakan diri hanya kepada Allah. Sedangkan dengan zakat, seseorang dapat menyucikan hartanya dari milik orang lain serta menanamkan keyakinan dalam dirinya bahwa harta yang dikaruniakan Allah itu harus digunakan dan dimanfaatkan untuk jalan yang diridai-Nya. Harta itu hanya sebagai alat untuk mencari keridaan-Nya, bukan sebagai tujuan hidup. Dengan perkataan lain bahwa zakat adalah hasil dan perwujudan dari berhasilnya salat yang dikerjakan seseorang."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5400,
+                    "inSurah": 25
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لِّلسَّائِلِ وَالْمَحْرُومِ",
+                    "transliteration": {
+                        "en": "Lissaaa 'ili walmahroom"
+                    }
+                },
+                "translation": {
+                    "en": "For the petitioner and the deprived -",
+                    "id": "bagi orang (miskin) yang meminta dan yang tidak meminta,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5400",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5400.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5400.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Untuk diserahkan bagi orang miskin yang meminta dan orang miskin yang tidak meminta karena menjaga kehormatannya.",
+                        "long": "Di samping mengerjakan salat untuk mengingat dan menghambakan diri kepada Allah, manusia diperintahkan agar selalu meneliti harta yang telah dianugerahkan Allah kepadanya; apakah dalam harta itu telah atau belum ada hak orang miskin yang meminta-minta, dan orang miskin yang tidak mempunyai sesuatu apa pun. Jika ada hak mereka, ia segera mengeluarkannya karena dia percaya bahwa selama ada hak orang lain dalam hartanya itu, berarti hartanya belum suci.\n\nAmbillah zakat dari harta mereka, guna membersihkan dan menyucikan mereka, dan berdoalah untuk mereka. (at-Taubah/9: 103)\n\nDari perkataan ¥aqq ma‘lµm (bagian tertentu) dipahami bahwa yang dimaksud dalam ayat ini ialah sedekah wajib, yaitu zakat. Hal ini diperkuat dengan penyebutannya dalam ayat ini diiringi dengan penyebutan salat. Di dalam Al-Qur‘an terdapat dua puluh tujuh tempat yang menyebutkan secara beriringan perintah mengerjakan salat dengan perintah mengerjakan zakat. Hal ini menunjukkan bahwa keduanya mempunyai hubungan yang erat. Dengan salat, seorang dapat menyucikan dirinya dari segala perbuatan syirik dan terlarang, serta menyerahkan dan menghambakan diri hanya kepada Allah. Sedangkan dengan zakat, seseorang dapat menyucikan hartanya dari milik orang lain serta menanamkan keyakinan dalam dirinya bahwa harta yang dikaruniakan Allah itu harus digunakan dan dimanfaatkan untuk jalan yang diridai-Nya. Harta itu hanya sebagai alat untuk mencari keridaan-Nya, bukan sebagai tujuan hidup. Dengan perkataan lain bahwa zakat adalah hasil dan perwujudan dari berhasilnya salat yang dikerjakan seseorang."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5401,
+                    "inSurah": 26
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ",
+                    "transliteration": {
+                        "en": "Wallazeena yusaddiqoona bi yawmid Deen"
+                    }
+                },
+                "translation": {
+                    "en": "And those who believe in the Day of Recompense",
+                    "id": "dan orang-orang yang mempercayai hari pembalasan,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5401",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5401.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5401.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan orang-orang yang mempercayai hari pembalasan, mereka mengimaninya dengan hati dan perbuatan, sehingga mempersiapkan bekal menghadapinya,",
+                        "long": "Orang yang tidak suka berkeluh kesah adalah orang yang menjalankan salat dan menunaikan zakat. Merekalah yang percaya adanya hari kiamat, adanya hidup setelah mati, dan waktu ditimbang semua amal perbuatan yang telah dikerjakan selama hidup di dunia. Amal baik dibalas dengan surga, sedangkan perbuatan jahat, yang tidak diridai Allah akan dibalas dengan neraka.\n\nOrang yang percaya akan adanya hari akhirat sangat yakin bahwa mereka pada hari itu akan mendapat pahala iman dan amal yang telah mereka lakukan selama hidup di dunia. Mereka percaya bahwa hidup di akhiratlah hidup yang sebenarnya; sedangkan hidup di dunia hanyalah hidup sementara, untuk mempersiapkan diri bagi hidup di akhirat itu. Oleh karena itu, segala macam cobaan yang datang kepada mereka selama di dunia, dihadapi dengan tabah dan sabar. Mereka tidak pernah berkeluh-kesah, bagaimana pun cobaan yang diderita. Mereka tidak pula akan kikir untuk menolong sesamanya yang hidup dalam kepapaan dan penderitaan.\n\nTelah menjadi dasar bagi kebahagiaan hidup manusia ialah bahwa usahanya menghindarkan diri dari bahaya dan kemudaratan selalu lebih besar dan lebih didahulukan daripada usahanya untuk memperoleh kebahagiaan dan kemanfaatan. Akan tetapi, manusia dalam kehidupannya sehari-hari kadang-kadang lupa atau lalai terhadap dasar ini. Dia kadang-kadang cepat terpukau oleh sesuatu yang kelihatannya akan mendatangkan kebaikan atau memberi manfaat baginya. Maka dikerjakanlah sesuatu itu dengan tidak memperhitungkan atau mempertimbangkan kemudaratan yang akan ditimbulkannya. Akibatnya ia menderita dan sengsara. Itulah hukuman dan azab dari Tuhan atas kelalaian itu.\n\nAda kaidah Usul Fikih yang berbunyi:\n\nMenolak kemudaratan itu didahulukan daripada mengambil maslahat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5402,
+                    "inSurah": 27
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+                    "transliteration": {
+                        "en": "Wallazeena hum min 'azaabi Rabbihim mushfiqoon"
+                    }
+                },
+                "translation": {
+                    "en": "And those who are fearful of the punishment of their Lord -",
+                    "id": "dan orang-orang yang takut terhadap azab Tuhannya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5402",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5402.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5402.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan orang-orang yang takut terhadap azab Tuhannya, sehingga selalu berusaha melaksanakan perintah dan menjauhi larangan-Nya.",
+                        "long": "Orang yang tidak suka berkeluh kesah adalah orang yang menjalankan salat dan menunaikan zakat. Merekalah yang percaya adanya hari kiamat, adanya hidup setelah mati, dan waktu ditimbang semua amal perbuatan yang telah dikerjakan selama hidup di dunia. Amal baik dibalas dengan surga, sedangkan perbuatan jahat, yang tidak diridai Allah akan dibalas dengan neraka.\n\nOrang yang percaya akan adanya hari akhirat sangat yakin bahwa mereka pada hari itu akan mendapat pahala iman dan amal yang telah mereka lakukan selama hidup di dunia. Mereka percaya bahwa hidup di akhiratlah hidup yang sebenarnya; sedangkan hidup di dunia hanyalah hidup sementara, untuk mempersiapkan diri bagi hidup di akhirat itu. Oleh karena itu, segala macam cobaan yang datang kepada mereka selama di dunia, dihadapi dengan tabah dan sabar. Mereka tidak pernah berkeluh-kesah, bagaimana pun cobaan yang diderita. Mereka tidak pula akan kikir untuk menolong sesamanya yang hidup dalam kepapaan dan penderitaan.\n\nTelah menjadi dasar bagi kebahagiaan hidup manusia ialah bahwa usahanya menghindarkan diri dari bahaya dan kemudaratan selalu lebih besar dan lebih didahulukan daripada usahanya untuk memperoleh kebahagiaan dan kemanfaatan. Akan tetapi, manusia dalam kehidupannya sehari-hari kadang-kadang lupa atau lalai terhadap dasar ini. Dia kadang-kadang cepat terpukau oleh sesuatu yang kelihatannya akan mendatangkan kebaikan atau memberi manfaat baginya. Maka dikerjakanlah sesuatu itu dengan tidak memperhitungkan atau mempertimbangkan kemudaratan yang akan ditimbulkannya. Akibatnya ia menderita dan sengsara. Itulah hukuman dan azab dari Tuhan atas kelalaian itu.\n\nAda kaidah Usul Fikih yang berbunyi:\n\nMenolak kemudaratan itu didahulukan daripada mengambil maslahat."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5403,
+                    "inSurah": 28
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+                    "transliteration": {
+                        "en": "Inna 'azaaba Rabbihim ghairu maamoon"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, the punishment of their Lord is not that from which one is safe -",
+                    "id": "sesungguhnya terhadap azab Tuhan mereka, tidak ada seseorang yang merasa aman (dari kedatangannya),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5403",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5403.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5403.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Karena sesungguhnya terhadap azab Tuhan mereka, tidak ada seseorang yang merasa aman dari kedatangannya, sebab azab tersebut pasti datang.",
+                        "long": "Tidak satu pun di antara manusia yang merasa dirinya aman dari kedatangan azab Tuhannya. Oleh karena itu, ia berusaha agar dia terjauh dari azab itu dengan bertakwa kepada-Nya. Azab Tuhan hanya akan ditimpakan kepada orang yang tidak bertakwa kepada-Nya. Semua orang yang beriman dengan sebenar-benarnya, mendirikan salat wajib, menunaikan zakat, dan percaya kepada adanya hari akhirat, hari dilaksanakan keadilan yang sesungguhnya, akan tenteram hatinya dan tidak merasa khawatir akan kedatangan azab Allah, sekalipun mereka belum dapat memastikan apakah mereka termasuk penghuni surga atau penghuni neraka. Yang menenteramkan hati orang yang beriman itu ialah iman dan amal saleh yang telah dikerjakan. Firman Allah:\n\nBarang siapa beriman kepada Allah, kepada hari kemudian, dan berbuat kebajikan, maka tidak ada rasa khawatir padanya dan mereka tidak bersedih hati. (al-Ma'idah/5: 69)\n\nDan firman-Nya:\n\nTidak! Barang siapa menyerahkan diri sepenuhnya kepada Allah, dan dia berbuat baik, dia mendapat pahala di sisi Tuhannya dan tidak ada rasa takut pada mereka dan mereka tidak bersedih hati. (al-Baqarah/2: 112)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5404,
+                    "inSurah": 29
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ",
+                    "transliteration": {
+                        "en": "Wallazeena hum lifuroo jihim haafizoon"
+                    }
+                },
+                "translation": {
+                    "en": "And those who guard their private parts",
+                    "id": "dan orang-orang yang memelihara kemaluannya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5404",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5404.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5404.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah diuraikan sifat yang berfungsi untuk memelihara diri, kini diuraikan hal-hal yang harus dijauhi untuk menghindari keburuk-an. Dan orang-orang yang memelihara kemaluannya secara mantap dan sungguh-sungguh,",
+                        "long": "Dalam dua ayat ini diterangkan sifat manusia yang hatinya tenteram, tidak berkeluh kesah dan tidak kikir, yaitu orang yang menjaga kehormatannya dan tidak melakukan perbuatan zina. Mereka hanya melakukan apa yang telah dihalalkan, hanya menggauli istri-istri mereka atau dengan budak-budak perempuan yang telah mereka miliki.\n\nPerkataan fa innahum gairu malµm³n (maka sesungguhnya mereka tidak tercela) memberi pengertian bahwa hak mencampuri istri atau budak-budak yang dimiliki, bukanlah hak tanpa batas, melainkan harus disesuaikan dengan ketentuan-ketentuan agama. Menurut agama Islam, hubungan suami istri adalah hubungan yang suci, hubungan yang diridai Allah, hubungan cinta kasih, hubungan yang dilatarbelakangi oleh keinginan mengikuti sunah Rasulullah, dan ingin memperoleh keturunan. Hubungan suami-istri mempunyai unsur-unsur ibadah. Hubungan ini dilukiskan dalam firman Allah:\n\nDihalalkan bagimu pada malam hari puasa bercampur dengan istrimu. Mereka adalah pakaian bagimu, dan kamu adalah pakaian bagi mereka. (Al-Baqarah/2: 187)\n\nRasulullah saw bersabda:\n\nDari ‘Abdullah bin ‘Amr bahwa Rasulullah saw bersabda, “Dunia itu adalah sesuatu yang menyenangkan, sebaik-baik harta benda kehidupan dunia itu ialah istri yang saleh.” (Riwayat Muslim)\n\nAyat ini memberikan petunjuk kepada suami-istri bahwa dalam melakukan hubungan dengan istri atau suami, tuan dengan budak perempuan, hendaklah dilakukan sedemikian rupa, sehingga dalam hubungan itu terdapat unsur-unsur ibadah, akhlak yang mulia, tata cara yang baik, dan sebagainya, sehingga dapat menjaga kemuliaan dan martabatnya sebagai seorang muslim. Tidak sekadar memenuhi hawa nafsu, keperluan biologis, atau seperti yang dilakukan oleh binatang, melainkan untuk tujuan yang agung.\n\nSurah Al-Ma‘arij ini Makkiyyah, jadi waktu itu belum ada ketentuan pernikahan seperti yang kemudian diatur dalam Surah an-Nisa‘/4: 24-25. Kata-kata au ma malakat aimanuhum yang terdapat dalam beberapa surah, sering diterjemahkan “atau budak-budak perempuan yang mereka miliki” Ayat ini memerlukan penjelasan, seperti dikemukakan oleh beberapa mufasir secara lebih mendalam, bahwa ma malakat aimanuhum ialah perempuan yang sudah bercerai dengan suaminya, yang sekarang menjadi miliknya (biasanya dari tawanan perang), dan harus dalam arti tawanan dalam perang jihad, di bawah perintah imam yang saleh dan adil dalam menghadapi lawan yang hendak menindas orang beriman. Tawanan perempuan itu boleh digauli, tetapi harus dengan dinikahi terlebih dulu, dan perkawinan itu bukan karena didorong oleh nafsu, melainkan untuk memelihara kesucian pihak perempuan, yang dalam hal ini berarti pihak suami menghindari perbuatan zina dan sekaligus mengangkat martabat perempuan dari status budak bekas tawanan perang (yang memang sudah berlaku umum waktu itu) menjadi perempuan mereka, tidak lagi berstatus budak. Kebiasaan tawanan perang semacam ini sekarang sudah tidak berlaku lagi\n\nJika seorang muslim telah dapat melakukan hubungan dengan istrinya atau dengan budaknya sesuai dengan tuntutan agama Islam, berarti ia telah dapat menguasai puncak hawa nafsunya, karena puncak hawa nafsu itu terletak dalam hubungan seperti antara laki-laki dan wanita. Jika mereka telah dapat melakukan yang demikian, maka mereka akan lebih dapat melakukan hal-hal yang lain yang lebih rendah tingkatnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5405,
+                    "inSurah": 30
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+                    "transliteration": {
+                        "en": "Illaa 'alaaa azwaajihim aw maa malakat aymaanuhum fainnahum ghairu maloomeen"
+                    }
+                },
+                "translation": {
+                    "en": "Except from their wives or those their right hands possess, for indeed, they are not to be blamed -",
+                    "id": "kecuali terhadap istri-istri mereka atau hamba sahaya yang mereka miliki maka sesungguhnya mereka tidak tercela."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5405",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5405.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5405.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "kecuali terhadap istri-istri pasangan-pasangan mereka yang sah menurut agama, atau hamba sahaya yang mereka miliki maka sesungguhnya mereka tidak tercela selama mereka lakukan tidak melanggar ketentuan agama.",
+                        "long": "Dalam dua ayat ini diterangkan sifat manusia yang hatinya tenteram, tidak berkeluh kesah dan tidak kikir, yaitu orang yang menjaga kehormatannya dan tidak melakukan perbuatan zina. Mereka hanya melakukan apa yang telah dihalalkan, hanya menggauli istri-istri mereka atau dengan budak-budak perempuan yang telah mereka miliki.\n\nPerkataan fa innahum gairu malµm³n (maka sesungguhnya mereka tidak tercela) memberi pengertian bahwa hak mencampuri istri atau budak-budak yang dimiliki, bukanlah hak tanpa batas, melainkan harus disesuaikan dengan ketentuan-ketentuan agama. Menurut agama Islam, hubungan suami istri adalah hubungan yang suci, hubungan yang diridai Allah, hubungan cinta kasih, hubungan yang dilatarbelakangi oleh keinginan mengikuti sunah Rasulullah, dan ingin memperoleh keturunan. Hubungan suami-istri mempunyai unsur-unsur ibadah. Hubungan ini dilukiskan dalam firman Allah:\n\nDihalalkan bagimu pada malam hari puasa bercampur dengan istrimu. Mereka adalah pakaian bagimu, dan kamu adalah pakaian bagi mereka. (Al-Baqarah/2: 187)\n\nRasulullah saw bersabda:\n\nDari ‘Abdullah bin ‘Amr bahwa Rasulullah saw bersabda, “Dunia itu adalah sesuatu yang menyenangkan, sebaik-baik harta benda kehidupan dunia itu ialah istri yang saleh.” (Riwayat Muslim)\n\nAyat ini memberikan petunjuk kepada suami-istri bahwa dalam melakukan hubungan dengan istri atau suami, tuan dengan budak perempuan, hendaklah dilakukan sedemikian rupa, sehingga dalam hubungan itu terdapat unsur-unsur ibadah, akhlak yang mulia, tata cara yang baik, dan sebagainya, sehingga dapat menjaga kemuliaan dan martabatnya sebagai seorang muslim. Tidak sekadar memenuhi hawa nafsu, keperluan biologis, atau seperti yang dilakukan oleh binatang, melainkan untuk tujuan yang agung.\n\nSurah Al-Ma‘arij ini Makkiyyah, jadi waktu itu belum ada ketentuan pernikahan seperti yang kemudian diatur dalam Surah an-Nisa‘/4: 24-25. Kata-kata au ma malakat aimanuhum yang terdapat dalam beberapa surah, sering diterjemahkan “atau budak-budak perempuan yang mereka miliki” Ayat ini memerlukan penjelasan, seperti dikemukakan oleh beberapa mufasir secara lebih mendalam, bahwa ma malakat aimanuhum ialah perempuan yang sudah bercerai dengan suaminya, yang sekarang menjadi miliknya (biasanya dari tawanan perang), dan harus dalam arti tawanan dalam perang jihad, di bawah perintah imam yang saleh dan adil dalam menghadapi lawan yang hendak menindas orang beriman. Tawanan perempuan itu boleh digauli, tetapi harus dengan dinikahi terlebih dulu, dan perkawinan itu bukan karena didorong oleh nafsu, melainkan untuk memelihara kesucian pihak perempuan, yang dalam hal ini berarti pihak suami menghindari perbuatan zina dan sekaligus mengangkat martabat perempuan dari status budak bekas tawanan perang (yang memang sudah berlaku umum waktu itu) menjadi perempuan mereka, tidak lagi berstatus budak. Kebiasaan tawanan perang semacam ini sekarang sudah tidak berlaku lagi\n\nJika seorang muslim telah dapat melakukan hubungan dengan istrinya atau dengan budaknya sesuai dengan tuntutan agama Islam, berarti ia telah dapat menguasai puncak hawa nafsunya, karena puncak hawa nafsu itu terletak dalam hubungan seperti antara laki-laki dan wanita. Jika mereka telah dapat melakukan yang demikian, maka mereka akan lebih dapat melakukan hal-hal yang lain yang lebih rendah tingkatnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5406,
+                    "inSurah": 31
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ",
+                    "transliteration": {
+                        "en": "Famanib taghaa waraaa'a zaalika fa ulaaa'ika humul 'aadoon"
+                    }
+                },
+                "translation": {
+                    "en": "But whoever seeks beyond that, then they are the transgressors -",
+                    "id": "Maka barangsiapa mencari di luar itu (seperti zina, homoseks dan lesbian), mereka itulah orang-orang yang melampaui batas."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5406",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5406.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5406.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka barangsiapa mencari pelampiasan hawa nafsunya di luar itu seperti zina, homoseks, dan lesbian, mereka itulah orang-orang yang melampaui batas ajaran agama dan moral, maka wajar dicela atau disiksa.",
+                        "long": "Barang siapa yang berbuat di luar ketentuan-ketentuan tersebut, misalnya berzina, melakukan homoseksual atau lesbian, mereka adalah orang-orang yang melampaui batas.\n\nDalam ayat yang sebelum ini, diterangkan bahwa di antara syarat menghilangkan suka berkeluh kesah dan sifat kikir ialah menjaga kehormatan dan kemuliaan diri, yaitu hanya dengan mencampuri istri atau budak yang dimiliki. Selain dari itu, dengan menjauhi perbuatan-perbuatan yang dapat mendorong atau mempercepat orang melakukan perbuatan yang terlarang itu, seperti pergaulan bebas antara laki-laki dan wanita, dan sebagainya. Oleh karena itu, Allah menegaskan dalam firman-Nya:\n\nKatakanlah kepada laki-laki yang beriman, agar mereka menjaga pandangannya, dan memelihara kemaluannya; yang demikian itu, lebih suci bagi mereka. Sungguh, Allah Maha Mengetahui apa yang mereka perbuat. (an-Nµr/24: 30)\n\nDalam ayat ini dapat dipahami bahwa Allah memerintahkan agar kaum Muslimin memelihara pandangannya adalah untuk menjaga diri dari perbuatan zina."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5407,
+                    "inSurah": 32
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ",
+                    "transliteration": {
+                        "en": "Wallazeena hum li amaa naatihim wa 'ahdihim raa'oon"
+                    }
+                },
+                "translation": {
+                    "en": "And those who are to their trusts and promises attentive",
+                    "id": "Dan orang-orang yang memelihara amanat dan janjinya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5407",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5407.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5407.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Setelah mengecam siapa yang melampaui batas, kini diteruskan dengan memuji orang yang akan meraih surg.. Dan orang-orang yang memelihara amanat yang dipikulkan atas mereka oleh Allah atau oleh manusia, dan yang memenuhi janjinya,",
+                        "long": "Dalam ayat ini, Allah menerangkan syarat-syarat lain yang dapat menghilangkan sifat suka berkeluh-kesah dan kikir, yaitu memelihara amanat yang dipercayakan kepadanya, baik berupa amanat Allah, seperti wajib beriman, mengerjakan salat, menunaikan zakat, mengerjakan haji, berjihad, dan sebagainya, maupun amanat manusia terhadap dirinya, seperti memelihara kemaluan, memenuhi janji, dan sebagainya. Amanat ialah suatu perjanjian untuk memelihara sesuatu yang dilakukan oleh hamba kepada Tuhannya, dirinya sendiri, dan orang lain.\n\nSanggup memelihara amanat termasuk salah satu dari sifat orang muslim, dan sifat ini pulalah yang membedakan orang mukmin dari orang munafik. Nabi Muhammad bersabda:\n\nNabi Muhammad bersabda, “Tanda-tanda orang munafik itu ada tiga, yaitu: apabila ia berkata, ia berdusta, apabila ia berjanji, ia ingkar (menyalahinya), dan apabila ia diberi amanat, ia berkhianat.” (Riwayat al-Bukhari dan Muslim dari Abu Hurairah)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5408,
+                    "inSurah": 33
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ",
+                    "transliteration": {
+                        "en": "Wallazeena hum bishahaadaatihim qaaa'imoon"
+                    }
+                },
+                "translation": {
+                    "en": "And those who are in their testimonies upright",
+                    "id": "dan orang-orang yang berpegang teguh pada kesaksiannya,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5408",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5408.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5408.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan mereka juga orang-orang yang berpegang teguh dengan sungguh-sungguh pada kesaksiannya, tanpa dipengaruhi oleh kepentingan diri, keluarga atau kelompok,",
+                        "long": "Maksud kalimat “orang yang berpegang teguh dengan kesaksiannya” yang terdapat dalam ayat ini ialah orang yang mau melaksanakan kesaksian bila diperlukan dan bila menjadi saksi, ia melakukannya dengan benar, tidak berbohong, tidak mengubah atau menyembunyikan sesuatu dalam kesaksiannya itu. Firman Allah:\n\nDan janganlah kamu menyembunyikan kesaksian, karena barang siapa menyembunyikannya, sungguh, hatinya kotor (berdosa). Allah Maha Mengetahui apa yang kamu kerjakan. (al-Baqarah/2: 283)\n\nManusia juga diperintahkan untuk melaksanakan kesaksian guna menegakkan keadilan dengan tujuan mencari keridaan Allah, bukan untuk suatu maksud yang berlawanan dengan ajaran-Nya. \n\nPersaksikanlah dengan dua orang saksi yang adil di antara kamu dan hendaklah kamu tegakkan kesaksian itu karena Allah. (Al-Alaq/65: 2)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5409,
+                    "inSurah": 34
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+                    "transliteration": {
+                        "en": "Wallazeena hum 'alaa salaatihim yuhaafizoon"
+                    }
+                },
+                "translation": {
+                    "en": "And those who [carefully] maintain their prayer:",
+                    "id": "dan orang-orang yang memelihara salatnya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5409",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5409.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5409.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan juga orang-orang yang memelihara salatnya, baik menyangkut waktu pelaksanannya, syarat, rukun dan wajibnya serta sunah-sunahnya.",
+                        "long": "Selain yang telah disebutkan di atas, masih ada satu hal lagi yang dapat menghilangkan sifat suka berkeluh kesah dan sifat kikir, yaitu selalu memelihara salat. Pengertian memelihara salat dalam ayat ini ialah:\n\n1. Berusaha melengkapi syarat-syarat salat dengan baik dan sempurna, seperti meneliti pakaian yang dipakai sehingga tidak terdapat najis, berwudu dengan baik, dan mengenyampingkan segala sesuatu yang dapat menghilangkan atau mengurangi kekhusyukan.\n\n2. Berusaha melaksanakan semua rukun salat dengan baik dan sempurna.\n\n3. Berusaha khusyuk.\n\n4. Berusaha melaksanakan salat wajib yang lima waktu.\n\n5. Berusaha melaksanakan salat pada awal waktunya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5410,
+                    "inSurah": 35
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 502,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أُولَٰئِكَ فِي جَنَّاتٍ مُّكْرَمُونَ",
+                    "transliteration": {
+                        "en": "Ulaaa'ika fee jannaatim mukramoon"
+                    }
+                },
+                "translation": {
+                    "en": "They will be in gardens, honored.",
+                    "id": "Mereka itu dimuliakan di dalam surga."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5410",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5410.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5410.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka yang melaksanakan amal-amal itu dimuliakan di dalam surga dan mereka kekal di dalamnya.",
+                        "long": "Manusia yang mempunyai sifat-sifat di atas akan mendapat balasan surga di akhirat dan orang yang bersifat demikian akan dapat mengikis sifat suka berkeluh kesah dan sifat kikir dari hatinya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5411,
+                    "inSurah": 36
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 503,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ",
+                    "transliteration": {
+                        "en": "Famaa lil lazeena kafaroo qibalaka muhti'een"
+                    }
+                },
+                "translation": {
+                    "en": "So what is [the matter] with those who disbelieve, hastening [from] before you, [O Muhammad],",
+                    "id": "Maka mengapa orang-orang kafir itu datang bergegas ke hadapanmu (Muhammad),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5411",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5411.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5411.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Penjelasan telah disampaikan ayat-ayat telah dibacakan, tetapi kaum kafir tetap durhaka. Kelompok ayat ini mengecam sikap keras kepala mereka. Maka mengapa orang-orang kafir itu datang bergegas ke hadapanmu,",
+                        "long": "Menurut sebahagian ahli tafsir, ayat ini berhubungan dengan peristiwa ketika Rasulullah saw salat dan membaca Al-Qur‘an di dekat Ka‘bah. Lalu orang-orang musyrik berkumpul berkelompok-kelompok di dekatnya sambil mengejek dan mengatakan bahwa mereka lebih pantas masuk surga daripada kaum Muslimin, karena mereka lebih mulia.\n\nOrang-orang musyrik Mekah yang datang kepada Nabi bergegas duduk di kanan dan di kiri beliau untuk mendengar dan memperhatikan ayat-ayat yang beliau baca, seakan-akan mereka mengimaninya. Bila mendengar Nabi saw membaca Al-Qur‘an, mereka memelototkan mata seperti orang ketakutan. Mereka duduk di kanan-kiri Rasulullah berkelompok-kelompok dan seakan-akan memperhatikan ayat-ayat yang dibacakan itu. Mereka juga mengangguk-anggukkan kepala, tetapi maksud mereka sesungguhnya untuk menghina Nabi Muhammad."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5412,
+                    "inSurah": 37
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 503,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ",
+                    "transliteration": {
+                        "en": "'Anil yameeni wa 'anish shimaali 'izeen"
+                    }
+                },
+                "translation": {
+                    "en": "[To sit] on [your] right and [your] left in separate groups?",
+                    "id": "dari kanan dan dari kiri dengan berkelompok-kelompok?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5412",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5412.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5412.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "wahai Muhammad, sambil terus menerus memandangmu dari arah kanan dan dari kiri dengan berkelompok-kelompok?",
+                        "long": "Menurut sebahagian ahli tafsir, ayat ini berhubungan dengan peristiwa ketika Rasulullah saw salat dan membaca Al-Qur‘an di dekat Ka‘bah. Lalu orang-orang musyrik berkumpul berkelompok-kelompok di dekatnya sambil mengejek dan mengatakan bahwa mereka lebih pantas masuk surga daripada kaum Muslimin, karena mereka lebih mulia.\n\nOrang-orang musyrik Mekah yang datang kepada Nabi bergegas duduk di kanan dan di kiri beliau untuk mendengar dan memperhatikan ayat-ayat yang beliau baca, seakan-akan mereka mengimaninya. Bila mendengar Nabi saw membaca Al-Qur‘an, mereka memelototkan mata seperti orang ketakutan. Mereka duduk di kanan-kiri Rasulullah berkelompok-kelompok dan seakan-akan memperhatikan ayat-ayat yang dibacakan itu. Mereka juga mengangguk-anggukkan kepala, tetapi maksud mereka sesungguhnya untuk menghina Nabi Muhammad."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5413,
+                    "inSurah": 38
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 503,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "أَيَطْمَعُ كُلُّ امْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ",
+                    "transliteration": {
+                        "en": "Ayatma'u kullum ri'im minhum anyyudkhala jannata Na'eem"
+                    }
+                },
+                "translation": {
+                    "en": "Does every person among them aspire to enter a garden of pleasure?",
+                    "id": "Apakah setiap orang dari orang-orang kafir itu ingin masuk surga yang penuh kenikmatan?"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5413",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5413.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5413.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Apakah setiap orang dari orang-orang kafir itu ingin masuk surga yang penuh kenikmatan seperti kaum mukmin? Semestinya yang datang kepada Nabi Muhammad itu yang bersedia mengikuti ajarannya,",
+                        "long": "Allah mengatakan bahwa perbuatan orang-orang musyrik itu sangat mengherankan. Apakah mereka berbuat demikian karena ingin masuk surga? Hal itu tidak mungkin karena mereka mengingkari ayat-ayat Al-Qur'an itu. Allah menyediakan surga hanya bagi orang-orang yang beriman dan beramal saleh, bukan untuk orang-orang kafir seperti mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5414,
+                    "inSurah": 39
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 569,
+                    "manzil": 7,
+                    "ruku": 503,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "كَلَّا ۖ إِنَّا خَلَقْنَاهُم مِّمَّا يَعْلَمُونَ",
+                    "transliteration": {
+                        "en": "Kallaaa innaa khalaq nahum mimmaa ya'lamoon"
+                    }
+                },
+                "translation": {
+                    "en": "No! Indeed, We have created them from that which they know.",
+                    "id": "Tidak mungkin! Sesungguhnya Kami menciptakan mereka dari apa yang mereka ketahui."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5414",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5414.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5414.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Tidak mungkin, sekali-kali tidak akan masuk surga mereka itu! Sesungguhnya Kami menciptakan mereka dari apa yang mereka ketahui yaitu dari setetes mani yang mereka jijik melihatnya. Faktor lahiriah tersebut tidak mungkin mengantar mereka masuk surga, tetapi keimananlah yang dapat mengantarkan mereka masuk surga.",
+                        "long": "Mereka beranggapan akan masuk surga, karena merasa lebih mulia dan lebih tinggi derajatnya daripada orang-orang yang beriman. Akan tetapi, anggapan mereka itu salah karena mereka dijadikan dari air mani seperti juga halnya seluruh manusia, tak ada bedanya. Tidak ada keistimewaan seseorang atas yang lain dan Allah tidak membeda-bedakannya. Hanya yang membedakan derajat seorang manusia dengan manusia yang lain hanya iman dan amal. Hal demikian itu adalah hukum Allah dan tidak seorang pun yang dapat mengubahnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5415,
+                    "inSurah": 40
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 570,
+                    "manzil": 7,
+                    "ruku": 503,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ",
+                    "transliteration": {
+                        "en": "Falaaa uqsimu bi Rabbil mashaariqi wal maghaaribi innaa laqaadiroon"
+                    }
+                },
+                "translation": {
+                    "en": "So I swear by the Lord of [all] risings and settings that indeed We are able",
+                    "id": "Maka Aku bersumpah demi Tuhan yang mengatur tempat-tempat terbit dan terbenamnya  (matahari, bulan dan bintang), sungguh, Kami pasti mampu,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5415",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5415.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5415.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "40-41. Ayat ini untuk menegaskan kemahakuasaan Allah. Maka Aku bersumpah demi Tuhan yang mengatur tempat-tempat terbit dan terbenamnya matahari, bulan dan bintang, sungguh Kami benar-benar Mahakuasa atas segala sesuatu,",
+                        "long": "Allah bersumpah dengan diri-Nya sebagai Tuhan penguasa dan pemilik alam semesta beserta seluruh isinya, untuk menegaskan bahwa Dia kuasa menghancurkan mereka seketika dan menggantinya dengan umat lain yang lebih baik dari mereka. Tidak seorang pun yang dapat menolak kehendak-Nya atau menghindarkan diri dari azab yang akan ditimpakan itu. Dalam ayat lain, Allah berfirman:\n\nTidakkah kamu memperhatikan bahwa sesungguhnya Allah telah mencipta­kan langit dan bumi dengan hak (benar)? Jika Dia menghendaki, niscaya Dia membinasakan kamu dan mendatangkan makhluk yang baru (untuk menggantikan kamu), dan yang demikian itu tidak sukar bagi Allah. (Ibrahim/14: 19-20) \n\nPada akhir ayat ini, ditegaskan bahwa Allah tidak dapat dikalahkan oleh siapa pun yang telah ditetapkan azab baginya. Mereka tidak akan dapat menghindarinya sebagaimana diterangkan-Nya dalam firman-Nya yang lain:\n\nAtaukah orang-orang yang mengerjakan kejahatan itu mengira bahwa mereka akan luput dari (azab) Kami? Sangatlah buruk apa yang mereka tetapkan itu! (al-‘Ankabµt/29: 4)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5416,
+                    "inSurah": 41
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 570,
+                    "manzil": 7,
+                    "ruku": 503,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "عَلَىٰ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+                    "transliteration": {
+                        "en": "'Alaaa an nubaddila khairam minhum wa maa Nahnu bimasbooqeen"
+                    }
+                },
+                "translation": {
+                    "en": "To replace them with better than them; and We are not to be outdone.",
+                    "id": "untuk mengganti (mereka) dengan kaum yang lebih baik dari mereka, dan Kami tidak dapat dikalahkan."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5416",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5416.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5416.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "dan Kami pasti mampu untuk mengganti mereka yang kafir itu dengan kaum yang lebih baik dari mereka, dan Kami sekali-kali tidak dapat dikalahkan oleh siapa pun.",
+                        "long": "Allah bersumpah dengan diri-Nya sebagai Tuhan penguasa dan pemilik alam semesta beserta seluruh isinya, untuk menegaskan bahwa Dia kuasa menghancurkan mereka seketika dan menggantinya dengan umat lain yang lebih baik dari mereka. Tidak seorang pun yang dapat menolak kehendak-Nya atau menghindarkan diri dari azab yang akan ditimpakan itu. Dalam ayat lain, Allah berfirman:\n\nTidakkah kamu memperhatikan bahwa sesungguhnya Allah telah mencipta­kan langit dan bumi dengan hak (benar)? Jika Dia menghendaki, niscaya Dia membinasakan kamu dan mendatangkan makhluk yang baru (untuk menggantikan kamu), dan yang demikian itu tidak sukar bagi Allah. (Ibrahim/14: 19-20) \n\nPada akhir ayat ini, ditegaskan bahwa Allah tidak dapat dikalahkan oleh siapa pun yang telah ditetapkan azab baginya. Mereka tidak akan dapat menghindarinya sebagaimana diterangkan-Nya dalam firman-Nya yang lain:\n\nAtaukah orang-orang yang mengerjakan kejahatan itu mengira bahwa mereka akan luput dari (azab) Kami? Sangatlah buruk apa yang mereka tetapkan itu! (al-‘Ankabµt/29: 4)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5417,
+                    "inSurah": 42
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 570,
+                    "manzil": 7,
+                    "ruku": 503,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ",
+                    "transliteration": {
+                        "en": "Fazarhum yakhoodoo wa yal'aboo hattaa yulaaqoo yaw mahumul lazee yoo'adoon"
+                    }
+                },
+                "translation": {
+                    "en": "So leave them to converse vainly and amuse themselves until they meet their Day which they are promised -",
+                    "id": "Maka biarkanlah mereka tenggelam dan bermain-main (dalam kesesatan) sampai mereka menjumpai hari yang diancamkan kepada mereka,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5417",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5417.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5417.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Maka, wahai Nabi Muhammad, biarkanlah mereka tenggelam dan bermain-main dalam kesesatan dengan menghabiskan waktu melakukan aktifitas yang tidak bermanfaat sampai mereka menjumpai hari yang diancamkan kepada mereka.",
+                        "long": "Ayat ini merupakan peringatan keras kepada kaum musyrikin yang selalu menentang dan mengingkari seruan Nabi Muhammad. Berbagai macam cara telah dilakukan untuk menyadarkan, namun mereka tetap ingkar. Oleh karena itu, Allah memerintahkan kepada Nabi Muhammad untuk membiarkan orang-orang musyrik itu mengingkari seruannya, agar mereka tenggelam dalam kesesatan dan lalai oleh kesenangan hidup yang mereka nikmati. Mereka pasti mati dan kemudian dibangkitkan pada hari Kiamat. Pada hari itu, barulah mereka mengetahui kebenaran risalah yang telah disampaikan Nabi saw kepada mereka, yaitu ketika mereka diminta mempertanggungjawabkan semua perbuatan mereka di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5418,
+                    "inSurah": 43
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 570,
+                    "manzil": 7,
+                    "ruku": 503,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+                    "transliteration": {
+                        "en": "Yawma yakhrujoona minal ajdaasi siraa'an ka anna hum ilaa nusubiny yoofidoon"
+                    }
+                },
+                "translation": {
+                    "en": "The Day they will emerge from the graves rapidly as if they were, toward an erected idol, hastening.",
+                    "id": "(yaitu) pada hari ketika mereka keluar dari kubur dengan cepat seakan-akan mereka pergi dengan segera kepada berhala-berhala (sewaktu di dunia),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5418",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5418.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5418.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Hari yang diancamkan kepada mereka itu yaitu pada hari ketika mereka, orang-orang kafir yang meminta disegerakan azab, keluar dari kubur menyambut panggilan malaikat yang ditugaskan Allah dengan cepat seakan-akan mereka pergi dengan segera kepada berhala-berhala yang mereka sembah sewaktu di dunia,",
+                        "long": "Pada hari Kiamat itu, mereka dihidupkan kembali dan dibangkitkan dari kubur. Mereka datang dengan tergesa-gesa untuk memenuhi panggilan yang memanggil mereka waktu itu dengan harapan panggilan itu berisi sesuatu yang menyenangkan. Mereka datang tergesa-gesa sebagaimana ketika mereka datang untuk menyembah berhala mereka dulu waktu di dunia."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 5419,
+                    "inSurah": 44
+                },
+                "meta": {
+                    "juz": 29,
+                    "page": 570,
+                    "manzil": 7,
+                    "ruku": 503,
+                    "hizbQuarter": 228,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ الْيَوْمُ الَّذِي كَانُوا يُوعَدُونَ",
+                    "transliteration": {
+                        "en": "Khaashi'atan absaaruhum tarhaquhum zillah; zaalikal yawmul lazee kaanoo yoo'adoon"
+                    }
+                },
+                "translation": {
+                    "en": "Their eyes humbled, humiliation will cover them. That is the Day which they had been promised.",
+                    "id": "pandangan mereka tertunduk ke bawah diliputi kehinaan. Itulah hari yang diancamkan kepada mereka."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/5419",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5419.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5419.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka bergegas dan pandangan mereka tertunduk ke bawah diliputi kehinaan. Itulah hari yang diancamkan kepada mereka yang dahulu ketika di dunia selalu mereka olok-olokkan bahkan mereka meminta disege-rakan.",
+                        "long": "Pada hari yang dijanjikan itu, orang-orang musyrik berlarian dengan kepala tertunduk menuju pengadilan Allah. Itulah hari yang pernah diperingatkan Allah kepada mereka. Hari itu adalah hari yang penuh kesengsaraan dan penderitaan. Pada hari itu tidak ada suatu pun yang dapat memberi pertolongan selain Allah."
+                    }
+                }
+            }
+        ]
+    }
+}

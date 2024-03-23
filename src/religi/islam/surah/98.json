@@ -1,0 +1,371 @@
+{
+    "code": 200,
+    "status": "OK.",
+    "message": "Success fetching surah.",
+    "data": {
+        "number": 98,
+        "sequence": 100,
+        "numberOfVerses": 8,
+        "name": {
+            "short": "البينة",
+            "long": "سورة البينة",
+            "transliteration": {
+                "en": "Al-Bayyina",
+                "id": "Al-Bayyinah"
+            },
+            "translation": {
+                "en": "The Evidence",
+                "id": "Bukti Nyata"
+            }
+        },
+        "revelation": {
+            "arab": "مدينة",
+            "en": "Medinan",
+            "id": "Madaniyyah"
+        },
+        "tafsir": {
+            "id": "Surat Al Bayyinah terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ath Thalaq. Dinamai Al Bayyinah (bukti yang nyata) diambil dari perkataan Al Bayyinah yang terdapat pada ayat pertama surat ini."
+        },
+        "preBismillah": {
+            "text": {
+                "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "transliteration": {
+                    "en": "Bismillaahir Rahmaanir Raheem"
+                }
+            },
+            "translation": {
+                "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+                "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            "audio": {
+                "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/1",
+                "secondary": [
+                    "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+                ]
+            }
+        },
+        "verses": [
+            {
+                "number": {
+                    "inQuran": 6131,
+                    "inSurah": 1
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 598,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ",
+                    "transliteration": {
+                        "en": "Lam ya kunil lazeena kafaru min ahlil kitaabi wal mushri keena mun fak keena hattaa ta-tiya humul bayyinah"
+                    }
+                },
+                "translation": {
+                    "en": "Those who disbelieved among the People of the Scripture and the polytheists were not to be parted [from misbelief] until there came to them clear evidence -",
+                    "id": "Orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik tidak akan meninggalkan (agama mereka) sampai datang kepada mereka bukti yang nyata,"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6131",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6131.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6131.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Orang-orang yang kafir dari golongan Ahli Kitab, yaitu Yahudi dan Nasrani, dan orang-orang musyrik penyembah berhala tidak akan meninggalkan kekafiran mereka sampai datang kepada mereka bukti yang nyata.",
+                        "long": "Dalam ayat ini, Allah mengungkapkan bahwa orang-orang yang mengingkari kerasulan Nabi Muhammad, yang terdiri dari orang-orang Yahudi, Nasrani, dan orang-orang musyrik, tidak akan melepaskan kekufuran mereka, dan tidak mau meninggalkan tradisi nenek moyang mereka, sampai datang bukti nyata, yaitu diutusnya Nabi Muhammad.\n\nKedatangan Nabi saw menimbulkan keguncangan dalam akidah dan adat istiadat yang telah berurat dan berakar dalam diri mereka. Mereka menyatakan bahwa apa yang dibawa oleh Nabi saw tidak ada beda atau lebihnya dari apa yang terdapat dalam agama mereka. Dengan demikian, menurut mereka, tidak ada kebaikan mengikuti yang baru dengan meninggalkan yang lama, bahkan mengikuti yang lama lebih menenteramkan jiwa karena tidak bertentangan dengan sikap nenek moyang mereka."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6132,
+                    "inSurah": 2
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 598,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "رَسُولٌ مِّنَ اللَّهِ يَتْلُو صُحُفًا مُّطَهَّرَةً",
+                    "transliteration": {
+                        "en": "Rasoolum minal laahi yatlu suhufam mutahharah"
+                    }
+                },
+                "translation": {
+                    "en": "A Messenger from Allah, reciting purified scriptures",
+                    "id": "(yaitu) seorang Rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang suci (Al-Qur'an),"
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6132",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6132.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6132.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Bukti yang nyata itu adalah Nabi Muhammad, seorang rasul dari Allah yang membacakan kepada mereka lembaran-lembaran yang suci. Itulah Al-Quran yang disucikan dari kebohongan dan kebatilan.",
+                        "long": "Dalam ayat-ayat ini, Allah menjelaskan bahwa yang dimaksud bukti itu adalah hati pribadi Nabi saw yang membacakan untuk orang kafir halaman-halaman Al-Qur'an yang bersih dari campur tangan manusia, dari segala macam kesalahan, dan dari penambahan, yaitu bukti yang memancarkan kebenaran. Allah berfirman:\n\n(Yang) tidak akan didatangi oleh kebatilan baik dari depan maupun dari belakang (pada masa lalu dan yang akan datang). (Fussilat/41: 42)\n\nDi dalam Al-Qur'an itu tersimpul ajaran-ajaran yang benar yang terdapat dalam kitab-kitab para nabi yang terdahulu, seperti Nabi Musa, Nabi Isa, dan Nabi Ibrahim. Dalam ayat lain yang hampir sama maksudnya, Allah berfirman:\n\nDan sungguh, (Al-Qur'an) itu (disebut) dalam kitab-kitab orang yang terdahulu. (asy-Syu'ara'/26: 196)\n\nSesungguhnya ini terdapat dalam kitab-kitab yang dahulu, (yaitu) kitab-kitab Ibrahim dan Musa. (al-A'la/87: 18-19)\n\nSebagian ulama berpendapat bahwa yang dimaksud dengan al-kitab ialah surah dan ayat Al-Qur'an, karena setiap surah itu adalah kitab yang kokoh. Ada juga yang memahami sebagai hukum dan peraturan yang terkandung dalam firman-firman Allah yang tidak ada kebatilannya. Dalam ayat lain, Allah berfirman:\n\nSegala puji bagi Allah yang telah menurunkan Kitab (Al-Qur'an) kepada hamba-Nya dan Dia tidak menjadikannya bengkok; sebagai bimbingan yang lurus, untuk memperingatkan akan siksa yang sangat pedih dari sisi-Nya dan memberikan kabar gembira kepada orang-orang mukmin yang mengerjakan kebajikan bahwa mereka akan mendapat balasan yang baik. (al-Kahf/18: 1-2)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6133,
+                    "inSurah": 3
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 598,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+                    "transliteration": {
+                        "en": "Feeha kutubun qaiyimah"
+                    }
+                },
+                "translation": {
+                    "en": "Within which are correct writings.",
+                    "id": "di dalamnya terdapat (isi) kitab-kitab yang lurus (benar)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6133",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6133.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6133.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Lembaran-lembaran suci itu di dalamnya terdapat kitab-kitab, yakni hukum-hukum tertulis, yang lurus. Al-Qur’an berisi akidah, hukum, kisah, dan aturan yang menuntun umat manusia ke jalan yang benar dan lurus.",
+                        "long": "Dalam ayat-ayat ini, Allah menjelaskan bahwa yang dimaksud bukti itu adalah hati pribadi Nabi saw yang membacakan untuk orang kafir halaman-halaman Al-Qur'an yang bersih dari campur tangan manusia, dari segala macam kesalahan, dan dari penambahan, yaitu bukti yang memancarkan kebenaran. Allah berfirman:\n\n(Yang) tidak akan didatangi oleh kebatilan baik dari depan maupun dari belakang (pada masa lalu dan yang akan datang). (Fussilat/41: 42)\n\nDi dalam Al-Qur'an itu tersimpul ajaran-ajaran yang benar yang terdapat dalam kitab-kitab para nabi yang terdahulu, seperti Nabi Musa, Nabi Isa, dan Nabi Ibrahim. Dalam ayat lain yang hampir sama maksudnya, Allah berfirman:\n\nDan sungguh, (Al-Qur'an) itu (disebut) dalam kitab-kitab orang yang terdahulu. (asy-Syu'ara'/26: 196)\n\nSesungguhnya ini terdapat dalam kitab-kitab yang dahulu, (yaitu) kitab-kitab Ibrahim dan Musa. (al-A'la/87: 18-19)\n\nSebagian ulama berpendapat bahwa yang dimaksud dengan al-kitab ialah surah dan ayat Al-Qur'an, karena setiap surah itu adalah kitab yang kokoh. Ada juga yang memahami sebagai hukum dan peraturan yang terkandung dalam firman-firman Allah yang tidak ada kebatilannya. Dalam ayat lain, Allah berfirman:\n\nSegala puji bagi Allah yang telah menurunkan Kitab (Al-Qur'an) kepada hamba-Nya dan Dia tidak menjadikannya bengkok; sebagai bimbingan yang lurus, untuk memperingatkan akan siksa yang sangat pedih dari sisi-Nya dan memberikan kabar gembira kepada orang-orang mukmin yang mengerjakan kebajikan bahwa mereka akan mendapat balasan yang baik. (al-Kahf/18: 1-2)"
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6134,
+                    "inSurah": 4
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 598,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ",
+                    "transliteration": {
+                        "en": "Wa maa tafarraqal lazeena ootul kitaaba il-la mim b'adi ma jaa-at humul baiyyinah"
+                    }
+                },
+                "translation": {
+                    "en": "Nor did those who were given the Scripture become divided until after there had come to them clear evidence.",
+                    "id": "Dan tidaklah terpecah-belah orang-orang Ahli Kitab melainkan setelah datang kepada mereka bukti yang nyata."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6134",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6134.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6134.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Wahai Nabi, ketahuilah bahwa Ahli Kitab dahulu sepakat mengimani dirimu sebagai rasul terakhir sebagaimana informasi yang mereka dapati dalam kitab-kitab mereka. Dan tidaklah terpecah-belah orang-orang Ahli Kitab itu melainkan setelah datang kepada mereka bukti yang nyata, yaitu kedatangan­mu atau Al-Qur’an yang kaubawa. Sebagian beriman kepadamu dan sebagian yang lain mengingkarimu.",
+                        "long": "Keadaan orang-orang kafir Yahudi, Nasrani, dan musyrikin sesudah Nabi saw datang berlainan dengan keadaan mereka sebelumnya. Mereka sebelum Nabi saw datang dalam keadaan kufur, terbenam dalam kejahilan dan hawa nafsu, tetapi setelah Nabi saw datang, segolongan dari mereka beriman. Dengan demikian, keadaan mereka tidak seperti dahulu. Golongan yang tidak beriman malah meragukan kebenaran yang dibawa Nabi saw, bahkan ada yang mempercayai kebenarannya sama sekali.\n\nPerbantahan dan perselisihan hebat terkadang terjadi antara orang-orang musyrik dengan orang-orang Nasrani. Orang Yahudi berkata kepada orang musyrik, \"Sesungguhnya Allah akan mengutus nabi dari kalangan bangsa Arab penduduk Mekah.\" Mereka menerangkan sifat-sifat nabi serta mengancam orang-orang seraya mengatakan bahwa bila nabi itu lahir, mereka akan membantunya dengan menyokong semua tindakannya dan bekerja sama untuk menghancurkan orang-orang musyrik.\n\nDalam keadaan yang demikianlah Nabi Muhammad diutus. Lalu orang-orang musyrik memusuhi dan menentang Nabi habis-habisan. Mereka juga mengajak orang-orang Arab lainnya untuk memusuhi beliau dan menyakiti pengikut-pengikutnya yang hatinya telah disinari dengan keimanan dan melapangkan dadanya untuk mengenal kebenaran.\n\nKemudian Allah dalam ayat ini menghibur Nabi-Nya dengan mengatakan bahwa beliau tidak perlu susah atau gundah karena sikap dan tantangan mereka terhadap dirinya. Hal itu juga merupakan sikap mereka terhadap para nabi terdahulu sehingga mereka berpecah-belah."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6135,
+                    "inSurah": 5
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 598,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+                    "transliteration": {
+                        "en": "Wa maa umiroo il-la liy'abu dul laaha mukhliseena lahud-deena huna faa-a wa yuqeemus salaahta wa yu-tuz zakaata; wa zaalika deenul qaiyimah"
+                    }
+                },
+                "translation": {
+                    "en": "And they were not commanded except to worship Allah, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakah. And that is the correct religion.",
+                    "id": "Padahal mereka hanya diperintah menyembah Allah dengan ikhlas menaati-Nya semata-mata karena (menjalankan) agama, dan juga agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah agama yang lurus (benar)."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6135",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6135.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6135.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Mereka terpecah belah seperti itu padahal mereka dalam kitab-kitab mereka hanya diperintah untuk menyembah Allah dengan ikhlas menaati-Nya semata-mata karena menjalankan agama, dan juga diperintah agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah aga-ma yang lurus dan benar agama Islam. Keikhlasan dalam beribadah dengan memurnikan niat demi mencari rida Allah dan menjauhkan diri dari kemusyrikan adalah salah satu syarat diterimanya ibadah.",
+                        "long": "Karena adanya perpecahan di kalangan mereka, maka pada ayat ini dengan nada mencerca Allah menegaskan bahwa mereka tidak diperintahkan kecuali untuk menyembah-Nya. Perintah yang ditujukan kepada mereka adalah untuk kebaikan dunia dan agama mereka, dan untuk mencapai kebahagiaan dunia dan akhirat. Mereka juga diperintahkan untuk mengikhlaskan diri lahir dan batin dalam beribadah kepada Allah dan membersihkan amal perbuatan dari syirik sebagaimana agama yang dibawa oleh Nabi Ibrahim yang menjauhkan dirinya dari kekufuran kaumnya kepada agama tauhid dengan mengikhlaskan ibadah kepada Allah. Ikhlas adalah salah satu dari dua syarat diterimanya amal, dan itu merupakan pekerjaan hati. Sedang yang kedua adalah mengikuti sunah Rasulullah. Allah berfirman:\n\nKemudian Kami wahyukan kepadamu (Muhammad), \"Ikutilah agama Ibrahim yang lurus.\" (an-Nahl/16: 123)\n\nFirman-Nya yang lain:\n\nIbrahim bukanlah seorang Yahudi dan bukan (pula) seorang Nasrani, tetapi dia adalah seorang yang lurus dan muslim. (Ali 'Imran/3: 67)\n\nMendirikan salat dalam ayat ini maksudnya adalah mengerjakannya terus-menerus setiap waktu dengan memusatkan jiwa kepada kebesaran Allah, untuk membiasakan diri tunduk kepada-Nya. Sedangkan yang dimaksud dengan mengeluarkan zakat yaitu membagi-bagikannya kepada yang berhak menerimanya sebagaimana yang telah ditentukan oleh Al-Qur'anul Karim.\n\nKeterangan ayat di atas tentang keikhlasan beribadah, menjauhkan diri dari syirik, mendirikan salat, dan mengeluarkan zakat, adalah maksud dari agama yang lurus yang tersebut dalam kitab-kitab suci lainnya."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6136,
+                    "inSurah": 6
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 598,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
+                    "transliteration": {
+                        "en": "Innal lazeena kafaru min ahlil kitaabi wal mushri keena fee nari jahan nama khaali deena feeha; ulaa-ika hum shar rul ba reeyah"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.",
+                    "id": "Sungguh, orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik (akan masuk) ke neraka Jahanam; mereka kekal di dalamnya selama-lamanya. Mereka itu adalah sejahat-jahat makhluk."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6136",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6136.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6136.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang yang musyrik akan masuk ke neraka Jahanam dengan bermacam siksa pedih di dalamnya; mereka kekal di dalamnya selama-lamanya. Tidak ada kesempatan bagi mereka untuk keluar, bahkan untuk sekadar sejenak lepas dari siksa. Mereka itu adalah sejahat-jahat makhluk. Allah telah mem-beri mereka peringatan, tetapi mereka enggan mengindahkannya. Dia tidak akan menyiksa seseorang kecuali setelah memberinya peringatan.",
+                        "long": "Dalam ayat ini, Allah menjelaskan bahwa orang-orang kafir dari kalangan Ahli Kitab dan orang musyrik telah mengotori jiwanya dengan syirik dan maksiat-maksiat serta mengingkari kebenaran nyata kenabian Muhammad saw. Mereka akan disiksa Allah dengan siksaan yang tidak memungkinkan mereka untuk melepaskan diri darinya untuk selama-lamanya, yaitu api neraka yang menyala-nyala. Siksaan itu sebagai balasan atas perbuatan mereka. Mereka itu tergolong makhluk yang paling buruk."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6137,
+                    "inSurah": 7
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 598,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ",
+                    "transliteration": {
+                        "en": "Innal lazeena aamanu wa 'amilus saalihaati ula-ika hum khairul bareey yah"
+                    }
+                },
+                "translation": {
+                    "en": "Indeed, they who have believed and done righteous deeds - those are the best of creatures.",
+                    "id": "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka itu adalah sebaik-baik makhluk."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6137",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6137.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6137.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Sungguh, orang-orang yang beriman kepada Allah dan rasulnya dengan iman yang benar dan mengerjakan kebajikan dengan ikhlas dan sesuai ketetentuan syariat, mereka itu adalah sebaik-baik makhluk. Mereka adalah makhluk yang Allah kehendaki untuk menjadi khalifah di bumi.",
+                        "long": "Dalam ayat ini, Allah menerangkan ganjaran bagi orang-orang yang beriman. Jiwa mereka telah disinari oleh cahaya petunjuk dan membenarkan apa yang dibawa oleh Nabi saw. Mereka juga mengamalkannya dengan mengorbankan jiwa, harta, dan apa saja yang dimilikinya pada jalan Allah, serta bertingkah laku baik dengan seluruh hamba Allah. Mereka itu tergolong makhluk yang paling baik."
+                    }
+                }
+            },
+            {
+                "number": {
+                    "inQuran": 6138,
+                    "inSurah": 8
+                },
+                "meta": {
+                    "juz": 30,
+                    "page": 599,
+                    "manzil": 7,
+                    "ruku": 540,
+                    "hizbQuarter": 239,
+                    "sajda": {
+                        "recommended": false,
+                        "obligatory": false
+                    }
+                },
+                "text": {
+                    "arab": "جَزَاؤُهُمْ عِندَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ",
+                    "transliteration": {
+                        "en": "Jazaa-uhum inda rabbihim jan naatu 'adnin tajree min tahtihal an haaru khalideena feeha abada; radiy-yallaahu 'anhum wa ra du 'an zaalika liman khashiya rabbah."
+                    }
+                },
+                "translation": {
+                    "en": "Their reward with Allah will be gardens of perpetual residence beneath which rivers flow, wherein they will abide forever, Allah being pleased with them and they with Him. That is for whoever has feared his Lord.",
+                    "id": "Balasan mereka di sisi Tuhan mereka ialah surga ’Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Allah rida terhadap mereka dan mereka pun rida kepada-Nya. Yang demikian itu adalah (balasan) bagi orang yang takut kepada Tuhannya."
+                },
+                "audio": {
+                    "primary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6138",
+                    "secondary": [
+                        "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6138.mp3",
+                        "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6138.mp3"
+                    ]
+                },
+                "tafsir": {
+                    "id": {
+                        "short": "Balasan mereka di sisi Tuhan mereka ialah surga ’Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya bersama segala kenikmatan di dalamnya. Selain itu, mereka mendapat nikmat yang lebih besar. Allah rida terhadap mereka atas keimanan dan amal saleh mereka dan mereka pun rida kepada-Nya atas kemuliaan yang Allah anugerahkan kepada mereka. Yang demikian itu adalah balasan yang agung bagi orang yang takut kepada Tuhannya. Ketakutannya pada siksaan Allah mendorongnya untuk menjauhkan diri dari larangan Allah, termasuk kemusyrikan dan kekafiran.",
+                        "long": "Kemudian dalam ayat ini, Allah menerangkan bahwa yang akan mereka terima dari Tuhan mereka adalah surga 'Adn yang di dalamnya terdapat bermacam-macam kesenangan dan kelezatan, lebih lengkap dan sempurna dari kesenangan dan kelezatan dunia, dan di bawahnya mengalir sungai-sungai. Mereka kekal di dalamnya selama-lamanya. Mereka berhak menerima balasan tersebut karena mereka berada dalam keridaan Allah dan tetap dalam ketentuan-ketentuan-Nya.\n\nMereka mendapat pujian dan mencapai apa yang mereka inginkan dari kebahagiaan hidup di dunia dan di akhirat. Mereka diridai Allah dan mereka pun rida kepadanya. Ganjaran-ganjaran yang merupakan kebahagiaan dunia dan akhirat hanya diperoleh orang-orang yang jiwanya penuh dengan takwa kepada Allah."
+                    }
+                }
+            }
+        ]
+    }
+}
