@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/06/2024 02:41:27 WIB",
+    "lintang": "0.34 LS",
+    "bujur": "123.02 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 70 km timur laut Luwuk",
+    "warning": [
+      "II - III Luwuk"
+    ]
+  },
+  {
     "waktu": "27/06/2024 01:38:29 WIB",
     "lintang": "6.8 LS",
     "bujur": "107.08 BT",
@@ -210,17 +221,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Cianjur Jawa Barat",
     "warning": [
       "II Cugenang"
-    ]
-  },
-  {
-    "waktu": "18/06/2024 10:43:35 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Barat Daya Cianjur",
-    "warning": [
-      "II Cianjur"
     ]
   }
 ]
