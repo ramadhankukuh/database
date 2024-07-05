@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/07/2024 13:28:55 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.93 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km timur laut Kab. Sumedang",
+    "warning": [
+      "II Sumedang"
+    ]
+  },
+  {
     "waktu": "05/07/2024 10:20:58 WIB",
     "lintang": "5.31 LS",
     "bujur": "103.06 BT",
@@ -214,17 +225,6 @@
       "II Saumlaki",
       "II Tiakur",
       "III Tepa"
-    ]
-  },
-  {
-    "waktu": "24/06/2024 03:21:46 WIB",
-    "lintang": "3.3 LS",
-    "bujur": "128.35 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 32 km tenggara Piru",
-    "warning": [
-      "II-III Kairatu"
     ]
   }
 ]
