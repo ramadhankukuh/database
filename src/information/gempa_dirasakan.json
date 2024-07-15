@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "15/07/2024 13:39:38 WIB",
+    "lintang": "6.99 LS",
+    "bujur": "109.78 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km tenggara Batang",
+    "warning": [
+      "II Batang"
+    ]
+  },
+  {
+    "waktu": "15/07/2024 12:29:06 WIB",
+    "lintang": "8.15 LS",
+    "bujur": "114.86 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 25 km barat daya Buleleng",
+    "warning": [
+      "II seririt"
+    ]
+  },
+  {
     "waktu": "15/07/2024 06:59:54 WIB",
     "lintang": "5.31 LS",
     "bujur": "121.92 BT",
@@ -207,31 +229,6 @@
       "III Batang",
       "III Pekalongan",
       "II Kendal"
-    ]
-  },
-  {
-    "waktu": "06/07/2024 20:26:47 WIB",
-    "lintang": "8.81 LS",
-    "bujur": "112.48 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "56 Km",
-    "wilayah": "Pusat gempa berada di laut 75 km barat daya Malang",
-    "warning": [
-      "III Gondanglegi",
-      "II - III Karangkates",
-      "II - III Kepanjen",
-      "II Trenggalek"
-    ]
-  },
-  {
-    "waktu": "06/07/2024 01:51:54 WIB",
-    "lintang": "4.3 LS",
-    "bujur": "102.28 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km barat daya Seluma",
-    "warning": [
-      "II-III Kota Bengkulu"
     ]
   }
 ]
