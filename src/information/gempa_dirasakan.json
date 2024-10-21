@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/10/2024 10:24:17 WIB",
+    "lintang": "1.09 LS",
+    "bujur": "127.34 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di 53 km Selatan Labuha-MALUT",
+    "warning": [
+      "III-IV Labuha",
+      "III-IV Obi"
+    ]
+  },
+  {
     "waktu": "20/10/2024 23:13:49 WIB",
     "lintang": "5.31 LU",
     "bujur": "94.34 BT",
@@ -222,18 +234,6 @@
     "warning": [
       "III Enggano",
       "II - III Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "12/10/2024 08:11:55 WIB",
-    "lintang": "0.26 LS",
-    "bujur": "125.16 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 128 km tenggara Tutuyan, Boltim",
-    "warning": [
-      "III Minahasa Tenggara",
-      "II Gorontalo"
     ]
   }
 ]
